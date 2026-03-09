@@ -5,6 +5,7 @@ on:
     # Runs twice daily: 6 AM and 6 PM Bangkok time (UTC+7)
     # = 11 PM and 11 AM UTC
     - cron: '0 23 * * *'   # 6:00 AM Bangkok
+    - cron: '0 5 * * *'    # 12:00 PM Bangkok
     - cron: '0 11 * * *'   # 6:00 PM Bangkok
   workflow_dispatch:        # Allow manual trigger from GitHub UI
 
