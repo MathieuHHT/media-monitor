@@ -1,0 +1,685 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Media Monitor — Coconut Industry Coverage</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+  --bg: #0c0f14;
+  --surface: #151921;
+  --surface2: #1c2230;
+  --border: #2a3040;
+  --text: #e4e8f0;
+  --text-dim: #8892a6;
+  --accent: #4ecdc4;
+  --accent2: #ff6b6b;
+  --gold: #f0c040;
+  --blue: #5b8af0;
+  --green: #4ecdc4;
+  --red: #ff6b6b;
+  --orange: #f0a040;
+  --serif: 'Instrument Serif', Georgia, serif;
+  --sans: 'DM Sans', -apple-system, sans-serif;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--sans);
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+/* ── texture ─────────────────────────────────────────────── */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background: radial-gradient(ellipse at 20% 0%, rgba(78,205,196,.06) 0%, transparent 60%),
+              radial-gradient(ellipse at 80% 100%, rgba(255,107,107,.04) 0%, transparent 60%);
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* ── header ──────────────────────────────────────────────── */
+header {
+  position: relative;
+  z-index: 1;
+  border-bottom: 1px solid var(--border);
+  padding: 2rem 2rem 1.5rem;
+}
+.header-inner {
+  max-width: 1280px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+header h1 {
+  font-family: var(--serif);
+  font-size: 2rem;
+  font-weight: 400;
+  letter-spacing: -.02em;
+  color: var(--text);
+}
+header h1 span { color: var(--accent); }
+.meta-line {
+  font-size: .8rem;
+  color: var(--text-dim);
+  margin-top: .3rem;
+}
+.status-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: .4rem;
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  padding: .35rem .8rem;
+  font-size: .75rem;
+  color: var(--text-dim);
+}
+.status-badge .dot {
+  width: 6px; height: 6px;
+  border-radius: 50%;
+  background: var(--green);
+  animation: pulse 2s ease infinite;
+}
+@keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: .3; } }
+
+/* ── layout ──────────────────────────────────────────────── */
+main {
+  position: relative;
+  z-index: 1;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 1.5rem 2rem 4rem;
+}
+
+/* ── stats row ───────────────────────────────────────────── */
+.stats-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: .75rem;
+  margin-bottom: 1.5rem;
+}
+.stat-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 1rem 1.2rem;
+  transition: border-color .2s;
+}
+.stat-card:hover { border-color: var(--accent); }
+.stat-card .label {
+  font-size: .7rem;
+  text-transform: uppercase;
+  letter-spacing: .08em;
+  color: var(--text-dim);
+  margin-bottom: .3rem;
+}
+.stat-card .value {
+  font-family: var(--serif);
+  font-size: 1.8rem;
+  color: var(--text);
+}
+.stat-card .value.accent { color: var(--accent); }
+.stat-card .value.gold { color: var(--gold); }
+.stat-card .value.red { color: var(--red); }
+
+/* ── controls ────────────────────────────────────────────── */
+.controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .6rem;
+  margin-bottom: 1.5rem;
+  align-items: center;
+}
+.search-box {
+  flex: 1;
+  min-width: 220px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: .55rem 1rem;
+  font-size: .85rem;
+  color: var(--text);
+  font-family: var(--sans);
+  outline: none;
+  transition: border-color .2s;
+}
+.search-box::placeholder { color: var(--text-dim); }
+.search-box:focus { border-color: var(--accent); }
+
+.filter-btn {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: .55rem .9rem;
+  font-size: .78rem;
+  color: var(--text-dim);
+  font-family: var(--sans);
+  cursor: pointer;
+  transition: all .2s;
+}
+.filter-btn:hover { border-color: var(--accent); color: var(--text); }
+.filter-btn.active {
+  background: rgba(78,205,196,.12);
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+/* ── people pills section ────────────────────────────────── */
+.people-section {
+  margin-bottom: 1.5rem;
+}
+.people-section h3 {
+  font-size: .72rem;
+  text-transform: uppercase;
+  letter-spacing: .08em;
+  color: var(--text-dim);
+  margin-bottom: .5rem;
+}
+.people-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .4rem;
+}
+.person-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: .35rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  padding: .3rem .7rem;
+  font-size: .75rem;
+  color: var(--text-dim);
+  cursor: pointer;
+  transition: all .2s;
+}
+.person-pill:hover { border-color: var(--accent); color: var(--text); }
+.person-pill.active {
+  background: rgba(78,205,196,.1);
+  border-color: var(--accent);
+  color: var(--accent);
+}
+.person-pill .count {
+  background: var(--surface2);
+  border-radius: 10px;
+  padding: .05rem .4rem;
+  font-size: .65rem;
+  min-width: 18px;
+  text-align: center;
+}
+.person-pill.active .count {
+  background: rgba(78,205,196,.2);
+}
+.priority-dot {
+  width: 5px; height: 5px;
+  border-radius: 50%;
+}
+.priority-dot.high { background: var(--red); }
+.priority-dot.medium { background: var(--orange); }
+
+/* ── article list ────────────────────────────────────────── */
+.articles-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: .75rem;
+}
+.articles-header h2 {
+  font-family: var(--serif);
+  font-size: 1.3rem;
+  font-weight: 400;
+}
+.articles-count {
+  font-size: .78rem;
+  color: var(--text-dim);
+}
+
+.article-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 1.1rem 1.3rem;
+  margin-bottom: .6rem;
+  transition: all .25s;
+  cursor: default;
+}
+.article-card:hover {
+  border-color: #3a4458;
+  transform: translateY(-1px);
+}
+.article-card.priority-highlight {
+  border-left: 3px solid var(--gold);
+}
+
+.article-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 1rem;
+  margin-bottom: .4rem;
+}
+.article-source {
+  font-size: .72rem;
+  text-transform: uppercase;
+  letter-spacing: .05em;
+  color: var(--accent);
+  font-weight: 500;
+}
+.article-source.priority-outlet { color: var(--gold); }
+.article-date {
+  font-size: .7rem;
+  color: var(--text-dim);
+  white-space: nowrap;
+}
+
+.article-title-en {
+  font-size: .95rem;
+  font-weight: 500;
+  color: var(--text);
+  margin-bottom: .25rem;
+  line-height: 1.4;
+}
+.article-title-en a {
+  color: inherit;
+  text-decoration: none;
+}
+.article-title-en a:hover { text-decoration: underline; }
+
+.article-title-th {
+  font-size: .8rem;
+  color: var(--text-dim);
+  margin-bottom: .4rem;
+  line-height: 1.4;
+}
+
+.article-summary {
+  font-size: .82rem;
+  color: var(--text-dim);
+  line-height: 1.5;
+  margin-bottom: .5rem;
+}
+
+.article-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .3rem;
+}
+.tag {
+  display: inline-block;
+  font-size: .65rem;
+  padding: .15rem .45rem;
+  border-radius: 4px;
+  background: var(--surface2);
+  color: var(--text-dim);
+  border: 1px solid transparent;
+}
+.tag.person { background: rgba(78,205,196,.1); color: var(--accent); border-color: rgba(78,205,196,.2); }
+.tag.company { background: rgba(240,192,64,.1); color: var(--gold); border-color: rgba(240,192,64,.2); }
+.tag.sentiment-positive { background: rgba(78,205,196,.08); color: var(--green); }
+.tag.sentiment-negative { background: rgba(255,107,107,.08); color: var(--red); }
+.tag.sentiment-neutral { background: var(--surface2); color: var(--text-dim); }
+
+/* ── empty state ─────────────────────────────────────────── */
+.empty-state {
+  text-align: center;
+  padding: 4rem 2rem;
+  color: var(--text-dim);
+}
+.empty-state h3 {
+  font-family: var(--serif);
+  font-size: 1.3rem;
+  color: var(--text);
+  margin-bottom: .5rem;
+}
+
+/* ── loading ─────────────────────────────────────────────── */
+.loading {
+  text-align: center;
+  padding: 4rem 2rem;
+}
+.spinner {
+  display: inline-block;
+  width: 28px; height: 28px;
+  border: 2px solid var(--border);
+  border-top-color: var(--accent);
+  border-radius: 50%;
+  animation: spin .8s linear infinite;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+
+/* ── scan history ────────────────────────────────────────── */
+.scan-history {
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border);
+}
+.scan-history h3 {
+  font-size: .72rem;
+  text-transform: uppercase;
+  letter-spacing: .08em;
+  color: var(--text-dim);
+  margin-bottom: .6rem;
+}
+.scan-entry {
+  display: inline-flex;
+  align-items: center;
+  gap: .3rem;
+  font-size: .7rem;
+  color: var(--text-dim);
+  margin-right: 1rem;
+  margin-bottom: .3rem;
+}
+.scan-entry .new-count {
+  color: var(--accent);
+  font-weight: 500;
+}
+
+/* ── responsive ──────────────────────────────────────────── */
+@media (max-width: 768px) {
+  header { padding: 1.5rem 1rem 1rem; }
+  main { padding: 1rem 1rem 3rem; }
+  header h1 { font-size: 1.5rem; }
+  .stats-row { grid-template-columns: repeat(2, 1fr); }
+}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <div>
+      <h1>Media <span>Monitor</span></h1>
+      <div class="meta-line">Coconut Industry &amp; Harmless Harvest Thailand — Press Coverage Tracker</div>
+    </div>
+    <div>
+      <div class="status-badge">
+        <span class="dot"></span>
+        <span id="lastUpdated">Loading…</span>
+      </div>
+    </div>
+  </div>
+</header>
+
+<main>
+  <!-- stats -->
+  <div class="stats-row" id="statsRow"></div>
+
+  <!-- controls -->
+  <div class="controls">
+    <input type="text" class="search-box" id="searchBox" placeholder="Search articles (English or Thai)…">
+    <button class="filter-btn" data-filter="all" onclick="setFilter('all')">All</button>
+    <button class="filter-btn" data-filter="today" onclick="setFilter('today')">Today</button>
+    <button class="filter-btn" data-filter="week" onclick="setFilter('week')">This Week</button>
+    <button class="filter-btn" data-filter="priority" onclick="setFilter('priority')">Priority Outlets</button>
+    <button class="filter-btn" data-filter="people" onclick="setFilter('people')">Mentions People</button>
+  </div>
+
+  <!-- people pills -->
+  <div class="people-section">
+    <h3>People &amp; Companies Tracked</h3>
+    <div class="people-pills" id="peoplePills"></div>
+  </div>
+
+  <!-- articles -->
+  <div class="articles-header">
+    <h2>Articles</h2>
+    <span class="articles-count" id="articlesCount"></span>
+  </div>
+  <div id="articlesList">
+    <div class="loading"><div class="spinner"></div><p style="margin-top:.8rem;color:var(--text-dim);font-size:.85rem">Loading articles…</p></div>
+  </div>
+
+  <!-- scan history -->
+  <div class="scan-history" id="scanHistory"></div>
+</main>
+
+<script>
+// ── state ─────────────────────────────────────────────────
+let DATA = { articles: [], last_updated: null, scan_history: [] };
+let currentFilter = 'all';
+let currentSearch = '';
+let activePerson = null;
+
+// ── people config (mirrors scripts/config.py) ─────────────
+const PEOPLE_MAP = {
+  poonpong: { name: 'Poonpong Naiyanapakorn', role: 'DG, Dept of Business Development', priority: 'high' },
+  narongsak: { name: 'Narongsak (NC Coconut)', role: 'CEO/Founder, NC Coconut', priority: 'high' },
+  mathieu: { name: 'Mathieu Chaumont', role: 'Press Conference Participant', priority: 'high' },
+  chawarn: { name: 'Chawarn Khongsub', role: 'Dir. Agriculture, HHT', priority: 'medium' },
+  paphoppol: { name: 'Paphoppol Punnathanathai', role: 'Assoc. Dir. Sourcing, HHT', priority: 'medium' },
+  raveepat: { name: 'Raveepat Vattanarom', role: 'Sr. Mgr Compliance, HHT', priority: 'medium' },
+  harmless_harvest: { name: 'Harmless Harvest / HHT', role: 'Company', priority: 'high' },
+  nc_coconut: { name: 'NC Coconut Co. Ltd.', role: 'Company', priority: 'high' },
+};
+
+// ── load data ─────────────────────────────────────────────
+async function loadData() {
+  try {
+    const resp = await fetch('data.json?_=' + Date.now());
+    DATA = await resp.json();
+  } catch (e) {
+    // Try sample data for first deploy
+    DATA = { articles: [], last_updated: null, scan_history: [] };
+  }
+  render();
+}
+
+// ── render ────────────────────────────────────────────────
+function render() {
+  renderLastUpdated();
+  renderStats();
+  renderPeoplePills();
+  renderArticles();
+  renderScanHistory();
+}
+
+function renderLastUpdated() {
+  const el = document.getElementById('lastUpdated');
+  if (DATA.last_updated) {
+    const d = new Date(DATA.last_updated);
+    el.textContent = 'Updated ' + d.toLocaleDateString('en-GB', {
+      day: 'numeric', month: 'short', year: 'numeric',
+      hour: '2-digit', minute: '2-digit', timeZone: 'Asia/Bangkok'
+    }) + ' BKK';
+  } else {
+    el.textContent = 'No scans yet — awaiting first run';
+  }
+}
+
+function renderStats() {
+  const articles = DATA.articles || [];
+  const today = new Date(); today.setHours(0,0,0,0);
+  const todayCount = articles.filter(a => new Date(a.first_seen || a.pub_date) >= today).length;
+  const peopleCount = articles.filter(a => (a.people_mentioned || []).length > 0).length;
+  const priorityCount = articles.filter(a => a.is_priority_outlet).length;
+
+  document.getElementById('statsRow').innerHTML = `
+    <div class="stat-card"><div class="label">Total Articles</div><div class="value accent">${articles.length}</div></div>
+    <div class="stat-card"><div class="label">New Today</div><div class="value">${todayCount}</div></div>
+    <div class="stat-card"><div class="label">Mention Key People</div><div class="value gold">${peopleCount}</div></div>
+    <div class="stat-card"><div class="label">Priority Outlets</div><div class="value">${priorityCount}</div></div>
+    <div class="stat-card"><div class="label">Total Scans</div><div class="value">${(DATA.scan_history || []).length}</div></div>
+  `;
+}
+
+function renderPeoplePills() {
+  const container = document.getElementById('peoplePills');
+  const articles = DATA.articles || [];
+
+  // Count mentions per person
+  const counts = {};
+  for (const key of Object.keys(PEOPLE_MAP)) counts[key] = 0;
+  articles.forEach(a => {
+    (a.people_mentioned || []).forEach(p => {
+      if (counts[p.key] !== undefined) counts[p.key]++;
+    });
+  });
+
+  container.innerHTML = Object.entries(PEOPLE_MAP).map(([key, person]) => `
+    <div class="person-pill ${activePerson === key ? 'active' : ''}" onclick="togglePerson('${key}')">
+      <span class="priority-dot ${person.priority}"></span>
+      ${person.name}
+      <span class="count">${counts[key]}</span>
+    </div>
+  `).join('');
+}
+
+function renderArticles() {
+  const container = document.getElementById('articlesList');
+  let filtered = filterArticles();
+
+  document.getElementById('articlesCount').textContent =
+    `${filtered.length} article${filtered.length !== 1 ? 's' : ''}`;
+
+  if (filtered.length === 0) {
+    container.innerHTML = `
+      <div class="empty-state">
+        <h3>No articles found</h3>
+        <p>${DATA.articles.length === 0
+          ? 'The monitor hasn\'t run yet. Articles will appear after the first scheduled scan.'
+          : 'Try adjusting your search or filters.'}</p>
+      </div>`;
+    return;
+  }
+
+  container.innerHTML = filtered.map(a => {
+    const mentions = a.people_mentioned || [];
+    const isPriority = a.is_priority_outlet;
+    const hasPeople = mentions.length > 0;
+    const sentiment = a.sentiment || 'neutral';
+
+    return `
+      <div class="article-card ${hasPeople || isPriority ? 'priority-highlight' : ''}">
+        <div class="article-top">
+          <span class="article-source ${isPriority ? 'priority-outlet' : ''}">${escHtml(a.source || 'Unknown')}</span>
+          <span class="article-date">${formatDate(a.pub_date)}</span>
+        </div>
+        <div class="article-title-en"><a href="${escHtml(a.url)}" target="_blank" rel="noopener">${escHtml(a.title_en || a.title_original || '')}</a></div>
+        ${a.title_original && a.title_en ? `<div class="article-title-th">${escHtml(a.title_original)}</div>` : ''}
+        ${a.summary_en ? `<div class="article-summary">${escHtml(a.summary_en)}</div>` : ''}
+        <div class="article-tags">
+          <span class="tag sentiment-${sentiment}">${sentiment}</span>
+          ${mentions.map(p => `<span class="tag ${p.role === 'Company' ? 'company' : 'person'}">${escHtml(p.name_en)}</span>`).join('')}
+        </div>
+      </div>`;
+  }).join('');
+}
+
+function renderScanHistory() {
+  const history = DATA.scan_history || [];
+  if (!history.length) return;
+  const container = document.getElementById('scanHistory');
+  container.innerHTML = `
+    <h3>Scan History (last ${history.length})</h3>
+    ${history.slice().reverse().slice(0, 20).map(s => `
+      <span class="scan-entry">
+        ${new Date(s.timestamp).toLocaleDateString('en-GB', { day:'numeric', month:'short', hour:'2-digit', minute:'2-digit', timeZone:'Asia/Bangkok' })}
+        — <span class="new-count">+${s.new_articles}</span> new
+      </span>
+    `).join('')}
+  `;
+}
+
+// ── filter logic ─────────────────────────────────────────
+function filterArticles() {
+  let articles = [...(DATA.articles || [])];
+
+  // Text search
+  if (currentSearch) {
+    const q = currentSearch.toLowerCase();
+    articles = articles.filter(a => {
+      const text = [
+        a.title_en, a.title_original, a.summary_en,
+        a.source, a.description_original,
+        ...(a.people_mentioned || []).map(p => p.name_en),
+      ].join(' ').toLowerCase();
+      return text.includes(q);
+    });
+  }
+
+  // Time filter
+  if (currentFilter === 'today') {
+    const today = new Date(); today.setHours(0,0,0,0);
+    articles = articles.filter(a => new Date(a.first_seen || a.pub_date) >= today);
+  } else if (currentFilter === 'week') {
+    const weekAgo = new Date(Date.now() - 7 * 86400000);
+    articles = articles.filter(a => new Date(a.first_seen || a.pub_date) >= weekAgo);
+  } else if (currentFilter === 'priority') {
+    articles = articles.filter(a => a.is_priority_outlet);
+  } else if (currentFilter === 'people') {
+    articles = articles.filter(a => (a.people_mentioned || []).length > 0);
+  }
+
+  // Person filter
+  if (activePerson) {
+    articles = articles.filter(a =>
+      (a.people_mentioned || []).some(p => p.key === activePerson)
+    );
+  }
+
+  return articles;
+}
+
+function setFilter(f) {
+  currentFilter = f;
+  document.querySelectorAll('.filter-btn').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.filter === f);
+  });
+  renderArticles();
+}
+
+function togglePerson(key) {
+  activePerson = activePerson === key ? null : key;
+  renderPeoplePills();
+  renderArticles();
+}
+
+// ── utils ────────────────────────────────────────────────
+function escHtml(s) {
+  const d = document.createElement('div');
+  d.textContent = s || '';
+  return d.innerHTML;
+}
+
+function formatDate(dateStr) {
+  if (!dateStr) return '';
+  try {
+    const d = new Date(dateStr);
+    if (isNaN(d)) return dateStr;
+    return d.toLocaleDateString('en-GB', {
+      day: 'numeric', month: 'short', year: 'numeric',
+      hour: '2-digit', minute: '2-digit', timeZone: 'Asia/Bangkok',
+    });
+  } catch { return dateStr; }
+}
+
+// ── search debounce ──────────────────────────────────────
+let searchTimeout;
+document.getElementById('searchBox').addEventListener('input', e => {
+  clearTimeout(searchTimeout);
+  searchTimeout = setTimeout(() => {
+    currentSearch = e.target.value.trim();
+    renderArticles();
+  }, 300);
+});
+
+// ── init ─────────────────────────────────────────────────
+setFilter('all');
+loadData();
+
+// Auto-refresh every 5 minutes
+setInterval(loadData, 5 * 60 * 1000);
+</script>
+</body>
+</html>

@@ -1,0 +1,44 @@
+name: Media Monitor Scan
+
+on:
+  schedule:
+    # Runs twice daily: 6 AM and 6 PM Bangkok time (UTC+7)
+    # = 11 PM and 11 AM UTC
+    - cron: '0 23 * * *'   # 6:00 AM Bangkok
+    - cron: '0 11 * * *'   # 6:00 PM Bangkok
+  workflow_dispatch:        # Allow manual trigger from GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run media scraper
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/scraper.py
+
+      - name: Commit and push updated data
+        run: |
+          git config user.name "Media Monitor Bot"
+          git config user.email "bot@media-monitor.local"
+          git add docs/data.json
+          # Only commit if there are changes
+          git diff --cached --quiet || (
+            git commit -m "📰 Media scan $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          )
