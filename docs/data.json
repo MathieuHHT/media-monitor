@@ -1,6 +1,41 @@
 {
   "articles": [
     {
+      "title_original": "ใช้โมเดลธุรกิจพรีเมียมช่วยแก้ราคามะพร้าวน้ำหอม : รอบวันทันเหตุการณ์ 17.00 น./ วันที่ 10 มี.ค.69 - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yaTZSWUhFWklDVGR2QlZPQXpFTlIweDVzbl83bzhRYVl1TEg5aWNfUk9HMzJiRWxIa0tTcnNmRjJGR2VhZ0Z6Ukhtd25jcFozU0NoMDRB?oc=5",
+      "pub_date": "Tue, 10 Mar 2026 11:45:15 GMT",
+      "source": "YouTube",
+      "description_original": "ใช้โมเดลธุรกิจพรีเมียมช่วยแก้ราคามะพร้าวน้ำหอม : รอบวันทันเหตุการณ์ 17.00 น./ วันที่ 10 มี.ค.69&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "dea73ed4b933",
+      "title_en": "Using Premium Business Model to Help Solve Aromatic Coconut Pricing Issues: Daily News Round-up 5:00 PM / March 10, 2069",
+      "summary_en": "The article discusses using a premium business model as a solution to address pricing problems in the aromatic coconut industry.",
+      "sentiment": "positive",
+      "people_mentioned": [],
+      "first_seen": "2026-03-10T11:59:23.956527+00:00"
+    },
+    {
+      "title_original": "กรมพัฒนาธุรกิจการค้าลงพื้นที่ราชบุรี แก้ปัญหาราคามะพร้าวน้ำหอมตกต่ำ พร้อมหารือหน่วยงานตรวจสอบ ‘สะสาง’ ปัญหา ‘นอมินี’ ในพื้นที่ - banmuang.co.th",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fVkYwZDBMXzlIM3M1UzM4OXRaeEhYdDZYd1c3a0xJZlBwS0dsX0RWaXNxYXppUEtfd2g5cXhqUDRsMGplVEVucUhiWHRuc3pkSFQzUWxFU0NnQQ?oc=5",
+      "pub_date": "Wed, 04 Mar 2026 10:38:00 GMT",
+      "source": "banmuang.co.th",
+      "description_original": "กรมพัฒนาธุรกิจการค้าลงพื้นที่ราชบุรี แก้ปัญหาราคามะพร้าวน้ำหอมตกต่ำ พร้อมหารือหน่วยงานตรวจสอบ ‘สะสาง’ ปัญหา ‘นอมินี’ ในพื้นที่&nbsp;&nbsp;banmuang.co.th",
+      "is_priority_outlet": true,
+      "id": "de7dc289a881",
+      "title_en": "Department of Business Development Visits Ratchaburi Area to Solve Low Aromatic Coconut Price Problems, Ready to Discuss with Inspection Agencies to 'Clarify' Nominee Issues in the Area",
+      "summary_en": "The Department of Business Development conducted a field visit to Ratchaburi to address falling aromatic coconut prices and discuss with relevant agencies about resolving nominee-related issues in the area.",
+      "sentiment": "neutral",
+      "people_mentioned": [
+        {
+          "key": "poonpong",
+          "name_en": "Poonpong Naiyanapakorn",
+          "role": "Director General, Department of Business Development",
+          "priority": "high"
+        }
+      ],
+      "first_seen": "2026-03-10T11:59:23.956527+00:00"
+    },
+    {
       "title_original": "กรมพัฒน์ ถกบิ๊กแปรรูปมะพร้าวโลก ดันโมเดลธุรกิจแก้ราคามะพร้าวน้ำหอมตกต่ำ - bangkokbiznews",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZWFMyNzZjUjV2STlDZGhna29lMjQ3WHNNYjFFSU9BX0UxTkRWNTloa3JTN2Jzc0ZNR1h5YVQwNC1jYVdtSml0Sko0SEp2b19HSTA5LXlyajEtTUNX?oc=5",
       "pub_date": "Tue, 10 Mar 2026 09:21:00 GMT",
@@ -2213,7 +2248,7 @@
       "first_seen": "2026-03-09T15:00:00Z"
     }
   ],
-  "last_updated": "2026-03-10T11:50:42.560184+00:00",
+  "last_updated": "2026-03-10T11:59:23.956527+00:00",
   "scan_history": [
     {
       "timestamp": "2026-03-09T15:49:33Z",
@@ -2238,6 +2273,10 @@
     {
       "timestamp": "2026-03-10T11:50:42.560184+00:00",
       "new_articles": 13
+    },
+    {
+      "timestamp": "2026-03-10T11:59:23.956527+00:00",
+      "new_articles": 2
     }
   ]
 }
