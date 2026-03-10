@@ -76,11 +76,15 @@ SEARCH_QUERIES = [
     "Harmless Harvest มะพร้าว",
     "พูนพงษ์ มะพร้าวน้ำหอม",
     "NC Coconut มะพร้าว",
+    # YouTube-specific queries
+    "site:youtube.com มะพร้าวน้ำหอม",
+    "site:youtube.com กรมพัฒนาธุรกิจการค้า มะพร้าว",
+    "site:youtube.com นอมินี มะพร้าว",
 ]
 
 # Outlets of particular interest
 PRIORITY_OUTLETS = [
     "mcot.net", "pptvhd36.com", "thaipbs.or.th",
     "matichon.co.th", "prachachat.net", "thansettakij.com",
-    "nextnews", "strategic-online",
+    "nextnews", "strategic-online", "youtube.com",
 ]
