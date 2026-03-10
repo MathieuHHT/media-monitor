@@ -80,11 +80,19 @@ SEARCH_QUERIES = [
     "site:youtube.com มะพร้าวน้ำหอม",
     "site:youtube.com กรมพัฒนาธุรกิจการค้า มะพร้าว",
     "site:youtube.com นอมินี มะพร้าว",
+    # Official and additional outlet queries
+    "site:dbd.go.th มะพร้าว",
+    "site:banmuang.co.th มะพร้าว",
 ]
 
 # Outlets of particular interest
 PRIORITY_OUTLETS = [
+    # Domain patterns (match URLs)
     "mcot.net", "pptvhd36.com", "thaipbs.or.th",
     "matichon.co.th", "prachachat.net", "thansettakij.com",
     "nextnews", "strategic-online", "youtube.com",
+    "dbd.go.th", "banmuang.co.th",
+    # Short name patterns (match Google News source names)
+    "pptvhd36", "thansettakij", "matichon", "prachachat",
+    "thaipbs", "thai pbs", "mcot",
 ]
