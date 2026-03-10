@@ -250,8 +250,30 @@ def main():
     for art in all_raw:
         art["first_seen"] = scan_time
 
-    # Merge with existing
+    # Merge with existing and deduplicate by article id
     data["articles"] = all_raw + data["articles"]
+    seen_ids = set()
+    unique = []
+    for a in data["articles"]:
+        aid = a.get("id") or article_id(a.get("url", ""))
+        if aid not in seen_ids:
+            seen_ids.add(aid)
+            unique.append(a)
+    data["articles"] = unique
+
+    # Sort by pub_date descending (most recent first)
+    def sort_key(a):
+        for field in ("pub_date", "first_seen"):
+            val = a.get(field)
+            if val:
+                try:
+                    return datetime.fromisoformat(val.replace("Z", "+00:00"))
+                except Exception:
+                    pass
+        return datetime.min.replace(tzinfo=timezone.utc)
+
+    data["articles"].sort(key=sort_key, reverse=True)
+
     # Keep last 500 articles
     data["articles"] = data["articles"][:500]
     data["last_updated"] = scan_time

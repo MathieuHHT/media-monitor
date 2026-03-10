@@ -595,6 +595,13 @@ function renderScanHistory() {
 function filterArticles() {
   let articles = [...(DATA.articles || [])];
 
+  // Sort by date descending (most recent first)
+  articles.sort((a, b) => {
+    const da = new Date(a.pub_date || a.first_seen || 0);
+    const db = new Date(b.pub_date || b.first_seen || 0);
+    return db - da;
+  });
+
   // Text search
   if (currentSearch) {
     const q = currentSearch.toLowerCase();
