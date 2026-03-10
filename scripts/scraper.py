@@ -198,6 +198,10 @@ def main():
     data = load_existing()
     existing_urls = {a["url"] for a in data["articles"]}
 
+    # Relevance keywords — articles from site-specific queries must contain
+    # at least one of these to avoid picking up unrelated content
+    relevance_keywords = ["มะพร้าว", "coconut", "นอมินี", "nominee", "ล้ง"]
+
     # Collect articles from all search queries
     all_raw = []
     seen_urls = set()
@@ -205,8 +209,15 @@ def main():
         print(f"Searching: {query}")
         results = search_google_news_rss(query)
         print(f"  Found {len(results)} results")
+        is_site_query = query.startswith("site:")
         for art in results:
             if art["url"] not in seen_urls and art["url"] not in existing_urls:
+                # For site-specific queries, filter out irrelevant articles
+                if is_site_query:
+                    text = (art.get("title_original", "") + " " +
+                            art.get("description_original", "")).lower()
+                    if not any(kw in text for kw in relevance_keywords):
+                        continue
                 seen_urls.add(art["url"])
                 all_raw.append(art)
 
@@ -222,14 +233,8 @@ def main():
         save_data(data)
         return
 
-    # Detect people mentions
+    # Set article metadata (ID, priority outlet)
     for art in all_raw:
-        combined_text = " ".join([
-            art.get("title_original", ""),
-            art.get("description_original", ""),
-            art.get("source", ""),
-        ])
-        art["people_mentioned"] = detect_people_mentions(combined_text)
         art["is_priority_outlet"] = is_priority_outlet(
             art.get("source", ""), art.get("url", "")
         )
@@ -244,6 +249,17 @@ def main():
             art["title_en"] = art.get("title_original", "")
             art["summary_en"] = "Translation unavailable — no API key"
             art["sentiment"] = "neutral"
+
+    # Detect people mentions AFTER translation so English names match too
+    for art in all_raw:
+        combined_text = " ".join([
+            art.get("title_original", ""),
+            art.get("description_original", ""),
+            art.get("title_en", ""),
+            art.get("summary_en", ""),
+            art.get("source", ""),
+        ])
+        art["people_mentioned"] = detect_people_mentions(combined_text)
 
     # Add scan metadata
     scan_time = datetime.now(timezone.utc).isoformat()

@@ -9,7 +9,10 @@ PEOPLE = {
         "name_th": "พูนพงษ์ นัยนาภากรณ์",
         "role": "Director General, Department of Business Development",
         "priority": "high",
-        "search_terms": ["พูนพงษ์", "Poonpong", "อธิบดีกรมพัฒนาธุรกิจการค้า"],
+        "search_terms": [
+            "พูนพงษ์", "Poonpong", "อธิบดีกรมพัฒนาธุรกิจการค้า",
+            "กรมพัฒนาธุรกิจ", "กรมพัฒน์",
+        ],
     },
     "narongsak": {
         "name_en": "Narongsak (CEO/Founder NC Coconut Co. Ltd.)",
@@ -46,6 +49,13 @@ PEOPLE = {
         "priority": "medium",
         "search_terms": ["รวีพัชร์", "Raveepat", "Vattanarom"],
     },
+    "yot": {
+        "name_en": "Yot Ounruan",
+        "name_th": "ยศ อุ่นเรือน",
+        "role": "Plant Director, HHT",
+        "priority": "medium",
+        "search_terms": ["ยศ อุ่นเรือน", "Yot", "Ounruan", "อุ่นเรือน"],
+    },
 }
 
 # Company/brand search terms
@@ -57,6 +67,7 @@ COMPANIES = {
             "Harmless Harvest",
             "ฮาร์มเลส ฮาร์เวสท์",
             "Harmless Harvest Thailand",
+            "ฮาร์มเลส",
             "HHT",
         ],
     },

@@ -1259,7 +1259,14 @@
       "pub_date": "Wed, 04 Mar 2026 11:45:00 GMT",
       "source": "ข่าวสด",
       "description_original": "กรมพัฒนาธุรกิจการค้า ทวงคืนศักดิ์ศรีมะพร้าวน้ำหอมไทย ดันกลับขึ้นท็อปลิสต์&nbsp;&nbsp;ข่าวสด",
-      "people_mentioned": [],
+      "people_mentioned": [
+        {
+          "key": "poonpong",
+          "name_en": "Poonpong Naiyanapakorn",
+          "role": "Director General, Department of Business Development",
+          "priority": "high"
+        }
+      ],
       "is_priority_outlet": false,
       "id": "b62782954182",
       "title_en": "Department of Business Development Reclaims Dignity of Thai Aromatic Coconut, Pushes Back to Top List",
@@ -1273,7 +1280,14 @@
       "pub_date": "Thu, 05 Mar 2026 10:42:00 GMT",
       "source": "JS100.com",
       "description_original": "กรมพัฒนาธุรกิจการค้า ลงพท.ราชบุรี แก้ปัญหาราคามะพร้าวน้ำหอมตกต่ำ สะสางปัญหา ‘นอมินี’&nbsp;&nbsp;JS100.com",
-      "people_mentioned": [],
+      "people_mentioned": [
+        {
+          "key": "poonpong",
+          "name_en": "Poonpong Naiyanapakorn",
+          "role": "Director General, Department of Business Development",
+          "priority": "high"
+        }
+      ],
       "is_priority_outlet": false,
       "id": "3e51f856bd2d",
       "title_en": "Department of Business Development Visits Ratchaburi Province to Solve Low Aromatic Coconut Price Problem, Addresses 'Nominee' Issues",
@@ -1287,7 +1301,14 @@
       "pub_date": "Fri, 06 Mar 2026 13:20:07 GMT",
       "source": "topnews.co.th",
       "description_original": "\"กรมพัฒนาธุรกิจการค้า\" เปิดห่วงโซ่ \"มะพร้าวน้ำหอมไทย\" ต้นเหตุราคาผันผวนหนัก&nbsp;&nbsp;topnews.co.th",
-      "people_mentioned": [],
+      "people_mentioned": [
+        {
+          "key": "poonpong",
+          "name_en": "Poonpong Naiyanapakorn",
+          "role": "Director General, Department of Business Development",
+          "priority": "high"
+        }
+      ],
       "is_priority_outlet": false,
       "id": "82a545227eb2",
       "title_en": "Department of Business Development Reveals Thai Aromatic Coconut Supply Chain - Root Cause of Heavy Price Volatility",
@@ -1301,7 +1322,14 @@
       "pub_date": "Fri, 06 Mar 2026 09:49:00 GMT",
       "source": "bangkokbiznews",
       "description_original": "กรมพัฒนาธุรกิจฯ พบ 'ล้งผลไม้' มะพร้าวน้ำหอม 15 บริษัท เสี่ยงนอมินี&nbsp;&nbsp;bangkokbiznews",
-      "people_mentioned": [],
+      "people_mentioned": [
+        {
+          "key": "poonpong",
+          "name_en": "Poonpong Naiyanapakorn",
+          "role": "Director General, Department of Business Development",
+          "priority": "high"
+        }
+      ],
       "is_priority_outlet": false,
       "id": "9c6f4bc256b4",
       "title_en": "Department of Business Development Finds 15 Fruit Trading Companies for Aromatic Coconuts at Risk of Being Nominees",
@@ -1315,7 +1343,14 @@
       "pub_date": "Thu, 05 Mar 2026 13:22:28 GMT",
       "source": "facebook.com",
       "description_original": "กรมพัฒนาธุรกิจการค้า ลงพท.ราชบุรี แก้ปัญหาราคามะพร้าวน้ำหอมตกต่ำ สะสางปัญหา ‘นอมินี’ อ่านข่าวเพิ่มเติม ในคอมเมนต์ ⬇️⬇️ #มะพร้าวน้ำหอม&nbsp;&nbsp;facebook.com",
-      "people_mentioned": [],
+      "people_mentioned": [
+        {
+          "key": "poonpong",
+          "name_en": "Poonpong Naiyanapakorn",
+          "role": "Director General, Department of Business Development",
+          "priority": "high"
+        }
+      ],
       "is_priority_outlet": false,
       "id": "00ac4045c4d1",
       "title_en": "Department of Business Development Visits Ratchaburi Province to Solve Low Aromatic Coconut Price Problem, Addresses 'Nominee' Issues",
@@ -1330,7 +1365,7 @@
       "source": "pptvhd36",
       "description_original": "สั่งฟัน 15 บริษัทนอมินี สวมรอยค้า \"มะพร้าวน้ำหอม\" ขยายผลดำเนินคดีเด็ดขาด&nbsp;&nbsp;pptvhd36",
       "people_mentioned": [],
-      "is_priority_outlet": false,
+      "is_priority_outlet": true,
       "id": "a35c8582e555",
       "title_en": "Orders Action Against 15 Nominee Companies Disguised as 'Aromatic Coconut' Traders, Expands Legal Proceedings Decisively",
       "summary_en": "Authorities have ordered decisive action against 15 nominee companies that have been operating under the guise of aromatic coconut trading. Legal proceedings will be expanded and pursued aggressively.",
@@ -1385,7 +1420,14 @@
       "pub_date": "Fri, 06 Mar 2026 00:01:21 GMT",
       "source": "JS100.com",
       "description_original": "กรมพัฒนาธุรกิจการค้า แก้ปัญหาราคามะพร้าวน้ำหอมตกต่ำ ปราบนอมินี&nbsp;&nbsp;JS100.com",
-      "people_mentioned": [],
+      "people_mentioned": [
+        {
+          "key": "poonpong",
+          "name_en": "Poonpong Naiyanapakorn",
+          "role": "Director General, Department of Business Development",
+          "priority": "high"
+        }
+      ],
       "is_priority_outlet": false,
       "id": "4c062c7cdb39",
       "title_en": "Department of Business Development Solves Low Aromatic Coconut Price Problem, Cracks Down on Nominees",
@@ -1427,7 +1469,14 @@
       "pub_date": "Sun, 08 Mar 2026 02:09:12 GMT",
       "source": "ประชาชาติธุรกิจ",
       "description_original": "กรมพัฒน์ฯ ร่วม 10 หน่วยงานแก้ปัญหามะพร้าวน้ำหอม เจอนอมินี 15 บริษัท ส่งสอบทันที&nbsp;&nbsp;ประชาชาติธุรกิจ",
-      "people_mentioned": [],
+      "people_mentioned": [
+        {
+          "key": "poonpong",
+          "name_en": "Poonpong Naiyanapakorn",
+          "role": "Director General, Department of Business Development",
+          "priority": "high"
+        }
+      ],
       "is_priority_outlet": false,
       "id": "4f6f1b364e8e",
       "title_en": "Department of Development Joins 10 Agencies to Solve Aromatic Coconut Problem, Finds 15 Nominee Companies, Sends for Investigation Immediately",
@@ -1483,7 +1532,14 @@
       "pub_date": "Wed, 04 Mar 2026 11:17:00 GMT",
       "source": "TNN",
       "description_original": "กรมพัฒน์ ลงตรวจราชบุรี แก้มะพร้าวน้ำหอมตกต่ำ เร่งสอบ\" นอมินี \"คุมเกมตลาด&nbsp;&nbsp;TNN",
-      "people_mentioned": [],
+      "people_mentioned": [
+        {
+          "key": "poonpong",
+          "name_en": "Poonpong Naiyanapakorn",
+          "role": "Director General, Department of Business Development",
+          "priority": "high"
+        }
+      ],
       "is_priority_outlet": false,
       "id": "098c0f5fd414",
       "title_en": "Department of Development Inspects Ratchaburi to Fix Falling Aromatic Coconut Prices, Rushes Investigation of Nominees Controlling Market",
@@ -1526,7 +1582,7 @@
       "source": "thansettakij",
       "description_original": "พาณิชย์ พบล้งผลไม้ 15 บริษัทเอี่ยวนอมินี กดราคามะพร้าว&nbsp;&nbsp;thansettakij",
       "people_mentioned": [],
-      "is_priority_outlet": false,
+      "is_priority_outlet": true,
       "id": "d67cea225206",
       "title_en": "Commerce Ministry Finds 15 Fruit Trading Companies Connected to Nominees Suppressing Coconut Prices",
       "summary_en": "The Commerce Ministry has discovered 15 fruit trading companies that are connected to nominees and are suppressing coconut prices in the market.",
@@ -1567,7 +1623,14 @@
       "pub_date": "Wed, 04 Mar 2026 12:32:00 GMT",
       "source": "ผู้จัดการออนไลน์",
       "description_original": "กรมพัฒน์ลุยปราบต่างชาติใช้คนไทยเป็นนอมินีทำธุรกิจมะพร้าวน้ำหอม&nbsp;&nbsp;ผู้จัดการออนไลน์",
-      "people_mentioned": [],
+      "people_mentioned": [
+        {
+          "key": "poonpong",
+          "name_en": "Poonpong Naiyanapakorn",
+          "role": "Director General, Department of Business Development",
+          "priority": "high"
+        }
+      ],
       "is_priority_outlet": false,
       "id": "6946e4e766b3",
       "title_en": "Department of Business Development Cracks Down on Foreigners Using Thai Nominees in Aromatic Coconut Business",
@@ -1609,8 +1672,15 @@
       "pub_date": "Wed, 04 Mar 2026 11:14:49 GMT",
       "source": "Matichon Online",
       "description_original": "กรมพัฒนาธุรกิจจับเข่าคุยราชบุรี ถอดบทเรียนราคามะพร้าวน้ำหอมตกต่ำ ดึงทุกหน่วยงานถกสกัดนอมินี&nbsp;&nbsp;Matichon Online",
-      "people_mentioned": [],
-      "is_priority_outlet": false,
+      "people_mentioned": [
+        {
+          "key": "poonpong",
+          "name_en": "Poonpong Naiyanapakorn",
+          "role": "Director General, Department of Business Development",
+          "priority": "high"
+        }
+      ],
+      "is_priority_outlet": true,
       "id": "c4a5906d7995",
       "title_en": "Department of Business Development Meets with Ratchaburi to Learn from Declining Aromatic Coconut Prices, Brings All Agencies Together to Discuss Stopping Nominees",
       "summary_en": "The Department of Business Development conducts discussions with Ratchaburi province to analyze the lessons from falling aromatic coconut prices and coordinates with all relevant agencies to address nominee issues.",
@@ -1666,7 +1736,7 @@
       "source": "MCOT NEWS FM 100.5",
       "description_original": "พาณิชย์กางแผนอุ้มมะพร้าวน้ำหอม! อัดมาตรการ \"ดูดซับล้านลูก\" สู้ราคาตกต่ำรอบ 3&nbsp;&nbsp;MCOT NEWS FM 100.5",
       "people_mentioned": [],
-      "is_priority_outlet": false,
+      "is_priority_outlet": true,
       "id": "82358f4f31a2",
       "title_en": "Ministry of Commerce Unveils Plan to Support Aromatic Coconuts! Implements 'Million Fruit Absorption' Measures to Combat Third Round of Price Decline",
       "summary_en": "The Ministry of Commerce announces a support plan for aromatic coconut farmers with measures to absorb millions of coconuts from the market to address the third wave of price decline.",
@@ -1721,7 +1791,14 @@
       "pub_date": "Wed, 04 Mar 2026 10:37:19 GMT",
       "source": "commercenewsagency",
       "description_original": "​กรมพัฒน์ลุยจัดการต่างชาติใช้คนไทยเป็นนอมินี ทำธุรกิจมะพร้าวน้ำหอม จ.ราชบุรี&nbsp;&nbsp;commercenewsagency",
-      "people_mentioned": [],
+      "people_mentioned": [
+        {
+          "key": "poonpong",
+          "name_en": "Poonpong Naiyanapakorn",
+          "role": "Director General, Department of Business Development",
+          "priority": "high"
+        }
+      ],
       "is_priority_outlet": false,
       "id": "14217f3083b0",
       "title_en": "Department of Business Development Takes Action Against Foreigners Using Thai Nominees in Aromatic Coconut Business in Ratchaburi Province",
@@ -1739,14 +1816,7 @@
       "description_original": "",
       "summary_en": "Minister Suphajee announced plans to consult with the Thai Aromatic Coconut Association about establishing a 'central crate' system to help resolve coconut purchasing issues faced by farmers.",
       "sentiment": "positive",
-      "people_mentioned": [
-        {
-          "key": "poonpong",
-          "name_en": "Poonpong Naiyanapakorn",
-          "role": "Director General",
-          "priority": "high"
-        }
-      ],
+      "people_mentioned": [],
       "is_priority_outlet": true,
       "first_seen": "2026-03-09T15:00:00Z"
     },
@@ -1778,7 +1848,7 @@
         {
           "key": "poonpong",
           "name_en": "Poonpong Naiyanapakorn",
-          "role": "Director General",
+          "role": "Director General, Department of Business Development",
           "priority": "high"
         }
       ],
@@ -1809,14 +1879,7 @@
       "description_original": "",
       "summary_en": "Daily News reports Minister Suphajee greenlit addressing the aromatic coconut crate system, noting foreign investors' plans to manage the entire supply chain from upstream to downstream.",
       "sentiment": "neutral",
-      "people_mentioned": [
-        {
-          "key": "poonpong",
-          "name_en": "Poonpong Naiyanapakorn",
-          "role": "Director General",
-          "priority": "high"
-        }
-      ],
+      "people_mentioned": [],
       "is_priority_outlet": false,
       "first_seen": "2026-03-09T15:00:00Z"
     },
@@ -1834,7 +1897,7 @@
         {
           "key": "poonpong",
           "name_en": "Poonpong Naiyanapakorn",
-          "role": "Director General",
+          "role": "Director General, Department of Business Development",
           "priority": "high"
         }
       ],
@@ -1851,14 +1914,7 @@
       "description_original": "",
       "summary_en": "The Commerce Minister clarified that there is no policy to cut coconut crate distributors from the system, and proposed a 'central crate' concept working with the Thai Aromatic Coconut Association.",
       "sentiment": "positive",
-      "people_mentioned": [
-        {
-          "key": "poonpong",
-          "name_en": "Poonpong Naiyanapakorn",
-          "role": "Director General",
-          "priority": "high"
-        }
-      ],
+      "people_mentioned": [],
       "is_priority_outlet": true,
       "first_seen": "2026-03-09T15:00:00Z"
     },
@@ -1876,7 +1932,7 @@
         {
           "key": "poonpong",
           "name_en": "Poonpong Naiyanapakorn",
-          "role": "Director General",
+          "role": "Director General, Department of Business Development",
           "priority": "high"
         }
       ],
@@ -1897,7 +1953,7 @@
         {
           "key": "poonpong",
           "name_en": "Poonpong Naiyanapakorn",
-          "role": "Director General",
+          "role": "Director General, Department of Business Development",
           "priority": "high"
         }
       ],
@@ -1918,7 +1974,7 @@
         {
           "key": "poonpong",
           "name_en": "Poonpong Naiyanapakorn",
-          "role": "Director General",
+          "role": "Director General, Department of Business Development",
           "priority": "high"
         }
       ],
