@@ -1,6 +1,83 @@
 {
   "articles": [
     {
+      "title_original": "พณ.หารือผู้ส่งออกมะพร้าวน้ำหอมรายใหญ่ - TNN",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9peElYdkUxMWl4dkg0c1Y4eGpucDFhb2lnS2FfMDJDUUNyVGN1RFhkTnlmZVRzMWJGTFlyT2Q5T1FSX3U1dV9GNVFnNmN6bGllQUxOdjZJX2RrVGpkLWVV?oc=5",
+      "pub_date": "Tue, 10 Mar 2026 09:59:08 GMT",
+      "source": "TNN",
+      "description_original": "พณ.หารือผู้ส่งออกมะพร้าวน้ำหอมรายใหญ่&nbsp;&nbsp;TNN",
+      "is_priority_outlet": false,
+      "id": "06dc3a19c7c7",
+      "title_en": "Ministry of Commerce discusses with major aromatic coconut exporters",
+      "summary_en": "The Ministry of Commerce held discussions with major exporters in the aromatic coconut industry. The article covers consultations regarding export matters in this sector.",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-03-13T23:56:12.616699+00:00"
+    },
+    {
+      "title_original": "คลี่วิกฤต “ล้งจีน” ทุบราคามะพร้าวน้ำหอม วัดฝีมือ “ซูเปอร์จี” ขวัญใจ FC สีน้ำเงิน - ผู้จัดการออนไลน์",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RMDZmRlFYU2kyWGQ5QVZUY0VEb3JpQ0tEQWVkbFo3bzVES0lrOXgzY1FOeXhiU0E3Q3BLbUNmWUhMbm5sNU10bDdpUlJfR3NGZnFwMGNGZjZ6ZGpz?oc=5",
+      "pub_date": "Fri, 13 Mar 2026 23:37:00 GMT",
+      "source": "ผู้จัดการออนไลน์",
+      "description_original": "คลี่วิกฤต “ล้งจีน” ทุบราคามะพร้าวน้ำหอม วัดฝีมือ “ซูเปอร์จี” ขวัญใจ FC สีน้ำเงิน&nbsp;&nbsp;ผู้จัดการออนไลน์",
+      "is_priority_outlet": false,
+      "id": "9f6761464f60",
+      "title_en": "Unraveling the crisis of 'Chinese mills' crushing aromatic coconut prices, testing the skills of 'Super G' beloved by blue team FC",
+      "summary_en": "The article discusses the crisis caused by Chinese mills driving down aromatic coconut prices and references testing someone nicknamed 'Super G'. It covers the impact of Chinese operations on coconut pricing.",
+      "sentiment": "negative",
+      "people_mentioned": [],
+      "first_seen": "2026-03-13T23:56:12.616699+00:00"
+    },
+    {
+      "title_original": "กรมพัฒนาธุรกิจ ผุดคำสั่งใหม่ ลุยปราบนอมินี ล้งมะพร้าว เริ่ม 1 เม.ย. - เดลินิวส์",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5od0VTZDVVd2QxYW9yczNwdXdTSl9heno2dU1iZjNzT3k1d1RtUTFvSDhuc3lXWFF5NEI1ZXNBZkhEdElreFZxQm5EVTlkdjFhV2pn?oc=5",
+      "pub_date": "Fri, 13 Mar 2026 13:44:00 GMT",
+      "source": "เดลินิวส์",
+      "description_original": "กรมพัฒนาธุรกิจ ผุดคำสั่งใหม่ ลุยปราบนอมินี ล้งมะพร้าว เริ่ม 1 เม.ย.&nbsp;&nbsp;เดลินิวส์",
+      "is_priority_outlet": false,
+      "id": "8f688ba8f47d",
+      "title_en": "Department of Business Development launches new order to crack down on coconut mill nominees, starting April 1",
+      "summary_en": "The Department of Business Development issued new regulations to combat nominee arrangements in coconut mills. The enforcement measures will begin on April 1st.",
+      "sentiment": "positive",
+      "people_mentioned": [
+        {
+          "key": "poonpong",
+          "name_en": "Poonpong Naiyanapakorn",
+          "role": "Director General, Department of Business Development",
+          "priority": "high"
+        }
+      ],
+      "first_seen": "2026-03-13T23:56:12.616699+00:00"
+    },
+    {
+      "title_original": "ปอศ.ลุยจับ 8 ล้งนอมินีนายทุนจีน กดราคามะพร้าวน้ำหอมตกต่ำทั่วประเทศ - ผู้จัดการออนไลน์",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqVl9lU2NVai1lcG5ySkNNelUwaW9sUEtmdjMwMnlTaU9SOHM2NFNEcm9neGpqM2VIczhpQ2dWYVkybjhPLVpSZzdfZFF0el8xV2M3bEpDMUdkS3Bq?oc=5",
+      "pub_date": "Tue, 10 Mar 2026 08:41:00 GMT",
+      "source": "ผู้จัดการออนไลน์",
+      "description_original": "ปอศ.ลุยจับ 8 ล้งนอมินีนายทุนจีน กดราคามะพร้าวน้ำหอมตกต่ำทั่วประเทศ&nbsp;&nbsp;ผู้จัดการออนไลน์",
+      "is_priority_outlet": false,
+      "id": "147676b8a7ff",
+      "title_en": "DBD raids 8 Chinese investor nominee mills suppressing aromatic coconut prices nationwide",
+      "summary_en": "The Department of Business Development conducted raids on 8 mills operating as nominees for Chinese investors who were suppressing coconut prices. The operations affected coconut prices across the country.",
+      "sentiment": "positive",
+      "people_mentioned": [],
+      "first_seen": "2026-03-13T23:56:12.616699+00:00"
+    },
+    {
+      "title_original": "บุกจับ 6 ล้งมะพร้าว \"นอมินีจีน\" กินรวบ-กดราคารับซื้อ | วันใหม่ ไทยพีบีเอส | 11 มี.ค. 69 - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5icTB5UDhjbVRwUU1HVUQ3bTY3RUlYYnkyR0Uxc1ZBd3FhRWxmTlk4M01zYm00VlMzUTZsRkhrWExwalkxV29ralZzT2JhWmllam5vMktR?oc=5",
+      "pub_date": "Tue, 10 Mar 2026 23:57:23 GMT",
+      "source": "YouTube",
+      "description_original": "บุกจับ 6 ล้งมะพร้าว \"นอมินีจีน\" กินรวบ-กดราคารับซื้อ | วันใหม่ ไทยพีบีเอส | 11 มี.ค. 69&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "3c12a08e6e44",
+      "title_en": "Raid arrests 6 coconut mills as 'Chinese nominees' monopolizing and suppressing purchase prices",
+      "summary_en": "Authorities raided and arrested 6 coconut mills operating as Chinese nominees for monopolistic practices and price suppression. The report was broadcast on Thai PBS's morning news program.",
+      "sentiment": "positive",
+      "people_mentioned": [],
+      "first_seen": "2026-03-13T23:56:12.616699+00:00"
+    },
+    {
       "title_original": "อธิบดีกรมพัฒนาธุรกิจการค้า ลุยปราบ ‘นอมินี’ จากล้งมะพร้าวน้ำหอม ผุดคำสั่งใหม่ เล็งเป้าอีก 3 ธุรกิจ - เดลินิวส์",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlelAyM3AwYVpnUjlXdVpQTXJueWt5aVc5NFNJcG0wMFpma19JWGRvR2t6TWxSWlYyNkx3ZVY0akY3XzI0S0UyT2VPLXV1VG1rcWFZ?oc=5",
       "pub_date": "Fri, 13 Mar 2026 09:42:00 GMT",
@@ -3130,7 +3207,7 @@
       "first_seen": "2026-03-09T15:00:00Z"
     }
   ],
-  "last_updated": "2026-03-13T11:57:14.421069+00:00",
+  "last_updated": "2026-03-13T23:56:12.616699+00:00",
   "scan_history": [
     {
       "timestamp": "2026-03-09T15:49:33Z",
@@ -3199,6 +3276,10 @@
     {
       "timestamp": "2026-03-13T11:57:14.421069+00:00",
       "new_articles": 3
+    },
+    {
+      "timestamp": "2026-03-13T23:56:12.616699+00:00",
+      "new_articles": 5
     }
   ]
 }
