@@ -1,6 +1,55 @@
 {
   "articles": [
     {
+      "title_original": "อธิบดีกรมพัฒนาธุรกิจการค้า ลุยปราบ ‘นอมินี’ จากล้งมะพร้าวน้ำหอม ผุดคำสั่งใหม่ เล็งเป้าอีก 3 ธุรกิจ - เดลินิวส์",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlelAyM3AwYVpnUjlXdVpQTXJueWt5aVc5NFNJcG0wMFpma19JWGRvR2t6TWxSWlYyNkx3ZVY0akY3XzI0S0UyT2VPLXV1VG1rcWFZ?oc=5",
+      "pub_date": "Fri, 13 Mar 2026 09:42:00 GMT",
+      "source": "เดลินิวส์",
+      "description_original": "อธิบดีกรมพัฒนาธุรกิจการค้า ลุยปราบ ‘นอมินี’ จากล้งมะพร้าวน้ำหอม ผุดคำสั่งใหม่ เล็งเป้าอีก 3 ธุรกิจ&nbsp;&nbsp;เดลินิวส์",
+      "is_priority_outlet": false,
+      "id": "798c13b7754b",
+      "title_en": "Director-General of Department of Business Development Cracks Down on 'Nominees' from Aromatic Coconut Case, Issues New Orders Targeting 3 More Businesses",
+      "summary_en": "The Director-General of the Department of Business Development is taking action against nominee arrangements following the aromatic coconut case and has issued new orders targeting three additional businesses.",
+      "sentiment": "positive",
+      "people_mentioned": [
+        {
+          "key": "poonpong",
+          "name_en": "Poonpong Naiyanapakorn",
+          "role": "Director General, Department of Business Development",
+          "priority": "high"
+        }
+      ],
+      "first_seen": "2026-03-13T11:57:14.421069+00:00"
+    },
+    {
+      "title_original": "“ศุภจี” หารือแก้ปัญหาราคามะพร้าวน้ำหอมตกต่ำ คุมเข้มต่างชาติ ปิดวงจรนอมินี - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sdzlVRXUzay1HcnF1b3lIOHdxRVA3bFdOUFlwc1cwVVp2ekZockVxaDVpM25tcmFoSVhwMmFzY29tVmEwdURrbEpISG1qMjA5YUdXdl93?oc=5",
+      "pub_date": "Fri, 13 Mar 2026 06:35:17 GMT",
+      "source": "YouTube",
+      "description_original": "“ศุภจี” หารือแก้ปัญหาราคามะพร้าวน้ำหอมตกต่ำ คุมเข้มต่างชาติ ปิดวงจรนอมินี&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "155671f403e8",
+      "title_en": "Suphajee Discusses Solutions to Falling Aromatic Coconut Prices, Strict Control of Foreigners, Closing Nominee Loopholes",
+      "summary_en": "Suphajee is addressing the problem of declining aromatic coconut prices by implementing stricter controls on foreign involvement and closing loopholes used by nominees.",
+      "sentiment": "positive",
+      "people_mentioned": [],
+      "first_seen": "2026-03-13T11:57:14.421069+00:00"
+    },
+    {
+      "title_original": "“ศุภจี” ถกแก้ปัญหาราคามะพร้าวน้ำหอมตกต่ำ เร่งดูแลเกษตรกร คุมเข้มต่างชาติ ปิดช่องนอมินีครอบงำธุรกิจ - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5CREtDTGE0cEtCU0NZMGxIeU1INmZMQngzUnk3SUNFajFqSnJWdFE3a0wtT1ZpMDVzTHd3Sm45N1NOSko2bHZGWXlfT28wNk9Ma3Blaw?oc=5",
+      "pub_date": "Fri, 13 Mar 2026 09:22:46 GMT",
+      "source": "YouTube",
+      "description_original": "“ศุภจี” ถกแก้ปัญหาราคามะพร้าวน้ำหอมตกต่ำ เร่งดูแลเกษตรกร คุมเข้มต่างชาติ ปิดช่องนอมินีครอบงำธุรกิจ&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "81e42c2a1d44",
+      "title_en": "Suphajee Discusses Solutions to Falling Aromatic Coconut Prices, Accelerates Farmer Care, Strict Control of Foreigners, Closing Nominee Business Domination Channels",
+      "summary_en": "Suphajee is working to solve the declining aromatic coconut price problem by accelerating farmer support and implementing strict controls to prevent foreign nominees from dominating the business.",
+      "sentiment": "positive",
+      "people_mentioned": [],
+      "first_seen": "2026-03-13T11:57:14.421069+00:00"
+    },
+    {
       "title_original": "“ศุภจี” หารือแก้ปัญหาราคามะพร้าวน้ำหอมตกต่ำ คุมเข้มต่างชาติ ปิดวงจรนอมินี - กรมประชาสัมพันธ์",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tcW1WLVJIWVhlcDA0TzZZSXIxa3NIM3plcWZEWEtUSDRBT3Y5VVRkanpWcUczcUx3NU0wbVYzNHE1cjhoakZNZ05yNi13Nno3N0IwQ05ob1YwLS1DVHBueDBKQThvSGdRUWVJWDA1Q2NXakU?oc=5",
       "pub_date": "Fri, 13 Mar 2026 03:13:07 GMT",
@@ -3081,7 +3130,7 @@
       "first_seen": "2026-03-09T15:00:00Z"
     }
   ],
-  "last_updated": "2026-03-13T07:35:39.566526+00:00",
+  "last_updated": "2026-03-13T11:57:14.421069+00:00",
   "scan_history": [
     {
       "timestamp": "2026-03-09T15:49:33Z",
@@ -3146,6 +3195,10 @@
     {
       "timestamp": "2026-03-13T07:35:39.566526+00:00",
       "new_articles": 8
+    },
+    {
+      "timestamp": "2026-03-13T11:57:14.421069+00:00",
+      "new_articles": 3
     }
   ]
 }
