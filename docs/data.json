@@ -1,6 +1,48 @@
 {
   "articles": [
     {
+      "title_original": "ตร.สอบสวนกลาง เปิดปฏิบัติการ 'ปอกเปลือกนอมินี' ค้นเครือข่ายล้งมะพร้าวข้ามชาติ ทุบราคาผลไม้ไทย - JS100.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSOFpuUnZ1cjFZRnp2M2hHd1o4TC0xQ0p2aW5pOUhjSU56WWkwSzdHSDZPU3lDck52bG1LX1AxQkVVNDFxc0EtLWZTN3otYnJNMjNMbW8tVjZ4QQ?oc=5",
+      "pub_date": "Tue, 10 Mar 2026 13:27:00 GMT",
+      "source": "JS100.com",
+      "description_original": "ตร.สอบสวนกลาง เปิดปฏิบัติการ 'ปอกเปลือกนอมินี' ค้นเครือข่ายล้งมะพร้าวข้ามชาติ ทุบราคาผลไม้ไทย&nbsp;&nbsp;JS100.com",
+      "is_priority_outlet": false,
+      "id": "5a9be07d6bef",
+      "title_en": "Central Investigation Police Launch 'Peeling the Nominee Shell' Operation to Investigate Transnational Coconut Smuggling Networks Crushing Thai Fruit Prices",
+      "summary_en": "Central Investigation Police have launched an operation to investigate and dismantle transnational nominee networks involved in coconut smuggling that are damaging Thai fruit prices.",
+      "sentiment": "negative",
+      "people_mentioned": [],
+      "first_seen": "2026-03-14T07:23:23.128684+00:00"
+    },
+    {
+      "title_original": "\"ตํารวจสอบสวนกลาง\" เปิดปฏิบัติการ “ปอกเปลือกนอมินี” ตัดวงจรเครือข่ายล้งมะพร้าวนอมินีข้ามชาติ - topnews.co.th",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vQktIdUNoeWdNd2E0TERocmdoVTdKX1d3TXhGd1psNmh0RWk5dmFOcExESFRheDZUelhmZHRlMzU5ZWhyR0NyRjJXS2xDNDA?oc=5",
+      "pub_date": "Tue, 10 Mar 2026 10:07:52 GMT",
+      "source": "topnews.co.th",
+      "description_original": "\"ตํารวจสอบสวนกลาง\" เปิดปฏิบัติการ “ปอกเปลือกนอมินี” ตัดวงจรเครือข่ายล้งมะพร้าวนอมินีข้ามชาติ&nbsp;&nbsp;topnews.co.th",
+      "is_priority_outlet": false,
+      "id": "9b4735c958e8",
+      "title_en": "Central Investigation Police Launch 'Peeling the Nominee Shell' Operation to Cut Transnational Coconut Smuggling Nominee Networks",
+      "summary_en": "Central Investigation Police have initiated an operation to break the cycle of transnational nominee networks involved in coconut smuggling activities.",
+      "sentiment": "negative",
+      "people_mentioned": [],
+      "first_seen": "2026-03-14T07:23:23.128684+00:00"
+    },
+    {
+      "title_original": "วิกฤตราคามะพร้าวน้ำหอมตกต่ำ - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VLTZ4Vjc0ZGx6dEtxUVpBb09ZZWI4V2NWTDduSnh3NUdJSGI3U2ppNmQyQjFmVUtrZ1l5X0ZPME1IZE13R0pVcTVpZFp3VU9PVHpYNw?oc=5",
+      "pub_date": "Sat, 14 Mar 2026 02:12:22 GMT",
+      "source": "YouTube",
+      "description_original": "วิกฤตราคามะพร้าวน้ำหอมตกต่ำ&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "4b0d9b33cb82",
+      "title_en": "Crisis of Declining Aromatic Coconut Prices",
+      "summary_en": "The video discusses the crisis facing the aromatic coconut industry due to falling prices.",
+      "sentiment": "negative",
+      "people_mentioned": [],
+      "first_seen": "2026-03-14T07:23:23.128684+00:00"
+    },
+    {
       "title_original": "พณ.หารือผู้ส่งออกมะพร้าวน้ำหอมรายใหญ่ - TNN",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9peElYdkUxMWl4dkg0c1Y4eGpucDFhb2lnS2FfMDJDUUNyVGN1RFhkTnlmZVRzMWJGTFlyT2Q5T1FSX3U1dV9GNVFnNmN6bGllQUxOdjZJX2RrVGpkLWVV?oc=5",
       "pub_date": "Tue, 10 Mar 2026 09:59:08 GMT",
@@ -3207,7 +3249,7 @@
       "first_seen": "2026-03-09T15:00:00Z"
     }
   ],
-  "last_updated": "2026-03-13T23:56:12.616699+00:00",
+  "last_updated": "2026-03-14T07:23:23.128684+00:00",
   "scan_history": [
     {
       "timestamp": "2026-03-09T15:49:33Z",
@@ -3280,6 +3322,10 @@
     {
       "timestamp": "2026-03-13T23:56:12.616699+00:00",
       "new_articles": 5
+    },
+    {
+      "timestamp": "2026-03-14T07:23:23.128684+00:00",
+      "new_articles": 3
     }
   ]
 }
