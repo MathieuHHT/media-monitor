@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "COCOCO ร่วมงาน Natural Products Expo West 2026 สหรัฐฯ ขยายโอกาสธุรกิจผลิตภัณฑ์มะพร้าวสู่เวทีโลก - banmuang.co.th",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IVUpPb1M0ZW9SZi1CT0Jvd2pOREdZSXhFbWZUNHloaWI4QzNUTFExNHJJMHBpUVRfdy14eURnSm5XRnZ1YWd1bVpzSnF6RFAyUDJMT1FVREpvRVk1YkE?oc=5",
+      "pub_date": "Mon, 09 Mar 2026 04:46:00 GMT",
+      "source": "banmuang.co.th",
+      "description_original": "COCOCO ร่วมงาน Natural Products Expo West 2026 สหรัฐฯ ขยายโอกาสธุรกิจผลิตภัณฑ์มะพร้าวสู่เวทีโลก&nbsp;&nbsp;banmuang.co.th",
+      "is_priority_outlet": true,
+      "id": "d9a92a5547b5",
+      "title_en": "COCOCO joins Natural Products Expo West 2026 in the US, expanding coconut product business opportunities to the global stage",
+      "summary_en": "COCOCO is participating in the Natural Products Expo West 2026 in the United States to expand business opportunities for coconut products on the international stage.",
+      "sentiment": "positive",
+      "people_mentioned": [],
+      "first_seen": "2026-03-14T11:45:47.625730+00:00"
+    },
+    {
       "title_original": "ตร.สอบสวนกลาง เปิดปฏิบัติการ 'ปอกเปลือกนอมินี' ค้นเครือข่ายล้งมะพร้าวข้ามชาติ ทุบราคาผลไม้ไทย - JS100.com",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSOFpuUnZ1cjFZRnp2M2hHd1o4TC0xQ0p2aW5pOUhjSU56WWkwSzdHSDZPU3lDck52bG1LX1AxQkVVNDFxc0EtLWZTN3otYnJNMjNMbW8tVjZ4QQ?oc=5",
       "pub_date": "Tue, 10 Mar 2026 13:27:00 GMT",
@@ -3249,7 +3263,7 @@
       "first_seen": "2026-03-09T15:00:00Z"
     }
   ],
-  "last_updated": "2026-03-14T07:23:23.128684+00:00",
+  "last_updated": "2026-03-14T11:45:47.625730+00:00",
   "scan_history": [
     {
       "timestamp": "2026-03-09T15:49:33Z",
@@ -3326,6 +3340,10 @@
     {
       "timestamp": "2026-03-14T07:23:23.128684+00:00",
       "new_articles": 3
+    },
+    {
+      "timestamp": "2026-03-14T11:45:47.625730+00:00",
+      "new_articles": 1
     }
   ]
 }
