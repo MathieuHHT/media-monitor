@@ -1,6 +1,48 @@
 {
   "articles": [
     {
+      "title_original": "ทลาย 8 ล้งมะพร้าวนอมินีจีน สวมสิทธิ์คนไทยกดราคาเกษตรกรราชบุรี - posttoday",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1d3pJLWlHR3k1WlFqZUpOZU1mcUlnLWFOdVRFdV92UEp3WFl2NTRiSmJUaFF3VDhwNzBlamxYampsdVR3UElPeEFFTFlCSzJIeXlRdE1BYm8?oc=5",
+      "pub_date": "Tue, 10 Mar 2026 07:41:00 GMT",
+      "source": "posttoday",
+      "description_original": "ทลาย 8 ล้งมะพร้าวนอมินีจีน สวมสิทธิ์คนไทยกดราคาเกษตรกรราชบุรี&nbsp;&nbsp;posttoday",
+      "is_priority_outlet": false,
+      "id": "20656d8f861e",
+      "title_en": "Destroy 8 Chinese Nominee Coconut Mills Usurping Thai Rights, Suppressing Ratchaburi Farmer Prices",
+      "summary_en": "Eight coconut processing mills operated by Chinese nominees using Thai identities were shut down for illegally suppressing coconut prices paid to farmers in Ratchaburi province.",
+      "sentiment": "negative",
+      "people_mentioned": [],
+      "first_seen": "2026-03-15T11:49:42.538316+00:00"
+    },
+    {
+      "title_original": "ตัดใจโค่นมะพร้าวน้ำหอม หันไปปลูกปาล์มน้ำมันแทน - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JWUdrNVJnQ0xWd3lCbWM2SkVueDN2Ynh1cWtxQk5sRUs3U0I5SjFpa08tUDhQeGpWSG40akhvX2JMSHpKaTl1b2dtdkZucEdwbkQ3MQ?oc=5",
+      "pub_date": "Wed, 11 Mar 2026 01:54:46 GMT",
+      "source": "YouTube",
+      "description_original": "ตัดใจโค่นมะพร้าวน้ำหอม หันไปปลูกปาล์มน้ำมันแทน&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "ce571ebb754d",
+      "title_en": "Heartbroken Decision to Cut Down Aromatic Coconut Trees, Switch to Palm Oil Cultivation Instead",
+      "summary_en": "Farmers are making the difficult decision to cut down their aromatic coconut trees and replace them with oil palm plantations.",
+      "sentiment": "negative",
+      "people_mentioned": [],
+      "first_seen": "2026-03-15T11:49:42.538316+00:00"
+    },
+    {
+      "title_original": "ผลตรวจล้งมะพร้าว เข้าข่ายนอมินี 6 นิติบุคคล : รอบวันทันเหตุการณ์ 12.00 น./วันที่ 11 มี.ค.69 - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXZjlzS0xKUENnS0pYc2xWbTNPX1ViNHJsNkVHUl9NS1B2czQ2R0dXRUtHR3gtLUVvQWYwMDFoRE9yY0dsdk5yb3BXblR4NmF1clNpbXVR?oc=5",
+      "pub_date": "Wed, 11 Mar 2026 06:35:39 GMT",
+      "source": "YouTube",
+      "description_original": "ผลตรวจล้งมะพร้าว เข้าข่ายนอมินี 6 นิติบุคคล : รอบวันทันเหตุการณ์ 12.00 น./วันที่ 11 มี.ค.69&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "576a7271739b",
+      "title_en": "Coconut Mill Investigation Results Show 6 Legal Entities Fall Under Nominee Category",
+      "summary_en": "Investigation results revealed that 6 legal entities operating coconut mills were found to be operating under nominee arrangements.",
+      "sentiment": "negative",
+      "people_mentioned": [],
+      "first_seen": "2026-03-15T11:49:42.538316+00:00"
+    },
+    {
       "title_original": "\"ศุภจี\" จ่อหารือสมาคมมะพร้าวน้ำหอมไทย เล็งตั้ง\"ล้งกลาง\" ช่วยเกษตรกร - bangkokbiznews",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DUm9oenhTQVlZcFZSc2o4X1kwVjgwaDc3aUJoZ2l4REpGYzFxcTFkWDJKRC1va3h6emNLSzViTHh3TDlIa3RfLWJyY2haTjFCMGRoME9meXNPVVp2?oc=5",
       "pub_date": "Mon, 09 Mar 2026 15:35:00 GMT",
@@ -3403,7 +3445,7 @@
       "first_seen": "2026-03-09T15:00:00Z"
     }
   ],
-  "last_updated": "2026-03-15T07:35:45.740020+00:00",
+  "last_updated": "2026-03-15T11:49:42.538316+00:00",
   "scan_history": [
     {
       "timestamp": "2026-03-09T15:49:33Z",
@@ -3492,6 +3534,10 @@
     {
       "timestamp": "2026-03-15T07:35:45.740020+00:00",
       "new_articles": 6
+    },
+    {
+      "timestamp": "2026-03-15T11:49:42.538316+00:00",
+      "new_articles": 3
     }
   ]
 }
