@@ -1,6 +1,258 @@
 {
   "articles": [
     {
+      "title_original": "\"พาณิชย์-สอบสวนกลาง\" จ่อฟันนอมินี \"ล้งมะพร้าว\" เร่งสอบต่างชาติ-คนไทยร่วมกระทำผิด - TNN",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45ak9hMmtCeU1aSE9PM09vLVYySllscW9DWGx0UTlMbVYtbEJDdjlmajRqNDNiVHdQRTZJQjlySklqRmQ3MnJPMVE3VTNhZ2lmN2hrTmZHTGxxZk5aSk9xUmpNWQ?oc=5",
+      "pub_date": "Wed, 11 Mar 2026 08:11:31 GMT",
+      "source": "TNN",
+      "description_original": "\"พาณิชย์-สอบสวนกลาง\" จ่อฟันนอมินี \"ล้งมะพร้าว\" เร่งสอบต่างชาติ-คนไทยร่วมกระทำผิด&nbsp;&nbsp;TNN",
+      "is_priority_outlet": false,
+      "id": "2a0b806a95f2",
+      "title_en": "Commerce-Central Investigation preparing to prosecute coconut warehouse nominees, expediting investigation of foreign-Thai joint violations",
+      "summary_en": "The Ministry of Commerce and Central Investigation Bureau are preparing to take action against nominees operating coconut warehouses, investigating collaboration between foreigners and Thais in illegal activities.",
+      "sentiment": "negative",
+      "people_mentioned": [],
+      "first_seen": "2026-03-17T14:42:18.391844+00:00"
+    },
+    {
+      "title_original": "สว.สมุทรสงคราม นำทีมถกแก้ราคามะพร้าวน้ำหอมตกต่ำ เน้นจับตา-ชงตรวจนอมินี สร้างอำนาจเหนือตลาด - เดลินิวส์",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2VnJyaGtYeFNBbEpoTjMwZ1JtT09NYUJDLWxxck5NUE8xdF9ZS2lEMDNSb2lvNmJHUGExcXZJV3ZXeHhvekNmV1kxYW9OazU0OGlZ?oc=5",
+      "pub_date": "Wed, 11 Mar 2026 06:58:00 GMT",
+      "source": "เดลินิวส์",
+      "description_original": "สว.สมุทรสงคราม นำทีมถกแก้ราคามะพร้าวน้ำหอมตกต่ำ เน้นจับตา-ชงตรวจนอมินี สร้างอำนาจเหนือตลาด&nbsp;&nbsp;เดลินิวส์",
+      "is_priority_outlet": false,
+      "id": "3e350804e972",
+      "title_en": "Samut Songkhram Senator leads team to discuss solutions for declining aromatic coconut prices, focusing on monitoring and proposing nominee inspections creating market dominance",
+      "summary_en": "A senator from Samut Songkhram leads discussions to address falling aromatic coconut prices and proposes investigating nominees who may be creating market monopolies.",
+      "sentiment": "negative",
+      "people_mentioned": [],
+      "first_seen": "2026-03-17T14:42:18.391844+00:00"
+    },
+    {
+      "title_original": "\"พาณิชย์-สอบสวนกลาง\" จ่อฟันนอมินี \"ล้งมะพร้าว\" เร่งสอบต่างชาติ-คนไทยร่วมกระทำผิด - TrueID",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ObFN2c2V5SnB1TUp2SmRRWWx1aDlYa1NGU0h2aXZCcGRhanlieVBZbXg4REc4QmVvZnZWY0ZLV1Q5U0ZvcXlxWUxjVGo3Smg0VG5oX0xB?oc=5",
+      "pub_date": "Wed, 11 Mar 2026 08:02:00 GMT",
+      "source": "TrueID",
+      "description_original": "\"พาณิชย์-สอบสวนกลาง\" จ่อฟันนอมินี \"ล้งมะพร้าว\" เร่งสอบต่างชาติ-คนไทยร่วมกระทำผิด&nbsp;&nbsp;TrueID",
+      "is_priority_outlet": false,
+      "id": "c23965981dfc",
+      "title_en": "Commerce-Central Investigation preparing to prosecute coconut warehouse nominees, expediting investigation of foreign-Thai joint violations",
+      "summary_en": "The Ministry of Commerce and Central Investigation Bureau are preparing legal action against nominees in coconut warehouse operations involving foreign-Thai illegal collaborations.",
+      "sentiment": "negative",
+      "people_mentioned": [],
+      "first_seen": "2026-03-17T14:42:18.391844+00:00"
+    },
+    {
+      "title_original": "เปิดฉากฟันทุนต่างชาติ ‘ฮุบทั้งสวน’ นอมินียึดตลาดมะพร้าวไทย - เดลินิวส์",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kdnJLRDlyazV0Mm9ucGpYTnpLQTFhbVR4eGFuMzNCT00zSUFNdGstd1B3X05SQkJiUXVvbmRhclc3djJheDFFTU9jbGY4YURFRGNn?oc=5",
+      "pub_date": "Wed, 11 Mar 2026 04:30:00 GMT",
+      "source": "เดลินิวส์",
+      "description_original": "เปิดฉากฟันทุนต่างชาติ ‘ฮุบทั้งสวน’ นอมินียึดตลาดมะพร้าวไทย&nbsp;&nbsp;เดลินิวส์",
+      "is_priority_outlet": false,
+      "id": "b144794939f5",
+      "title_en": "Opening battle against foreign capital 'grabbing entire orchards' - nominees seizing Thai coconut market",
+      "summary_en": "Authorities are launching investigations into foreign investors using nominees to monopolize Thailand's coconut market by acquiring entire orchards.",
+      "sentiment": "negative",
+      "people_mentioned": [],
+      "first_seen": "2026-03-17T14:42:18.391844+00:00"
+    },
+    {
+      "title_original": "กขค. ผนึก พาณิชย์ ตรวจล้งมะพร้าวต่างชาติฮั้วราคามีความผิด ขู่รับโทษทางอาญา - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QdldELVZ0OE9EeDJmeVFQVEFaclpNbFJhTUdpd1lfcVk2VkNRSEpqcXZWR1FiaklaczZXVWZycFZUSms4RFJQc0dJQWYtZFN3RG9tTXNkY0RZckZCeTNQY01mZ0NSTUR3VHFQSWZCdTA?oc=5",
+      "pub_date": "Wed, 11 Mar 2026 22:14:44 GMT",
+      "source": "LINE TODAY",
+      "description_original": "กขค. ผนึก พาณิชย์ ตรวจล้งมะพร้าวต่างชาติฮั้วราคามีความผิด ขู่รับโทษทางอาญา&nbsp;&nbsp;LINE TODAY",
+      "is_priority_outlet": false,
+      "id": "1606bb5e63d2",
+      "title_en": "Department of Internal Trade partners with Commerce Ministry to inspect foreign coconut warehouses for price manipulation violations, threatening criminal penalties",
+      "summary_en": "Government departments are jointly investigating foreign-operated coconut warehouses for illegal price manipulation, with violators facing criminal charges.",
+      "sentiment": "negative",
+      "people_mentioned": [],
+      "first_seen": "2026-03-17T14:42:18.391844+00:00"
+    },
+    {
+      "title_original": "พลังศรัทธาแห่งถลาง มโนราห์ 159 ชีวิต รวมใจบวงสรวง สดุดีท้าวเทพกระษัตรี–ท้าวศรีสุนทร และบรรพชนผู้กล้าเมืองถลาง - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi5AdBVV95cUxQY1BzZlFrcEswbXJsMTJCVFUtTHhaQWlSbUJ3Qlp1VzlZbS1NMzlNek50TUM4Tm1CTTE0QWk5a2FMTkZLcHZFRnhoekhDTVg2dGtGNXNpZ2stYUtpNW9rQWZ1MFBBbjFqOVJlaFVpblZ5UUtxUEsxRWFsanhTWm9LdEpIUGlBSzZ3bHlJY2FMc0J4M0dYVWdMQ0J0MGVVQWVZSWJZN2pDNlNra1dvUFYzd3lsMmlob0pyc1R3Y0VXc3hoRFNHblFVZ1VJdng3UEd5U3ZTb1VTMkt3VlYycnFBTDBqbmtYQkNqV1dIbVFRQm5TVUw3VDdCSFVrMFY5a0dlVXNGM0diQUctVXZfTUFsZzFuN0UzX2ZOMmFSRFJscExOVHhIbExJcldnbHlpMHdKaHNUMnZZdVU1Q3hfZW5JaHNxaWdEei1RaVgyRXdnQ3FYcFUyLXJ3OTV1ZUM2UFJzQzZJa2dfTl81UDRJY002SmMtWEdKNXdTd051UWIxdElRSjFoeFRwNUR6NXJzNDlKVC05aDd3X1RVQUtscldOOFJnMnN3OWdPeHVQbjZ1ai03QXhDOEd6TTEtZEVoNHpIQ2VOZlpBdDFzRnkxLXJoU0ZtR3RCZnMtbXJNazduSUI0b3VLQnBSTHpKOWZTYTR6TnVoVnU1b0FPcGwyWktnRFctV2o0RkFjNlI4OUFMdDlUZUVGclV1WC1fbVpGQVY3ZWhPS2JaMjR0RFBHLUY1akwxSEpTM3FjcjQ2VVJMXzJXajdDZUtQSkYxSUp6RDc5MmFhNnp0MmFBcklFOV9xUzBvQmpGTDBkZEdGR1lMYUNJRzl1ajRCbjE5blg2VHE2RzVyRlZzZ2VNdzh6aHpnNkhyOXIzdWxSOUVkUXkwakJqYXN4SVNmZkRGaUpJY085Rkw5NG1ZbVdaR1U2RldBdXhiX2lOVFpqZkJCUUdLd3ctZ1VxNlBLa3hjZnBmVVFhS2t1M25KRmY5eDU4WTU3VUhIa0FRUDF4SzExdjJVNG8tNFdkVThEZjVzZUJSS3BxZXJjRWNwLXR1OFF3WEc1QW5XN25wNkZrR284b3FEZTNnX1RvV2E2RlRhR2t5ZUZQaGhyVlA1MmZlR1dOaW12dzdqa2Y2SXJOVEtOaFNWSU4zOGlyWjdaYk8zcFc1dFRkaUoyVFF5RllzVUg0QUFEMURrZVo2MDBVT3BPdGxOV2RIcVVwU0hVeVVGNmE2YnZyQkZrQXJaT2o5NkZqNTV0RS0wcDJZVGtKRDlSWUhoazBZcjBhMkE0TEI4QkNtM1ZKV3V0eEVfYl9BQTdKMnA2dllhTGs?oc=5",
+      "pub_date": "Fri, 13 Mar 2026 01:07:53 GMT",
+      "source": "facebook.com",
+      "description_original": "พลังศรัทธาแห่งถลาง มโนราห์ 159 ชีวิต รวมใจบวงสรวง สดุดีท้าวเทพกระษัตรี–ท้าวศรีสุนทร และบรรพชนผู้กล้าเมืองถลาง&nbsp;&nbsp;facebook.com",
+      "is_priority_outlet": false,
+      "id": "bbb6056da9d2",
+      "title_en": "The spiritual power of Thalang - 159 Manorah performers unite in ceremony honoring Thao Thepkrasattri-Thao Sri Sunthorn and brave ancestors of Thalang",
+      "summary_en": "A cultural ceremony featuring 159 Manorah performers pays tribute to historical heroines and ancestors of Thalang district.",
+      "sentiment": "positive",
+      "people_mentioned": [],
+      "first_seen": "2026-03-17T14:42:18.391844+00:00"
+    },
+    {
+      "title_original": "โลกธุรกิจ - กรมพัฒน์ฯกำหนด7มาตรการรองรับผลกระทบสถานการณ์พลังงานโลก - แนวหน้า",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZcHpJQVRJRnItZjhzUE94YnFPTHAyYlhEOVJFdzVPeHo0bzduWW9sNWw3MDdzS1RLUTFnVXVBVXp2c0xXbFJMNGQ5b05rajQ?oc=5",
+      "pub_date": "Thu, 12 Mar 2026 08:14:00 GMT",
+      "source": "แนวหน้า",
+      "description_original": "โลกธุรกิจ - กรมพัฒน์ฯกำหนด7มาตรการรองรับผลกระทบสถานการณ์พลังงานโลก&nbsp;&nbsp;แนวหน้า",
+      "is_priority_outlet": false,
+      "id": "de26227846a6",
+      "title_en": "Business World - Department of Business Development sets 7 measures to handle impacts of global energy situation",
+      "summary_en": "The Department of Business Development has established seven measures to mitigate the effects of the global energy crisis on businesses.",
+      "sentiment": "neutral",
+      "people_mentioned": [
+        {
+          "key": "poonpong",
+          "name_en": "Poonpong Naiyanapakorn",
+          "role": "Director General, Department of Business Development",
+          "priority": "high"
+        }
+      ],
+      "first_seen": "2026-03-17T14:42:18.391844+00:00"
+    },
+    {
+      "title_original": "“ล้ง”มะพร้าว นอมินี กับโครงสร้างการค้าผลไม้ไทย - thansettakij",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUNnl5d0N6WlRSdnZUUDZTWlhQdTVPcUpnWm0yLUUzTXFtMnhMZVZRUGV3NjRnbFMyMDB5WkRDdzB3eDV5dHBIMUFId1Q2cUdDaU1ZUlVwaXBBTEVTR3R3LQ?oc=5",
+      "pub_date": "Mon, 16 Mar 2026 05:38:00 GMT",
+      "source": "thansettakij",
+      "description_original": "“ล้ง”มะพร้าว นอมินี กับโครงสร้างการค้าผลไม้ไทย&nbsp;&nbsp;thansettakij",
+      "is_priority_outlet": true,
+      "id": "d4fd4d497e4a",
+      "title_en": "Coconut warehouses, nominees and the trade structure of Thai fruits",
+      "summary_en": "An analysis of how coconut warehouse operations and nominee structures affect Thailand's fruit trade industry.",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-03-17T14:42:18.391844+00:00"
+    },
+    {
+      "title_original": "บุกค้นล้งมะพร้าวราชบุรี ทุนข้ามชาติใช้นอมินีฮุบวงจรการค้า-ทำราคาตกต่ำ - thestandard.co",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GWVg3QXd3TDd6dmZMbGhFRVpBU2JqelZlbDROV1B2a2dkLUNDRHJfdXdhRm96WUxMbWtJQUdSYmhISlN3MXMzcHFmTnY1d3A2Nkh2WFlZSjNtZ2ZGWTFkTGtZdFM2dw?oc=5",
+      "pub_date": "Sun, 15 Mar 2026 01:31:35 GMT",
+      "source": "thestandard.co",
+      "description_original": "บุกค้นล้งมะพร้าวราชบุรี ทุนข้ามชาติใช้นอมินีฮุบวงจรการค้า-ทำราคาตกต่ำ&nbsp;&nbsp;thestandard.co",
+      "is_priority_outlet": false,
+      "id": "762fa48806bd",
+      "title_en": "Raid on Ratchaburi coconut warehouse - multinational capital uses nominees to monopolize trade cycle and depress prices",
+      "summary_en": "Authorities raided coconut warehouses in Ratchaburi, investigating how foreign investors use nominees to control trade and manipulate prices downward.",
+      "sentiment": "negative",
+      "people_mentioned": [],
+      "first_seen": "2026-03-17T14:42:18.391844+00:00"
+    },
+    {
+      "title_original": "กขค.ลุยตรวจล้งผลไม้-นอมินี ราชบุรี หวั่นฮั้วราคาผลผลิต พร้อมลงพื้นที่สัปดาห์หน้า - ประชาชาติธุรกิจ",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HR0hiMzRKRFl6Y3Q5dThGMnZuLXFsaHF4YVVKcjR5Z1M3aFk4RmJxUVVfY0VuM0JBUFRiTGpIdTZUMjc4QWMxYXVOSFVCTzI2ZExEWl94dUtraTN2Q3VOLWxzNA?oc=5",
+      "pub_date": "Wed, 11 Mar 2026 08:10:04 GMT",
+      "source": "ประชาชาติธุรกิจ",
+      "description_original": "กขค.ลุยตรวจล้งผลไม้-นอมินี ราชบุรี หวั่นฮั้วราคาผลผลิต พร้อมลงพื้นที่สัปดาห์หน้า&nbsp;&nbsp;ประชาชาติธุรกิจ",
+      "is_priority_outlet": false,
+      "id": "ed00c9531d28",
+      "title_en": "Department of Internal Trade continues inspecting fruit warehouses and nominees in Ratchaburi, concerned about price fixing, ready to visit areas next week",
+      "summary_en": "The Department of Internal Trade is continuing investigations of fruit warehouses and nominees in Ratchaburi over price manipulation concerns, planning field visits next week.",
+      "sentiment": "negative",
+      "people_mentioned": [],
+      "first_seen": "2026-03-17T14:42:18.391844+00:00"
+    },
+    {
+      "title_original": "บุกจับ 6 ล้งมะพร้าว \"นอมินีจีน\" กินรวบ-กดราคารับซื้อ - Thai PBS",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3QTZyME5IeVFJdFBJN3VzOF9EdFBENVByTTVlM1NyNHVCLWp1TDZNZEZyUTFRcmZyTXMxMElkV1FHS2Zob3ZLS0FmQnk1Ym8zNXJJUl9pTk1FN1dnVm96SFpXZ2VxUUFhYlE0YnVHUUo2RzBU?oc=5",
+      "pub_date": "Tue, 10 Mar 2026 22:00:00 GMT",
+      "source": "Thai PBS",
+      "description_original": "บุกจับ 6 ล้งมะพร้าว \"นอมินีจีน\" กินรวบ-กดราคารับซื้อ&nbsp;&nbsp;Thai PBS",
+      "is_priority_outlet": true,
+      "id": "1817df74402a",
+      "title_en": "Raid on 6 Coconut Trading Posts - 'Chinese Nominees' Monopolizing and Suppressing Purchase Prices",
+      "summary_en": "Authorities raided 6 coconut trading posts operated by Chinese nominees who were monopolizing the market and artificially suppressing coconut purchase prices from farmers.",
+      "sentiment": "negative",
+      "people_mentioned": [],
+      "first_seen": "2026-03-17T14:42:18.391844+00:00"
+    },
+    {
+      "title_original": "ปอศ. จ่อฟัน \"ล้งมะพร้าว\" ราชบุรี 6 บริษัท สวมสิทธินอมินีทำราคาป่วน คาดสัปดาห์หน้าออกหมายจับ - เดลินิวส์",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JQ3JDQkppaTNnRm9EUW5GbVhIQ3FEZlZubkYtdDZiWEZ0eTd4UFhpeGdZZ1RqX1lWOUNTZUo5clR5M2Rxem1IUU53S0pEWWRKb093?oc=5",
+      "pub_date": "Wed, 11 Mar 2026 07:02:00 GMT",
+      "source": "เดลินิวส์",
+      "description_original": "ปอศ. จ่อฟัน \"ล้งมะพร้าว\" ราชบุรี 6 บริษัท สวมสิทธินอมินีทำราคาป่วน คาดสัปดาห์หน้าออกหมายจับ&nbsp;&nbsp;เดลินิวส์",
+      "is_priority_outlet": false,
+      "id": "26f9a439a1c3",
+      "title_en": "DSI to Prosecute 6 Coconut Trading Companies in Ratchaburi for Using Nominee Rights to Disrupt Prices, Arrest Warrants Expected Next Week",
+      "summary_en": "The Department of Special Investigation plans to prosecute 6 coconut trading companies in Ratchaburi for illegally using nominee arrangements to manipulate market prices, with arrest warrants expected to be issued soon.",
+      "sentiment": "negative",
+      "people_mentioned": [],
+      "first_seen": "2026-03-17T14:42:18.391844+00:00"
+    },
+    {
+      "title_original": "พณ.ดึงเอกชน แก้ปัญหามะพร้าวน้ำหอมราคาดิ่ง ย้ำปราบนอมินี ลุ้นคนจีนเพิ่มดื่มดับร้อน - Matichon Online",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yWk5kTFZpelU0d1l3OFJYcmhGS2ZieFlHbko0cFlua1RWMHdJcXRwVDN1ajMtbGY3SXJPOUVUb0d5Nm9DTXNzaExhdXR3RFNaUUZhd3NMemlzSzQ?oc=5",
+      "pub_date": "Thu, 12 Mar 2026 07:49:26 GMT",
+      "source": "Matichon Online",
+      "description_original": "พณ.ดึงเอกชน แก้ปัญหามะพร้าวน้ำหอมราคาดิ่ง ย้ำปราบนอมินี ลุ้นคนจีนเพิ่มดื่มดับร้อน&nbsp;&nbsp;Matichon Online",
+      "is_priority_outlet": true,
+      "id": "c2a4576400c9",
+      "title_en": "Ministry of Commerce Partners with Private Sector to Solve Aromatic Coconut Price Plunge, Emphasizes Crackdown on Nominees, Hopes for Increased Chinese Consumption",
+      "summary_en": "The Ministry of Commerce is working with private companies to address the falling prices of aromatic coconuts while continuing efforts to eliminate nominee arrangements and hoping for increased demand from Chinese consumers.",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-03-17T14:42:18.391844+00:00"
+    },
+    {
+      "title_original": "กรมพัฒน์เปิด 6 ชื่อล้งมะพร้าวต่างชาติทำผิดกฎหมาย แฉพฤติกรรมสุดตุกติก - commercenewsagency",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wRkl5Xy1UXzJET3k4TVZrYTJXMGo5bVRqTi0zR3BLNkFjOEpUelhNazZzQ1dtbmtURDRKQjFkRDV4MUZTeDFneUp4SHlYejVVa0lmd1ZIaw?oc=5",
+      "pub_date": "Wed, 11 Mar 2026 14:32:43 GMT",
+      "source": "commercenewsagency",
+      "description_original": "กรมพัฒน์เปิด 6 ชื่อล้งมะพร้าวต่างชาติทำผิดกฎหมาย แฉพฤติกรรมสุดตุกติก&nbsp;&nbsp;commercenewsagency",
+      "is_priority_outlet": false,
+      "id": "9494a1a7d4ff",
+      "title_en": "Department of Business Development Reveals 6 Names of Foreign Coconut Trading Posts Breaking the Law, Exposes Unethical Behavior",
+      "summary_en": "The Department of Business Development has disclosed the names of 6 foreign-operated coconut trading posts that violated laws and exposed their unethical business practices.",
+      "sentiment": "negative",
+      "people_mentioned": [
+        {
+          "key": "poonpong",
+          "name_en": "Poonpong Naiyanapakorn",
+          "role": "Director General, Department of Business Development",
+          "priority": "high"
+        }
+      ],
+      "first_seen": "2026-03-17T14:42:18.391844+00:00"
+    },
+    {
+      "title_original": "อากาศร้อนมะพร้าวน้ำหอมขายดี | อีสานวันนี้ 16 มีนาคม 2569 - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jZWo0a2dRbWpueG4wcV9VQ3pFZVV4VEN5ZVc0T3hSS2JPSmx5VDdMc1ZsV0t2cm9OWmFLeXNpS2RuSHFub1ZqcUJiakF4UktmaHJUbXhR?oc=5",
+      "pub_date": "Tue, 17 Mar 2026 08:59:59 GMT",
+      "source": "YouTube",
+      "description_original": "อากาศร้อนมะพร้าวน้ำหอมขายดี | อีสานวันนี้ 16 มีนาคม 2569&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "90c1e1715727",
+      "title_en": "Hot Weather Boosts Aromatic Coconut Sales | Isaan Today March 16, 2026",
+      "summary_en": "The hot weather conditions have led to increased sales of aromatic coconuts as reported in a regional news program.",
+      "sentiment": "positive",
+      "people_mentioned": [],
+      "first_seen": "2026-03-17T14:42:18.391844+00:00"
+    },
+    {
+      "title_original": "ล้งกลาง ทางรอดมะพร้าวน้ำหอมราคาตก ลดการกดราคาหน้าสวน - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE54TFRtTmtPaWF2dWVudnVJeW5rYzQzLW1PM2tkTjlhbUZobVJtbDhacHo0YjMweDVGX2dwVldzQnVfRzdRY2JHb1hnZm84WWk2eENNSg?oc=5",
+      "pub_date": "Tue, 17 Mar 2026 08:44:37 GMT",
+      "source": "YouTube",
+      "description_original": "ล้งกลาง ทางรอดมะพร้าวน้ำหอมราคาตก ลดการกดราคาหน้าสวน&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "c8c4735ee0b2",
+      "title_en": "Central Trading Posts: A Solution for Falling Aromatic Coconut Prices, Reducing Price Suppression at Farms",
+      "summary_en": "Central trading posts are proposed as a solution to address falling aromatic coconut prices and reduce the practice of price suppression directly at coconut farms.",
+      "sentiment": "positive",
+      "people_mentioned": [],
+      "first_seen": "2026-03-17T14:42:18.391844+00:00"
+    },
+    {
+      "title_original": "ปอกเปลือกนอมินี! ตร.กวาดล้างล้งมะพร้าวทุนจีน | 11 มี.ค. 69 | ข่าวเช้าหัวเขียว - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CdGJqTVIyQjFIaC0zZTg1SkFWRnA4dmJEdWVlY3ZlVmo4cDRMRVpfWUNjSHFTbWczcWJlOVNZZTdxc3lPQ01LWXBsNTZLSlV5MndGRTJn?oc=5",
+      "pub_date": "Wed, 11 Mar 2026 01:03:16 GMT",
+      "source": "YouTube",
+      "description_original": "ปอกเปลือกนอมินี! ตร.กวาดล้างล้งมะพร้าวทุนจีน | 11 มี.ค. 69 | ข่าวเช้าหัวเขียว&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "0f389091b7a8",
+      "title_en": "Exposing Nominees! Police Crackdown on Chinese-Funded Coconut Trading Posts | March 11, 2026 | Morning Green Headlines",
+      "summary_en": "Police conducted operations to eliminate nominee arrangements and crack down on coconut trading posts funded by Chinese capital as reported in morning news.",
+      "sentiment": "negative",
+      "people_mentioned": [],
+      "first_seen": "2026-03-17T14:42:18.391844+00:00"
+    },
+    {
       "title_original": "เปิดปฏิบัติการ 'ปอกเปลือกนอมินี' ค้น 8 ล้งนอมินีทุนจีน กดราคามะพร้าวน้ำหอมไทย - bangkokbiznews",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JNVBWS0ZGNlM1OGlFeU1JSDRaZEVsOXk2WHktb1JFWTE4ZGMxYzVhcWMzV0J6cVp6YVdENk85amlFSDJWMTRoTkVfZ2EyUE0wdGVwR3ByODJGN20zd3VwOVo0UjZ5Zw?oc=5",
       "pub_date": "Tue, 10 Mar 2026 09:54:58 GMT",
@@ -3893,7 +4145,7 @@
       "first_seen": "2026-03-09T15:00:00Z"
     }
   ],
-  "last_updated": "2026-03-17T08:00:44.436662+00:00",
+  "last_updated": "2026-03-17T14:42:18.391844+00:00",
   "scan_history": [
     {
       "timestamp": "2026-03-09T15:49:33Z",
@@ -4006,6 +4258,10 @@
     {
       "timestamp": "2026-03-17T08:00:44.436662+00:00",
       "new_articles": 10
+    },
+    {
+      "timestamp": "2026-03-17T14:42:18.391844+00:00",
+      "new_articles": 17
     }
   ]
 }
