@@ -1,6 +1,160 @@
 {
   "articles": [
     {
+      "title_original": "เปิดปฏิบัติการ 'ปอกเปลือกนอมินี' ค้น 8 ล้งนอมินีทุนจีน กดราคามะพร้าวน้ำหอมไทย - bangkokbiznews",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JNVBWS0ZGNlM1OGlFeU1JSDRaZEVsOXk2WHktb1JFWTE4ZGMxYzVhcWMzV0J6cVp6YVdENk85amlFSDJWMTRoTkVfZ2EyUE0wdGVwR3ByODJGN20zd3VwOVo0UjZ5Zw?oc=5",
+      "pub_date": "Tue, 10 Mar 2026 09:54:58 GMT",
+      "source": "bangkokbiznews",
+      "description_original": "เปิดปฏิบัติการ 'ปอกเปลือกนอมินี' ค้น 8 ล้งนอมินีทุนจีน กดราคามะพร้าวน้ำหอมไทย&nbsp;&nbsp;bangkokbiznews",
+      "is_priority_outlet": false,
+      "id": "79b5280be5c6",
+      "title_en": "Operation 'Peeling Nominee' Launched to Search 8 Chinese-funded Nominee Coconut Mills Suppressing Thai Aromatic Coconut Prices",
+      "summary_en": "Authorities launched an operation targeting 8 Chinese-funded nominee coconut processing mills that are allegedly suppressing Thai aromatic coconut prices. The investigation aims to expose illegal business structures using Thai nominees.",
+      "sentiment": "negative",
+      "people_mentioned": [],
+      "first_seen": "2026-03-17T08:00:44.436662+00:00"
+    },
+    {
+      "title_original": "Photo Gallery กรมพัฒน์ถกบิ๊กส่งออก ขอศึกษาโมเดลธุรกิจ นำแก้มะพร้าวน้ำหอมตกต่ำ - ผู้จัดการออนไลน์",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85SzVlbTBlNFItTHVUdk1sdVhCSmZLTUcwZGh0TGpmZ0g5bnM1cVY4SUY1RDc0dEhjbVplenI0TGM1SU5pVUEzWFY1WDBmay1DU1dmbi03U25xUFdWdzlGbEFyQlhoMThndEE?oc=5",
+      "pub_date": "Tue, 10 Mar 2026 08:31:00 GMT",
+      "source": "ผู้จัดการออนไลน์",
+      "description_original": "Photo Gallery กรมพัฒน์ถกบิ๊กส่งออก ขอศึกษาโมเดลธุรกิจ นำแก้มะพร้าวน้ำหอมตกต่ำ&nbsp;&nbsp;ผู้จัดการออนไลน์",
+      "is_priority_outlet": false,
+      "id": "9126c1330ccb",
+      "title_en": "Department of Business Development Discusses with Major Exporters, Requests Study of Business Models to Solve Aromatic Coconut Crisis",
+      "summary_en": "The Department of Business Development held discussions with major exporters to study business models as solutions for the declining aromatic coconut industry. The meeting aims to address the current crisis in the coconut sector.",
+      "sentiment": "neutral",
+      "people_mentioned": [
+        {
+          "key": "poonpong",
+          "name_en": "Poonpong Naiyanapakorn",
+          "role": "Director General, Department of Business Development",
+          "priority": "high"
+        }
+      ],
+      "first_seen": "2026-03-17T08:00:44.436662+00:00"
+    },
+    {
+      "title_original": "กรมพัฒน์ฟันล้งมะพร้าวต่างชาติใช้คนไทยเป็นนอมินี แฉพฤติกรรมสุดตุกติก - ผู้จัดการออนไลน์",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WaUR5aXBRdVBlek00bWF6U0NrLXdva1I4MWlWbEVNNW80V3NMM0h0aXYteFlRU0xfUkFyZVpkVWVUeld3NXpzN1F5TG9STGs1QUJOa2htSUNBYjFJMzlqag?oc=5",
+      "pub_date": "Wed, 11 Mar 2026 14:55:00 GMT",
+      "source": "ผู้จัดการออนไลน์",
+      "description_original": "กรมพัฒน์ฟันล้งมะพร้าวต่างชาติใช้คนไทยเป็นนอมินี แฉพฤติกรรมสุดตุกติก&nbsp;&nbsp;ผู้จัดการออนไลน์",
+      "is_priority_outlet": false,
+      "id": "0ce58b770ebc",
+      "title_en": "Department of Business Development Targets Foreign Coconut Mills Using Thai Nominees, Exposes Extremely Unethical Behavior",
+      "summary_en": "The Department of Business Development is taking action against foreign coconut mills that use Thai people as nominees. The investigation reveals extremely unethical business practices in the industry.",
+      "sentiment": "negative",
+      "people_mentioned": [
+        {
+          "key": "poonpong",
+          "name_en": "Poonpong Naiyanapakorn",
+          "role": "Director General, Department of Business Development",
+          "priority": "high"
+        }
+      ],
+      "first_seen": "2026-03-17T08:00:44.436662+00:00"
+    },
+    {
+      "title_original": "ดร.ปลอดประสพ เสนอ 7 ข้อ แก้ราคามะพร้าวตกต่ำ เตือน 'ศุภจี' อย่าเชื่อข้าราชการมากเกินไป - Thaipost.net",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBYjdKblYxZ0xNaXQ5UHBQX2Vsd0l1MEcwc3hISEhzZUZ4dUgyRG1iai1kZ2Q0N2lEZEtFYXhUVnlNR3FPdDRqOVdQXzFPVHB6NS1Ib3lPSQ?oc=5",
+      "pub_date": "Tue, 10 Mar 2026 10:17:12 GMT",
+      "source": "Thaipost.net",
+      "description_original": "ดร.ปลอดประสพ เสนอ 7 ข้อ แก้ราคามะพร้าวตกต่ำ เตือน 'ศุภจี' อย่าเชื่อข้าราชการมากเกินไป&nbsp;&nbsp;Thaipost.net",
+      "is_priority_outlet": false,
+      "id": "8170423433c3",
+      "title_en": "Dr. Plodprasop Proposes 7 Solutions for Low Coconut Prices, Warns 'Supchee' Not to Trust Government Officials Too Much",
+      "summary_en": "Dr. Plodprasop presented 7 measures to address the declining coconut prices and warned against placing excessive trust in government officials. The proposals aim to revive the struggling coconut market.",
+      "sentiment": "negative",
+      "people_mentioned": [],
+      "first_seen": "2026-03-17T08:00:44.436662+00:00"
+    },
+    {
+      "title_original": "CIB เปิดปฏิบัติการ ปอกเปลือกนอมินี ทลายเครือข่ายล้งมะพร้าวข้ามชาติ - The Bangkok Insight",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8zNE93eDR1VmJudWVnMWU5N215dTVaa1pDYV9kYUZmc3JndVRYdUduYzdxZmZBZVRjYVVxM3pMeEtIQ2NqWjNTTVpnQUpUa2lhakZaa3FZWmxYTHdMRmZRZndLcTNsMUxHcUJhT0VPZVRwcDA1dXVMTFc3QXo?oc=5",
+      "pub_date": "Wed, 11 Mar 2026 01:21:24 GMT",
+      "source": "The Bangkok Insight",
+      "description_original": "CIB เปิดปฏิบัติการ ปอกเปลือกนอมินี ทลายเครือข่ายล้งมะพร้าวข้ามชาติ&nbsp;&nbsp;The Bangkok Insight",
+      "is_priority_outlet": false,
+      "id": "a3e8ab9b9b75",
+      "title_en": "CIB Launches 'Peeling Nominee' Operation to Destroy Cross-border Coconut Mill Networks",
+      "summary_en": "The Central Investigation Bureau initiated an operation to dismantle international coconut mill networks using nominee structures. The operation targets cross-border illegal business operations in the coconut industry.",
+      "sentiment": "negative",
+      "people_mentioned": [],
+      "first_seen": "2026-03-17T08:00:44.436662+00:00"
+    },
+    {
+      "title_original": "ปอกเปลือกขบวนการนอมินี ทลาย \"ล้งจีน\" กินรวบวงจรต้นน้ำยันปลายน้ำ - TNN",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PQWdsZFRUQXRmYWdramJRaUdJNDF6X0lpLWdqUUlQVGxXYTlMcTR6YTN6T0kyTjJ3QTdrdlZORVlrRXhLWEhqRHIwWTR2SmlTczZDZTBkMFhFQkhw?oc=5",
+      "pub_date": "Wed, 11 Mar 2026 05:39:02 GMT",
+      "source": "TNN",
+      "description_original": "ปอกเปลือกขบวนการนอมินี ทลาย \"ล้งจีน\" กินรวบวงจรต้นน้ำยันปลายน้ำ&nbsp;&nbsp;TNN",
+      "is_priority_outlet": false,
+      "id": "eb6f65aed604",
+      "title_en": "Peeling the Nominee Syndicate to Destroy 'Chinese Mills' Controlling the Entire Supply Chain from Upstream to Downstream",
+      "summary_en": "Authorities are dismantling nominee syndicates to destroy Chinese mills that control the entire coconut supply chain. The operation targets comprehensive control from production to distribution.",
+      "sentiment": "negative",
+      "people_mentioned": [],
+      "first_seen": "2026-03-17T08:00:44.436662+00:00"
+    },
+    {
+      "title_original": "อากาศร้อนมะพร้าวน้ำหอมขายดี อีสานเช้านี้ NBT UBON 170369 - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiWUd3cThYVjNYMTBNcXZfLUREUC1UNEFHdlR4M1dRanFjSjNtaVNrV3Z0VVRSTmdFWDNxUU5DY0Q5QVdXZzNoc0xkN2YwQXVFT2FMRGJn?oc=5",
+      "pub_date": "Tue, 17 Mar 2026 04:25:56 GMT",
+      "source": "YouTube",
+      "description_original": "อากาศร้อนมะพร้าวน้ำหอมขายดี อีสานเช้านี้ NBT UBON 170369&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "f563da6729c5",
+      "title_en": "Hot Weather Boosts Aromatic Coconut Sales in Northeast Thailand",
+      "summary_en": "The hot weather in northeastern Thailand has led to increased sales of aromatic coconuts. Local vendors are experiencing good demand due to the weather conditions.",
+      "sentiment": "positive",
+      "people_mentioned": [],
+      "first_seen": "2026-03-17T08:00:44.436662+00:00"
+    },
+    {
+      "title_original": "ขอนแก่นอากาศร้อนจัด 'มะพร้าวน้ำหอม' ขายวันเกือบพันลูก (13 มี.ค. 69) | แซ่บทูเดย์ - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLLTFQbmszTld5b19ZVDVFaWp2cE5kdWpaQkZaWHZJUlhiaXYzU0VpMkR5SHR6bW5HalVDWkVqaGZoQ2FUQVdORTc5Nk5GN3oyTlVEYnR3?oc=5",
+      "pub_date": "Fri, 13 Mar 2026 10:15:28 GMT",
+      "source": "YouTube",
+      "description_original": "ขอนแก่นอากาศร้อนจัด 'มะพร้าวน้ำหอม' ขายวันเกือบพันลูก (13 มี.ค. 69) | แซ่บทูเดย์&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "93d568c3fd06",
+      "title_en": "Khon Kaen's Hot Weather Drives 'Aromatic Coconut' Sales to Nearly a Thousand Pieces Daily",
+      "summary_en": "The extreme hot weather in Khon Kaen has boosted aromatic coconut sales to nearly 1,000 pieces per day. Vendors are benefiting from the high demand during the hot season.",
+      "sentiment": "positive",
+      "people_mentioned": [],
+      "first_seen": "2026-03-17T08:00:44.436662+00:00"
+    },
+    {
+      "title_original": "มะพร้าวไทยก้าวไกลสู่ยุโรป พลิกโฉมการแปรรูปจากสวน GI สู่สินค้าพรีเมียมเพิ่มมูลค่า | THE FARMER - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CQmFIdFNHOVA1UVVpakJxcFVlckNiU1FWcm01UVVQUDdaNllRWFZaRzdtalRHb0RyWDZpb0Nid0didWNIYjdMWUJ0N2tkend4bThfU3ZR?oc=5",
+      "pub_date": "Thu, 12 Mar 2026 12:00:06 GMT",
+      "source": "YouTube",
+      "description_original": "มะพร้าวไทยก้าวไกลสู่ยุโรป พลิกโฉมการแปรรูปจากสวน GI สู่สินค้าพรีเมียมเพิ่มมูลค่า | THE FARMER&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "928365033819",
+      "title_en": "Thai Coconuts Advance to Europe: Transforming Processing from GI Farms to Premium Value-Added Products",
+      "summary_en": "Thai coconuts are expanding into European markets by transforming processing from geographical indication farms into premium value-added products. The initiative aims to increase the value of Thai coconut products internationally.",
+      "sentiment": "positive",
+      "people_mentioned": [],
+      "first_seen": "2026-03-17T08:00:44.436662+00:00"
+    },
+    {
+      "title_original": "ตร.ตรวจล้งมะพร้าวนอมินีทุนจีน คนไทยเป็น พนง.-ต่างชาติบริหารจัดการ | Thai PBS News - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EZDlsUjdtdHhST2daRW04NE12S2VGMmtJQWtwOVNVeWJ5SDh4RWl6RVRDQ3pBYTd4T1RsR2tGTHRNTDlKemdLRjFiTlJ0Sm9Za2dKeHpn?oc=5",
+      "pub_date": "Tue, 10 Mar 2026 14:11:27 GMT",
+      "source": "YouTube",
+      "description_original": "ตร.ตรวจล้งมะพร้าวนอมินีทุนจีน คนไทยเป็น พนง.-ต่างชาติบริหารจัดการ | Thai PBS News&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "b08b774e9fb8",
+      "title_en": "Police Inspect Chinese-funded Nominee Coconut Mills with Thai Employees and Foreign Management",
+      "summary_en": "Police are investigating Chinese-funded coconut mills operating through nominee structures with Thai employees but foreign management. The inspection focuses on illegal business arrangements in the coconut processing industry.",
+      "sentiment": "negative",
+      "people_mentioned": [],
+      "first_seen": "2026-03-17T08:00:44.436662+00:00"
+    },
+    {
       "title_original": "กขค. ผนึก พาณิชย์ ตรวจล้งมะพร้าวต่างชาติฮั้วราคามีความผิด ขู่รับโทษทางอาญา - ข่าวสด",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3TkF0VUVnWFpmcWZCbmQ3SElUZkM2c3QtUVRVRFZQNlVLcUhsdE1ReW8yMzN6OXh0VUNNTVdPajdySUIyQTlVWlJhMS0yeWhSRkcwUDhIbEFxN0FzWEE?oc=5",
       "pub_date": "Wed, 11 Mar 2026 10:35:00 GMT",
@@ -3739,7 +3893,7 @@
       "first_seen": "2026-03-09T15:00:00Z"
     }
   ],
-  "last_updated": "2026-03-16T23:56:46.215964+00:00",
+  "last_updated": "2026-03-17T08:00:44.436662+00:00",
   "scan_history": [
     {
       "timestamp": "2026-03-09T15:49:33Z",
@@ -3848,6 +4002,10 @@
     {
       "timestamp": "2026-03-16T23:56:46.215964+00:00",
       "new_articles": 5
+    },
+    {
+      "timestamp": "2026-03-17T08:00:44.436662+00:00",
+      "new_articles": 10
     }
   ]
 }
