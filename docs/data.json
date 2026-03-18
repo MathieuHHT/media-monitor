@@ -1,6 +1,125 @@
 {
   "articles": [
     {
+      "title_original": "โลกธุรกิจ - กรมพัฒนาธุรกิจฯ เปิดเวที ‘Unlocking The New Route’ - แนวหน้า",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aSkg5S1NNdFpsQnlKN2NTMndLTmJaVFFmOHBMcWxTdVhjelhUZFJhOTZjeTV5dG5RZWpxUDJNVTNZWC15QXM3Mm9pMWlXd3c?oc=5",
+      "pub_date": "Mon, 16 Mar 2026 04:39:00 GMT",
+      "source": "แนวหน้า",
+      "description_original": "โลกธุรกิจ - กรมพัฒนาธุรกิจฯ เปิดเวที ‘Unlocking The New Route’&nbsp;&nbsp;แนวหน้า",
+      "is_priority_outlet": false,
+      "id": "8ba2002c0ddd",
+      "title_en": "Business World - Department of Business Development Opens 'Unlocking The New Route' Forum - Naew Na",
+      "summary_en": "The Department of Business Development organized a forum titled 'Unlocking The New Route' to discuss business opportunities and development strategies.",
+      "sentiment": "positive",
+      "people_mentioned": [
+        {
+          "key": "poonpong",
+          "name_en": "Poonpong Naiyanapakorn",
+          "role": "Director General, Department of Business Development",
+          "priority": "high"
+        }
+      ],
+      "first_seen": "2026-03-18T14:50:29.075935+00:00"
+    },
+    {
+      "title_original": "ผู้ตรวจการแผ่นดินถก รมว.พาณิชย์ วันนี้ เร่งแก้ปัญหาล้งนอมินีสินค้าเกษตร - thansettakij",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14azd4ODRDejh2YlFSQ0JSRmdzeUZoQ0c3X1hNU3FUc1NrM2NocWFPdzYzaVdySGZ1SktCTEplZldGdnlxLWp4UGVCMmtrdGt0dDhpX2lPLTc4RWhySmNZQkRvRElhT1oxSjRrdzV3?oc=5",
+      "pub_date": "Thu, 12 Mar 2026 07:00:00 GMT",
+      "source": "thansettakij",
+      "description_original": "ผู้ตรวจการแผ่นดินถก รมว.พาณิชย์ วันนี้ เร่งแก้ปัญหาล้งนอมินีสินค้าเกษตร&nbsp;&nbsp;thansettakij",
+      "is_priority_outlet": true,
+      "id": "433f5e69d670",
+      "title_en": "Ombudsman Discusses with Commerce Minister Today to Urgently Solve Agricultural Product Nominee Problems - Thansettakij",
+      "summary_en": "The Ombudsman is meeting with the Commerce Minister to address urgent issues related to nominee arrangements in agricultural product trading.",
+      "sentiment": "negative",
+      "people_mentioned": [],
+      "first_seen": "2026-03-18T14:50:29.075935+00:00"
+    },
+    {
+      "title_original": "เปิดชื่อ 6 นอมินีล้งมะพร้าว เมื่อ ‘ทุนจีน’ สวมสิทธิ์คนไทย กินรวบสายพานต้นน้ำยันปลายน้ำ - thestandard.co",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxN0tXMFJpOHFkQjd2Tko1MWVPaU9HblpxVTh3QTRRX2QyX2l4eU9VZlplNERKR2ZJcnBtTG9WTENvRHhSZWUyX1dOSFhiNGNWcVJPcS1mb3M3aGxfUjZmanQ2OFhrdWdXVElRX05ZaG5ueFlx?oc=5",
+      "pub_date": "Sun, 15 Mar 2026 09:38:51 GMT",
+      "source": "thestandard.co",
+      "description_original": "เปิดชื่อ 6 นอมินีล้งมะพร้าว เมื่อ ‘ทุนจีน’ สวมสิทธิ์คนไทย กินรวบสายพานต้นน้ำยันปลายน้ำ&nbsp;&nbsp;thestandard.co",
+      "is_priority_outlet": false,
+      "id": "83b6c007029c",
+      "title_en": "Revealing Names of 6 Coconut Nominees When 'Chinese Capital' Assumes Thai Rights, Monopolizing Supply Chain from Upstream to Downstream - The Standard",
+      "summary_en": "The article exposes six nominee companies in the coconut industry allegedly used by Chinese investors to circumvent Thai ownership laws and control the entire supply chain.",
+      "sentiment": "negative",
+      "people_mentioned": [],
+      "first_seen": "2026-03-18T14:50:29.075935+00:00"
+    },
+    {
+      "title_original": "น้ำตาลมะพร้าวน้ำหอม #Foodwork #ThaiPBS - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42SnNsUk1XWnZiTmNyRF9ub1hCOWxwdjNIbUxEcEZURGdKYWE1Wi03cUVMbTJZblNkZGpqYmFFQ1duT05mODZKczFMTWVyakNESXdJNw?oc=5",
+      "pub_date": "Wed, 18 Mar 2026 07:44:51 GMT",
+      "source": "YouTube",
+      "description_original": "น้ำตาลมะพร้าวน้ำหอม #Foodwork #ThaiPBS&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "47909fad2b94",
+      "title_en": "Aromatic Coconut Sugar #Foodwork #ThaiPBS - YouTube",
+      "summary_en": "A video content about aromatic coconut sugar production featured on Thai PBS's Foodwork program.",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-03-18T14:50:29.075935+00:00"
+    },
+    {
+      "title_original": "เค้กวุ้นพวงมาลัย #วุ้นชลบุรี #เค้กวุ้นชลบุรี #วุ้นกะทิมะพร้าวน้ำหอม #วุ้นแฟนซี #วุ้นพวงมาลัย #jelly - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4xMlRBUTYwY2hTNjFCYmEtRVpaaU5Jem5RUS1iUkxYSDlPelF5WjRNd3A1Wnlpb25zd3VmbVNqeWM4MURTOUdQbDdkcEs3dnFSN2l1ag?oc=5",
+      "pub_date": "Sun, 15 Mar 2026 10:43:11 GMT",
+      "source": "YouTube",
+      "description_original": "เค้กวุ้นพวงมาลัย #วุ้นชลบุรี #เค้กวุ้นชลบุรี #วุ้นกะทิมะพร้าวน้ำหอม #วุ้นแฟนซี #วุ้นพวงมาลัย #jelly&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "79ffd78121a6",
+      "title_en": "Garland Jelly Cake #ChonburiJelly #ChonburiJellyCake #AromaticCoconutMilkJelly #FancyJelly #GarlandJelly #jelly - YouTube",
+      "summary_en": "A video showcasing the making of decorative jelly cakes using aromatic coconut milk from Chonburi province.",
+      "sentiment": "positive",
+      "people_mentioned": [],
+      "first_seen": "2026-03-18T14:50:29.075935+00:00"
+    },
+    {
+      "title_original": "ทลายเครือข่าย “ล้งมะพร้าวนอมินี” - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KRWYzWHltNU51YTJTd1FmZWt4dl9JUXZrTW41MzNQM0ZMZUdUZlUyYzBDVVJOR29vUFdfX20tbXpBaFVmVlRPMTUtWnVuZ2oyaDI2Qg?oc=5",
+      "pub_date": "Thu, 12 Mar 2026 05:07:03 GMT",
+      "source": "YouTube",
+      "description_original": "ทลายเครือข่าย “ล้งมะพร้าวนอมินี”&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "07d4a9e85c37",
+      "title_en": "Dismantling 'Coconut Nominee Network' - YouTube",
+      "summary_en": "A video discussing the investigation and breakdown of illegal nominee networks in the coconut industry.",
+      "sentiment": "negative",
+      "people_mentioned": [],
+      "first_seen": "2026-03-18T14:50:29.075935+00:00"
+    },
+    {
+      "title_original": "“ศุภจี” หารือแก้ปัญหาราคามะพร้าวน้ำหอมตกต่ำ คุมเข้มต่างชาติ ปิดวงจรนอมินี . - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1iV2sxLUFpVHI1NXR2ZV95VU9vck9BRFBieWtIYmFjVlpQRENKQlI5QW5nTlVEdGs4NWJvRlpVUVViWUFEZ3ppQ1ZWNmwtYVdhZlhLZA?oc=5",
+      "pub_date": "Fri, 13 Mar 2026 05:17:16 GMT",
+      "source": "YouTube",
+      "description_original": "“ศุภจี” หารือแก้ปัญหาราคามะพร้าวน้ำหอมตกต่ำ คุมเข้มต่างชาติ ปิดวงจรนอมินี .&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "1771b274cb4d",
+      "title_en": "'Suphachai' Discusses Solutions for Low Aromatic Coconut Prices, Strict Foreign Control, Closing Nominee Loops - YouTube",
+      "summary_en": "Minister Suphachai discusses strategies to address falling aromatic coconut prices and strengthen controls against foreign nominee arrangements.",
+      "sentiment": "negative",
+      "people_mentioned": [],
+      "first_seen": "2026-03-18T14:50:29.075935+00:00"
+    },
+    {
+      "title_original": "🔴LIVE #ปีลึก EP84 # #มะพร้าวมาจากไหน - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oV0Z4VWJtTE9xd1Z5RjBnTURKa2ZBY2YtV0lrdjlIQURnaFpQVFoyemhnVlBpWXk0V29uVndwOXQ4enRzT3RDMHRoczZObnVYSWE4alN3?oc=5",
+      "pub_date": "Mon, 16 Mar 2026 04:26:53 GMT",
+      "source": "YouTube",
+      "description_original": "🔴LIVE #ปีลึก EP84 # #มะพร้าวมาจากไหน&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "e6a636199231",
+      "title_en": "🔴LIVE #Deep Year EP84 # #Where Do Coconuts Come From - YouTube",
+      "summary_en": "A live broadcast episode exploring the origins and sourcing of coconuts in the market.",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-03-18T14:50:29.075935+00:00"
+    },
+    {
       "title_original": "โลกธุรกิจ - กรมพัฒน์ เปิดพฤติการณ์ข้อบ่งชี้เข้าข่ายนอมินีล้งมะพร้าว - แนวหน้า",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBcVNqMmpaQVp4c2dCMUNsbDZWR0Y3V1RTRXlVVHQtUEVOajlYcHpKZUZxaEJsUGM4bDE2VnFwazZsbXFNTlRCaFAza1gxVjQ?oc=5",
       "pub_date": "Wed, 11 Mar 2026 08:29:00 GMT",
@@ -4369,7 +4488,7 @@
       "first_seen": "2026-03-09T15:00:00Z"
     }
   ],
-  "last_updated": "2026-03-18T07:59:05.497399+00:00",
+  "last_updated": "2026-03-18T14:50:29.075935+00:00",
   "scan_history": [
     {
       "timestamp": "2026-03-09T15:49:33Z",
@@ -4494,6 +4613,10 @@
     {
       "timestamp": "2026-03-18T07:59:05.497399+00:00",
       "new_articles": 11
+    },
+    {
+      "timestamp": "2026-03-18T14:50:29.075935+00:00",
+      "new_articles": 8
     }
   ]
 }
