@@ -1,6 +1,104 @@
 {
   "articles": [
     {
+      "title_original": "หุ้นไทยเช้านี้เปิดบวก 15.07 จุด คาดแกว่งผันผวนกรอบ 1,400-1,430 จุด - เดลินิวส์",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2MUIxaDdldFVtd3BhaFhwX2FLQmlCTVVxd2NMQjhYM0J4SVpmQzVyUG9qT2tUNnNaTVppTDByb1lpSkFMZ0Vyb3pNTEstT1ZLVjdB?oc=5",
+      "pub_date": "Fri, 20 Mar 2026 03:08:00 GMT",
+      "source": "เดลินิวส์",
+      "description_original": "หุ้นไทยเช้านี้เปิดบวก 15.07 จุด คาดแกว่งผันผวนกรอบ 1,400-1,430 จุด&nbsp;&nbsp;เดลินิวส์",
+      "is_priority_outlet": false,
+      "id": "01e4c91a818f",
+      "title_en": "Thai stocks open positive 15.07 points this morning, expected to fluctuate in 1,400-1,430 point range - Daily News",
+      "summary_en": "Thai stock market opened with gains of 15.07 points and is expected to trade within the 1,400-1,430 point range. The article discusses stock market performance and trading expectations.",
+      "sentiment": "positive",
+      "people_mentioned": [],
+      "first_seen": "2026-03-20T07:37:06.196010+00:00"
+    },
+    {
+      "title_original": "ค่าเงินบาทสัปดาห์นี้ 31.50-32.50 บาท จับตาตะวันออกกลาง ราคาน้ำมัน - เดลินิวส์",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94NHRUbU1feHJKeTdEa3ZEanAxaERxR2dWeUdwdUFUWHdFWGFGbWJxTFdmc2gtSXZYUWYzMC1Zb1hVSEo1OHRFVUc1aGRxMUJvR3Jj?oc=5",
+      "pub_date": "Sat, 14 Mar 2026 05:26:00 GMT",
+      "source": "เดลินิวส์",
+      "description_original": "ค่าเงินบาทสัปดาห์นี้ 31.50-32.50 บาท จับตาตะวันออกกลาง ราคาน้ำมัน&nbsp;&nbsp;เดลินิวส์",
+      "is_priority_outlet": false,
+      "id": "f9f87b4197e5",
+      "title_en": "Thai Baht this week 31.50-32.50 Baht, watching Middle East oil prices - Daily News",
+      "summary_en": "The Thai Baht is expected to trade between 31.50-32.50 Baht this week with focus on Middle East developments and oil prices. The article covers currency exchange rate forecasts and market factors.",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-03-20T07:37:06.196010+00:00"
+    },
+    {
+      "title_original": "โลกธุรกิจ - แฉยับ 300 โรงงานสุมหัว‘ฮั้วมะพร้าวน้ำหอม’-ทุนใหญ่แทรกแซงตลาด ต้นตอราคาตกต่ำ - แนวหน้า",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zaV95eG4tRkNpa245blNqajc5eEFEYXJXREExNnE0ejNVODlvZXFlblB1REo5Nld6NkYzemNfVkNLYVFMZ255NHdCai1pRnc?oc=5",
+      "pub_date": "Fri, 20 Mar 2026 04:24:00 GMT",
+      "source": "แนวหน้า",
+      "description_original": "โลกธุรกิจ - แฉยับ 300 โรงงานสุมหัว‘ฮั้วมะพร้าวน้ำหอม’-ทุนใหญ่แทรกแซงตลาด ต้นตอราคาตกต่ำ&nbsp;&nbsp;แนวหน้า",
+      "is_priority_outlet": false,
+      "id": "63f9f422a6cd",
+      "title_en": "Business World - Exposed 300 factories colluding in 'aromatic coconut cartel' - big capital interferes with market, root cause of price collapse - Naew Na",
+      "summary_en": "Investigation reveals 300 factories allegedly colluding in an aromatic coconut cartel with major capital intervention in the market. This collusion is identified as the root cause of the current price collapse affecting farmers.",
+      "sentiment": "negative",
+      "people_mentioned": [],
+      "first_seen": "2026-03-20T07:37:06.196010+00:00"
+    },
+    {
+      "title_original": "พาณิชย์ เร่งระบายมะพร้าวน้ำหอมผ่านแม็คโคร-โลตัส 2,600 สาขาทั่วประเทศ | The Bangkok Insight - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51eFN3MUw3RE1RS1hCWjd4R0NHTnFPRUV6SHdVWWdWY2NyNjZxejBjZ3dfY25xRVV2d2l5aEU5aFIta1NwSmE3bE16TjRyUTFZTW01eUhB?oc=5",
+      "pub_date": "Wed, 18 Mar 2026 14:24:12 GMT",
+      "source": "LINE TODAY",
+      "description_original": "พาณิชย์ เร่งระบายมะพร้าวน้ำหอมผ่านแม็คโคร-โลตัส 2,600 สาขาทั่วประเทศ | The Bangkok Insight&nbsp;&nbsp;LINE TODAY",
+      "is_priority_outlet": false,
+      "id": "aa255249f03f",
+      "title_en": "Commerce Ministry accelerates aromatic coconut distribution through Makro-Lotus 2,600 branches nationwide | The Bangkok Insight - LINE TODAY",
+      "summary_en": "The Commerce Ministry is speeding up the distribution of aromatic coconuts through major retail chains Makro and Lotus across 2,600 branches nationwide. This initiative aims to help resolve the oversupply issue affecting farmers.",
+      "sentiment": "positive",
+      "people_mentioned": [],
+      "first_seen": "2026-03-20T07:37:06.196010+00:00"
+    },
+    {
+      "title_original": "เกษตรกรสวนมะพร้าวน้ำหอม ยื่นหนังสือ ปชน. ขอช่วยจี้รัฐเร่งแก้ราคาตกต่ำ ขู่บุกทำเนียบฯ - www.thairath.co.th",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhWWFvc2NXNmZQU1otMEpjNjhWTzYxNF9aV1BaTnI0SG5COFV1aEFwTDhUYnotZnRENlhUSUdrMXctUjNvdW1uMnF3NkZXdjhDTVFoeURtQUVSNlk?oc=5",
+      "pub_date": "Thu, 19 Mar 2026 09:30:42 GMT",
+      "source": "www.thairath.co.th",
+      "description_original": "เกษตรกรสวนมะพร้าวน้ำหอม ยื่นหนังสือ ปชน. ขอช่วยจี้รัฐเร่งแก้ราคาตกต่ำ ขู่บุกทำเนียบฯ&nbsp;&nbsp;www.thairath.co.th",
+      "is_priority_outlet": false,
+      "id": "2f86cfe5887b",
+      "title_en": "Aromatic coconut farmers submit letter to Ombudsman asking for help pressuring government to urgently solve low prices, threaten to storm Government House - www.thairath.co.th",
+      "summary_en": "Aromatic coconut farmers have filed a complaint with the Ombudsman requesting government intervention to address falling prices. The farmers are threatening to protest at Government House if urgent action is not taken.",
+      "sentiment": "negative",
+      "people_mentioned": [],
+      "first_seen": "2026-03-20T07:37:06.196010+00:00"
+    },
+    {
+      "title_original": "‘นอมินี’ ปั่นป่วนไทย! - เดลินิวส์",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GVmM0WFJNekJmZ1FuMDZqYVhybS1BUkNkdXhFMTN5aFJ2SUtyQXF1ckkyTVdNZW5lWXdMOEtFMzRRV0tLNDNoNTUyWGJ0QnNZMWU1VTNwang?oc=5",
+      "pub_date": "Wed, 18 Mar 2026 04:00:00 GMT",
+      "source": "เดลินิวส์",
+      "description_original": "‘นอมินี’ ปั่นป่วนไทย!&nbsp;&nbsp;เดลินิวส์",
+      "is_priority_outlet": false,
+      "id": "fbd2bc20526f",
+      "title_en": "'Nominees' causing turmoil in Thailand! - Daily News",
+      "summary_en": "The article discusses issues related to nominee arrangements causing disruption in Thailand. It appears to focus on problems associated with nominee structures in business or legal contexts.",
+      "sentiment": "negative",
+      "people_mentioned": [],
+      "first_seen": "2026-03-20T07:37:06.196010+00:00"
+    },
+    {
+      "title_original": "ก๋วยเตี๋ยวต้มยำน้ำมะพร้าว 🥥🌴 #อร่อยบอกต่อ #ซุปไหนก็ใส่คนอร์ #คนอร์ซุปก้อน #คนอร์อร่อยที่ซุปป - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tZGdQYmhwNFFJd244WDY2Z2FQN3N3My1aZFlaemNFeFVyT2hMaGdqa3pHQjhrWVRBOW1rLVhwRVhaR01oTFBiMVRqYUdfdG9ja3lUY0Jn?oc=5",
+      "pub_date": "Wed, 18 Mar 2026 04:13:52 GMT",
+      "source": "YouTube",
+      "description_original": "ก๋วยเตี๋ยวต้มยำน้ำมะพร้าว 🥥🌴 #อร่อยบอกต่อ #ซุปไหนก็ใส่คนอร์ #คนอร์ซุปก้อน #คนอร์อร่อยที่ซุปป&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "68b4835e7590",
+      "title_en": "Tom Yum Noodle Soup with Coconut Water 🥥🌴 #delicious #any soup add Knorr #Knorr soup cubes #Knorr delicious soup - YouTube",
+      "summary_en": "A YouTube video featuring a recipe for Tom Yum noodle soup made with coconut water, promoted with Knorr soup products. This is a cooking content video showcasing a fusion dish using coconut water.",
+      "sentiment": "positive",
+      "people_mentioned": [],
+      "first_seen": "2026-03-20T07:37:06.196010+00:00"
+    },
+    {
       "title_original": "เช็กด่วน! ปั๊มปตท. – บางจากประกาศราคาใหม่ ขึ้นดีเซล 50 สต. โซฮอล์ 1 บ. แต่ลดอี 20 อี 85 - เดลินิวส์",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Vd2ZYWGJDTG9FN1VfdGtRTktFc1BaV3RxTkZ6eGlTR3A1dTdNYTFCWmZaRXVOMVRraHpjc2U4dFFNOHV0R3p4T01PdUozQTNtQlVr?oc=5",
       "pub_date": "Tue, 17 Mar 2026 13:03:00 GMT",
@@ -4880,7 +4978,7 @@
       "first_seen": "2026-03-09T15:00:00Z"
     }
   ],
-  "last_updated": "2026-03-19T23:56:50.750304+00:00",
+  "last_updated": "2026-03-20T07:37:06.196010+00:00",
   "scan_history": [
     {
       "timestamp": "2026-03-09T15:49:33Z",
@@ -5025,6 +5123,10 @@
     {
       "timestamp": "2026-03-19T23:56:50.750304+00:00",
       "new_articles": 5
+    },
+    {
+      "timestamp": "2026-03-20T07:37:06.196010+00:00",
+      "new_articles": 7
     }
   ]
 }
