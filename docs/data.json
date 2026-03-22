@@ -1,6 +1,48 @@
 {
   "articles": [
     {
+      "title_original": "‘อรรถพล’ ชี้ปัญหาน้ำมันหมดจะกลับมาปกติ ถ้าประชาชนเริ่มสบายใจ หันมาเติมเท่าเดิม - เดลินิวส์",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81UnNXbEQyZmVQN0pKNmVRQXhuQUQ1Mk1TbzZTYUZvUks1MEhmdV9ENFBhNVUzZ0lwUkxmZTFEdlZscUgwQXFXZWVmQmFoS2tGU0Vn?oc=5",
+      "pub_date": "Tue, 17 Mar 2026 09:53:00 GMT",
+      "source": "เดลินิวส์",
+      "description_original": "‘อรรถพล’ ชี้ปัญหาน้ำมันหมดจะกลับมาปกติ ถ้าประชาชนเริ่มสบายใจ หันมาเติมเท่าเดิม&nbsp;&nbsp;เดลินิวส์",
+      "is_priority_outlet": false,
+      "id": "8ba13fc087dd",
+      "title_en": "'Atthapol' points out fuel shortage problem will return to normal if people start feeling comfortable and return to filling up as usual",
+      "summary_en": "Atthapol indicates that fuel shortage issues will normalize once public confidence is restored and people resume their regular refueling habits.",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-03-22T11:44:47.611543+00:00"
+    },
+    {
+      "title_original": "สหกรณ์ฯ มะพร้าวน้ำหอมแปลงใหญ่วัดเพลง ต้นแบบสหกรณ์ ”ช่วยสมาชิกโดยไม่หวังผลกำไร” | Connext Social News - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05ZjZqcFdaRF9hdURfbW5qczR5RlpYYUQ0amVoNWR5OU43TjFjSU1oQmlmb09BU08yWF9qQjZrTGxoM1RhZWhNR2NSc3FDTzFxdkVIcnB3?oc=5",
+      "pub_date": "Sun, 22 Mar 2026 08:40:18 GMT",
+      "source": "YouTube",
+      "description_original": "สหกรณ์ฯ มะพร้าวน้ำหอมแปลงใหญ่วัดเพลง ต้นแบบสหกรณ์ ”ช่วยสมาชิกโดยไม่หวังผลกำไร” | Connext Social News&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "50cb715680ae",
+      "title_en": "Aromatic Coconut Cooperative at Wat Phleng Large Plot - Model Cooperative 'Helping Members Without Expecting Profit'",
+      "summary_en": "The aromatic coconut cooperative at Wat Phleng serves as a model cooperative that focuses on helping its members without seeking profit.",
+      "sentiment": "positive",
+      "people_mentioned": [],
+      "first_seen": "2026-03-22T11:44:47.611543+00:00"
+    },
+    {
+      "title_original": "กรมส่งเสริมสหกรณ์เชียร์ตั้งล้งกลางรับซื้อมะพร้าวน้ำหอม - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TakFMSkVoZzZjcXN0Y3Z5OHpvOHd4eXpWazVyTGF2ay1Mcjh2dFljZUJXbThaMnYxYkc3eTRzYkdGcE9ZOVFsNnJjSlVnZjQ4RzFPMXJn?oc=5",
+      "pub_date": "Tue, 17 Mar 2026 05:07:29 GMT",
+      "source": "YouTube",
+      "description_original": "กรมส่งเสริมสหกรณ์เชียร์ตั้งล้งกลางรับซื้อมะพร้าวน้ำหอม&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "a14ed533624f",
+      "title_en": "Department of Cooperative Promotion Encourages Setting Up Central Purchasing Points for Aromatic Coconuts",
+      "summary_en": "The Department of Cooperative Promotion is encouraging the establishment of central purchasing centers for aromatic coconuts.",
+      "sentiment": "positive",
+      "people_mentioned": [],
+      "first_seen": "2026-03-22T11:44:47.611543+00:00"
+    },
+    {
       "title_original": "สหกรณ์หนุนแนวคิด “ล้งกลาง” มะพร้าวน้ำหอมปลดแอกล้งจีนกดราคา - ข่าวสด",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAyQzhkVklOb2RXQVdUaEplcUdfVE5ZQV82SmJ6dzc0bUdWZ1FVTk9oZE92TWZjTmotSWJyeW93SW90X1N0LXJnWFZQNWRjYjFRWmYxdHRQNkZQWHBVeHQ4TEVFdlZ1NmtRQ1hnaXRRNTFSQjFHa2F0Z1FR?oc=5",
       "pub_date": "Mon, 16 Mar 2026 06:59:27 GMT",
@@ -5454,7 +5496,7 @@
       "first_seen": "2026-03-09T15:00:00Z"
     }
   ],
-  "last_updated": "2026-03-22T07:27:55.061594+00:00",
+  "last_updated": "2026-03-22T11:44:47.611543+00:00",
   "scan_history": [
     {
       "timestamp": "2026-03-09T15:49:33Z",
@@ -5626,6 +5668,10 @@
     },
     {
       "timestamp": "2026-03-22T07:27:55.061594+00:00",
+      "new_articles": 3
+    },
+    {
+      "timestamp": "2026-03-22T11:44:47.611543+00:00",
       "new_articles": 3
     }
   ]
