@@ -1,6 +1,34 @@
 {
   "articles": [
     {
+      "title_original": "GI ไทยจัดทัพ 70 ร้านค้า สู่เมืองใหญ่ ปั้นรายได้สู่ชุมชน | ประชาชาติธุรกิจ - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40TDVrTE1ITE1hazZhZ2ZsR1YwUW1PZlFtNERnbTFfV19FcEJqZUVhZU50el9TNnFoTVlNWlJjeHZZaERLRERsVC1qLUd1OUxzeTlWNFB3?oc=5",
+      "pub_date": "Mon, 23 Mar 2026 08:46:13 GMT",
+      "source": "LINE TODAY",
+      "description_original": "GI ไทยจัดทัพ 70 ร้านค้า สู่เมืองใหญ่ ปั้นรายได้สู่ชุมชน | ประชาชาติธุรกิจ&nbsp;&nbsp;LINE TODAY",
+      "is_priority_outlet": false,
+      "id": "aa795217b573",
+      "title_en": "Thai GI deploys 70 stores to major cities to generate income for communities",
+      "summary_en": "Thailand's Geographical Indication (GI) initiative is expanding 70 retail stores into major cities to boost community revenue. This expansion aims to promote local GI products and create income opportunities for local communities.",
+      "sentiment": "positive",
+      "people_mentioned": [],
+      "first_seen": "2026-03-23T23:58:58.640285+00:00"
+    },
+    {
+      "title_original": "เกษตรกรเริ่มยิ้มได้ มะพร้าวหน้าสวนราคาดีขึ้น ขยับขึ้นเป็น 6-7 บาท/ลูก - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGUWVYUVV3VHo3dGNNTUU1YTA0TmJrUjhoS1RJWXR3R1R2UWZFZVNmZGVQSjVjbERQWEs3UDlFRHVETmpCRGZUVmlzc1pReVNvN0Z6aDZB?oc=5",
+      "pub_date": "Mon, 23 Mar 2026 13:31:32 GMT",
+      "source": "YouTube",
+      "description_original": "เกษตรกรเริ่มยิ้มได้ มะพร้าวหน้าสวนราคาดีขึ้น ขยับขึ้นเป็น 6-7 บาท/ลูก&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "9376e06aae44",
+      "title_en": "Farmers start to smile as coconut prices at the farm gate improve, rising to 6-7 baht per fruit",
+      "summary_en": "Coconut farmers are experiencing improved conditions as farm gate prices for coconuts have increased to 6-7 baht per fruit. This price improvement is bringing relief and optimism to coconut farmers.",
+      "sentiment": "positive",
+      "people_mentioned": [],
+      "first_seen": "2026-03-23T23:58:58.640285+00:00"
+    },
+    {
       "title_original": "พาณิชย์ คาดมะพร้าวน้ำหอมคลี่คลายเดือนหน้า ชง 3 แผน ยกเครื่องใหญ่ทั้งระบบ - เดลินิวส์",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95czlyZFAyMHFlYW9QOG1fUnZLRkdBWHRzV2lVQlRGLXZGRnFQVm9fLUw5QkRDTWp2N2gzTFN6b1p2ejVWME5BUnZCNm5DLVFranJn?oc=5",
       "pub_date": "Mon, 23 Mar 2026 10:54:00 GMT",
@@ -5608,7 +5636,7 @@
       "first_seen": "2026-03-09T15:00:00Z"
     }
   ],
-  "last_updated": "2026-03-23T14:41:06.662230+00:00",
+  "last_updated": "2026-03-23T23:58:58.640285+00:00",
   "scan_history": [
     {
       "timestamp": "2026-03-09T15:49:33Z",
@@ -5797,6 +5825,10 @@
     {
       "timestamp": "2026-03-23T14:41:06.662230+00:00",
       "new_articles": 3
+    },
+    {
+      "timestamp": "2026-03-23T23:58:58.640285+00:00",
+      "new_articles": 2
     }
   ]
 }
