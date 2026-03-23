@@ -1,6 +1,48 @@
 {
   "articles": [
     {
+      "title_original": "พาณิชย์ คาดมะพร้าวน้ำหอมคลี่คลายเดือนหน้า ชง 3 แผน ยกเครื่องใหญ่ทั้งระบบ - เดลินิวส์",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95czlyZFAyMHFlYW9QOG1fUnZLRkdBWHRzV2lVQlRGLXZGRnFQVm9fLUw5QkRDTWp2N2gzTFN6b1p2ejVWME5BUnZCNm5DLVFranJn?oc=5",
+      "pub_date": "Mon, 23 Mar 2026 10:54:00 GMT",
+      "source": "เดลินิวส์",
+      "description_original": "พาณิชย์ คาดมะพร้าวน้ำหอมคลี่คลายเดือนหน้า ชง 3 แผน ยกเครื่องใหญ่ทั้งระบบ&nbsp;&nbsp;เดลินิวส์",
+      "is_priority_outlet": false,
+      "id": "733764c7a53a",
+      "title_en": "Commerce Ministry Expects Aromatic Coconut Issues to be Resolved Next Month, Proposes 3 Plans for Major System Overhaul",
+      "summary_en": "The Commerce Ministry anticipates that aromatic coconut industry issues will be resolved next month and is preparing three comprehensive plans for a major system reform.",
+      "sentiment": "positive",
+      "people_mentioned": [],
+      "first_seen": "2026-03-23T14:41:06.662230+00:00"
+    },
+    {
+      "title_original": "เริ่มแล้ว “GI Market 2026” กรมทรัพย์สินทางปัญญา ส่งเสริมสินค้า GI ทั่วไทย กว่า 70 ร้าน เสิร์ฟถึงมือคนกรุง - แนวหน้า",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01Rmd0dnNXZ01nRm5VOHdEZ1ExeG9lMnJnYVpFT2tJWDBPWi05dE11bmxtY1loMGxzYnlDOVljdEpZOE5pZUVkN2otUUV1Yjg?oc=5",
+      "pub_date": "Mon, 23 Mar 2026 11:38:00 GMT",
+      "source": "แนวหน้า",
+      "description_original": "เริ่มแล้ว “GI Market 2026” กรมทรัพย์สินทางปัญญา ส่งเสริมสินค้า GI ทั่วไทย กว่า 70 ร้าน เสิร์ฟถึงมือคนกรุง&nbsp;&nbsp;แนวหน้า",
+      "is_priority_outlet": false,
+      "id": "907e5676749d",
+      "title_en": "GI Market 2026 Begins - Department of Intellectual Property Promotes Thai GI Products with Over 70 Shops Serving Bangkok Residents",
+      "summary_en": "The Department of Intellectual Property has launched GI Market 2026 to promote Thai geographical indication products through more than 70 shops serving consumers in Bangkok.",
+      "sentiment": "positive",
+      "people_mentioned": [],
+      "first_seen": "2026-03-23T14:41:06.662230+00:00"
+    },
+    {
+      "title_original": "SACIT เดินหน้าแผนยกระดับงานหัตถศิลป์ไทย ขับเคลื่อนเศรษฐกิจประเทศ - เดลินิวส์",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoNTBEcmlRWUw3SHhoS2JDN0c2TnhBaUl2T2N1Zm9qelluWnhrUjlDZng1dllhZnc3R0ZST1RycVhOZ25ObTFZa29LY2x0b1RtSWNR?oc=5",
+      "pub_date": "Tue, 17 Mar 2026 12:30:00 GMT",
+      "source": "เดลินิวส์",
+      "description_original": "SACIT เดินหน้าแผนยกระดับงานหัตถศิลป์ไทย ขับเคลื่อนเศรษฐกิจประเทศ&nbsp;&nbsp;เดลินิวส์",
+      "is_priority_outlet": false,
+      "id": "13175a410eba",
+      "title_en": "SACIT Advances Plan to Elevate Thai Handicrafts, Driving National Economy",
+      "summary_en": "SACIT is moving forward with plans to upgrade Thai handicraft industry to boost the country's economic development.",
+      "sentiment": "positive",
+      "people_mentioned": [],
+      "first_seen": "2026-03-23T14:41:06.662230+00:00"
+    },
+    {
       "title_original": "พาณิชย์สรุป “มะพร้าวน้ำหอมไทย” 4 ปมใหญ่ วิกฤตที่สะสมมานาน - posttoday",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmLTVhRFNEVmRRR3RENHUxNTRtQTlMXzd4VnA5ZHBWVWNyRUtkUGdiVlFSY0VVRldseG9YVXhacm9KQ1dldF9aZUZJU3VnVEpmcnRoRA?oc=5",
       "pub_date": "Sun, 22 Mar 2026 07:18:00 GMT",
@@ -5566,7 +5608,7 @@
       "first_seen": "2026-03-09T15:00:00Z"
     }
   ],
-  "last_updated": "2026-03-23T08:09:13.462503+00:00",
+  "last_updated": "2026-03-23T14:41:06.662230+00:00",
   "scan_history": [
     {
       "timestamp": "2026-03-09T15:49:33Z",
@@ -5751,6 +5793,10 @@
     {
       "timestamp": "2026-03-23T08:09:13.462518+00:00",
       "new_articles": 0
+    },
+    {
+      "timestamp": "2026-03-23T14:41:06.662230+00:00",
+      "new_articles": 3
     }
   ]
 }
