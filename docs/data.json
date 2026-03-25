@@ -1,6 +1,48 @@
 {
   "articles": [
     {
+      "title_original": "DIT ดึงแม็คโคร–โลตัส รับซื้อมะพร้าว 6 ล้านลูก แก้เกมผลผลิตล้นตลาด พยุงราคาหน้าสวน - thansettakij",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XcjhWZTVuRmRlclRGRlJYNnBQSlRoanBBWE9CZDdMTmczTC1hbDYxWjJFSFYwaUlfMFk4Z0lXUjJQVk5HMk85bGlEQ0lvSC1mMVdpeVRXWQ?oc=5",
+      "pub_date": "Wed, 18 Mar 2026 11:15:00 GMT",
+      "source": "thansettakij",
+      "description_original": "DIT ดึงแม็คโคร–โลตัส รับซื้อมะพร้าว 6 ล้านลูก แก้เกมผลผลิตล้นตลาด พยุงราคาหน้าสวน&nbsp;&nbsp;thansettakij",
+      "is_priority_outlet": true,
+      "id": "5d762c5f53bc",
+      "title_en": "DIT pulls Makro-Lotus to purchase 6 million coconuts, solving oversupply problem and supporting farm gate prices",
+      "summary_en": "The Department of International Trade partnered with major retailers Makro and Lotus to purchase 6 million coconuts to address market oversupply and stabilize prices for farmers.",
+      "sentiment": "positive",
+      "people_mentioned": [],
+      "first_seen": "2026-03-25T07:59:46.805213+00:00"
+    },
+    {
+      "title_original": "กรมส่งเสริมสหกรณ์ ลุยคาราวานมะพร้าวน้ำหอม ราชบุรีสู่คนกรุงเทพ ตัดพ่อค้าคนกลางเพิ่มรายได้เกษตรกร - Matichon Online",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxbGptR0QyYXRFelBEWksxcnJPcXFzYTB1amxHVG9OR3R2OE9oSW9idG1JTVBvVGo4Ym5qRjVnMEM2aHVfXzc3S2NPUV80V2YzMWFZMkpXc3VsOEU?oc=5",
+      "pub_date": "Tue, 24 Mar 2026 10:12:38 GMT",
+      "source": "Matichon Online",
+      "description_original": "กรมส่งเสริมสหกรณ์ ลุยคาราวานมะพร้าวน้ำหอม ราชบุรีสู่คนกรุงเทพ ตัดพ่อค้าคนกลางเพิ่มรายได้เกษตรกร&nbsp;&nbsp;Matichon Online",
+      "is_priority_outlet": true,
+      "id": "f110093d370d",
+      "title_en": "Department of Cooperative Promotion launches aromatic coconut caravan from Ratchaburi to Bangkok people, cutting middlemen to increase farmers' income",
+      "summary_en": "The Department of Cooperative Promotion initiated a caravan program to directly sell aromatic coconuts from Ratchaburi to Bangkok consumers, eliminating middlemen to boost farmers' earnings.",
+      "sentiment": "positive",
+      "people_mentioned": [],
+      "first_seen": "2026-03-25T07:59:46.805213+00:00"
+    },
+    {
+      "title_original": "Kick Off คาราวานมะพร้าวน้ำหอมช่วยชาวสวน | 24 มี.ค 69 | Express News - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OaEd3d3JRQzY3YmRKSXZ1SnFWNFpZQzY1eUxDd0hKOHk5RHlLckdNTFc5ZXFlNklqLWJCQnFHU0RWSC14alFFdjJ3dktQbUtKak0xaUFn?oc=5",
+      "pub_date": "Wed, 25 Mar 2026 04:52:47 GMT",
+      "source": "YouTube",
+      "description_original": "Kick Off คาราวานมะพร้าวน้ำหอมช่วยชาวสวน | 24 มี.ค 69 | Express News&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "b7b7fdb9b16d",
+      "title_en": "Kick Off aromatic coconut caravan helping coconut farmers",
+      "summary_en": "A news report covering the launch of an aromatic coconut caravan initiative aimed at assisting coconut farmers.",
+      "sentiment": "positive",
+      "people_mentioned": [],
+      "first_seen": "2026-03-25T07:59:46.805213+00:00"
+    },
+    {
       "title_original": "พาณิชย์ลุยตรวจตลาดรังสิต รับหมู-ไก่แพงขึ้นจริง จ่อคุมเข้ม “น้ำขวด-เม็ดพลาสติก” - Thairath.co.th",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oWVpRc21VemFNdnNmV0FXVW45VTY4ZkJTejIxTVMyNWJhRl83eUtQYkJuTTVPaEF3YmJyV3F2dzVVejh2ZHNCZUpTQmtZZlgtLTVlcW91VmZsVWtxOGJJVi1iOTVvNm8?oc=5",
       "pub_date": "Tue, 24 Mar 2026 11:30:01 GMT",
@@ -5916,7 +5958,7 @@
       "first_seen": "2026-03-09T15:00:00Z"
     }
   ],
-  "last_updated": "2026-03-24T23:59:36.676779+00:00",
+  "last_updated": "2026-03-25T07:59:46.805213+00:00",
   "scan_history": [
     {
       "timestamp": "2026-03-09T15:49:33Z",
@@ -6120,6 +6162,10 @@
     },
     {
       "timestamp": "2026-03-24T23:59:36.676779+00:00",
+      "new_articles": 3
+    },
+    {
+      "timestamp": "2026-03-25T07:59:46.805213+00:00",
       "new_articles": 3
     }
   ]
