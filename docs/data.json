@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "พาณิชย์ เร่งตัดตอน ‘นอมินี’ คุมเข้มต่างชาติถือหุ้นต้องลงทุนจริง ดีเดย์ 1 เม.ย.นี้ | The Bangkok Insight - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EcEluY0RFOHBIUlp5T3BHUXZUdnVocTFPRjVVU2duLTZIWUdXUGRwTWR4M1RqSkI1amlSVzBPS1dNUDVRVFZmNHU3RG5ucWhHRFBraTR3?oc=5",
+      "pub_date": "Tue, 24 Mar 2026 09:02:36 GMT",
+      "source": "LINE TODAY",
+      "description_original": "พาณิชย์ เร่งตัดตอน ‘นอมินี’ คุมเข้มต่างชาติถือหุ้นต้องลงทุนจริง ดีเดย์ 1 เม.ย.นี้ | The Bangkok Insight&nbsp;&nbsp;LINE TODAY",
+      "is_priority_outlet": false,
+      "id": "4046bfd049e0",
+      "title_en": "Commerce Ministry Accelerates Crackdown on 'Nominees', Tightens Control on Foreign Shareholding Requiring Real Investment, D-Day April 1",
+      "summary_en": "The Commerce Ministry is intensifying efforts to eliminate nominee arrangements and enforce stricter regulations on foreign shareholding, requiring genuine investment with implementation starting April 1st.",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-03-26T00:03:46.111763+00:00"
+    },
+    {
       "title_original": "\"อธิบดีนิรันดร์\" Kick Off คาราวานมะพร้าวน้ำหอมราชบุรีสู่คนกรุงเทพ ตั้งเป้าใช้พลังเครือข่ายสหกรณ์ช่วยกระจายผลผลิตอย่างต่อเนื่อง - topnews.co.th",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5ZjRlMnlyVDhVZVdNMy1iREpCSjZDdlhtcjNUUHItZllHUFlmYlBqNWlxRmVlSUgtd0xUbUxLQ2hzUTJ1Nm5XOXQyamc3OTZQbkEwazNYclBZWG81SExkTUczaEhxX2F0emc?oc=5",
       "pub_date": "Wed, 25 Mar 2026 08:22:22 GMT",
@@ -6000,7 +6014,7 @@
       "first_seen": "2026-03-09T15:00:00Z"
     }
   ],
-  "last_updated": "2026-03-25T14:44:27.377529+00:00",
+  "last_updated": "2026-03-26T00:03:46.111763+00:00",
   "scan_history": [
     {
       "timestamp": "2026-03-09T15:49:33Z",
@@ -6213,6 +6227,10 @@
     {
       "timestamp": "2026-03-25T14:44:27.377529+00:00",
       "new_articles": 3
+    },
+    {
+      "timestamp": "2026-03-26T00:03:46.111763+00:00",
+      "new_articles": 1
     }
   ]
 }
