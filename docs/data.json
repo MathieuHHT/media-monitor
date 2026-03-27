@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "ธนชาตฯผนึก MBK แจกฟรี “มะพร้าวน้ำหอม” ช่วยชาวสวนฝ่าวิกฤตราคาตก - banmuang.co.th",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVNHRrUXZfNHE0SzVhM29jRVdhOHhuZ0RabWVyTFJyTU90NTI5MnRUekZZU2lDaGRRVmlHc3Ayd3hIM1hGWmRGem12MFc1d2ZGZnZMR3U4QTVFcWpvTkJrUmRrcw?oc=5",
+      "pub_date": "Fri, 27 Mar 2026 12:27:00 GMT",
+      "source": "banmuang.co.th",
+      "description_original": "ธนชาตฯผนึก MBK แจกฟรี “มะพร้าวน้ำหอม” ช่วยชาวสวนฝ่าวิกฤตราคาตก&nbsp;&nbsp;banmuang.co.th",
+      "is_priority_outlet": true,
+      "id": "7b01f454add6",
+      "title_en": "ธนชาตฯผนึก MBK แจกฟรี “มะพร้าวน้ำหอม” ช่วยชาวสวนฝ่าวิกฤตราคาตก - banmuang.co.th",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-03-27T14:32:16.192676+00:00"
+    },
+    {
       "title_original": "แฉ”ส่วยล้ง”ทุนจีน สะเทือนระบบ! นอมินี–แรงงานเถื่อน เงินสะพัดกว่า 400 ล้านบาท/ฤดูกาล จี้รัฐตรวจสอบด่วน ใกล้พังทั้งระบบ - เดลินิวส์",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wY3JKQUoyeEFmVFBNVTlfWTRURXRjQ0hpdjE3eU9XTUJOWVhJVUlWSnVSM0VndzlnWW9lT28wWGZYZHJfZ2RCZU9XWWNQY0JxM3FR?oc=5",
       "pub_date": "Sun, 22 Mar 2026 04:54:00 GMT",
@@ -6168,7 +6182,7 @@
       "first_seen": "2026-03-09T15:00:00Z"
     }
   ],
-  "last_updated": "2026-03-27T08:05:51.592391+00:00",
+  "last_updated": "2026-03-27T14:32:16.192676+00:00",
   "scan_history": [
     {
       "timestamp": "2026-03-09T15:49:33Z",
@@ -6401,6 +6415,10 @@
     {
       "timestamp": "2026-03-27T08:05:51.592391+00:00",
       "new_articles": 2
+    },
+    {
+      "timestamp": "2026-03-27T14:32:16.192676+00:00",
+      "new_articles": 1
     }
   ]
 }
