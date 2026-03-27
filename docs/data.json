@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "iced black coffee with coconut syrup ☕️🥥 กาแฟดำกับไซรัปมะพร้าวน้ำหอม #จูนยูคอฟฟี่เฮาส์ - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9INWVOT1JjTVREUXZwUUJlVFhwU2hkbEQ3TDN2Wk9uYm1GS3RpLXB5NDZOZHNhb1JGb1pLaTNuOGhzZUNRSkdhRm1ldXQ2MThBbkZGbA?oc=5",
+      "pub_date": "Thu, 26 Mar 2026 15:08:13 GMT",
+      "source": "YouTube",
+      "description_original": "iced black coffee with coconut syrup ☕️🥥 กาแฟดำกับไซรัปมะพร้าวน้ำหอม #จูนยูคอฟฟี่เฮาส์&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "cc8dbb67fe2d",
+      "title_en": "iced black coffee with coconut syrup ☕️🥥 กาแฟดำกับไซรัปมะพร้าวน้ำหอม #จูนยูคอฟฟี่เฮาส์ - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-03-27T00:01:48.483624+00:00"
+    },
+    {
       "title_original": "\"อธิบดีนิรันดร์\" Kick Off คาราวานมะพร้าวน้ำหอมราชบุรีสู่คนกรุงเทพ ตั้งเป้าใช้พลังเครือข่ายสหกรณ์ช่วยกระจายผลผลิตอย่างต่อเนื่อง - topnews.co.th",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tREZpbXBiZTM4NEU4bXNuNG41Y0tSUkY1bl95NV9YTTBiSDRMR3JnOTdqU3FFLWgzTDhIRE0tOWF1dHpCenp4X010b1haVWc?oc=5",
       "pub_date": "Wed, 25 Mar 2026 08:22:22 GMT",
@@ -6126,7 +6140,7 @@
       "first_seen": "2026-03-09T15:00:00Z"
     }
   ],
-  "last_updated": "2026-03-26T14:51:44.688999+00:00",
+  "last_updated": "2026-03-27T00:01:48.483624+00:00",
   "scan_history": [
     {
       "timestamp": "2026-03-09T15:49:33Z",
@@ -6351,6 +6365,10 @@
     {
       "timestamp": "2026-03-26T14:51:44.688999+00:00",
       "new_articles": 8
+    },
+    {
+      "timestamp": "2026-03-27T00:01:48.483624+00:00",
+      "new_articles": 1
     }
   ]
 }
