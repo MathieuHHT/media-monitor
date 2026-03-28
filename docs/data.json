@@ -1,6 +1,34 @@
 {
   "articles": [
     {
+      "title_original": "ร้านอาหารดังบางสะพาน รับซื้อมะพร้าวจากชาวสวนให้ลูกค้าดื่มฟรี - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81MGpEZld4bndwS3lwdnJ2UFotZjRqdmlGd2t1QUlabElKM05vQlB3VF9PbnhEb29XeGhuSUJ6MjhjTDJiQUF4U0tNempSaXJnZnZ5dVpn?oc=5",
+      "pub_date": "Sat, 28 Mar 2026 10:00:16 GMT",
+      "source": "YouTube",
+      "description_original": "ร้านอาหารดังบางสะพาน รับซื้อมะพร้าวจากชาวสวนให้ลูกค้าดื่มฟรี&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "9591333d72e5",
+      "title_en": "ร้านอาหารดังบางสะพาน รับซื้อมะพร้าวจากชาวสวนให้ลูกค้าดื่มฟรี - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-03-28T23:58:24.530763+00:00"
+    },
+    {
+      "title_original": "มะพร้าวน้ำหอม สวนตาภักดิ์ นาทวี สงขลา ราคาดี - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DMjMtVnV4c3JnSTZ4dU84cXlfcno2N1k1aVJNd05Gc3BwZGZYbG9UbUdnZ1ZqSG1XWUVXRFVEdmczVXZXOElQdVVoMG9fUlowTVJORXFB?oc=5",
+      "pub_date": "Sat, 28 Mar 2026 07:50:56 GMT",
+      "source": "YouTube",
+      "description_original": "มะพร้าวน้ำหอม สวนตาภักดิ์ นาทวี สงขลา ราคาดี&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "0c23560eeda5",
+      "title_en": "มะพร้าวน้ำหอม สวนตาภักดิ์ นาทวี สงขลา ราคาดี - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-03-28T23:58:24.530763+00:00"
+    },
+    {
       "title_original": "ลุย‘นอมินี’จ.ชลบุรี - สั่งปิดทันที 4บริษัท - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น - HoonVision",
       "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQa0NVa1hjSklNYlhGVjZuTWdoWVZRdGhpSnI0MG9xZjFUZkJVV2FVZ1J2VmdXSk4wSE9tTDJJNXFrQWp2MkNxVmcxSXo4ak1DZ0JsNndJVWNxMkxBckMxSXBudGpkeXpOUHlvSW95MW5ocGVOVUtiTVhLbjVxU2Y1bVNnRGY3ZzhPVTRhLU92ZzdiNC1qMWtvUTlBdUlNME02U2gwNFV3SHFsSFhSbi16UUdrLVl1VnVSeHJycHdWVW9qZjdxSm1QX1RsQ0ZqVEVvMUhhR21nMjVUV3lidlJHX2did0E0YzE1eERhOGE4NDlVbzBxa0R0SXZHb3J1Tm02QkhpejBNYlZOaHJkRnY3SWpYdDQ1SDRJTTduNTVvWl9kZmlmZXVVV3I4Um1OSFoxdEIzNFM5aVFwUXYzaXow?oc=5",
       "pub_date": "Sun, 22 Mar 2026 07:06:59 GMT",
@@ -6294,12 +6322,8 @@
       "first_seen": "2026-03-09T15:00:00Z"
     }
   ],
-  "last_updated": "2026-03-28T11:53:45.083171+00:00",
+  "last_updated": "2026-03-28T23:58:24.530763+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-03-10T04:32:17.980392+00:00",
-      "new_articles": 73
-    },
     {
       "timestamp": "2026-03-10T05:46:03.508522+00:00",
       "new_articles": 5
@@ -6534,6 +6558,10 @@
     },
     {
       "timestamp": "2026-03-28T11:53:45.083171+00:00",
+      "new_articles": 2
+    },
+    {
+      "timestamp": "2026-03-28T23:58:24.530763+00:00",
       "new_articles": 2
     }
   ]
