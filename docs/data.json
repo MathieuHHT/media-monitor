@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "ชาวสวนใจดี ขนมะพร้าวน้ำหอมแจกฟรี | เช้านี้ที่หมอชิต - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TVmxfYzJJUzdJODlPbVJpckdROGswalVxVVgxQ3pJSEo4Q2V2Tkp2eXRidE9POF95c2hBdDJqQVZhbDlvZ3Znc184cGNKZGNGNHZSS3h3?oc=5",
+      "pub_date": "Fri, 27 Mar 2026 03:47:01 GMT",
+      "source": "YouTube",
+      "description_original": "ชาวสวนใจดี ขนมะพร้าวน้ำหอมแจกฟรี | เช้านี้ที่หมอชิต&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "17fb340065b3",
+      "title_en": "ชาวสวนใจดี ขนมะพร้าวน้ำหอมแจกฟรี | เช้านี้ที่หมอชิต - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-03-29T07:56:42.134537+00:00"
+    },
+    {
       "title_original": "ร้านอาหารดังบางสะพาน รับซื้อมะพร้าวจากชาวสวนให้ลูกค้าดื่มฟรี - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81MGpEZld4bndwS3lwdnJ2UFotZjRqdmlGd2t1QUlabElKM05vQlB3VF9PbnhEb29XeGhuSUJ6MjhjTDJiQUF4U0tNempSaXJnZnZ5dVpn?oc=5",
       "pub_date": "Sat, 28 Mar 2026 10:00:16 GMT",
@@ -6322,12 +6336,8 @@
       "first_seen": "2026-03-09T15:00:00Z"
     }
   ],
-  "last_updated": "2026-03-28T23:58:24.530763+00:00",
+  "last_updated": "2026-03-29T07:56:42.134537+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-03-10T05:46:03.508522+00:00",
-      "new_articles": 5
-    },
     {
       "timestamp": "2026-03-10T07:29:05.580422+00:00",
       "new_articles": 11
@@ -6563,6 +6573,10 @@
     {
       "timestamp": "2026-03-28T23:58:24.530763+00:00",
       "new_articles": 2
+    },
+    {
+      "timestamp": "2026-03-29T07:56:42.134537+00:00",
+      "new_articles": 1
     }
   ]
 }
