@@ -1,6 +1,34 @@
 {
   "articles": [
     {
+      "title_original": "พาณิชย์บุกเกาะลันตา ลุยปราบนอมินี พบ 5 ธุรกิจเข้าข่ายผิด - TNN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1pVVhJbW9tZmtjajJ6SHJXZHNNWTZ6SDBUNlBmVEFEcFlaWkdpOWJrV1BMZ2lHTHJZclRidVlWTUJieTVHVTc1d191cGlEWTQ2MURBMA?oc=5",
+      "pub_date": "Thu, 26 Mar 2026 07:00:00 GMT",
+      "source": "TNN",
+      "description_original": "พาณิชย์บุกเกาะลันตา ลุยปราบนอมินี พบ 5 ธุรกิจเข้าข่ายผิด&nbsp;&nbsp;TNN",
+      "is_priority_outlet": false,
+      "id": "c44bab91e293",
+      "title_en": "พาณิชย์บุกเกาะลันตา ลุยปราบนอมินี พบ 5 ธุรกิจเข้าข่ายผิด - TNN",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-03-29T11:55:32.360918+00:00"
+    },
+    {
+      "title_original": "จัดวุ้นดอกไม้ลงขันโตก #วุ้นชลบุรี #เค้กวุ้นชลบุรี #วุ้นกะทิมะพร้าวน้ำหอม #วุ้นแฟนซี #วุ้นดอกไม้ - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9zZTBEdUtWTjJjNmZINmpDaG9LYVdJVE9Ba3c5TExLQU1VZWRmYk13aWVOWlEwOFB6OVhfZ0xxakhmYzJXSFNCZ0JJRUVLWkpxdVBNNw?oc=5",
+      "pub_date": "Tue, 24 Mar 2026 04:47:31 GMT",
+      "source": "YouTube",
+      "description_original": "จัดวุ้นดอกไม้ลงขันโตก #วุ้นชลบุรี #เค้กวุ้นชลบุรี #วุ้นกะทิมะพร้าวน้ำหอม #วุ้นแฟนซี #วุ้นดอกไม้&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "4dce921a7e46",
+      "title_en": "จัดวุ้นดอกไม้ลงขันโตก #วุ้นชลบุรี #เค้กวุ้นชลบุรี #วุ้นกะทิมะพร้าวน้ำหอม #วุ้นแฟนซี #วุ้นดอกไม้ - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-03-29T11:55:32.360918+00:00"
+    },
+    {
       "title_original": "ชาวสวนใจดี ขนมะพร้าวน้ำหอมแจกฟรี | เช้านี้ที่หมอชิต - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TVmxfYzJJUzdJODlPbVJpckdROGswalVxVVgxQ3pJSEo4Q2V2Tkp2eXRidE9POF95c2hBdDJqQVZhbDlvZ3Znc184cGNKZGNGNHZSS3h3?oc=5",
       "pub_date": "Fri, 27 Mar 2026 03:47:01 GMT",
@@ -6336,12 +6364,8 @@
       "first_seen": "2026-03-09T15:00:00Z"
     }
   ],
-  "last_updated": "2026-03-29T07:56:42.134537+00:00",
+  "last_updated": "2026-03-29T11:55:32.360918+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-03-10T07:29:05.580422+00:00",
-      "new_articles": 11
-    },
     {
       "timestamp": "2026-03-10T11:50:42.560184+00:00",
       "new_articles": 13
@@ -6577,6 +6601,10 @@
     {
       "timestamp": "2026-03-29T07:56:42.134537+00:00",
       "new_articles": 1
+    },
+    {
+      "timestamp": "2026-03-29T11:55:32.360918+00:00",
+      "new_articles": 2
     }
   ]
 }
