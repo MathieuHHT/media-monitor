@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "ชาวสวนใจดี ขนมะพร้าวน้ำหอมแจกฟรี | จ้อข่าวเช้า - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wMy1jODgwckZaa090UU4xZUlHc09nZ3RtbmdNOXJHQzlqVnBDeE9vc09RRUItVkNnRXBPRlFRdElYTjN2V0Q4aHJwZm5iX3pzVXFqdVpB?oc=5",
+      "pub_date": "Thu, 02 Apr 2026 02:19:49 GMT",
+      "source": "YouTube",
+      "description_original": "ชาวสวนใจดี ขนมะพร้าวน้ำหอมแจกฟรี | จ้อข่าวเช้า&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "dfd462d247d2",
+      "title_en": "ชาวสวนใจดี ขนมะพร้าวน้ำหอมแจกฟรี | จ้อข่าวเช้า - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-04-02T14:40:58.220247+00:00"
+    },
+    {
       "title_original": "พาณิชย์ ดัน Thai SELECT ปี 3 กระตุ้นกินเที่ยว” - TNN",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LR3lrU19BZ2l0WGtiV1BwYlA1Vi1sV2NEazRHUDV4akttTm9wTDlUbkNqOGoxWW1TQkstNVhfX184QnlseVY0Q0NhT0RmQmNob193Y3V0SGtQU2V6ZDJN?oc=5",
       "pub_date": "Thu, 02 Apr 2026 04:54:31 GMT",
@@ -6875,12 +6889,8 @@
       "first_seen": "2026-03-09T15:00:00Z"
     }
   ],
-  "last_updated": "2026-04-02T08:15:06.080769+00:00",
+  "last_updated": "2026-04-02T14:40:58.220247+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-03-13T11:57:14.421069+00:00",
-      "new_articles": 3
-    },
     {
       "timestamp": "2026-03-13T23:56:12.616699+00:00",
       "new_articles": 5
@@ -7116,6 +7126,10 @@
     {
       "timestamp": "2026-04-02T08:15:06.080769+00:00",
       "new_articles": 4
+    },
+    {
+      "timestamp": "2026-04-02T14:40:58.220247+00:00",
+      "new_articles": 1
     }
   ]
 }
