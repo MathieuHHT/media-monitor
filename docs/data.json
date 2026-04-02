@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "เบลล่า – เพิร์ธ & แซนต้า” ชวนรักสุขภาพ ดื่มมะพร้าวแท้ 100% Cocolove - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oUjBqUEJ5OHR6YUJ5M0ZNRWVrNEdXQno2QnkzeWhIMGFWRU5aYW9vT3pVeUdfRkQwU1lFUi05NThkZm9IZkNnOHk5VGQtcmcyODJrZ2hB?oc=5",
+      "pub_date": "Wed, 01 Apr 2026 20:20:46 GMT",
+      "source": "YouTube",
+      "description_original": "เบลล่า – เพิร์ธ & แซนต้า” ชวนรักสุขภาพ ดื่มมะพร้าวแท้ 100% Cocolove&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "1c819d81a4b4",
+      "title_en": "เบลล่า – เพิร์ธ & แซนต้า” ชวนรักสุขภาพ ดื่มมะพร้าวแท้ 100% Cocolove - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-04-02T00:01:12.480083+00:00"
+    },
+    {
       "title_original": "พาณิชย์เร่งดูแลเกษตรกร คุมคุณภาพ GI พร้อมดันตลาดมูลค่าสูง ล่าสุด กรมทรัพย์สินทางปัญญา จับมือ CP Axtra หนุนรับซื้อ “สินค้าเกษตร GI” 16 รายการ จากเกษตรกรโดยตรง กระจายสู่ Makro - Lotus ในเมืองใหญ่และแหล่งท่องเที่ยวตลอดปี - Thailandplus",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9JME1JOGlDQnZUUkdqTG1aVzRsX3FoWWNkZWNJUmhGeUtVQnI0NnZrN2ZNMVVTV2dmc0Z6alJWRkhsbXpmbDE1VHROdEFadXJtakIxaXJmQQ?oc=5",
       "pub_date": "Wed, 01 Apr 2026 05:49:44 GMT",
@@ -6805,12 +6819,8 @@
       "first_seen": "2026-03-09T15:00:00Z"
     }
   ],
-  "last_updated": "2026-04-01T14:55:05.932297+00:00",
+  "last_updated": "2026-04-02T00:01:12.480083+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-03-12T23:54:00.578117+00:00",
-      "new_articles": 6
-    },
     {
       "timestamp": "2026-03-13T07:35:39.566526+00:00",
       "new_articles": 8
@@ -7046,6 +7056,10 @@
     {
       "timestamp": "2026-04-01T14:55:05.932297+00:00",
       "new_articles": 6
+    },
+    {
+      "timestamp": "2026-04-02T00:01:12.480083+00:00",
+      "new_articles": 1
     }
   ]
 }
