@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "เปิดปม \"วิกฤตมะพร้าวไทย\" ล้นตลาด-ถูกกดราคา ใครได้? ใครเสีย? ในเกมราคาที่ไม่เป็นธรรม! - news.trueid.net",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIdTcyRXlMc3h3dE8teWF2anEtaXg5Uy1BQXVmaFBqX0ZRdjRMM204WS1JZjRZOUc0aERqc0RPVWI4VGtad2ZjblZpcWJfbnV0RW9FczZn?oc=5",
+      "pub_date": "Fri, 27 Mar 2026 01:00:00 GMT",
+      "source": "news.trueid.net",
+      "description_original": "เปิดปม \"วิกฤตมะพร้าวไทย\" ล้นตลาด-ถูกกดราคา ใครได้? ใครเสีย? ในเกมราคาที่ไม่เป็นธรรม!&nbsp;&nbsp;news.trueid.net",
+      "is_priority_outlet": false,
+      "id": "1555645cbd12",
+      "title_en": "เปิดปม \"วิกฤตมะพร้าวไทย\" ล้นตลาด-ถูกกดราคา ใครได้? ใครเสีย? ในเกมราคาที่ไม่เป็นธรรม! - news.trueid.net",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-04-03T00:04:16.831547+00:00"
+    },
+    {
       "title_original": "ชาวสวนใจดี ขนมะพร้าวน้ำหอมแจกฟรี | จ้อข่าวเช้า - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wMy1jODgwckZaa090UU4xZUlHc09nZ3RtbmdNOXJHQzlqVnBDeE9vc09RRUItVkNnRXBPRlFRdElYTjN2V0Q4aHJwZm5iX3pzVXFqdVpB?oc=5",
       "pub_date": "Thu, 02 Apr 2026 02:19:49 GMT",
@@ -6889,12 +6903,8 @@
       "first_seen": "2026-03-09T15:00:00Z"
     }
   ],
-  "last_updated": "2026-04-02T14:40:58.220247+00:00",
+  "last_updated": "2026-04-03T00:04:16.831547+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-03-13T23:56:12.616699+00:00",
-      "new_articles": 5
-    },
     {
       "timestamp": "2026-03-14T07:23:23.128684+00:00",
       "new_articles": 3
@@ -7129,6 +7139,10 @@
     },
     {
       "timestamp": "2026-04-02T14:40:58.220247+00:00",
+      "new_articles": 1
+    },
+    {
+      "timestamp": "2026-04-03T00:04:16.831547+00:00",
       "new_articles": 1
     }
   ]
