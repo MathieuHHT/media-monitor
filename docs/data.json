@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "“มหกรรมมะพร้าวและผลิตภัณฑ์แปรรูปจากมะพร้าวเพชรสมุทรคีรี” - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WeWFFSE5ObUUtNW9pZGRVMEw0eFhDS3lBT1ZHc2hsX2lKTTc5UlJmcDUzVzlIQ0N2S1d2TDdWMW5UcmRsVWNNeUpSSVJmT2t1MnBCa0Vn?oc=5",
+      "pub_date": "Sun, 29 Mar 2026 00:41:58 GMT",
+      "source": "YouTube",
+      "description_original": "“มหกรรมมะพร้าวและผลิตภัณฑ์แปรรูปจากมะพร้าวเพชรสมุทรคีรี”&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "2b0bd2066ea7",
+      "title_en": "“มหกรรมมะพร้าวและผลิตภัณฑ์แปรรูปจากมะพร้าวเพชรสมุทรคีรี” - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-04-03T08:08:38.081749+00:00"
+    },
+    {
       "title_original": "เปิดปม \"วิกฤตมะพร้าวไทย\" ล้นตลาด-ถูกกดราคา ใครได้? ใครเสีย? ในเกมราคาที่ไม่เป็นธรรม! - news.trueid.net",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIdTcyRXlMc3h3dE8teWF2anEtaXg5Uy1BQXVmaFBqX0ZRdjRMM204WS1JZjRZOUc0aERqc0RPVWI4VGtad2ZjblZpcWJfbnV0RW9FczZn?oc=5",
       "pub_date": "Fri, 27 Mar 2026 01:00:00 GMT",
@@ -6903,12 +6917,8 @@
       "first_seen": "2026-03-09T15:00:00Z"
     }
   ],
-  "last_updated": "2026-04-03T00:04:16.831547+00:00",
+  "last_updated": "2026-04-03T08:08:38.081749+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-03-14T07:23:23.128684+00:00",
-      "new_articles": 3
-    },
     {
       "timestamp": "2026-03-14T11:45:47.625730+00:00",
       "new_articles": 1
@@ -7143,6 +7153,10 @@
     },
     {
       "timestamp": "2026-04-03T00:04:16.831547+00:00",
+      "new_articles": 1
+    },
+    {
+      "timestamp": "2026-04-03T08:08:38.081749+00:00",
       "new_articles": 1
     }
   ]
