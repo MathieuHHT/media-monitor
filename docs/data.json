@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "แห่ตีเลขกันแน่น! มะพร้าวงวงช้างคล้ายเศียรพญานาค เจ้าของฝันแม่นก่อนเจอ - banmuang.co.th",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE51SjAwdk81SXVYOXppdjNRSGRfV3dST1ZYQ0ZpYVdnaFBfODdFNnlScUp4S3lZVlRnTDhXQ05lVHZvZTV6RDc2Z2NIT0t5UQ?oc=5",
+      "pub_date": "Wed, 01 Apr 2026 02:16:00 GMT",
+      "source": "banmuang.co.th",
+      "description_original": "แห่ตีเลขกันแน่น! มะพร้าวงวงช้างคล้ายเศียรพญานาค เจ้าของฝันแม่นก่อนเจอ&nbsp;&nbsp;banmuang.co.th",
+      "is_priority_outlet": true,
+      "id": "529272cb7e76",
+      "title_en": "แห่ตีเลขกันแน่น! มะพร้าวงวงช้างคล้ายเศียรพญานาค เจ้าของฝันแม่นก่อนเจอ - banmuang.co.th",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-04-04T23:59:40.179758+00:00"
+    },
+    {
       "title_original": "ในประเทศ - ผู้ตรวจการฯ รุดช่วยชาวสวน เร่งแก้ราคามะพร้าวดิ่งเหลือ 2 บาท - แนวหน้า",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CQmF6OWhmOFhGbU9Za042NlRWaDh3ekNNZjF3NEROem5IcjAzYkstTmhxcXpRNk5WaVFQWlFiVjc4Ykl4dmc4WXgyOA?oc=5",
       "pub_date": "Sat, 04 Apr 2026 07:04:00 GMT",
@@ -7155,12 +7169,8 @@
       "first_seen": "2026-03-09T15:00:00Z"
     }
   ],
-  "last_updated": "2026-04-04T11:55:22.692095+00:00",
+  "last_updated": "2026-04-04T23:59:40.179758+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-03-15T23:56:33.657735+00:00",
-      "new_articles": 4
-    },
     {
       "timestamp": "2026-03-16T08:16:47.422340+00:00",
       "new_articles": 5
@@ -7396,6 +7406,10 @@
     {
       "timestamp": "2026-04-04T11:55:22.692095+00:00",
       "new_articles": 9
+    },
+    {
+      "timestamp": "2026-04-04T23:59:40.179758+00:00",
+      "new_articles": 1
     }
   ]
 }
