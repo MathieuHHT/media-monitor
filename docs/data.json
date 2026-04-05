@@ -1,6 +1,34 @@
 {
   "articles": [
     {
+      "title_original": "“ผู้ตรวจการฯ” เร่งแก้ปัญหาราคามะพร้าวดิ่ง พร้อมจับตาทุนต่างชาติเช่าสวน-ตั้งล้งนอมินี - เดลินิวส์",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aTzFEY1E2TnozVlhFbHkxU3gwU29UMFBtX2NybVJFN2x6Njdpb1JUZ21tNmNmLTBWS2JuSDJ5T1dYcnRySWJhVkE3UmpjSlViY0dn?oc=5",
+      "pub_date": "Sat, 04 Apr 2026 06:29:00 GMT",
+      "source": "เดลินิวส์",
+      "description_original": "“ผู้ตรวจการฯ” เร่งแก้ปัญหาราคามะพร้าวดิ่ง พร้อมจับตาทุนต่างชาติเช่าสวน-ตั้งล้งนอมินี&nbsp;&nbsp;เดลินิวส์",
+      "is_priority_outlet": false,
+      "id": "9ed1df0b28fe",
+      "title_en": "“ผู้ตรวจการฯ” เร่งแก้ปัญหาราคามะพร้าวดิ่ง พร้อมจับตาทุนต่างชาติเช่าสวน-ตั้งล้งนอมินี - เดลินิวส์",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-04-05T08:00:03.530432+00:00"
+    },
+    {
+      "title_original": "“ลูกมะพร้าว” ตกเกลื่อนเต็มถนน l ตลาดข่าว - ข่าวเช้าเวิร์คพอยท์ l 31 มี.ค.69 - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10VFd1a2IyNUpRd3RMSXpHUERTcUZJRU9EeGM3VVpwOWV0TzVBMUlneHVZd1Nrb25CV2ZZclpjd29PWklncGVlekVCNzBhVG5xVEFBSDVn?oc=5",
+      "pub_date": "Tue, 31 Mar 2026 04:23:17 GMT",
+      "source": "YouTube",
+      "description_original": "“ลูกมะพร้าว” ตกเกลื่อนเต็มถนน l ตลาดข่าว - ข่าวเช้าเวิร์คพอยท์ l 31 มี.ค.69&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "7294a0edd7bf",
+      "title_en": "“ลูกมะพร้าว” ตกเกลื่อนเต็มถนน l ตลาดข่าว - ข่าวเช้าเวิร์คพอยท์ l 31 มี.ค.69 - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-04-05T08:00:03.530432+00:00"
+    },
+    {
       "title_original": "แห่ตีเลขกันแน่น! มะพร้าวงวงช้างคล้ายเศียรพญานาค เจ้าของฝันแม่นก่อนเจอ - banmuang.co.th",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE51SjAwdk81SXVYOXppdjNRSGRfV3dST1ZYQ0ZpYVdnaFBfODdFNnlScUp4S3lZVlRnTDhXQ05lVHZvZTV6RDc2Z2NIT0t5UQ?oc=5",
       "pub_date": "Wed, 01 Apr 2026 02:16:00 GMT",
@@ -7169,12 +7197,8 @@
       "first_seen": "2026-03-09T15:00:00Z"
     }
   ],
-  "last_updated": "2026-04-04T23:59:40.179758+00:00",
+  "last_updated": "2026-04-05T08:00:03.530432+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-03-16T08:16:47.422340+00:00",
-      "new_articles": 5
-    },
     {
       "timestamp": "2026-03-16T14:47:42.722864+00:00",
       "new_articles": 7
@@ -7410,6 +7434,10 @@
     {
       "timestamp": "2026-04-04T23:59:40.179758+00:00",
       "new_articles": 1
+    },
+    {
+      "timestamp": "2026-04-05T08:00:03.530432+00:00",
+      "new_articles": 2
     }
   ]
 }
