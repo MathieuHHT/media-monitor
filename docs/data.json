@@ -1,6 +1,34 @@
 {
   "articles": [
     {
+      "title_original": "ชวนร่วมงานแฟรนไชส์สร้างอาชีพฯ กระตุ้นเศรษฐกิจใต้ ที่เซ็นทรัลหาดใหญ่ 3–6 เม.ย. - Thairath.co.th",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qdDFlUGtCd3RIT1NUcng3NDYzWnFrd2lZUXdoZ01mOHhUenVSTE1YdnY2bVFZbmZIWEJDMzNOanVYUzJiZGl3MVVmXy0xWXhNd0FFQV9UQWpaT0JCNEFacHcxZldscVdJc3Vr?oc=5",
+      "pub_date": "Sun, 05 Apr 2026 04:55:00 GMT",
+      "source": "Thairath.co.th",
+      "description_original": "ชวนร่วมงานแฟรนไชส์สร้างอาชีพฯ กระตุ้นเศรษฐกิจใต้ ที่เซ็นทรัลหาดใหญ่ 3–6 เม.ย.&nbsp;&nbsp;Thairath.co.th",
+      "is_priority_outlet": false,
+      "id": "95a08baea9d3",
+      "title_en": "ชวนร่วมงานแฟรนไชส์สร้างอาชีพฯ กระตุ้นเศรษฐกิจใต้ ที่เซ็นทรัลหาดใหญ่ 3–6 เม.ย. - Thairath.co.th",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-04-05T11:56:29.921605+00:00"
+    },
+    {
+      "title_original": "ไลฟ์สด สอนทำ เค้กมะพร้าวลาวา - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ONWp4a29TV1dNa2pCVHJUUVNTREY0MEMyVTV0Y1VIOEFRQWZfbm9vci1RUVBpc2RGV0t2cFowbHFXSzlDS3hzSjFyMkgybXN6U3VLZ0JR?oc=5",
+      "pub_date": "Fri, 03 Apr 2026 20:11:51 GMT",
+      "source": "YouTube",
+      "description_original": "ไลฟ์สด สอนทำ เค้กมะพร้าวลาวา&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "5cf3ed6d4e2d",
+      "title_en": "ไลฟ์สด สอนทำ เค้กมะพร้าวลาวา - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-04-05T11:56:29.921605+00:00"
+    },
+    {
       "title_original": "“ผู้ตรวจการฯ” เร่งแก้ปัญหาราคามะพร้าวดิ่ง พร้อมจับตาทุนต่างชาติเช่าสวน-ตั้งล้งนอมินี - เดลินิวส์",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aTzFEY1E2TnozVlhFbHkxU3gwU29UMFBtX2NybVJFN2x6Njdpb1JUZ21tNmNmLTBWS2JuSDJ5T1dYcnRySWJhVkE3UmpjSlViY0dn?oc=5",
       "pub_date": "Sat, 04 Apr 2026 06:29:00 GMT",
@@ -7197,12 +7225,8 @@
       "first_seen": "2026-03-09T15:00:00Z"
     }
   ],
-  "last_updated": "2026-04-05T08:00:03.530432+00:00",
+  "last_updated": "2026-04-05T11:56:29.921605+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-03-16T14:47:42.722864+00:00",
-      "new_articles": 7
-    },
     {
       "timestamp": "2026-03-16T23:56:46.215964+00:00",
       "new_articles": 5
@@ -7437,6 +7461,10 @@
     },
     {
       "timestamp": "2026-04-05T08:00:03.530432+00:00",
+      "new_articles": 2
+    },
+    {
+      "timestamp": "2026-04-05T11:56:29.921605+00:00",
       "new_articles": 2
     }
   ]
