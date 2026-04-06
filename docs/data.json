@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "\"ผู้ตรวจการแผ่นดิน\" เร่งแก้ไขปัญหา หลังราคามะพร้าวต่ำกว่าต้นทุนลูกละ 2-3 บาท เสนอเปิดตลาดขายห้าง-ปั๊ม-ไปรษณีย์ไทยระบายผลผลิต พร้อมจับตาทุนต่างชาติเช่าสวน-ตั้งล้งนอมินี และเร่งปิดช่องโหว่น้ำมะพร้าวปลอมกู้ความเชื่อมั่นสินค้าไทย - NBT CONNEXT",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwMEdmUGM2X0k2b3BkTFhYRGIzaE5xSTJWOGJvVDZLbk9xZmx4TlZTelVROG94M29kT0ZVeXkwN1hDN3NTa0FXaV92dnRpY3RLU240TGRSU2tLVHZfazZYSzBZR0hKdTRYYkxOVQ?oc=5",
+      "pub_date": "Sat, 04 Apr 2026 11:06:46 GMT",
+      "source": "NBT CONNEXT",
+      "description_original": "\"ผู้ตรวจการแผ่นดิน\" เร่งแก้ไขปัญหา หลังราคามะพร้าวต่ำกว่าต้นทุนลูกละ 2-3 บาท เสนอเปิดตลาดขายห้าง-ปั๊ม-ไปรษณีย์ไทยระบายผลผลิต พร้อมจับตาทุนต่างชาติเช่าสวน-ตั้งล้งนอมินี และเร่งปิดช่องโหว่น้ำมะพร้าวปลอมกู้ความเชื่อมั่นสินค้าไทย&nbsp;&nbsp;NBT CONNEXT",
+      "is_priority_outlet": false,
+      "id": "fd61bee15b7c",
+      "title_en": "\"ผู้ตรวจการแผ่นดิน\" เร่งแก้ไขปัญหา หลังราคามะพร้าวต่ำกว่าต้นทุนลูกละ 2-3 บาท เสนอเปิดตลาดขายห้าง-ปั๊ม-ไปรษณีย์ไทยระบายผลผลิต พร้อมจับตาทุนต่างชาติเช่าสวน-ตั้งล้งนอมินี และเร่งปิดช่องโหว่น้ำมะพร้าวปลอมกู้ความเชื่อมั่นสินค้าไทย - NBT CONNEXT",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-04-06T00:02:45.396373+00:00"
+    },
+    {
       "title_original": "ชวนร่วมงานแฟรนไชส์สร้างอาชีพฯ กระตุ้นเศรษฐกิจใต้ ที่เซ็นทรัลหาดใหญ่ 3–6 เม.ย. - Thairath.co.th",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qdDFlUGtCd3RIT1NUcng3NDYzWnFrd2lZUXdoZ01mOHhUenVSTE1YdnY2bVFZbmZIWEJDMzNOanVYUzJiZGl3MVVmXy0xWXhNd0FFQV9UQWpaT0JCNEFacHcxZldscVdJc3Vr?oc=5",
       "pub_date": "Sun, 05 Apr 2026 04:55:00 GMT",
@@ -7225,12 +7239,8 @@
       "first_seen": "2026-03-09T15:00:00Z"
     }
   ],
-  "last_updated": "2026-04-05T11:56:29.921605+00:00",
+  "last_updated": "2026-04-06T00:02:45.396373+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-03-16T23:56:46.215964+00:00",
-      "new_articles": 5
-    },
     {
       "timestamp": "2026-03-17T08:00:44.436662+00:00",
       "new_articles": 10
@@ -7466,6 +7476,10 @@
     {
       "timestamp": "2026-04-05T11:56:29.921605+00:00",
       "new_articles": 2
+    },
+    {
+      "timestamp": "2026-04-06T00:02:45.396373+00:00",
+      "new_articles": 1
     }
   ]
 }
