@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "มะพร้าวน้ำหอม #ผลไม้ไทย #คุณพร - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KVXc2TE0tMVhNTXVtdUNxcjVjRXBvc015WUVNRlNYWXN6dHRrNXVCUzlZTHdKMFlOLXhKYjAweUIxbXQteHFnYjNiaGh3Q2w2T2ctdQ?oc=5",
+      "pub_date": "Wed, 08 Apr 2026 01:09:06 GMT",
+      "source": "YouTube",
+      "description_original": "มะพร้าวน้ำหอม #ผลไม้ไทย #คุณพร&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "486c2e028a2f",
+      "title_en": "มะพร้าวน้ำหอม #ผลไม้ไทย #คุณพร - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-04-08T08:45:11.196046+00:00"
+    },
+    {
       "title_original": "พบ \"น้ำมะพร้าวปลอม\" สั่งปราบเด็ดขาด | ข่าวเช้าช่องวัน | สำนักข่าววันนิวส์ - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkQXNCSmxQTFVOeDdwS1JIc0c4SDRNbEFSUUM5RnlyZ2t3VjJyNGtNandYZWJ2cXVTeHhxbllSSUF6N1B1NkxjWFdIUEZPUWVvSE9lZEpR?oc=5",
       "pub_date": "Wed, 08 Apr 2026 01:59:03 GMT",
@@ -7251,35 +7265,10 @@
       "summary_en": "The Department of Special Investigation collaborates with 10 government agencies to establish preventive measures against nominee front operations that are causing aromatic coconut prices to decline.",
       "sentiment": "positive",
       "first_seen": "2026-03-10T00:58:49.953958+00:00"
-    },
-    {
-      "title_original": "กรมพัฒน์ลุยปราบต่างชาติใช้คนไทยเป็นนอมินีทำธุรกิจมะพร้าวน้ำหอม - ผู้จัดการออนไลน์",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZTm4yVk5JQkQwZU85V0x4c3U0Rmhmd2JraUExVGZuMDRtdXU2eTIzSTctZWdHS1Z0OG5qVjRGYWdfZVdkX1pxcGNFSE5QN2tWSmxXeGZuRU9MRnJKYUF3Vg?oc=5",
-      "pub_date": "Wed, 04 Mar 2026 12:32:00 GMT",
-      "source": "ผู้จัดการออนไลน์",
-      "description_original": "กรมพัฒน์ลุยปราบต่างชาติใช้คนไทยเป็นนอมินีทำธุรกิจมะพร้าวน้ำหอม&nbsp;&nbsp;ผู้จัดการออนไลน์",
-      "people_mentioned": [
-        {
-          "key": "poonpong",
-          "name_en": "Poonpong Naiyanapakorn",
-          "role": "Director General, Department of Business Development",
-          "priority": "high"
-        }
-      ],
-      "is_priority_outlet": false,
-      "id": "6946e4e766b3",
-      "title_en": "Department of Business Development Cracks Down on Foreigners Using Thai Nominees in Aromatic Coconut Business",
-      "summary_en": "The Department of Business Development is taking action against foreign investors who illegally use Thai citizens as nominees to operate aromatic coconut businesses.",
-      "sentiment": "positive",
-      "first_seen": "2026-03-10T00:58:49.953958+00:00"
     }
   ],
-  "last_updated": "2026-04-08T05:30:45.031524+00:00",
+  "last_updated": "2026-04-08T08:45:11.196046+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-03-19T07:37:46.951922+00:00",
-      "new_articles": 4
-    },
     {
       "timestamp": "2026-03-19T12:02:38.530857+00:00",
       "new_articles": 13
@@ -7515,6 +7504,10 @@
     {
       "timestamp": "2026-04-08T05:30:45.031524+00:00",
       "new_articles": 3
+    },
+    {
+      "timestamp": "2026-04-08T08:45:11.196046+00:00",
+      "new_articles": 1
     }
   ]
 }
