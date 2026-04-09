@@ -1,6 +1,34 @@
 {
   "articles": [
     {
+      "title_original": "[Highlight] วุ้นมะพร้าวยังไม่เคยทำ แต่จานนี้รอดแน่เพราะอยู่เป็น - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1CSVRUY3BZb25LaklXNmR4bFpTajk5bmMyRVJzS05GanNXNjNlaHQ4TExwWlFpeXkxY1BJMG1tX3AwVTZiZXNPZ1N0eWFBcE5YWnVtajZn?oc=5",
+      "pub_date": "Mon, 06 Apr 2026 10:01:04 GMT",
+      "source": "YouTube",
+      "description_original": "[Highlight] วุ้นมะพร้าวยังไม่เคยทำ แต่จานนี้รอดแน่เพราะอยู่เป็น&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "f401dad0dfae",
+      "title_en": "[Highlight] วุ้นมะพร้าวยังไม่เคยทำ แต่จานนี้รอดแน่เพราะอยู่เป็น - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-04-09T00:03:32.165321+00:00"
+    },
+    {
+      "title_original": "บุกจับ \"น้ำมะพร้าวปลอม\" ตรวจค้นล้งเป้าหมาย 2 แห่ง ใช้น้ำผสมสารแต่งกลิ่น | 8 เม.ย. 69 | ข่าวใส่ไข่ - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tZElOajVVNlZDWmV2YjZFcUFhdG4wZHlMNE1ka3NJQUoyczdIMlhUNW5rWEd2cmRWekc5OWp0Q1g3TXFXbUlUdDNOcnJaTjV6Z0lZeW9B?oc=5",
+      "pub_date": "Wed, 08 Apr 2026 11:49:02 GMT",
+      "source": "YouTube",
+      "description_original": "บุกจับ \"น้ำมะพร้าวปลอม\" ตรวจค้นล้งเป้าหมาย 2 แห่ง ใช้น้ำผสมสารแต่งกลิ่น | 8 เม.ย. 69 | ข่าวใส่ไข่&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "f1b788cbe2c8",
+      "title_en": "บุกจับ \"น้ำมะพร้าวปลอม\" ตรวจค้นล้งเป้าหมาย 2 แห่ง ใช้น้ำผสมสารแต่งกลิ่น | 8 เม.ย. 69 | ข่าวใส่ไข่ - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-04-09T00:03:32.165321+00:00"
+    },
+    {
       "title_original": "มะพร้าวน้ำหอม #ผลไม้ไทย #คุณพร - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KVXc2TE0tMVhNTXVtdUNxcjVjRXBvc015WUVNRlNYWXN6dHRrNXVCUzlZTHdKMFlOLXhKYjAweUIxbXQteHFnYjNiaGh3Q2w2T2ctdQ?oc=5",
       "pub_date": "Wed, 08 Apr 2026 01:09:06 GMT",
@@ -7237,46 +7265,10 @@
       "summary_en": "The Commerce Ministry has discovered 15 fruit trading companies that are connected to nominees and are suppressing coconut prices in the market.",
       "sentiment": "negative",
       "first_seen": "2026-03-10T00:58:49.953958+00:00"
-    },
-    {
-      "title_original": "ข่าวพบล้งผลไม้เอี่ยวนอมินี กดราคามะพร้าว - Ch7.com",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5ZZERKT1ZZdE9vNDJlcmlVaV9lWmt0TmhMV3hMWFo4YVZqVklRSzZORUdJYkltQ1JEaERYYncxMlBaYmVDOHFLWUhn?oc=5",
-      "pub_date": "Sat, 07 Mar 2026 13:06:00 GMT",
-      "source": "Ch7.com",
-      "description_original": "ข่าวพบล้งผลไม้เอี่ยวนอมินี กดราคามะพร้าว&nbsp;&nbsp;Ch7.com",
-      "people_mentioned": [],
-      "is_priority_outlet": false,
-      "id": "9783b5f839db",
-      "title_en": "News: Fruit Trading Cartel Involving Nominees Suppresses Coconut Prices - Ch7.com",
-      "summary_en": "Report reveals a fruit trading cartel involving nominee arrangements that is manipulating and suppressing coconut prices in the market.",
-      "sentiment": "negative",
-      "first_seen": "2026-03-10T00:58:49.953958+00:00"
-    },
-    {
-      "title_original": "DSI ร่วมถก 10 หน่วยงาน วางกรอบป้องกัน ‘นอมินีอำพราง’ กดราคามะพร้าวน้ำหอมตกต่ำ - เดลินิวส์",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tTTd6U1VuVmc4eVFmZHFyZVdXd2pfUFlrSFFlUVBrWXZwYlJ3TXVvWlJEYTJOSi1VU3dJU0R2Tl9IQXlNOUtPYTdNT05IMllPcTFv?oc=5",
-      "pub_date": "Sat, 07 Mar 2026 04:46:00 GMT",
-      "source": "เดลินิวส์",
-      "description_original": "DSI ร่วมถก 10 หน่วยงาน วางกรอบป้องกัน ‘นอมินีอำพราง’ กดราคามะพร้าวน้ำหอมตกต่ำ&nbsp;&nbsp;เดลินิวส์",
-      "people_mentioned": [],
-      "is_priority_outlet": false,
-      "id": "b373da2e401d",
-      "title_en": "DSI Discusses with 10 Agencies to Create Framework Preventing 'Nominee Fronts' from Depressing Aromatic Coconut Prices",
-      "summary_en": "The Department of Special Investigation collaborates with 10 government agencies to establish preventive measures against nominee front operations that are causing aromatic coconut prices to decline.",
-      "sentiment": "positive",
-      "first_seen": "2026-03-10T00:58:49.953958+00:00"
     }
   ],
-  "last_updated": "2026-04-08T14:58:45.458195+00:00",
+  "last_updated": "2026-04-09T00:03:32.165321+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-03-19T12:02:38.530857+00:00",
-      "new_articles": 13
-    },
-    {
-      "timestamp": "2026-03-19T23:56:50.750304+00:00",
-      "new_articles": 5
-    },
     {
       "timestamp": "2026-03-20T07:37:06.196010+00:00",
       "new_articles": 7
@@ -7512,6 +7504,10 @@
     {
       "timestamp": "2026-04-08T14:58:45.458206+00:00",
       "new_articles": 0
+    },
+    {
+      "timestamp": "2026-04-09T00:03:32.165321+00:00",
+      "new_articles": 2
     }
   ]
 }
