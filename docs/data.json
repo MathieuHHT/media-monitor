@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "การเมือง - ผู้ตรวจการฯ จับตานโยบายรัฐ ที่แถลงต่อรัฐสภา โวพร้อมตรวจสอบ หากทำแล้วกระทบปชช. - แนวหน้า",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xSnRDa0dJUndGWUpXaTVzZ25ydHY5QXFITTA5aWV6eUFpQVFCNFRualAxYVN2QXRGcmpsRk5rNWNWV3U4MDR1aXhWRXpRdw?oc=5",
+      "pub_date": "Thu, 09 Apr 2026 07:58:00 GMT",
+      "source": "แนวหน้า",
+      "description_original": "การเมือง - ผู้ตรวจการฯ จับตานโยบายรัฐ ที่แถลงต่อรัฐสภา โวพร้อมตรวจสอบ หากทำแล้วกระทบปชช.&nbsp;&nbsp;แนวหน้า",
+      "is_priority_outlet": false,
+      "id": "e6187ec40e9f",
+      "title_en": "การเมือง - ผู้ตรวจการฯ จับตานโยบายรัฐ ที่แถลงต่อรัฐสภา โวพร้อมตรวจสอบ หากทำแล้วกระทบปชช. - แนวหน้า",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-04-11T05:53:39.051642+00:00"
+    },
+    {
       "title_original": "Photo Gallery กรมพัฒน์-ผู้ตรวจการแผ่นดิน ติดตามแก้ปัญหานอมินีมะพร้าวน้ำหอม - ผู้จัดการออนไลน์",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDc1hVUGxIcmZjWm9wVXVtamlmLW9HNW9hNVBlMnN3WXNkanB0RjRoQ29tcVlfdXRZVExjNDd6aUNNNE1WMlpIaUdFR0lQNktYbXUyaFRreW5NS3dRYndIY0M0NUdJckRhVkE?oc=5",
       "pub_date": "Mon, 06 Apr 2026 07:03:00 GMT",
@@ -7209,28 +7223,10 @@
       "summary_en": "An irrigation office director recommends government price controls after discovering middlemen are severely depressing prices paid to coconut farmers.",
       "sentiment": "negative",
       "first_seen": "2026-03-10T04:32:17.980392+00:00"
-    },
-    {
-      "title_original": "รทสช. ชูแผนกู้วิกฤตมะพร้าวไทย! \"พีระพันธุ์\" แนะเกษตรกรเร่งรวมตัวจัดตั้งสมาคมฯ สร้างอำนาจต่อรอง พร้อมประสานพาณิชย์ขยายตลาดส่งออก - banmuang.co.th",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9heDZwNEdfcFpZa0VRdUlXRUVJZzYyb1lmM3AyWEdkbW1abGttZEZXXzZ5eFNEcUx1bTA3OFg4MXJ3WHNVeGFJT1ViV3JtQm5tZmtaRjVqTHJfZw?oc=5",
-      "pub_date": "Thu, 05 Mar 2026 06:56:00 GMT",
-      "source": "banmuang.co.th",
-      "description_original": "รทสช. ชูแผนกู้วิกฤตมะพร้าวไทย! \"พีระพันธุ์\" แนะเกษตรกรเร่งรวมตัวจัดตั้งสมาคมฯ สร้างอำนาจต่อรอง พร้อมประสานพาณิชย์ขยายตลาดส่งออก&nbsp;&nbsp;banmuang.co.th",
-      "people_mentioned": [],
-      "is_priority_outlet": true,
-      "id": "24393ac40d25",
-      "title_en": "Ministry of Agriculture and Cooperatives Presents Plan to Rescue Thai Coconut Crisis! 'Peerapan' Advises Farmers to Urgently Form Association to Create Bargaining Power, Ready to Coordinate with Commerce Ministry to Expand Export Markets",
-      "summary_en": "The Ministry of Agriculture and Cooperatives unveils a plan to address Thailand's coconut industry crisis, with officials advising farmers to establish associations for better bargaining power and coordinating export market expansion.",
-      "sentiment": "positive",
-      "first_seen": "2026-03-10T04:32:17.980392+00:00"
     }
   ],
-  "last_updated": "2026-04-10T23:40:20.928446+00:00",
+  "last_updated": "2026-04-11T05:53:39.051642+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-03-22T07:27:55.061594+00:00",
-      "new_articles": 3
-    },
     {
       "timestamp": "2026-03-22T11:44:47.611543+00:00",
       "new_articles": 3
@@ -7466,6 +7462,10 @@
     {
       "timestamp": "2026-04-10T23:40:20.928446+00:00",
       "new_articles": 9
+    },
+    {
+      "timestamp": "2026-04-11T05:53:39.051642+00:00",
+      "new_articles": 1
     }
   ]
 }
