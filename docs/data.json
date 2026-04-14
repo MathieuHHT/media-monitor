@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "คุมเข้มน้ำมะพร้าวปลอม ผู้ตรวจการแผ่นดินเสนอสุ่มตรวจไม่แจ้งล่วงหน้า - Ch7.com",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9FanVfaE10dW05SEJEbHhZNHJDOC1Ecm9Gd0IwN1RTNkVKTHhhSmc2ZWxLLUNOUnl4TnAxRjZ3ZDc4VVczYThFTGJ3?oc=5",
+      "pub_date": "Thu, 09 Apr 2026 08:12:00 GMT",
+      "source": "Ch7.com",
+      "description_original": "คุมเข้มน้ำมะพร้าวปลอม ผู้ตรวจการแผ่นดินเสนอสุ่มตรวจไม่แจ้งล่วงหน้า&nbsp;&nbsp;Ch7.com",
+      "is_priority_outlet": false,
+      "id": "c6e69d446e71",
+      "title_en": "คุมเข้มน้ำมะพร้าวปลอม ผู้ตรวจการแผ่นดินเสนอสุ่มตรวจไม่แจ้งล่วงหน้า - Ch7.com",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-04-14T11:52:55.452024+00:00"
+    },
+    {
       "title_original": "เริ่มเทศกาล“แพงทั้งแผ่นดิน” “รัฐบาล-พาณิชย์”เอาไม่อยู่ คนไทยต้องอดทน สินค้าเกษตรสวนทางราคาดิ่งเหว - ผู้จัดการออนไลน์",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wYzkyT1Y5REhPVERvWldKSnFQdUdOQmhfa1RmM0h0bzVYMkU0R0NRM05ZOWd1WHNxdWc3N1FZTjJGODVJN3BJdEZSQnJhdjQtamptZjFCNTkxYXhnVExQMA?oc=5",
       "pub_date": "Sun, 12 Apr 2026 18:22:00 GMT",
@@ -7209,32 +7223,10 @@
       "summary_en": "International news about US military decisions regarding Iran and Iraq's military equipment acquisition threats.",
       "sentiment": "negative",
       "first_seen": "2026-03-10T04:32:17.980392+00:00"
-    },
-    {
-      "title_original": "\"สีหศักดิ์\" แจง ไม่ได้คุยกับสหรัฐฯ ใช้อู่ตะเภาเป็นฐานทัพทหาร - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5faGt0SWNPd1I4MXNxcHhnT0dheGhodnRtdzdiSDFNcEJwczFFdTBER2tpSVdqT25QWmpLUDlTTjRoejRGTmE5T290a0JOd21xbVZwWTNR?oc=5",
-      "pub_date": "Thu, 05 Mar 2026 11:55:00 GMT",
-      "source": "YouTube",
-      "description_original": "\"สีหศักดิ์\" แจง ไม่ได้คุยกับสหรัฐฯ ใช้อู่ตะเภาเป็นฐานทัพทหาร&nbsp;&nbsp;YouTube",
-      "people_mentioned": [],
-      "is_priority_outlet": false,
-      "id": "ab21f4a9dcea",
-      "title_en": "Sihasak Clarifies: No Discussion with US About Using Shipyard as Military Base",
-      "summary_en": "Official denial of negotiations with the United States regarding military base usage at shipyard facilities.",
-      "sentiment": "neutral",
-      "first_seen": "2026-03-10T04:32:17.980392+00:00"
     }
   ],
-  "last_updated": "2026-04-14T06:24:46.047610+00:00",
+  "last_updated": "2026-04-14T11:52:55.452024+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-03-25T07:59:46.805213+00:00",
-      "new_articles": 3
-    },
-    {
-      "timestamp": "2026-03-25T14:44:27.377529+00:00",
-      "new_articles": 3
-    },
     {
       "timestamp": "2026-03-26T00:03:46.111763+00:00",
       "new_articles": 1
@@ -7470,6 +7462,10 @@
     {
       "timestamp": "2026-04-14T06:24:46.047624+00:00",
       "new_articles": 0
+    },
+    {
+      "timestamp": "2026-04-14T11:52:55.452024+00:00",
+      "new_articles": 1
     }
   ]
 }
