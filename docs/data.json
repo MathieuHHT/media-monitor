@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "ทับทิมกรอบ เยลลี่เบอร์รี่… ทานคู่กับน้ำมะพร้าวน้ำหอม และกะทิอบควันเทียน ￼😋 - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9STFdsUE8wYi1LU3laYVRUeXZXYW51clU1MURYdy1BRzJPM1FIV1oxeXZkX2FqcnF3MnhXcE1aOVM4UjNXZmJ3R1ljS3hGc280eDBUaw?oc=5",
+      "pub_date": "Tue, 14 Apr 2026 11:01:39 GMT",
+      "source": "YouTube",
+      "description_original": "ทับทิมกรอบ เยลลี่เบอร์รี่… ทานคู่กับน้ำมะพร้าวน้ำหอม และกะทิอบควันเทียน ￼😋&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "0f335caeaf0b",
+      "title_en": "ทับทิมกรอบ เยลลี่เบอร์รี่… ทานคู่กับน้ำมะพร้าวน้ำหอม และกะทิอบควันเทียน ￼😋 - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-04-14T23:47:06.079382+00:00"
+    },
+    {
       "title_original": "คุมเข้มน้ำมะพร้าวปลอม ผู้ตรวจการแผ่นดินเสนอสุ่มตรวจไม่แจ้งล่วงหน้า - Ch7.com",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9FanVfaE10dW05SEJEbHhZNHJDOC1Ecm9Gd0IwN1RTNkVKTHhhSmc2ZWxLLUNOUnl4TnAxRjZ3ZDc4VVczYThFTGJ3?oc=5",
       "pub_date": "Thu, 09 Apr 2026 08:12:00 GMT",
@@ -7209,28 +7223,10 @@
       "summary_en": "Commentary on Thailand's energy or resource situation being at full capacity.",
       "sentiment": "positive",
       "first_seen": "2026-03-10T04:32:17.980392+00:00"
-    },
-    {
-      "title_original": "\"ทรัมป์\" ตาขาว ไม่ส่งทหารราบเข้าเตหะราน \"อารักชี\" กร้าวจ่องัดอาวุธยุทโธปกรณ์ขั้นสูง ทำสงครามยืดเยื้อ - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JNk1vbHQzS0hFSGFVYUZmNXRyYzRwOGVHVGQ0THQ1N0hxdkJDTWFEbGdzVy1EQUNMaTV4ZVJka24yQndTVWNCdXpHOGRTcXAyYnJPYXFR?oc=5",
-      "pub_date": "Fri, 06 Mar 2026 14:18:33 GMT",
-      "source": "YouTube",
-      "description_original": "\"ทรัมป์\" ตาขาว ไม่ส่งทหารราบเข้าเตหะราน \"อารักชี\" กร้าวจ่องัดอาวุธยุทโธปกรณ์ขั้นสูง ทำสงครามยืดเยื้อ&nbsp;&nbsp;YouTube",
-      "people_mentioned": [],
-      "is_priority_outlet": false,
-      "id": "5941188abe98",
-      "title_en": "Trump Shocked, Won't Send Ground Troops to Tehran, Iraq Threatens to Acquire Advanced Military Equipment for Prolonged War",
-      "summary_en": "International news about US military decisions regarding Iran and Iraq's military equipment acquisition threats.",
-      "sentiment": "negative",
-      "first_seen": "2026-03-10T04:32:17.980392+00:00"
     }
   ],
-  "last_updated": "2026-04-14T11:52:55.452024+00:00",
+  "last_updated": "2026-04-14T23:47:06.079382+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-03-26T00:03:46.111763+00:00",
-      "new_articles": 1
-    },
     {
       "timestamp": "2026-03-26T08:09:21.394582+00:00",
       "new_articles": 0
@@ -7465,6 +7461,10 @@
     },
     {
       "timestamp": "2026-04-14T11:52:55.452024+00:00",
+      "new_articles": 1
+    },
+    {
+      "timestamp": "2026-04-14T23:47:06.079382+00:00",
       "new_articles": 1
     }
   ]
