@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "#ศุภจีมาแล้ว ร่ายยาวทั้งเรื่อง\"ข้าว-ยันมะพร้าวน้ำหอม-ท่องเที่ยว\"นางศุภจี สุธรรมพันธุ์ - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nbVM4d0huR29WOVJwZ25VbF9hbkJ3dnUtaTZVZVJnT2VuaWp2bUxzem12NmNrVkJtTV9CYlkwd3JEUENnUml2dU05VTQtczZBWXYtM2JR?oc=5",
+      "pub_date": "Thu, 09 Apr 2026 15:43:15 GMT",
+      "source": "YouTube",
+      "description_original": "#ศุภจีมาแล้ว ร่ายยาวทั้งเรื่อง\"ข้าว-ยันมะพร้าวน้ำหอม-ท่องเที่ยว\"นางศุภจี สุธรรมพันธุ์&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "de73a51190da",
+      "title_en": "#ศุภจีมาแล้ว ร่ายยาวทั้งเรื่อง\"ข้าว-ยันมะพร้าวน้ำหอม-ท่องเที่ยว\"นางศุภจี สุธรรมพันธุ์ - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-04-15T06:26:32.584872+00:00"
+    },
+    {
       "title_original": "ทับทิมกรอบ เยลลี่เบอร์รี่… ทานคู่กับน้ำมะพร้าวน้ำหอม และกะทิอบควันเทียน ￼😋 - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9STFdsUE8wYi1LU3laYVRUeXZXYW51clU1MURYdy1BRzJPM1FIV1oxeXZkX2FqcnF3MnhXcE1aOVM4UjNXZmJ3R1ljS3hGc280eDBUaw?oc=5",
       "pub_date": "Tue, 14 Apr 2026 11:01:39 GMT",
@@ -7209,28 +7223,10 @@
       "summary_en": "Weather warning about incoming summer storms with strong winds and hail expected in mid-March.",
       "sentiment": "neutral",
       "first_seen": "2026-03-10T04:32:17.980392+00:00"
-    },
-    {
-      "title_original": "เปลวสีเงิน : ไทย ‘เต็มถัง’ ตลอด - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3Y2ZNaFFCSkY2RzdMMlZnQndmQ2c0MDlTc2JHR3haSzNJbV9qNVFJVklVZUtWa0VjREp1ejZySk81ZTVjSDFMT0dhTWY2eWFXZERLU0JR?oc=5",
-      "pub_date": "Wed, 04 Mar 2026 16:39:59 GMT",
-      "source": "YouTube",
-      "description_original": "เปลวสีเงิน : ไทย ‘เต็มถัง’ ตลอด&nbsp;&nbsp;YouTube",
-      "people_mentioned": [],
-      "is_priority_outlet": false,
-      "id": "9519c7ac8496",
-      "title_en": "Silver Flame: Thailand 'Full Tank' Throughout",
-      "summary_en": "Commentary on Thailand's energy or resource situation being at full capacity.",
-      "sentiment": "positive",
-      "first_seen": "2026-03-10T04:32:17.980392+00:00"
     }
   ],
-  "last_updated": "2026-04-14T23:47:06.079382+00:00",
+  "last_updated": "2026-04-15T06:26:32.584872+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-03-26T08:09:21.394582+00:00",
-      "new_articles": 0
-    },
     {
       "timestamp": "2026-03-26T14:51:44.688999+00:00",
       "new_articles": 8
@@ -7465,6 +7461,10 @@
     },
     {
       "timestamp": "2026-04-14T23:47:06.079382+00:00",
+      "new_articles": 1
+    },
+    {
+      "timestamp": "2026-04-15T06:26:32.584872+00:00",
       "new_articles": 1
     }
   ]
