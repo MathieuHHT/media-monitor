@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "🌴🥥 \"พร้าวหอมคาเฟ่\" บ้านแพ้ว คาเฟ่สวนมะพร้าวน้ำหอม #รีวิวเพื่อ #พร้าวหอมคาเฟ่ #คาเฟ่สมุทรสาคร - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02Tld0dVVIX3JaSmMzclpvcGFXZ0F4VElERXVmSHpXd3E0RTQ3ZlQ1TXdCM0s0TGktN0QwdDhyXzI5b2ZnVzJQMU9HT3NUa2N3dkprWA?oc=5",
+      "pub_date": "Fri, 17 Apr 2026 14:41:14 GMT",
+      "source": "YouTube",
+      "description_original": "🌴🥥 \"พร้าวหอมคาเฟ่\" บ้านแพ้ว คาเฟ่สวนมะพร้าวน้ำหอม #รีวิวเพื่อ #พร้าวหอมคาเฟ่ #คาเฟ่สมุทรสาคร&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "0b356aabf809",
+      "title_en": "🌴🥥 \"พร้าวหอมคาเฟ่\" บ้านแพ้ว คาเฟ่สวนมะพร้าวน้ำหอม #รีวิวเพื่อ #พร้าวหอมคาเฟ่ #คาเฟ่สมุทรสาคร - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-04-17T23:42:47.750888+00:00"
+    },
+    {
       "title_original": "เกษตรฯ เปิด 7 มาตรการด่วน อุ้มสหกรณ์รับแรงกระแทกสงคราม - thansettakij",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5MLXdrcGpQRGliMjc4aGFVeFBkVlpzbjNKRUhkRGl0WXFPc0xhWHlYNFE3Ty1GNzR0cVBDMlZfVlpjWlRUNi1DYXNwdjJWaDAxSjE4TS1CS3AzYk9OV1ZldTlWc2J0eVFLS0czRE1n?oc=5",
       "pub_date": "Fri, 17 Apr 2026 07:54:00 GMT",
@@ -7209,28 +7223,10 @@
       "summary_en": "A social media post from Thailand's People's Party political organization. The specific content and context are not detailed in the available information.",
       "sentiment": "neutral",
       "first_seen": "2026-03-10T04:32:17.980392+00:00"
-    },
-    {
-      "title_original": "ช่วง \"ทำไม?\" : เกิดอะไรขึ้น? วิกฤตมะพร้าวน้ำหอมไทย ข่าวค่ำ วันที่ 9 มีนาคม 2569 #NBT2HD - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSc2ZueG83Yk5kLXpvZk5tTzViNlpzSFBwVDBHSktoQW80cVN3OVllUnBXcUNiSEhwVDRvVVphNEIxWHJyV2l0QVhkakR2bGJ5NEl5Y0Rn?oc=5",
-      "pub_date": "Mon, 09 Mar 2026 13:58:33 GMT",
-      "source": "YouTube",
-      "description_original": "ช่วง \"ทำไม?\" : เกิดอะไรขึ้น? วิกฤตมะพร้าวน้ำหอมไทย ข่าวค่ำ วันที่ 9 มีนาคม 2569 #NBT2HD&nbsp;&nbsp;YouTube",
-      "people_mentioned": [],
-      "is_priority_outlet": false,
-      "id": "d7230867b12d",
-      "title_en": "Why? Segment: What's Happening? Thai Aromatic Coconut Crisis - Evening News March 9, 2026 #NBT2HD",
-      "summary_en": "News analysis segment examining the ongoing crisis in Thailand's aromatic coconut industry. The program investigates the causes and implications of the current market problems.",
-      "sentiment": "negative",
-      "first_seen": "2026-03-10T04:32:17.980392+00:00"
     }
   ],
-  "last_updated": "2026-04-17T11:43:29.372932+00:00",
+  "last_updated": "2026-04-17T23:42:47.750888+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-03-28T23:58:24.530763+00:00",
-      "new_articles": 2
-    },
     {
       "timestamp": "2026-03-29T07:56:42.134537+00:00",
       "new_articles": 1
@@ -7466,6 +7462,10 @@
     {
       "timestamp": "2026-04-17T11:43:29.372932+00:00",
       "new_articles": 2
+    },
+    {
+      "timestamp": "2026-04-17T23:42:47.750888+00:00",
+      "new_articles": 1
     }
   ]
 }
