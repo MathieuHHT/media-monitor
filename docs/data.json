@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "พาชมสวนมะพร้าวน้ำหอม พี่นุ๊ก ต.บางทรายน้อย อำเภอหว้านใหญ่ จังหวัดมุกดาหาร #ตะลุยอีสาน #หว้านใหญ่ - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vSTBqbEFLcnE4b3Q4NHRPN2czZE96cng5MENOV2RWMUNpNmRhcXNac0M1c1lNSVBGa0FCRzREbVFMTGJBRFZBcjlLQW1keEQ0NkxRemNn?oc=5",
+      "pub_date": "Tue, 21 Apr 2026 01:16:37 GMT",
+      "source": "YouTube",
+      "description_original": "พาชมสวนมะพร้าวน้ำหอม พี่นุ๊ก ต.บางทรายน้อย อำเภอหว้านใหญ่ จังหวัดมุกดาหาร #ตะลุยอีสาน #หว้านใหญ่&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "58463bff625a",
+      "title_en": "พาชมสวนมะพร้าวน้ำหอม พี่นุ๊ก ต.บางทรายน้อย อำเภอหว้านใหญ่ จังหวัดมุกดาหาร #ตะลุยอีสาน #หว้านใหญ่ - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-04-21T06:28:36.786696+00:00"
+    },
+    {
       "title_original": "กรมทรัพย์สินทางปัญญาประกาศขึ้นทะเบียน ‘ปลาสลิดบ้านแพ้ว’ เป็นสินค้า GI | The Reporters - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lTHZxNWEzc1pkRlBZMDdOQUN4Qm5QSHd6VF9pWWNKei1HcXhjNkF3SDlJQmlObHVuMm5lUi1mdVItVXNuVzRwWGNmZERKVWt5bWstRUZ3?oc=5",
       "pub_date": "Thu, 16 Apr 2026 16:57:50 GMT",
@@ -7216,28 +7230,10 @@
       "summary_en": "The United States has ordered an evacuation from Saudi Arabia following a missile attack that resulted in 2 deaths and multiple injuries.",
       "sentiment": "negative",
       "first_seen": "2026-03-10T05:46:03.508522+00:00"
-    },
-    {
-      "title_original": "สงครามตะวันออกกลางสะเทือนโคราช นครชัยทัวร์วอนคุมราคาดีเซล - banmuang.co.th",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83MTJCOVhiLVdVRVQ4VWN1ZFNsMDd2c01tWURsbVVyYkgtUHY2TXYzLWpwLUV4eFd3Y3o5QmVhQVU0R2ZBblBNOWdsWTNxWFdJLTBibjN2NVI?oc=5",
-      "pub_date": "Wed, 04 Mar 2026 05:02:00 GMT",
-      "source": "banmuang.co.th",
-      "description_original": "สงครามตะวันออกกลางสะเทือนโคราช นครชัยทัวร์วอนคุมราคาดีเซล&nbsp;&nbsp;banmuang.co.th",
-      "people_mentioned": [],
-      "is_priority_outlet": true,
-      "id": "a4e0a3c9c10a",
-      "title_en": "Middle East war shakes Korat, Nakhon Chai Tour pleads for diesel price control",
-      "summary_en": "The Middle East conflict is impacting Korat province, with Nakhon Chai Tour requesting government intervention to control diesel prices.",
-      "sentiment": "negative",
-      "first_seen": "2026-03-10T05:46:03.508522+00:00"
     }
   ],
-  "last_updated": "2026-04-20T23:49:22.184240+00:00",
+  "last_updated": "2026-04-21T06:28:36.786696+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-04-01T08:47:24.526174+00:00",
-      "new_articles": 5
-    },
     {
       "timestamp": "2026-04-01T14:55:05.932297+00:00",
       "new_articles": 6
@@ -7473,6 +7469,10 @@
     {
       "timestamp": "2026-04-20T23:49:22.184240+00:00",
       "new_articles": 2
+    },
+    {
+      "timestamp": "2026-04-21T06:28:36.786696+00:00",
+      "new_articles": 1
     }
   ]
 }
