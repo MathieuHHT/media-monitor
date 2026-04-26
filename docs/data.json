@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "มะพร้าวหน้าสวนไม่ถึง 10 บาท แต่ถึงภูเก็ต 150 บาท - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53RGIxQWtxbllhS2RHb2NJRTZUdWJBTzl1TkxXVlgtNWhaSHAtRmIyWFJMeUpVVmNmakVSMjVpWkstaVgwSDc5TmpTVlhwV1A2Q3E4LWdn?oc=5",
+      "pub_date": "Thu, 23 Apr 2026 05:43:15 GMT",
+      "source": "YouTube",
+      "description_original": "มะพร้าวหน้าสวนไม่ถึง 10 บาท แต่ถึงภูเก็ต 150 บาท&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "41f631d26812",
+      "title_en": "มะพร้าวหน้าสวนไม่ถึง 10 บาท แต่ถึงภูเก็ต 150 บาท - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-04-26T23:43:10.897437+00:00"
+    },
+    {
       "title_original": "สถิติฮวบ 60%! รัฐโชว์ผลงานสกัด \"นอมินี\" จ่อนำ 21 หน่วยงานเซ็น MOU เชื่อมฐานข้อมูล - posttoday",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfYjBqdGktNkhyTThtaGlFSHVCZ2VENHY2andGV2dza3JTQlV5LWZMb3FoZVNsZjdBQUpBV1dvYzdoMDRJelhKUFFBX3FuZ282bVdnWV9OdEc?oc=5",
       "pub_date": "Sun, 26 Apr 2026 04:20:00 GMT",
@@ -7167,28 +7181,10 @@
       "sentiment": "positive",
       "people_mentioned": [],
       "first_seen": "2026-03-11T11:59:52.510011+00:00"
-    },
-    {
-      "title_original": "พาณิชย์ลุยแก้ปัญหาราคามะพร้าว ดันโมเดลเพิ่มมูลค่า เข้าตลาดพรีเมียม - ข่าวสด",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TNXRLVTBRUVFyVllMSHFpZTBLdGxwdzRzWElkYWotQ0ZlWnlVcXFScG9IY2VseUo0RUc3bENURUJRZXBBa2MwX1RvcHgtZ01FcklOVFAxV0VHaVZtU3c?oc=5",
-      "pub_date": "Tue, 10 Mar 2026 03:05:00 GMT",
-      "source": "ข่าวสด",
-      "description_original": "พาณิชย์ลุยแก้ปัญหาราคามะพร้าว ดันโมเดลเพิ่มมูลค่า เข้าตลาดพรีเมียม&nbsp;&nbsp;ข่าวสด",
-      "is_priority_outlet": false,
-      "id": "5edf259ce775",
-      "title_en": "Commerce ministry tackles coconut price problems, promotes value-added model to enter premium market",
-      "summary_en": "The Ministry of Commerce is addressing coconut pricing issues by promoting value-addition strategies to help products enter premium markets. The approach focuses on market positioning and product development to improve farmer incomes.",
-      "sentiment": "positive",
-      "people_mentioned": [],
-      "first_seen": "2026-03-11T11:59:52.510011+00:00"
     }
   ],
-  "last_updated": "2026-04-26T11:33:36.909558+00:00",
+  "last_updated": "2026-04-26T23:43:10.897437+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-04-07T05:29:46.370091+00:00",
-      "new_articles": 5
-    },
     {
       "timestamp": "2026-04-07T08:45:04.848452+00:00",
       "new_articles": 0
@@ -7424,6 +7420,10 @@
     {
       "timestamp": "2026-04-26T11:33:36.909558+00:00",
       "new_articles": 3
+    },
+    {
+      "timestamp": "2026-04-26T23:43:10.897437+00:00",
+      "new_articles": 1
     }
   ]
 }
