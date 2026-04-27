@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "วุ้นพวงมาลัย #วุ้นชลบุรี #เค้กวุ้นชลบุรี #วุ้นกะทิมะพร้าวน้ำหอม #วุ้นแฟนซี #เค้กวุ้นวันเกิด #jelly - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lY2pjY0ZlTWQ2WTdjUl9BcWZvamltTjVQQ1pEQl9IekdIZ3UzRnNUaGZHbnBSdE9JM0I3SWpyQUJWb3FiZ3dPaFZxcFp3M2RreTNlMA?oc=5",
+      "pub_date": "Mon, 27 Apr 2026 09:32:02 GMT",
+      "source": "YouTube",
+      "description_original": "วุ้นพวงมาลัย #วุ้นชลบุรี #เค้กวุ้นชลบุรี #วุ้นกะทิมะพร้าวน้ำหอม #วุ้นแฟนซี #เค้กวุ้นวันเกิด #jelly&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "6b8295795425",
+      "title_en": "วุ้นพวงมาลัย #วุ้นชลบุรี #เค้กวุ้นชลบุรี #วุ้นกะทิมะพร้าวน้ำหอม #วุ้นแฟนซี #เค้กวุ้นวันเกิด #jelly - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-04-27T12:16:50.710827+00:00"
+    },
+    {
       "title_original": "กรมพัฒน์ดึง 20 หน่วยร่วมปราบนอมินี โชว์หลังคุมเข้มจดบัญชีม้านิติบุคคลวูบ 75% ตรวจ 4,372 ราย แอบทำธุรกิจสงวน เร่งหาหลักฐานฟัน - ผู้จัดการออนไลน์",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zNjloS3VLTTVPYkU1c3EzUmpiODhmVmpmUVA5Y3BYLXJOQW9HbXRXVEhKMnFzRUpyNkNJN3dWWlhlU2RGS0kzOHd2Sm1GWWNEZ3EtdS1fVTNhNVFvQlM5TQ?oc=5",
       "pub_date": "Mon, 27 Apr 2026 01:27:00 GMT",
@@ -7174,28 +7188,10 @@
         }
       ],
       "first_seen": "2026-03-11T11:59:52.510011+00:00"
-    },
-    {
-      "title_original": "CIB-DBD เปิดยุทธการ ‘ปอกเปลือกนอมินี’ ทลาย 6 ล้งมะพร้าวราชบุรี ทุนจีนกินรวบต้นน้ำ-ปลายน้ำ - ประชาชาติธุรกิจ",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QejBHLXh6TEU5em82TDlNUzlUSV81QmlwN2R3Nm5QSzFMaEFGamNlcjdUZTktNDYxOGphdmRqRjBCaHhvVUdCWGF6d3BxTThHTnVxR19hSV9UcTg?oc=5",
-      "pub_date": "Wed, 11 Mar 2026 09:06:31 GMT",
-      "source": "ประชาชาติธุรกิจ",
-      "description_original": "CIB-DBD เปิดยุทธการ ‘ปอกเปลือกนอมินี’ ทลาย 6 ล้งมะพร้าวราชบุรี ทุนจีนกินรวบต้นน้ำ-ปลายน้ำ&nbsp;&nbsp;ประชาชาติธุรกิจ",
-      "is_priority_outlet": false,
-      "id": "ecb2932066b9",
-      "title_en": "CIB-DBD launches 'nominee peeling' campaign to destroy 6 Ratchaburi coconut mills with Chinese capital controlling upstream and downstream operations",
-      "summary_en": "The CIB and Department of Business Development initiated a campaign to dismantle 6 coconut mills in Ratchaburi that were controlled by Chinese capital through nominee arrangements. The investigation revealed foreign control over the entire supply chain from production to distribution.",
-      "sentiment": "positive",
-      "people_mentioned": [],
-      "first_seen": "2026-03-11T11:59:52.510011+00:00"
     }
   ],
-  "last_updated": "2026-04-27T07:29:15.489399+00:00",
+  "last_updated": "2026-04-27T12:16:50.710827+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-04-07T14:57:42.376805+00:00",
-      "new_articles": 4
-    },
     {
       "timestamp": "2026-04-08T05:30:45.031524+00:00",
       "new_articles": 3
@@ -7431,6 +7427,10 @@
     {
       "timestamp": "2026-04-27T07:29:15.489399+00:00",
       "new_articles": 2
+    },
+    {
+      "timestamp": "2026-04-27T12:16:50.710827+00:00",
+      "new_articles": 1
     }
   ]
 }
