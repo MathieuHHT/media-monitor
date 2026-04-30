@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "\"ปลัดมหาดไทย\" จับมือ 23 หน่วยงาน ลงนาม MOU ชูแนวคิด 'ลบรอยร้าวเศรษฐกิจ ร่วมพิชิตนอมินี' พร้อมประกาศสงครามทุนเทาอำพราง เพื่อสร้างความโปร่งใสและปกป้องผู้ประกอบการธุรกิจในไทย - banmuang.co.th",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HZW9tNUlSNFNPRHA0MmN1TWtFZkgwTXllbnBKOHFrN2FGNXRiamUzUm5tVDJBSzllTl94LWxvNkZrUnJ1NURqdXRQa1U4dG11Q2FBVHhjM1ktQQ?oc=5",
+      "pub_date": "Wed, 29 Apr 2026 09:58:00 GMT",
+      "source": "banmuang.co.th",
+      "description_original": "\"ปลัดมหาดไทย\" จับมือ 23 หน่วยงาน ลงนาม MOU ชูแนวคิด 'ลบรอยร้าวเศรษฐกิจ ร่วมพิชิตนอมินี' พร้อมประกาศสงครามทุนเทาอำพราง เพื่อสร้างความโปร่งใสและปกป้องผู้ประกอบการธุรกิจในไทย&nbsp;&nbsp;banmuang.co.th",
+      "is_priority_outlet": true,
+      "id": "15d1871074ba",
+      "title_en": "\"ปลัดมหาดไทย\" จับมือ 23 หน่วยงาน ลงนาม MOU ชูแนวคิด 'ลบรอยร้าวเศรษฐกิจ ร่วมพิชิตนอมินี' พร้อมประกาศสงครามทุนเทาอำพราง เพื่อสร้างความโปร่งใสและปกป้องผู้ประกอบการธุรกิจในไทย - banmuang.co.th",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-04-30T12:09:21.666888+00:00"
+    },
+    {
       "title_original": "“ตี๋น้อย โกลด์” แบรนด์สุกี้พรีเมียมของสุกี้ตี๋น้อย ท้าชนแบรนด์ใหญ่ ตั้งเป้าขยาย 11 สาขาใน 2569 - Marketeer Online",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95aUFRN2RrNjJKZkJhOFNkbVo2Q3p1b2lDaE9NajlYUC1uYnVIaXV6T2IyNjhkWFJjVTVlUEFGUEUtcXFlZTh3MW9fWE81VU1tTzlNaw?oc=5",
       "pub_date": "Tue, 28 Apr 2026 07:00:00 GMT",
@@ -7139,28 +7153,10 @@
       "sentiment": "negative",
       "people_mentioned": [],
       "first_seen": "2026-03-12T23:54:00.578117+00:00"
-    },
-    {
-      "title_original": "“Coco Thumb”แบรนด์ผลิตภัณฑ์มะพร้าวที่กำลังมาแรงในตลาดสุขภาพเดินหน้าพัฒนาสินค้าจากมะพร้าวคุณภาพ - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53djFvalpUNGRQZHRmZVdpVUhvU2FjSlozT0hqT1JxRUJycFg4Ul9uUHYwU2ZNMUU0Y212cHRsNzZSZllsSFBDMzZvaE5Ba0JjcV9qWGNR?oc=5",
-      "pub_date": "Fri, 06 Mar 2026 10:24:33 GMT",
-      "source": "YouTube",
-      "description_original": "“Coco Thumb”แบรนด์ผลิตภัณฑ์มะพร้าวที่กำลังมาแรงในตลาดสุขภาพเดินหน้าพัฒนาสินค้าจากมะพร้าวคุณภาพ&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "48178077b65b",
-      "title_en": "Coco Thumb brand coconut products gaining momentum in health market continues developing quality coconut products",
-      "summary_en": "Coco Thumb, a coconut product brand that is rising in the health market, continues to develop high-quality coconut products.",
-      "sentiment": "positive",
-      "people_mentioned": [],
-      "first_seen": "2026-03-12T23:54:00.578117+00:00"
     }
   ],
-  "last_updated": "2026-04-30T07:23:15.121793+00:00",
+  "last_updated": "2026-04-30T12:09:21.666888+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-04-10T11:40:39.435632+00:00",
-      "new_articles": 5
-    },
     {
       "timestamp": "2026-04-10T23:40:20.928446+00:00",
       "new_articles": 9
@@ -7396,6 +7392,10 @@
     {
       "timestamp": "2026-04-30T07:23:15.121793+00:00",
       "new_articles": 2
+    },
+    {
+      "timestamp": "2026-04-30T12:09:21.666888+00:00",
+      "new_articles": 1
     }
   ]
 }
