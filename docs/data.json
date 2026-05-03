@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "ยังสมาร์ทฟาร์มเมอร์แปดริ้ว รายได้มั่นคง เรียนจบจากจุฬาฯ มุ่งมั่นปลูกมะพร้าวน้ำหอม (หมูสี) - ข่าวสด",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DS3FhVlFBXzJBN09pUE5nUFNtVzN3VXNuYXBGd1ZTNFFzYzJRVlYwZ1hFVUlLUHgxbU92Mm5hZ2ZlTFV6UC0xUmNZeHBKbXVkSmU3aW05dmVRWFlJSEUxZUJBZVhkcUtIdENMaUtZbk1Qbl9jbVE?oc=5",
+      "pub_date": "Fri, 01 May 2026 05:00:00 GMT",
+      "source": "ข่าวสด",
+      "description_original": "ยังสมาร์ทฟาร์มเมอร์แปดริ้ว รายได้มั่นคง เรียนจบจากจุฬาฯ มุ่งมั่นปลูกมะพร้าวน้ำหอม (หมูสี)&nbsp;&nbsp;ข่าวสด",
+      "is_priority_outlet": false,
+      "id": "384b1b010230",
+      "title_en": "ยังสมาร์ทฟาร์มเมอร์แปดริ้ว รายได้มั่นคง เรียนจบจากจุฬาฯ มุ่งมั่นปลูกมะพร้าวน้ำหอม (หมูสี) - ข่าวสด",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-05-03T07:13:08.552134+00:00"
+    },
+    {
       "title_original": "สหรัฐฯ คงบัญชี WL ไทย \"พาณิชย์\" ลุยปราบสินค้าละเมิดลิขสิทธิ์ หวังหลุดประเทศที่ต้องจับตา - Thairath.co.th",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oX1c4YktNampLQ2YyaXBpejQ3YWJGM2dSU2FLdG9vVmRkTFJUNFpiQzdqSjVJSEQ2d2VIUzlDS25pMFEzV202bV9BNHZLSFloUl9vdHlMZzZWTkVEeGF4eDhMNmhqSXc?oc=5",
       "pub_date": "Sat, 02 May 2026 10:02:51 GMT",
@@ -7132,35 +7146,10 @@
       "sentiment": "positive",
       "people_mentioned": [],
       "first_seen": "2026-03-13T23:56:12.616699+00:00"
-    },
-    {
-      "title_original": "อธิบดีกรมพัฒนาธุรกิจการค้า ลุยปราบ ‘นอมินี’ จากล้งมะพร้าวน้ำหอม ผุดคำสั่งใหม่ เล็งเป้าอีก 3 ธุรกิจ - เดลินิวส์",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlelAyM3AwYVpnUjlXdVpQTXJueWt5aVc5NFNJcG0wMFpma19JWGRvR2t6TWxSWlYyNkx3ZVY0akY3XzI0S0UyT2VPLXV1VG1rcWFZ?oc=5",
-      "pub_date": "Fri, 13 Mar 2026 09:42:00 GMT",
-      "source": "เดลินิวส์",
-      "description_original": "อธิบดีกรมพัฒนาธุรกิจการค้า ลุยปราบ ‘นอมินี’ จากล้งมะพร้าวน้ำหอม ผุดคำสั่งใหม่ เล็งเป้าอีก 3 ธุรกิจ&nbsp;&nbsp;เดลินิวส์",
-      "is_priority_outlet": false,
-      "id": "798c13b7754b",
-      "title_en": "Director-General of Department of Business Development Cracks Down on 'Nominees' from Aromatic Coconut Case, Issues New Orders Targeting 3 More Businesses",
-      "summary_en": "The Director-General of the Department of Business Development is taking action against nominee arrangements following the aromatic coconut case and has issued new orders targeting three additional businesses.",
-      "sentiment": "positive",
-      "people_mentioned": [
-        {
-          "key": "poonpong",
-          "name_en": "Poonpong Naiyanapakorn",
-          "role": "Director General, Department of Business Development",
-          "priority": "high"
-        }
-      ],
-      "first_seen": "2026-03-13T11:57:14.421069+00:00"
     }
   ],
-  "last_updated": "2026-05-02T23:50:57.921002+00:00",
+  "last_updated": "2026-05-03T07:13:08.552134+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-04-13T07:08:07.672105+00:00",
-      "new_articles": 0
-    },
     {
       "timestamp": "2026-04-13T11:59:00.954746+00:00",
       "new_articles": 4
@@ -7396,6 +7385,10 @@
     {
       "timestamp": "2026-05-02T23:50:57.921002+00:00",
       "new_articles": 2
+    },
+    {
+      "timestamp": "2026-05-03T07:13:08.552134+00:00",
+      "new_articles": 1
     }
   ]
 }
