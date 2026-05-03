@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "เร่งเครื่องอุตสาหกรรมไทย ผุด DIPROM ITC หนุน SMEs สู่ตลาดโลก - ประชาชาติธุรกิจ",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IRHlCajF5Qnczb24xbVloUzhfbkFZZmFsY3d1Z0tGdXhJS24xckNpakpEUGNXTkNCdGxfeFdBODVGcV9PZDlzek1BVElwM0tFTHlMSHlndzA3YnZzTTg4aXNiMA?oc=5",
+      "pub_date": "Sun, 03 May 2026 11:11:11 GMT",
+      "source": "ประชาชาติธุรกิจ",
+      "description_original": "เร่งเครื่องอุตสาหกรรมไทย ผุด DIPROM ITC หนุน SMEs สู่ตลาดโลก&nbsp;&nbsp;ประชาชาติธุรกิจ",
+      "is_priority_outlet": false,
+      "id": "101ee058edff",
+      "title_en": "เร่งเครื่องอุตสาหกรรมไทย ผุด DIPROM ITC หนุน SMEs สู่ตลาดโลก - ประชาชาติธุรกิจ",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-05-03T11:35:54.879293+00:00"
+    },
+    {
       "title_original": "ยังสมาร์ทฟาร์มเมอร์แปดริ้ว รายได้มั่นคง เรียนจบจากจุฬาฯ มุ่งมั่นปลูกมะพร้าวน้ำหอม (หมูสี) - ข่าวสด",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DS3FhVlFBXzJBN09pUE5nUFNtVzN3VXNuYXBGd1ZTNFFzYzJRVlYwZ1hFVUlLUHgxbU92Mm5hZ2ZlTFV6UC0xUmNZeHBKbXVkSmU3aW05dmVRWFlJSEUxZUJBZVhkcUtIdENMaUtZbk1Qbl9jbVE?oc=5",
       "pub_date": "Fri, 01 May 2026 05:00:00 GMT",
@@ -7132,28 +7146,10 @@
       "sentiment": "positive",
       "people_mentioned": [],
       "first_seen": "2026-03-13T23:56:12.616699+00:00"
-    },
-    {
-      "title_original": "บุกจับ 6 ล้งมะพร้าว \"นอมินีจีน\" กินรวบ-กดราคารับซื้อ | วันใหม่ ไทยพีบีเอส | 11 มี.ค. 69 - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5icTB5UDhjbVRwUU1HVUQ3bTY3RUlYYnkyR0Uxc1ZBd3FhRWxmTlk4M01zYm00VlMzUTZsRkhrWExwalkxV29ralZzT2JhWmllam5vMktR?oc=5",
-      "pub_date": "Tue, 10 Mar 2026 23:57:23 GMT",
-      "source": "YouTube",
-      "description_original": "บุกจับ 6 ล้งมะพร้าว \"นอมินีจีน\" กินรวบ-กดราคารับซื้อ | วันใหม่ ไทยพีบีเอส | 11 มี.ค. 69&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "3c12a08e6e44",
-      "title_en": "Raid arrests 6 coconut mills as 'Chinese nominees' monopolizing and suppressing purchase prices",
-      "summary_en": "Authorities raided and arrested 6 coconut mills operating as Chinese nominees for monopolistic practices and price suppression. The report was broadcast on Thai PBS's morning news program.",
-      "sentiment": "positive",
-      "people_mentioned": [],
-      "first_seen": "2026-03-13T23:56:12.616699+00:00"
     }
   ],
-  "last_updated": "2026-05-03T07:13:08.552134+00:00",
+  "last_updated": "2026-05-03T11:35:54.879293+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-04-13T11:59:00.954746+00:00",
-      "new_articles": 4
-    },
     {
       "timestamp": "2026-04-13T23:49:57.672421+00:00",
       "new_articles": 3
@@ -7388,6 +7384,10 @@
     },
     {
       "timestamp": "2026-05-03T07:13:08.552134+00:00",
+      "new_articles": 1
+    },
+    {
+      "timestamp": "2026-05-03T11:35:54.879293+00:00",
       "new_articles": 1
     }
   ]
