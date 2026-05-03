@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "ทำวุ้นมะพร้าวน้ำหอมกันคร้าบ 🥥 #เด็กน่ารัก #เด็กทำขนม #ทำขนม #cooking - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DMUR5ZzJvMEpFZEhOemo1VjdHbHEyZzEyb2lCWmVma3dLRXFWcGFvdkZwTUhEU3U4c3Qzbmxfak1wMmlTcmhpa0ROR01vQ2dBVms0ZQ?oc=5",
+      "pub_date": "Sun, 03 May 2026 13:18:58 GMT",
+      "source": "YouTube",
+      "description_original": "ทำวุ้นมะพร้าวน้ำหอมกันคร้าบ 🥥 #เด็กน่ารัก #เด็กทำขนม #ทำขนม #cooking&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "705f4affc9fc",
+      "title_en": "ทำวุ้นมะพร้าวน้ำหอมกันคร้าบ 🥥 #เด็กน่ารัก #เด็กทำขนม #ทำขนม #cooking - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-05-03T23:53:00.320053+00:00"
+    },
+    {
       "title_original": "เร่งเครื่องอุตสาหกรรมไทย ผุด DIPROM ITC หนุน SMEs สู่ตลาดโลก - ประชาชาติธุรกิจ",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IRHlCajF5Qnczb24xbVloUzhfbkFZZmFsY3d1Z0tGdXhJS24xckNpakpEUGNXTkNCdGxfeFdBODVGcV9PZDlzek1BVElwM0tFTHlMSHlndzA3YnZzTTg4aXNiMA?oc=5",
       "pub_date": "Sun, 03 May 2026 11:11:11 GMT",
@@ -7132,28 +7146,10 @@
         }
       ],
       "first_seen": "2026-03-13T23:56:12.616699+00:00"
-    },
-    {
-      "title_original": "ปอศ.ลุยจับ 8 ล้งนอมินีนายทุนจีน กดราคามะพร้าวน้ำหอมตกต่ำทั่วประเทศ - ผู้จัดการออนไลน์",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqVl9lU2NVai1lcG5ySkNNelUwaW9sUEtmdjMwMnlTaU9SOHM2NFNEcm9neGpqM2VIczhpQ2dWYVkybjhPLVpSZzdfZFF0el8xV2M3bEpDMUdkS3Bq?oc=5",
-      "pub_date": "Tue, 10 Mar 2026 08:41:00 GMT",
-      "source": "ผู้จัดการออนไลน์",
-      "description_original": "ปอศ.ลุยจับ 8 ล้งนอมินีนายทุนจีน กดราคามะพร้าวน้ำหอมตกต่ำทั่วประเทศ&nbsp;&nbsp;ผู้จัดการออนไลน์",
-      "is_priority_outlet": false,
-      "id": "147676b8a7ff",
-      "title_en": "DBD raids 8 Chinese investor nominee mills suppressing aromatic coconut prices nationwide",
-      "summary_en": "The Department of Business Development conducted raids on 8 mills operating as nominees for Chinese investors who were suppressing coconut prices. The operations affected coconut prices across the country.",
-      "sentiment": "positive",
-      "people_mentioned": [],
-      "first_seen": "2026-03-13T23:56:12.616699+00:00"
     }
   ],
-  "last_updated": "2026-05-03T11:35:54.879293+00:00",
+  "last_updated": "2026-05-03T23:53:00.320053+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-04-13T23:49:57.672421+00:00",
-      "new_articles": 3
-    },
     {
       "timestamp": "2026-04-14T06:24:46.047624+00:00",
       "new_articles": 0
@@ -7388,6 +7384,10 @@
     },
     {
       "timestamp": "2026-05-03T11:35:54.879293+00:00",
+      "new_articles": 1
+    },
+    {
+      "timestamp": "2026-05-03T23:53:00.320053+00:00",
       "new_articles": 1
     }
   ]
