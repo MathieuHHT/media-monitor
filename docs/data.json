@@ -1,6 +1,48 @@
 {
   "articles": [
     {
+      "title_original": "โลกธุรกิจ - เร่งพัฒนาเอสเอ็มอีสู่ตลาดโลก - แนวหน้า",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IcmcwS3JNcU5henZub1BFQ21lRFhTc3QzVjVJcG1ESzVrWDB3MXlJaDJJdnVJLVREUE9wX2JObTFmYXhZYk1uSlJOakZnazg?oc=5",
+      "pub_date": "Mon, 04 May 2026 08:12:00 GMT",
+      "source": "แนวหน้า",
+      "description_original": "โลกธุรกิจ - เร่งพัฒนาเอสเอ็มอีสู่ตลาดโลก&nbsp;&nbsp;แนวหน้า",
+      "is_priority_outlet": false,
+      "id": "ce31b85658dd",
+      "title_en": "โลกธุรกิจ - เร่งพัฒนาเอสเอ็มอีสู่ตลาดโลก - แนวหน้า",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-05-04T12:17:55.733456+00:00"
+    },
+    {
+      "title_original": "DIPROM ITC ช่วยเอสเอ็มอีเข้าถึงเครื่องจักร – เงินทุน “วราวุธ”ชวนผู้ประกอบการใช้บริการ - Matichon Online",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VX3pTR0ZiX3dLVFlEZjFSZlJIa284OVVKSHMyTUJ0Z2pxVVB1YUZ4cW0wYkdYT3Z5QkZMZi1SVmE2UEYyNlZvbEVfVzlyTVlVdk5NMy1Yc2NMWkk?oc=5",
+      "pub_date": "Mon, 04 May 2026 07:04:40 GMT",
+      "source": "Matichon Online",
+      "description_original": "DIPROM ITC ช่วยเอสเอ็มอีเข้าถึงเครื่องจักร – เงินทุน “วราวุธ”ชวนผู้ประกอบการใช้บริการ&nbsp;&nbsp;Matichon Online",
+      "is_priority_outlet": true,
+      "id": "328f26114fc6",
+      "title_en": "DIPROM ITC ช่วยเอสเอ็มอีเข้าถึงเครื่องจักร – เงินทุน “วราวุธ”ชวนผู้ประกอบการใช้บริการ - Matichon Online",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-05-04T12:17:55.733456+00:00"
+    },
+    {
+      "title_original": "\"วราวุธ\" เปิดบ้านสุพรรณบุรี เยี่ยมศูนย์ส่งเสริมอุตสาหกรรมภาคที่ 8 (DC8) ฟื้นเศรษฐกิจรากหญ้า ตั้งเป้า SME- SMEs โตแบบก้าวกระโดด ดัน GDP ไทยพุ่ง 2-2.5% - banmuang.co.th",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11R3lLOE9JM1dCUHFBWGNsZndIMHU3ZXpDVHhEakd2NklpTThzNjQwbGZLd2k0aDdIaGZUZndpUjY4WmVqTFJRMWxGYnk4OS1MUUlfU3FXVGxqdw?oc=5",
+      "pub_date": "Mon, 04 May 2026 04:55:00 GMT",
+      "source": "banmuang.co.th",
+      "description_original": "\"วราวุธ\" เปิดบ้านสุพรรณบุรี เยี่ยมศูนย์ส่งเสริมอุตสาหกรรมภาคที่ 8 (DC8) ฟื้นเศรษฐกิจรากหญ้า ตั้งเป้า SME- SMEs โตแบบก้าวกระโดด ดัน GDP ไทยพุ่ง 2-2.5%&nbsp;&nbsp;banmuang.co.th",
+      "is_priority_outlet": true,
+      "id": "a4c0cd3d0851",
+      "title_en": "\"วราวุธ\" เปิดบ้านสุพรรณบุรี เยี่ยมศูนย์ส่งเสริมอุตสาหกรรมภาคที่ 8 (DC8) ฟื้นเศรษฐกิจรากหญ้า ตั้งเป้า SME- SMEs โตแบบก้าวกระโดด ดัน GDP ไทยพุ่ง 2-2.5% - banmuang.co.th",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-05-04T12:17:55.733456+00:00"
+    },
+    {
       "title_original": "โลกธุรกิจ - กระทรวงอุตสาหกรรม ลุยพื้นที่สุพรรณฯ เดินเกมอุตสาหกรรมไทย หนุนดีพร้อมใช้ DIPROM ITC - แนวหน้า",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WWnAxTXEyWi1oRUxWZEdHTHZtZmN1TlBkRXJOWjBpUkIzZ3d0RWNJY2JmZEZjR04yeENaZ1ZGalMyMzZ2ZnZaY3lvUkFHNjg?oc=5",
       "pub_date": "Mon, 04 May 2026 05:26:00 GMT",
@@ -7097,56 +7139,10 @@
       "sentiment": "positive",
       "people_mentioned": [],
       "first_seen": "2026-03-14T11:45:47.625730+00:00"
-    },
-    {
-      "title_original": "ตร.สอบสวนกลาง เปิดปฏิบัติการ 'ปอกเปลือกนอมินี' ค้นเครือข่ายล้งมะพร้าวข้ามชาติ ทุบราคาผลไม้ไทย - JS100.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSOFpuUnZ1cjFZRnp2M2hHd1o4TC0xQ0p2aW5pOUhjSU56WWkwSzdHSDZPU3lDck52bG1LX1AxQkVVNDFxc0EtLWZTN3otYnJNMjNMbW8tVjZ4QQ?oc=5",
-      "pub_date": "Tue, 10 Mar 2026 13:27:00 GMT",
-      "source": "JS100.com",
-      "description_original": "ตร.สอบสวนกลาง เปิดปฏิบัติการ 'ปอกเปลือกนอมินี' ค้นเครือข่ายล้งมะพร้าวข้ามชาติ ทุบราคาผลไม้ไทย&nbsp;&nbsp;JS100.com",
-      "is_priority_outlet": false,
-      "id": "5a9be07d6bef",
-      "title_en": "Central Investigation Police Launch 'Peeling the Nominee Shell' Operation to Investigate Transnational Coconut Smuggling Networks Crushing Thai Fruit Prices",
-      "summary_en": "Central Investigation Police have launched an operation to investigate and dismantle transnational nominee networks involved in coconut smuggling that are damaging Thai fruit prices.",
-      "sentiment": "negative",
-      "people_mentioned": [],
-      "first_seen": "2026-03-14T07:23:23.128684+00:00"
-    },
-    {
-      "title_original": "\"ตํารวจสอบสวนกลาง\" เปิดปฏิบัติการ “ปอกเปลือกนอมินี” ตัดวงจรเครือข่ายล้งมะพร้าวนอมินีข้ามชาติ - topnews.co.th",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vQktIdUNoeWdNd2E0TERocmdoVTdKX1d3TXhGd1psNmh0RWk5dmFOcExESFRheDZUelhmZHRlMzU5ZWhyR0NyRjJXS2xDNDA?oc=5",
-      "pub_date": "Tue, 10 Mar 2026 10:07:52 GMT",
-      "source": "topnews.co.th",
-      "description_original": "\"ตํารวจสอบสวนกลาง\" เปิดปฏิบัติการ “ปอกเปลือกนอมินี” ตัดวงจรเครือข่ายล้งมะพร้าวนอมินีข้ามชาติ&nbsp;&nbsp;topnews.co.th",
-      "is_priority_outlet": false,
-      "id": "9b4735c958e8",
-      "title_en": "Central Investigation Police Launch 'Peeling the Nominee Shell' Operation to Cut Transnational Coconut Smuggling Nominee Networks",
-      "summary_en": "Central Investigation Police have initiated an operation to break the cycle of transnational nominee networks involved in coconut smuggling activities.",
-      "sentiment": "negative",
-      "people_mentioned": [],
-      "first_seen": "2026-03-14T07:23:23.128684+00:00"
-    },
-    {
-      "title_original": "วิกฤตราคามะพร้าวน้ำหอมตกต่ำ - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VLTZ4Vjc0ZGx6dEtxUVpBb09ZZWI4V2NWTDduSnh3NUdJSGI3U2ppNmQyQjFmVUtrZ1l5X0ZPME1IZE13R0pVcTVpZFp3VU9PVHpYNw?oc=5",
-      "pub_date": "Sat, 14 Mar 2026 02:12:22 GMT",
-      "source": "YouTube",
-      "description_original": "วิกฤตราคามะพร้าวน้ำหอมตกต่ำ&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "4b0d9b33cb82",
-      "title_en": "Crisis of Declining Aromatic Coconut Prices",
-      "summary_en": "The video discusses the crisis facing the aromatic coconut industry due to falling prices.",
-      "sentiment": "negative",
-      "people_mentioned": [],
-      "first_seen": "2026-03-14T07:23:23.128684+00:00"
     }
   ],
-  "last_updated": "2026-05-04T07:42:27.213964+00:00",
+  "last_updated": "2026-05-04T12:17:55.733456+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-04-14T11:52:55.452024+00:00",
-      "new_articles": 1
-    },
     {
       "timestamp": "2026-04-14T23:47:06.079382+00:00",
       "new_articles": 1
@@ -7381,6 +7377,10 @@
     },
     {
       "timestamp": "2026-05-04T07:42:27.213964+00:00",
+      "new_articles": 3
+    },
+    {
+      "timestamp": "2026-05-04T12:17:55.733456+00:00",
       "new_articles": 3
     }
   ]
