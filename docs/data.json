@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "34 ปี กรมทรัพย์สินทางปัญญา เดินหน้าผสานพลัง IP ขับเคลื่อนเศรษฐกิจยุคใหม่ พลิกเกม SMEs ไทยก้าวผ่านความท้าทาย สู่โอกาสเติบโตในเวทีโลกอย่างยั่งยืน - newswit",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zdEVGcUI3MEJyVVMwa1MwQWcyd3JCMUw3U0M3eTBqUktiZlUwSmJSd3lBTGE5WDJMdFVRMDEzZWdFc0ctLVBGclo1VDBKcnlKeVQ3Y1BhZ1N6TGQ5QU8xR1ZGX0pfVGV3MnpN?oc=5",
+      "pub_date": "Tue, 05 May 2026 03:58:00 GMT",
+      "source": "newswit",
+      "description_original": "34 ปี กรมทรัพย์สินทางปัญญา เดินหน้าผสานพลัง IP ขับเคลื่อนเศรษฐกิจยุคใหม่ พลิกเกม SMEs ไทยก้าวผ่านความท้าทาย สู่โอกาสเติบโตในเวทีโลกอย่างยั่งยืน&nbsp;&nbsp;newswit",
+      "is_priority_outlet": false,
+      "id": "ff8af8517d1d",
+      "title_en": "34 ปี กรมทรัพย์สินทางปัญญา เดินหน้าผสานพลัง IP ขับเคลื่อนเศรษฐกิจยุคใหม่ พลิกเกม SMEs ไทยก้าวผ่านความท้าทาย สู่โอกาสเติบโตในเวทีโลกอย่างยั่งยืน - newswit",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-05-05T07:11:10.368906+00:00"
+    },
+    {
       "title_original": "ในประเทศ - รบ.ขึงขังปราบนอมินี อึ้ง4เดือนกว่า6พันราย - แนวหน้า",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB3SUgwSWFmYWV2UDNIRWlkby1xVmU4cUZFQjRuU1VESmdLNjBwejF3LXB4akx6VzdQX1I3QnlWbFlSQUdoUWh3dzhaaw?oc=5",
       "pub_date": "Mon, 04 May 2026 23:00:00 GMT",
@@ -7125,28 +7139,10 @@
       "sentiment": "negative",
       "people_mentioned": [],
       "first_seen": "2026-03-14T23:55:29.213573+00:00"
-    },
-    {
-      "title_original": "ตำรวจเศรษฐกิจเปิดปฏิบัติการ 'ปอกเปลือกนอมินี' ทลายเครือข่ายล้งมะพร้าวต่างชาติในราชบุรี - TCIJ",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wWWZtQ2NoZE5ad3J6cWEwaXNPb3d4QW85VmUzRkxCZjFneU5vc2ZYRGVKNjk1TTBFcjQ3NUJSYWZoYWRUcFZFSzNkT2k5T1pPekRCU3dXT0VlT0FvX1Zn?oc=5",
-      "pub_date": "Tue, 10 Mar 2026 12:51:31 GMT",
-      "source": "TCIJ",
-      "description_original": "ตำรวจเศรษฐกิจเปิดปฏิบัติการ 'ปอกเปลือกนอมินี' ทลายเครือข่ายล้งมะพร้าวต่างชาติในราชบุรี&nbsp;&nbsp;TCIJ",
-      "is_priority_outlet": false,
-      "id": "721a7034c8b6",
-      "title_en": "Economic Police launch 'Peel the Nominee Layer' operation to dismantle foreign coconut mill networks in Ratchaburi",
-      "summary_en": "Economic police have initiated a major operation targeting foreign-controlled coconut processing networks operating through nominee arrangements in Ratchaburi.",
-      "sentiment": "negative",
-      "people_mentioned": [],
-      "first_seen": "2026-03-14T23:55:29.213573+00:00"
     }
   ],
-  "last_updated": "2026-05-04T23:57:13.688782+00:00",
+  "last_updated": "2026-05-05T07:11:10.368906+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-04-15T06:26:32.584872+00:00",
-      "new_articles": 1
-    },
     {
       "timestamp": "2026-04-15T11:50:40.291321+00:00",
       "new_articles": 3
@@ -7382,6 +7378,10 @@
     {
       "timestamp": "2026-05-04T23:57:13.688782+00:00",
       "new_articles": 2
+    },
+    {
+      "timestamp": "2026-05-05T07:11:10.368906+00:00",
+      "new_articles": 1
     }
   ]
 }
