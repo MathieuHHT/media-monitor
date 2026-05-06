@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "กวาดล้างนอมินี 6.5 พันราย - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQOGlUdmJnY211ZHltRGxFbjY4RzVtMnRGblpHVEFXZXp0WE1wVmtkdHZXcmRqSnVpVU9DVjNlWlhVdFhFZkxuVi1ScmRFOGk2YUtWdlhMV2JiYjhKS01EYnE3WE9IX2hUOVZTZF8yejhXcjdpM01oVk9ObHhEMzlVcXlBS3g2b3U3S3RQSGVfRGRpenhqQWo5VXBBYXB0UzBpLVczUTNkQ2tnUzJlU3hhMDZXVHVBWVlFMHAzOHRtOGJOTURCNTM5NzN5Sl9hRGlxVDZsclBCYm9kWFIxdlR2LWx2SVFhY2VvQnRIcHI5d3pzbGd1b3dJSTFyanVRUDE3Um9UWGhBNE5vdEpQV3NBQWhfcThuRnlsbDhlNnplV3UwSVMwTUtUTHp4Q3dnbDlveUJBQXJKZzZrRE1rNjR0NnFUcGNSWV9GTFJSSndZamJpUFp2?oc=5",
+      "pub_date": "Tue, 05 May 2026 09:55:47 GMT",
+      "source": "MSN",
+      "description_original": "กวาดล้างนอมินี 6.5 พันราย&nbsp;&nbsp;MSN",
+      "is_priority_outlet": false,
+      "id": "3e32edadbb1d",
+      "title_en": "กวาดล้างนอมินี 6.5 พันราย - MSN",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-05-06T12:23:06.830172+00:00"
+    },
+    {
       "title_original": "วิธีผ่ามะพร้าว มะพร้าวน้ำหอมบ้านแพ้ว ร้านขายมะพร้าวอำเภอราษีไศล จังหวัดศรีสะเกษ - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95djBHNU9ZbFFRcnBXVVdrN3lyN2Zpcnd4SG1DMTMwVUJueW1SeGx2ZHVlZVRoZG41eWlod3BXa2pnTUNneHFBQkowT1FEdjE2NEs5QQ?oc=5",
       "pub_date": "Wed, 06 May 2026 03:00:01 GMT",
@@ -7125,28 +7139,10 @@
       "sentiment": "negative",
       "people_mentioned": [],
       "first_seen": "2026-03-15T07:35:45.740020+00:00"
-    },
-    {
-      "title_original": "พาณิชย์ งัดไม้แข็งคุมนอมินี ยกร่างคำสั่งใหม่ บังคับรายงานตัวนายทะเบียน - thansettakij",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uN2N4Uko1WWlNbFFUOTBId2RZSHl5SHlpTEpIWUh3SWE2Y1RLTFB3UHRFRURva21SWUJQcjJCSXFKRmtkUW5BNGk1TDk5S0RUZ2hHaVNB?oc=5",
-      "pub_date": "Sat, 14 Mar 2026 10:51:00 GMT",
-      "source": "thansettakij",
-      "description_original": "พาณิชย์ งัดไม้แข็งคุมนอมินี ยกร่างคำสั่งใหม่ บังคับรายงานตัวนายทะเบียน&nbsp;&nbsp;thansettakij",
-      "is_priority_outlet": true,
-      "id": "44ee05bb9f09",
-      "title_en": "Commerce Ministry uses tough measures to control nominees, drafts new order forcing reporting to registrar",
-      "summary_en": "The Commerce Ministry is implementing stricter regulations against nominee arrangements by drafting new requirements for mandatory reporting to business registrars. This represents a crackdown on illegal nominee practices.",
-      "sentiment": "negative",
-      "people_mentioned": [],
-      "first_seen": "2026-03-15T07:35:45.740020+00:00"
     }
   ],
-  "last_updated": "2026-05-06T07:29:46.977930+00:00",
+  "last_updated": "2026-05-06T12:23:06.830172+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-04-16T11:53:55.179985+00:00",
-      "new_articles": 4
-    },
     {
       "timestamp": "2026-04-16T23:45:35.111190+00:00",
       "new_articles": 6
@@ -7381,6 +7377,10 @@
     },
     {
       "timestamp": "2026-05-06T07:29:46.977930+00:00",
+      "new_articles": 1
+    },
+    {
+      "timestamp": "2026-05-06T12:23:06.830172+00:00",
       "new_articles": 1
     }
   ]
