@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "วิธีผ่ามะพร้าว มะพร้าวน้ำหอมบ้านแพ้ว ร้านขายมะพร้าวอำเภอราษีไศล จังหวัดศรีสะเกษ - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95djBHNU9ZbFFRcnBXVVdrN3lyN2Zpcnd4SG1DMTMwVUJueW1SeGx2ZHVlZVRoZG41eWlod3BXa2pnTUNneHFBQkowT1FEdjE2NEs5QQ?oc=5",
+      "pub_date": "Wed, 06 May 2026 03:00:01 GMT",
+      "source": "YouTube",
+      "description_original": "วิธีผ่ามะพร้าว มะพร้าวน้ำหอมบ้านแพ้ว ร้านขายมะพร้าวอำเภอราษีไศล จังหวัดศรีสะเกษ&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "0c72af25af51",
+      "title_en": "วิธีผ่ามะพร้าว มะพร้าวน้ำหอมบ้านแพ้ว ร้านขายมะพร้าวอำเภอราษีไศล จังหวัดศรีสะเกษ - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-05-06T07:29:46.977930+00:00"
+    },
+    {
       "title_original": "อ.ต.ก. เดินหน้าผลักดันสินค้าเกษตรไทยสู่ตลาดโลก ร่วมงาน Thai Festival Tokyo 2026 ยกระดับสินค้าเกษตรเมืองร้อนมูลค่าสูง - banmuang.co.th",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1UdkFNOHozOU9FSW5DeHYyd2JRVWNVMGoyLVVPTzRrcWJnSnoyNVdZU3BzQ2hKX1ZRQUltVGxsWGZ1WlpYNWgwc2FxV1J6UHkzd2d3bXlrQUVaY01yUU9UcUp3?oc=5",
       "pub_date": "Tue, 05 May 2026 05:55:00 GMT",
@@ -7125,28 +7139,10 @@
       "sentiment": "negative",
       "people_mentioned": [],
       "first_seen": "2026-03-15T07:35:45.740020+00:00"
-    },
-    {
-      "title_original": "การบริหารจัดการมะพร้าวน้ำหอมอย่างยั่งยืน - Matichon Online",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qQTV6QmhMOXZQTXpsblZrRTF4ZGsyQk1LYldsOXBLRElzZFJxT3FmeU9FNE1Nc3JWcnBaUVVxQmJ5d1hfcFZKTHVLNFZhZ3Z5X1NHaUQzVnFtNEpSZzgwMVJPcnVzdUUtdkE?oc=5",
-      "pub_date": "Sun, 15 Mar 2026 03:07:30 GMT",
-      "source": "Matichon Online",
-      "description_original": "การบริหารจัดการมะพร้าวน้ำหอมอย่างยั่งยืน&nbsp;&nbsp;Matichon Online",
-      "is_priority_outlet": true,
-      "id": "77dbb55b3769",
-      "title_en": "Sustainable Management of Aromatic Coconuts",
-      "summary_en": "The article discusses sustainable management practices for the aromatic coconut industry. It focuses on environmental and economic sustainability approaches for coconut farming and production.",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-03-15T07:35:45.740020+00:00"
     }
   ],
-  "last_updated": "2026-05-05T23:52:35.209873+00:00",
+  "last_updated": "2026-05-06T07:29:46.977930+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-04-16T06:27:42.602884+00:00",
-      "new_articles": 4
-    },
     {
       "timestamp": "2026-04-16T11:53:55.179985+00:00",
       "new_articles": 4
@@ -7382,6 +7378,10 @@
     {
       "timestamp": "2026-05-05T23:52:35.209873+00:00",
       "new_articles": 4
+    },
+    {
+      "timestamp": "2026-05-06T07:29:46.977930+00:00",
+      "new_articles": 1
     }
   ]
 }
