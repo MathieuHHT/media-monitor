@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "ทลายบ่อนสวนมะพร้าว ผีพนันหนีลงร่องน้ำ | ชงข่าวเขย่าจอ | 8 พ.ค. 69 - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0YkxUN3l2YUJFeVN3ZDhBUDdzX0dmaVB2WGVaa2Q5UHROOG1Za3lvSDFENjNxY21QSU5ReUdEVWpSYzVLTm9PUHhMVlpRT0ZBbkZFbkFB?oc=5",
+      "pub_date": "Fri, 08 May 2026 12:34:47 GMT",
+      "source": "YouTube",
+      "description_original": "ทลายบ่อนสวนมะพร้าว ผีพนันหนีลงร่องน้ำ | ชงข่าวเขย่าจอ | 8 พ.ค. 69&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "eed44320c224",
+      "title_en": "ทลายบ่อนสวนมะพร้าว ผีพนันหนีลงร่องน้ำ | ชงข่าวเขย่าจอ | 8 พ.ค. 69 - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-05-09T07:01:22.677362+00:00"
+    },
+    {
       "title_original": "กรมพัฒน์ฯ ล้างบางนอมินีต่างชาติ สมุย-พะงัน ตะลึงคนเดียวถือหุ้น 87 แห่ง - Thairath.co.th",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZZV9fSGhOZW9hMTZfRUxjaDVwNUlBQjhFa3JHWWwtXzN3MzlhdGlKVDZTY1RZVXRDUGwweTJ4UTVVM2RmaUpTekpIWE1aSFZCUDg0Nk9jUEt5a0dfVTNOeUJUMElNbVE?oc=5",
       "pub_date": "Fri, 08 May 2026 04:28:00 GMT",
@@ -7125,28 +7139,10 @@
       "sentiment": "positive",
       "people_mentioned": [],
       "first_seen": "2026-03-17T14:42:18.391844+00:00"
-    },
-    {
-      "title_original": "ปอกเปลือกนอมินี! ตร.กวาดล้างล้งมะพร้าวทุนจีน | 11 มี.ค. 69 | ข่าวเช้าหัวเขียว - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CdGJqTVIyQjFIaC0zZTg1SkFWRnA4dmJEdWVlY3ZlVmo4cDRMRVpfWUNjSHFTbWczcWJlOVNZZTdxc3lPQ01LWXBsNTZLSlV5MndGRTJn?oc=5",
-      "pub_date": "Wed, 11 Mar 2026 01:03:16 GMT",
-      "source": "YouTube",
-      "description_original": "ปอกเปลือกนอมินี! ตร.กวาดล้างล้งมะพร้าวทุนจีน | 11 มี.ค. 69 | ข่าวเช้าหัวเขียว&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "0f389091b7a8",
-      "title_en": "Exposing Nominees! Police Crackdown on Chinese-Funded Coconut Trading Posts | March 11, 2026 | Morning Green Headlines",
-      "summary_en": "Police conducted operations to eliminate nominee arrangements and crack down on coconut trading posts funded by Chinese capital as reported in morning news.",
-      "sentiment": "negative",
-      "people_mentioned": [],
-      "first_seen": "2026-03-17T14:42:18.391844+00:00"
     }
   ],
-  "last_updated": "2026-05-08T23:58:27.169940+00:00",
+  "last_updated": "2026-05-09T07:01:22.677362+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-04-19T06:23:36.924567+00:00",
-      "new_articles": 5
-    },
     {
       "timestamp": "2026-04-19T11:28:42.020835+00:00",
       "new_articles": 2
@@ -7382,6 +7378,10 @@
     {
       "timestamp": "2026-05-08T23:58:27.169940+00:00",
       "new_articles": 4
+    },
+    {
+      "timestamp": "2026-05-09T07:01:22.677362+00:00",
+      "new_articles": 1
     }
   ]
 }
