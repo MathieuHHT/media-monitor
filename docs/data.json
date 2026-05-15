@@ -1,6 +1,55 @@
 {
   "articles": [
     {
+      "title_original": "KKP Research ชี้ 'เอลนีโญ' ปีนี้ยังไม่น่าห่วงจากน้ำในเขื่อนช่วยพยุง แต่เตือนรัฐจับตา \"วิกฤตปุ๋ยขาดแคลน\" ฉุดผลผลิตข้าวไทยหาย 5 ล้านตัน - newswit",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NRGduekVNdkExa2RxVy1kMjV4WjVmMldhYmFZVi1wMjNTZmJZUzFYamIzUjdLcktnaTZYVmZjdHNaT0M2TjdMd2ZfUTQwNDJoYmVKeTJ1R240X2YwVEF2X1pSUUNpeWdGWFY0?oc=5",
+      "pub_date": "Wed, 13 May 2026 02:37:00 GMT",
+      "source": "newswit",
+      "description_original": "KKP Research ชี้ 'เอลนีโญ' ปีนี้ยังไม่น่าห่วงจากน้ำในเขื่อนช่วยพยุง แต่เตือนรัฐจับตา \"วิกฤตปุ๋ยขาดแคลน\" ฉุดผลผลิตข้าวไทยหาย 5 ล้านตัน&nbsp;&nbsp;newswit",
+      "is_priority_outlet": false,
+      "id": "18e68bd6a9d3",
+      "title_en": "KKP Research ชี้ 'เอลนีโญ' ปีนี้ยังไม่น่าห่วงจากน้ำในเขื่อนช่วยพยุง แต่เตือนรัฐจับตา \"วิกฤตปุ๋ยขาดแคลน\" ฉุดผลผลิตข้าวไทยหาย 5 ล้านตัน - newswit",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-05-15T23:57:12.200826+00:00"
+    },
+    {
+      "title_original": "กรมพัฒนาธุรกิจฯ เปิดเวทีประชันศักยภาพเฟ้นหาสุดยอดแฟรนไชส์ไทย - TNN Thailand",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uUkRWOVB4emQybUNnYTdxdDBSMlNLMXcwRVhqLWNkT1d3MzVxbTdfdkpTR1B6S2NWLWp0dDV6QUM0LS1DSEwxTk1VNzNMRGJMNm9UaEpkTGkyUQ?oc=5",
+      "pub_date": "Tue, 12 May 2026 07:00:00 GMT",
+      "source": "TNN Thailand",
+      "description_original": "กรมพัฒนาธุรกิจฯ เปิดเวทีประชันศักยภาพเฟ้นหาสุดยอดแฟรนไชส์ไทย&nbsp;&nbsp;TNN Thailand",
+      "is_priority_outlet": false,
+      "id": "0f5b4b9d9bad",
+      "title_en": "กรมพัฒนาธุรกิจฯ เปิดเวทีประชันศักยภาพเฟ้นหาสุดยอดแฟรนไชส์ไทย - TNN Thailand",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [
+        {
+          "key": "poonpong",
+          "name_en": "Poonpong Naiyanapakorn",
+          "role": "Director General, Department of Business Development",
+          "priority": "high"
+        }
+      ],
+      "first_seen": "2026-05-15T23:57:12.200826+00:00"
+    },
+    {
+      "title_original": "COCOCO แต่งตั้ง “พัฒรา ทัศจันทร์” นั่ง CEO คุม NOVOCOCONUT INC. ฟิลิปปินส์ - banmuang.co.th",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mY2Y3cXVhWm5XZEFQbkFhY1IzTU9JeVpuc0cwaGhyZTRieGYzYkhGZEhpSnJlSmRRNzd1SnlDYjVSVVBUcmZ1UmxKaGpXdFJINlk0YThobWQ3R25z?oc=5",
+      "pub_date": "Fri, 15 May 2026 12:19:00 GMT",
+      "source": "banmuang.co.th",
+      "description_original": "COCOCO แต่งตั้ง “พัฒรา ทัศจันทร์” นั่ง CEO คุม NOVOCOCONUT INC. ฟิลิปปินส์&nbsp;&nbsp;banmuang.co.th",
+      "is_priority_outlet": true,
+      "id": "85536586f77c",
+      "title_en": "COCOCO แต่งตั้ง “พัฒรา ทัศจันทร์” นั่ง CEO คุม NOVOCOCONUT INC. ฟิลิปปินส์ - banmuang.co.th",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-05-15T23:57:12.200826+00:00"
+    },
+    {
       "title_original": "DBD-DSI ปูพรมตรวจนอมินีแหล่งท่องเที่ยวดัง - TNN Thailand",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xWTR5dlZTbmxmbmRTeV9pcmg4R2dtdkJMNWdWSTU2OTN2ay1JRW1IQTNXT2VMcWY0MV85djYtZ29FRlhabnU5VlF3ODl5bGhfWk9qeXpxSUs5T1B0UHVR?oc=5",
       "pub_date": "Mon, 11 May 2026 07:35:26 GMT",
@@ -7076,56 +7125,10 @@
       "sentiment": "negative",
       "people_mentioned": [],
       "first_seen": "2026-03-19T12:02:38.530857+00:00"
-    },
-    {
-      "title_original": "กรมการค้าภายใน ผนึก CP Axtra ระบายมะพร้าวน้ำหอม | เข้มข่าวเย็น | 19 มี.ค. 69 - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yQlV6S21QN3UxQXJFdEE5RmdhZGUxY3ZHX3V0YUhuc0VpNGJlN2N6aFNDOGZmM1BkRjdNb1dPUWs2eE5GMU42S3JZeV9EcC1Gc0JKNmhR?oc=5",
-      "pub_date": "Thu, 19 Mar 2026 10:28:43 GMT",
-      "source": "YouTube",
-      "description_original": "กรมการค้าภายใน ผนึก CP Axtra ระบายมะพร้าวน้ำหอม | เข้มข่าวเย็น | 19 มี.ค. 69&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "303119f1ca57",
-      "title_en": "Department of Internal Trade Partners with CP Axtra to Distribute Aromatic Coconuts | Evening News | March 19, 2026",
-      "summary_en": "The Department of Internal Trade has formed a partnership with CP Axtra to help distribute aromatic coconuts in the market.",
-      "sentiment": "positive",
-      "people_mentioned": [],
-      "first_seen": "2026-03-19T12:02:38.530857+00:00"
-    },
-    {
-      "title_original": "“พี่แป๊ะ” พาบุกสวนมะพร้าวน้ำหอม l ตลาดข่าว - ข่าวเช้าเวิร์คพอยท์ l 19 มี.ค.69 - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyQjRGa3JXYXBaQml5R1d5ZUxSZ3NGMmhEV1BWemtkZVpzenRkcWpfR2NfMzBnUzhUNzFxeDF0SlNyTTlOWE5zTkkya1RZMllPSGFmTjhn?oc=5",
-      "pub_date": "Thu, 19 Mar 2026 02:32:34 GMT",
-      "source": "YouTube",
-      "description_original": "“พี่แป๊ะ” พาบุกสวนมะพร้าวน้ำหอม l ตลาดข่าว - ข่าวเช้าเวิร์คพอยท์ l 19 มี.ค.69&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "b0eb324b24a9",
-      "title_en": "\"P'Pae\" Leads Visit to Aromatic Coconut Farm | Market News - Morning News Workpoint | March 19, 2026",
-      "summary_en": "A news segment featuring \"P'Pae\" visiting an aromatic coconut farm as part of market news coverage.",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-03-19T12:02:38.530857+00:00"
-    },
-    {
-      "title_original": "เล่าข่าวสุดสัปดาห์ 13 มีนาคม 2569 #นโยบายรัฐบาล20กระทรวง #กระทรวงพาณิชย์ #มะพร้าวน้ำหอม - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DT2ZIMTdTMHpQQWJ1b0VGbVd4eWhzdWZVUVAtd0NkVGRnUHZKRmUwWTE5dDFZTDdmc3IxSU5oMnlUbnZxUXM2WGc2c0xPSVFGZHlhSXVn?oc=5",
-      "pub_date": "Fri, 13 Mar 2026 08:23:49 GMT",
-      "source": "YouTube",
-      "description_original": "เล่าข่าวสุดสัปดาห์ 13 มีนาคม 2569 #นโยบายรัฐบาล20กระทรวง #กระทรวงพาณิชย์ #มะพร้าวน้ำหอม&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "2200310c4848",
-      "title_en": "Weekend News Summary March 13, 2026 #Government Policy 20 Ministries #Ministry of Commerce #Aromatic Coconut",
-      "summary_en": "A weekend news summary covering government policy involving 20 ministries, the Ministry of Commerce, and aromatic coconut industry developments.",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-03-19T12:02:38.530857+00:00"
     }
   ],
-  "last_updated": "2026-05-15T12:27:39.026114+00:00",
+  "last_updated": "2026-05-15T23:57:12.200826+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-04-25T11:32:52.760549+00:00",
-      "new_articles": 4
-    },
     {
       "timestamp": "2026-04-25T23:42:31.258736+00:00",
       "new_articles": 2
@@ -7361,6 +7364,10 @@
     {
       "timestamp": "2026-05-15T12:27:39.026114+00:00",
       "new_articles": 6
+    },
+    {
+      "timestamp": "2026-05-15T23:57:12.200826+00:00",
+      "new_articles": 3
     }
   ]
 }
