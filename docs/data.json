@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "เสวนา \"เพาะกล้ากีฬาไทย กีฬาสร้างคน เยาวชนสร้างชาติ\" | ไลฟ์วันนี้ | 13 พ.ค. 69 - Thai PBS",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Xa3FobU81X1JfYkROdGkya0g5UUJZc3JETGI3QU5vS2IxR21uZ1RNeC1taHdPdnhDZmxIT0xQTUwta0REY0EzNS04cXdOc3JwR0doR2pOQ24?oc=5",
+      "pub_date": "Wed, 13 May 2026 06:47:07 GMT",
+      "source": "Thai PBS",
+      "description_original": "เสวนา \"เพาะกล้ากีฬาไทย กีฬาสร้างคน เยาวชนสร้างชาติ\" | ไลฟ์วันนี้ | 13 พ.ค. 69&nbsp;&nbsp;Thai PBS",
+      "is_priority_outlet": true,
+      "id": "e003dabb2600",
+      "title_en": "เสวนา \"เพาะกล้ากีฬาไทย กีฬาสร้างคน เยาวชนสร้างชาติ\" | ไลฟ์วันนี้ | 13 พ.ค. 69 - Thai PBS",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-05-17T11:54:50.819899+00:00"
+    },
+    {
       "title_original": "[Live] : มิตรรักทั่วไทย EP.59 มะพร้าวน้ำหอม ของดี จ.ราชบุรี | 17 พ.ค. 2569 - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81VUxpTlkzb0RYaGd4cmdyazE4cldWOHFWNWxqd0lvOXdUVnhGYkg3MVdnekZEWEFVcXlxLWhXVzZUMHhXMTdaUXlFeEo2U3N4cXBtelBn?oc=5",
       "pub_date": "Sun, 17 May 2026 05:57:37 GMT",
@@ -7097,35 +7111,10 @@
       "sentiment": "positive",
       "people_mentioned": [],
       "first_seen": "2026-03-19T12:02:38.530857+00:00"
-    },
-    {
-      "title_original": "กรมพัฒนาธุรกิจการค้า จ่อบังคับใช้เกณฑ์ใหม่ 1 เม.ย. 69 คุมเข้มต่างชาติถือหุ้นไทย - bangkokbiznews",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqZ19PSXdTdF9jWWhVeG1ma2RnSVZUSEpnc3JlMVk0N2xRT1l6SDA3eHYwZmE5X0kycHp0bC1QYkRFSlhiWkNxWS13VXNSdGNVTmZFVXd1OURQOFlw?oc=5",
-      "pub_date": "Fri, 13 Mar 2026 08:37:00 GMT",
-      "source": "bangkokbiznews",
-      "description_original": "กรมพัฒนาธุรกิจการค้า จ่อบังคับใช้เกณฑ์ใหม่ 1 เม.ย. 69 คุมเข้มต่างชาติถือหุ้นไทย&nbsp;&nbsp;bangkokbiznews",
-      "is_priority_outlet": false,
-      "id": "4c4d0089a9c2",
-      "title_en": "Department of Business Development Set to Enforce New Criteria April 1, 2026, Strictly Controlling Foreign Shareholding in Thai Companies",
-      "summary_en": "The Department of Business Development will implement new regulations starting April 1, 2026, to more strictly control foreign ownership in Thai companies. These measures aim to prevent circumvention of foreign investment restrictions.",
-      "sentiment": "neutral",
-      "people_mentioned": [
-        {
-          "key": "poonpong",
-          "name_en": "Poonpong Naiyanapakorn",
-          "role": "Director General, Department of Business Development",
-          "priority": "high"
-        }
-      ],
-      "first_seen": "2026-03-19T12:02:38.530857+00:00"
     }
   ],
-  "last_updated": "2026-05-17T07:29:36.098925+00:00",
+  "last_updated": "2026-05-17T11:54:50.819899+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-04-27T07:29:15.489399+00:00",
-      "new_articles": 2
-    },
     {
       "timestamp": "2026-04-27T12:16:50.710827+00:00",
       "new_articles": 1
@@ -7361,6 +7350,10 @@
     {
       "timestamp": "2026-05-17T07:29:36.098925+00:00",
       "new_articles": 3
+    },
+    {
+      "timestamp": "2026-05-17T11:54:50.819899+00:00",
+      "new_articles": 1
     }
   ]
 }
