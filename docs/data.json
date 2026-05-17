@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "เร่งสอบเส้นทางการเงินกลุ่ม\"นอมินี\"เกาะพะงัน | TURNING POINT จุดเปลี่ยน | 14 พ.ค. 69 - Thai PBS",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nNE40SU12RmR3MlM0enhvVFoxS28wVVhPVGEwZ1plV0hORnhiWU1sM3V3bUJzZGg0WklzeVBBb1dKdDJKUTlWbnJRS081akVlSDluN0V2QXc?oc=5",
+      "pub_date": "Thu, 14 May 2026 03:48:51 GMT",
+      "source": "Thai PBS",
+      "description_original": "เร่งสอบเส้นทางการเงินกลุ่ม\"นอมินี\"เกาะพะงัน | TURNING POINT จุดเปลี่ยน | 14 พ.ค. 69&nbsp;&nbsp;Thai PBS",
+      "is_priority_outlet": true,
+      "id": "0c2448cf1ad0",
+      "title_en": "เร่งสอบเส้นทางการเงินกลุ่ม\"นอมินี\"เกาะพะงัน | TURNING POINT จุดเปลี่ยน | 14 พ.ค. 69 - Thai PBS",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-05-17T23:59:39.579731+00:00"
+    },
+    {
       "title_original": "เสวนา \"เพาะกล้ากีฬาไทย กีฬาสร้างคน เยาวชนสร้างชาติ\" | ไลฟ์วันนี้ | 13 พ.ค. 69 - Thai PBS",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Xa3FobU81X1JfYkROdGkya0g5UUJZc3JETGI3QU5vS2IxR21uZ1RNeC1taHdPdnhDZmxIT0xQTUwta0REY0EzNS04cXdOc3JwR0doR2pOQ24?oc=5",
       "pub_date": "Wed, 13 May 2026 06:47:07 GMT",
@@ -7097,28 +7111,10 @@
       "sentiment": "positive",
       "people_mentioned": [],
       "first_seen": "2026-03-19T12:02:38.530857+00:00"
-    },
-    {
-      "title_original": "กรมส่งเสริมสหกรณ์ งัด 4 มาตรการ รับมือผลไม้ปี 69 ดัน \"สินค้า GI\" บุกโมเดิร์นเทรด เจาะตลาดผู้บริโภคในประเทศ - topnews.co.th",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ydnBONlFlVEJCek5SYV9GUkhPdmJWLVYwWVZ1bGd6OXIzYkZlbXhhbHQ1Nk5Nc0xLQ0tJWkxmUXQ3aEZ0ajJXUUU2Z2J2eWc?oc=5",
-      "pub_date": "Thu, 19 Mar 2026 05:47:13 GMT",
-      "source": "topnews.co.th",
-      "description_original": "กรมส่งเสริมสหกรณ์ งัด 4 มาตรการ รับมือผลไม้ปี 69 ดัน \"สินค้า GI\" บุกโมเดิร์นเทรด เจาะตลาดผู้บริโภคในประเทศ&nbsp;&nbsp;topnews.co.th",
-      "is_priority_outlet": false,
-      "id": "1bf992f7302f",
-      "title_en": "Cooperative Promotion Department Implements 4 Measures to Handle 2026 Fruit Season, Pushing 'GI Products' into Modern Trade to Target Domestic Consumer Market",
-      "summary_en": "The Cooperative Promotion Department has introduced four measures for the 2026 fruit season, focusing on promoting Geographical Indication products through modern retail channels. The initiative targets domestic consumers to boost sales.",
-      "sentiment": "positive",
-      "people_mentioned": [],
-      "first_seen": "2026-03-19T12:02:38.530857+00:00"
     }
   ],
-  "last_updated": "2026-05-17T11:54:50.819899+00:00",
+  "last_updated": "2026-05-17T23:59:39.579731+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-04-27T12:16:50.710827+00:00",
-      "new_articles": 1
-    },
     {
       "timestamp": "2026-04-27T23:56:53.344977+00:00",
       "new_articles": 2
@@ -7353,6 +7349,10 @@
     },
     {
       "timestamp": "2026-05-17T11:54:50.819899+00:00",
+      "new_articles": 1
+    },
+    {
+      "timestamp": "2026-05-17T23:59:39.579731+00:00",
       "new_articles": 1
     }
   ]
