@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "DITP ลุยต่อ ขายผลไม้ตลาดอังกฤษ-จีน คนชอบแห่ชม ชิม ชอป ดันออเดอร์พุ่ง - commercenewsagency",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1nenMwc2NsUk5TWHB3QXVJeUtoOVNpWFhXVHdGWWgyWHZyYVM2TXZCMjI1Wms2QmNvNGRNN0xNT2FWV1BpaGFxYzFjUEdaWTBacEluYnc1QQ?oc=5",
+      "pub_date": "Sun, 24 May 2026 06:42:49 GMT",
+      "source": "commercenewsagency",
+      "description_original": "DITP ลุยต่อ ขายผลไม้ตลาดอังกฤษ-จีน คนชอบแห่ชม ชิม ชอป ดันออเดอร์พุ่ง&nbsp;&nbsp;commercenewsagency",
+      "is_priority_outlet": false,
+      "id": "fc5c4b0e37ce",
+      "title_en": "DITP ลุยต่อ ขายผลไม้ตลาดอังกฤษ-จีน คนชอบแห่ชม ชิม ชอป ดันออเดอร์พุ่ง - commercenewsagency",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-05-24T07:45:14.193006+00:00"
+    },
+    {
       "title_original": "ก๋วยเตี๋ยวบะหมี่ต้มยำในลูกมะพร้าว!!! อร่อยบอกต่อ - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYYXJ0dVEycFNNZDBrd3RuRmxlTHJBU1Q5RGZxaUJqU3dtNnVpS3E3akZFc2RDa0ZhRWNSNVdUQVR4U0J0QXl4UEFiNmZpTlJ2QW0zdERn?oc=5",
       "pub_date": "Fri, 22 May 2026 05:32:50 GMT",
@@ -7111,28 +7125,10 @@
       "sentiment": "negative",
       "people_mentioned": [],
       "first_seen": "2026-03-24T08:00:47.719308+00:00"
-    },
-    {
-      "title_original": "GI ไทยจัดทัพ 70 ร้านค้า สู่เมืองใหญ่ ปั้นรายได้สู่ชุมชน | ประชาชาติธุรกิจ - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40TDVrTE1ITE1hazZhZ2ZsR1YwUW1PZlFtNERnbTFfV19FcEJqZUVhZU50el9TNnFoTVlNWlJjeHZZaERLRERsVC1qLUd1OUxzeTlWNFB3?oc=5",
-      "pub_date": "Mon, 23 Mar 2026 08:46:13 GMT",
-      "source": "LINE TODAY",
-      "description_original": "GI ไทยจัดทัพ 70 ร้านค้า สู่เมืองใหญ่ ปั้นรายได้สู่ชุมชน | ประชาชาติธุรกิจ&nbsp;&nbsp;LINE TODAY",
-      "is_priority_outlet": false,
-      "id": "aa795217b573",
-      "title_en": "Thai GI deploys 70 stores to major cities to generate income for communities",
-      "summary_en": "Thailand's Geographical Indication (GI) initiative is expanding 70 retail stores into major cities to boost community revenue. This expansion aims to promote local GI products and create income opportunities for local communities.",
-      "sentiment": "positive",
-      "people_mentioned": [],
-      "first_seen": "2026-03-23T23:58:58.640285+00:00"
     }
   ],
-  "last_updated": "2026-05-24T00:00:12.047952+00:00",
+  "last_updated": "2026-05-24T07:45:14.193006+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-05-03T23:53:00.320053+00:00",
-      "new_articles": 1
-    },
     {
       "timestamp": "2026-05-04T07:42:27.213964+00:00",
       "new_articles": 3
@@ -7367,6 +7363,10 @@
     },
     {
       "timestamp": "2026-05-24T00:00:12.047952+00:00",
+      "new_articles": 1
+    },
+    {
+      "timestamp": "2026-05-24T07:45:14.193006+00:00",
       "new_articles": 1
     }
   ]
