@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "ก๋วยเตี๋ยวบะหมี่ต้มยำในลูกมะพร้าว!!! อร่อยบอกต่อ - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYYXJ0dVEycFNNZDBrd3RuRmxlTHJBU1Q5RGZxaUJqU3dtNnVpS3E3akZFc2RDa0ZhRWNSNVdUQVR4U0J0QXl4UEFiNmZpTlJ2QW0zdERn?oc=5",
+      "pub_date": "Fri, 22 May 2026 05:32:50 GMT",
+      "source": "YouTube",
+      "description_original": "ก๋วยเตี๋ยวบะหมี่ต้มยำในลูกมะพร้าว!!! อร่อยบอกต่อ&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "ae3bc5e00446",
+      "title_en": "ก๋วยเตี๋ยวบะหมี่ต้มยำในลูกมะพร้าว!!! อร่อยบอกต่อ - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-05-24T00:00:12.047952+00:00"
+    },
+    {
       "title_original": "DITP ยกระดับผลไม้ไทยสู่เวทีโลก ผ่านนิทรรศการ Thailand: The Land of Tropical Fruits โชว์ศักยภาพผลไม้สด–แปรรูป พร้อมเปิดเจรจาธุรกิจ ในงาน THAIFEX – ANUGA ASIA 2026 - เทคโนโลยีชาวบ้าน - ข่าวสด",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE45VHptN0NKek9lRzB2b1RKVXdnOVg1MWRrZ2VxN0JacS1JaWdKUlM5Yy1ES1BUdHkzZGxtN3cxU0xnUVlmd0FabXFBQWgxSzhOOUJaX2lLdDZ6cFhzckVUOU5PUzBSMzFpQTF6RjVjOHY3bU5WTDJmQzNn?oc=5",
       "pub_date": "Thu, 21 May 2026 11:10:26 GMT",
@@ -7111,28 +7125,10 @@
       "sentiment": "positive",
       "people_mentioned": [],
       "first_seen": "2026-03-23T23:58:58.640285+00:00"
-    },
-    {
-      "title_original": "เกษตรกรเริ่มยิ้มได้ มะพร้าวหน้าสวนราคาดีขึ้น ขยับขึ้นเป็น 6-7 บาท/ลูก - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGUWVYUVV3VHo3dGNNTUU1YTA0TmJrUjhoS1RJWXR3R1R2UWZFZVNmZGVQSjVjbERQWEs3UDlFRHVETmpCRGZUVmlzc1pReVNvN0Z6aDZB?oc=5",
-      "pub_date": "Mon, 23 Mar 2026 13:31:32 GMT",
-      "source": "YouTube",
-      "description_original": "เกษตรกรเริ่มยิ้มได้ มะพร้าวหน้าสวนราคาดีขึ้น ขยับขึ้นเป็น 6-7 บาท/ลูก&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "9376e06aae44",
-      "title_en": "Farmers start to smile as coconut prices at the farm gate improve, rising to 6-7 baht per fruit",
-      "summary_en": "Coconut farmers are experiencing improved conditions as farm gate prices for coconuts have increased to 6-7 baht per fruit. This price improvement is bringing relief and optimism to coconut farmers.",
-      "sentiment": "positive",
-      "people_mentioned": [],
-      "first_seen": "2026-03-23T23:58:58.640285+00:00"
     }
   ],
-  "last_updated": "2026-05-23T11:54:41.856187+00:00",
+  "last_updated": "2026-05-24T00:00:12.047952+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-05-03T11:35:54.879293+00:00",
-      "new_articles": 1
-    },
     {
       "timestamp": "2026-05-03T23:53:00.320053+00:00",
       "new_articles": 1
@@ -7368,6 +7364,10 @@
     {
       "timestamp": "2026-05-23T11:54:41.856187+00:00",
       "new_articles": 3
+    },
+    {
+      "timestamp": "2026-05-24T00:00:12.047952+00:00",
+      "new_articles": 1
     }
   ]
 }
