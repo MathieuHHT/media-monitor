@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "title_original": "กรมพัฒน์ฯ เอาจริง สั่งเชือด \"นอมินีต่างชาติ\" สแกน 5 หมื่นบริษัทรุกฮุบแหล่งท่องเที่ยว - Thairath.co.th",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9feWpSTWhBOHpwY0VaLTVPLWRHa3RXX3ExamhWZld0b01SdTVTRkZWN0d6X04zMnZaek40RlpKS3M0YjRkREc3WUtIZ3FaY1dqZUdrNzN4cDFNaUc4cDB5bm5HaktSU2s?oc=5",
+      "pub_date": "Mon, 18 May 2026 08:08:49 GMT",
+      "source": "Thairath.co.th",
+      "description_original": "กรมพัฒน์ฯ เอาจริง สั่งเชือด \"นอมินีต่างชาติ\" สแกน 5 หมื่นบริษัทรุกฮุบแหล่งท่องเที่ยว&nbsp;&nbsp;Thairath.co.th",
+      "is_priority_outlet": false,
+      "id": "659ff0dc1ba8",
+      "title_en": "กรมพัฒน์ฯ เอาจริง สั่งเชือด \"นอมินีต่างชาติ\" สแกน 5 หมื่นบริษัทรุกฮุบแหล่งท่องเที่ยว - Thairath.co.th",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [
+        {
+          "key": "poonpong",
+          "name_en": "Poonpong Naiyanapakorn",
+          "role": "Director General, Department of Business Development",
+          "priority": "high"
+        }
+      ],
+      "first_seen": "2026-05-24T11:57:49.591434+00:00"
+    },
+    {
       "title_original": "DITP ลุยต่อ ขายผลไม้ตลาดอังกฤษ-จีน คนชอบแห่ชม ชิม ชอป ดันออเดอร์พุ่ง - commercenewsagency",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1nenMwc2NsUk5TWHB3QXVJeUtoOVNpWFhXVHdGWWgyWHZyYVM2TXZCMjI1Wms2QmNvNGRNN0xNT2FWV1BpaGFxYzFjUEdaWTBacEluYnc1QQ?oc=5",
       "pub_date": "Sun, 24 May 2026 06:42:49 GMT",
@@ -7111,28 +7132,10 @@
       "sentiment": "negative",
       "people_mentioned": [],
       "first_seen": "2026-03-24T08:00:47.719308+00:00"
-    },
-    {
-      "title_original": "หนีนรกสวนมะพร้าว! ลูกจ้างถูกเฆี่ยนหลังลายโชว์รอยแผล ร้องขอความเป็นธรรม| 23 มี.ค. 69 |ไทยรัฐนิวส์โชว์ - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hcFRHUlphbmpFRFAyNFJwbkplTEkwVTd5M2h6VHVfZmV3QWM0RWQ4SHNpSFNHWERnb05Ya3FJVVByV01teHFTellqWm1KNHBqZ1JYWVRR?oc=5",
-      "pub_date": "Mon, 23 Mar 2026 12:52:59 GMT",
-      "source": "YouTube",
-      "description_original": "หนีนรกสวนมะพร้าว! ลูกจ้างถูกเฆี่ยนหลังลายโชว์รอยแผล ร้องขอความเป็นธรรม| 23 มี.ค. 69 |ไทยรัฐนิวส์โชว์&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "481247f02ff9",
-      "title_en": "Escape from Coconut Plantation Hell! Worker Whipped and Shows Back Scars, Pleads for Justice | March 23, 2026 | Thairath News Show",
-      "summary_en": "A worker from a coconut plantation reveals physical abuse and shows whip scars on their back while seeking justice for the mistreatment.",
-      "sentiment": "negative",
-      "people_mentioned": [],
-      "first_seen": "2026-03-24T08:00:47.719308+00:00"
     }
   ],
-  "last_updated": "2026-05-24T07:45:14.193006+00:00",
+  "last_updated": "2026-05-24T11:57:49.591434+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-05-04T07:42:27.213964+00:00",
-      "new_articles": 3
-    },
     {
       "timestamp": "2026-05-04T12:17:55.733456+00:00",
       "new_articles": 3
@@ -7367,6 +7370,10 @@
     },
     {
       "timestamp": "2026-05-24T07:45:14.193006+00:00",
+      "new_articles": 1
+    },
+    {
+      "timestamp": "2026-05-24T11:57:49.591434+00:00",
       "new_articles": 1
     }
   ]
