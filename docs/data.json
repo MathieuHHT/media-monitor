@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "Superblack coffee americano มะพร้าวเย็นเจี๊ยบ - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1aTI2M1E0M0VsWXVWMzNYLXhpNHp0UWkza1BnTU14bl9FVnZnMHRld1JiTWRXTkR4dFMtd1Y0Q0h1MEJwYlBCdGVkRkhRTXowc3NmTw?oc=5",
+      "pub_date": "Thu, 21 May 2026 04:26:25 GMT",
+      "source": "YouTube",
+      "description_original": "Superblack coffee americano มะพร้าวเย็นเจี๊ยบ&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "47fbafb4358b",
+      "title_en": "Superblack coffee americano มะพร้าวเย็นเจี๊ยบ - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-05-25T13:55:08.384582+00:00"
+    },
+    {
       "title_original": "พาณิชย์จับมืออินฟลูเอนเซอร์จีนชื่อดัง ดัน “มะพร้าวน้ำหอมไทย” เจาะตลาดแดนมังกร ตอกย้ำภาพลักษณ์ไทย “Land of Tropical Fruits” - ผู้จัดการออนไลน์",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EZFpZeFhLWFpMQXFkT0ItS0VnN1Z0V2hzSThaWXM3TUtyOXlyZ3Rfem94VTdsblpaMm0zTjJZNWpJbmVyVmxkUTZmVks3UTUyQnpVRWpTZEZDXzA?oc=5",
       "pub_date": "Mon, 25 May 2026 03:25:00 GMT",
@@ -7118,28 +7132,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-03-24T08:00:47.719308+00:00"
-    },
-    {
-      "title_original": "‘อรรถพล’ ตรวจคลังลำลูกกา ‘ไม่พบ’ กักตุนน้ำมัน แต่รับมีบางช่วงดีเซลขาด - เดลินิวส์",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15a2RLQ0x2UGR4M1R6YUdrRE03QlNJLUtnamZFNExWdzF2Vk5wdnFkU1UyZWRyYUhvMDF4b3NaQlFxZ1dqM3ZPWHc2QmZYT2lLREEw?oc=5",
-      "pub_date": "Thu, 19 Mar 2026 07:35:00 GMT",
-      "source": "เดลินิวส์",
-      "description_original": "‘อรรถพล’ ตรวจคลังลำลูกกา ‘ไม่พบ’ กักตุนน้ำมัน แต่รับมีบางช่วงดีเซลขาด&nbsp;&nbsp;เดลินิวส์",
-      "is_priority_outlet": false,
-      "id": "59a21cb7c868",
-      "title_en": "'Atthapol' Inspects Lam Luk Ka Warehouse - 'No Evidence' of Oil Hoarding Found, but Acknowledges Some Periods of Diesel Shortage",
-      "summary_en": "Minister Atthapol inspected a warehouse in Lam Luk Ka and found no evidence of oil hoarding, though acknowledged occasional diesel shortages occurred.",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-03-24T08:00:47.719308+00:00"
     }
   ],
-  "last_updated": "2026-05-25T08:49:45.536256+00:00",
+  "last_updated": "2026-05-25T13:55:08.384582+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-05-05T07:11:10.368906+00:00",
-      "new_articles": 1
-    },
     {
       "timestamp": "2026-05-05T11:59:31.104514+00:00",
       "new_articles": 0
@@ -7375,6 +7371,10 @@
     {
       "timestamp": "2026-05-25T08:49:45.536256+00:00",
       "new_articles": 2
+    },
+    {
+      "timestamp": "2026-05-25T13:55:08.384582+00:00",
+      "new_articles": 1
     }
   ]
 }
