@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "ปลูกมะพร้าวน้ำหอมอย่างไรให้ได้ต้นเตี้ยออกลูกดก #beachmusic #farming #fadedwell #fruit #garden #edms - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQUjN4RndTVGhMckxMYTk3UVNGS0RBOENMakdFdGdDME9uSFNqdXBSTTFtcUhJMDNKUHFZOEdWbGp4TS1DMFdSdERONVI1Sms2Ulkwdw?oc=5",
+      "pub_date": "Sun, 24 May 2026 14:12:23 GMT",
+      "source": "YouTube",
+      "description_original": "ปลูกมะพร้าวน้ำหอมอย่างไรให้ได้ต้นเตี้ยออกลูกดก #beachmusic #farming #fadedwell #fruit #garden #edms&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "4f012d8ef159",
+      "title_en": "ปลูกมะพร้าวน้ำหอมอย่างไรให้ได้ต้นเตี้ยออกลูกดก #beachmusic #farming #fadedwell #fruit #garden #edms - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-05-25T00:03:35.456863+00:00"
+    },
+    {
       "title_original": "กรมพัฒน์ฯ เอาจริง สั่งเชือด \"นอมินีต่างชาติ\" สแกน 5 หมื่นบริษัทรุกฮุบแหล่งท่องเที่ยว - Thairath.co.th",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9feWpSTWhBOHpwY0VaLTVPLWRHa3RXX3ExamhWZld0b01SdTVTRkZWN0d6X04zMnZaek40RlpKS3M0YjRkREc3WUtIZ3FaY1dqZUdrNzN4cDFNaUc4cDB5bm5HaktSU2s?oc=5",
       "pub_date": "Mon, 18 May 2026 08:08:49 GMT",
@@ -7118,28 +7132,10 @@
       "sentiment": "positive",
       "people_mentioned": [],
       "first_seen": "2026-03-24T08:00:47.719308+00:00"
-    },
-    {
-      "title_original": "น้ำมะพร้าวปลอมมีอยู่จริง | Big Story เรื่องใหญ่ Thai PBS - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wVWM0Y2xpaV9obWNlMGZIZk03b3JCdzZSMjE0c05naUY3ZmNFcncxSk8xWEFmQXNUQlZnS3FSVGtuRENiYTdYdzFaT0F0NDl1eV9lZWlB?oc=5",
-      "pub_date": "Tue, 24 Mar 2026 04:40:37 GMT",
-      "source": "YouTube",
-      "description_original": "น้ำมะพร้าวปลอมมีอยู่จริง | Big Story เรื่องใหญ่ Thai PBS&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "efca3347fc47",
-      "title_en": "Fake Coconut Water Really Exists | Big Story Thai PBS",
-      "summary_en": "Thai PBS investigates and confirms the existence of counterfeit coconut water products in the market.",
-      "sentiment": "negative",
-      "people_mentioned": [],
-      "first_seen": "2026-03-24T08:00:47.719308+00:00"
     }
   ],
-  "last_updated": "2026-05-24T11:57:49.591434+00:00",
+  "last_updated": "2026-05-25T00:03:35.456863+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-05-04T12:17:55.733456+00:00",
-      "new_articles": 3
-    },
     {
       "timestamp": "2026-05-04T23:57:13.688782+00:00",
       "new_articles": 2
@@ -7374,6 +7370,10 @@
     },
     {
       "timestamp": "2026-05-24T11:57:49.591434+00:00",
+      "new_articles": 1
+    },
+    {
+      "timestamp": "2026-05-25T00:03:35.456863+00:00",
       "new_articles": 1
     }
   ]
