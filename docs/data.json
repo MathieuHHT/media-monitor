@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "มะพร้าวน้ำหอมกลายเป็นมะพร้าวแกงเฉยเลย - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DUjk1bHRhMFpuNHBEc01fY29RX2hXTWUwSVVGdE9aeE50eDdkOHNIMkRaS01jLWNwZ29SVXV5WVV5d2ZDcG5MV0RVcDEyN3RwcU5NRw?oc=5",
+      "pub_date": "Mon, 25 May 2026 13:42:09 GMT",
+      "source": "YouTube",
+      "description_original": "มะพร้าวน้ำหอมกลายเป็นมะพร้าวแกงเฉยเลย&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "4a5cb2f9a4d3",
+      "title_en": "มะพร้าวน้ำหอมกลายเป็นมะพร้าวแกงเฉยเลย - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-05-26T00:09:07.296667+00:00"
+    },
+    {
       "title_original": "Superblack coffee americano มะพร้าวเย็นเจี๊ยบ - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1aTI2M1E0M0VsWXVWMzNYLXhpNHp0UWkza1BnTU14bl9FVnZnMHRld1JiTWRXTkR4dFMtd1Y0Q0h1MEJwYlBCdGVkRkhRTXowc3NmTw?oc=5",
       "pub_date": "Thu, 21 May 2026 04:26:25 GMT",
@@ -7118,28 +7132,10 @@
       "sentiment": "positive",
       "people_mentioned": [],
       "first_seen": "2026-03-24T08:00:47.719308+00:00"
-    },
-    {
-      "title_original": "เปิดมาตรการใหม่! ตัดตอน ‘นอมินี’ ส่งชื่อต่างชาติขอจดทะเบียนประกอบธุรกิจให้ตำรวจตรวจสอบ เริ่ม 1 เม.ย.นี้ - Ch7.com",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE50SVNxbGliOUF4NTV6S0xFWjJ4TUlUUDhLb2YzNm5uVzNVZzU1TEl2VTE0OGs5WXd0eFE1ZHFuTTU5bVh1VXlsUEFB?oc=5",
-      "pub_date": "Tue, 24 Mar 2026 02:03:08 GMT",
-      "source": "Ch7.com",
-      "description_original": "เปิดมาตรการใหม่! ตัดตอน ‘นอมินี’ ส่งชื่อต่างชาติขอจดทะเบียนประกอบธุรกิจให้ตำรวจตรวจสอบ เริ่ม 1 เม.ย.นี้&nbsp;&nbsp;Ch7.com",
-      "is_priority_outlet": false,
-      "id": "b50dcc97b4a5",
-      "title_en": "New Measures Revealed! Cutting Off 'Nominees' - Send Foreign Names Requesting Business Registration to Police for Verification, Starting April 1st",
-      "summary_en": "New regulatory measures are introduced to combat nominee arrangements by requiring police verification of foreign nationals applying for business registration, effective from April 1st.",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-03-24T08:00:47.719308+00:00"
     }
   ],
-  "last_updated": "2026-05-25T13:55:08.384582+00:00",
+  "last_updated": "2026-05-26T00:09:07.296667+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-05-05T11:59:31.104514+00:00",
-      "new_articles": 0
-    },
     {
       "timestamp": "2026-05-05T23:52:35.209873+00:00",
       "new_articles": 4
@@ -7374,6 +7370,10 @@
     },
     {
       "timestamp": "2026-05-25T13:55:08.384582+00:00",
+      "new_articles": 1
+    },
+    {
+      "timestamp": "2026-05-26T00:09:07.296667+00:00",
       "new_articles": 1
     }
   ]
