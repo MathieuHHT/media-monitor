@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "เครื่องพ่นยา สำหรับติดตั้งบนเรือ รายละเอียดจะลงให้อีกครั้งครับ#เกษตร #เกษตร #มะพร้าว #มะพร้าวน้ำหอม - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXa3pDc2ZTbm1ZdWVsU1ZSQTJfSXF0Z0I1Z2tlaTQ4STBiMjdYbHVCS09TdnA3VE9kRDRWc3JjUVdCZEQ0Wmk3WXBSNGs2NWJzLTA0dw?oc=5",
+      "pub_date": "Tue, 26 May 2026 17:00:37 GMT",
+      "source": "YouTube",
+      "description_original": "เครื่องพ่นยา สำหรับติดตั้งบนเรือ รายละเอียดจะลงให้อีกครั้งครับ#เกษตร #เกษตร #มะพร้าว #มะพร้าวน้ำหอม&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "85232b3c1796",
+      "title_en": "เครื่องพ่นยา สำหรับติดตั้งบนเรือ รายละเอียดจะลงให้อีกครั้งครับ#เกษตร #เกษตร #มะพร้าว #มะพร้าวน้ำหอม - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-05-27T00:11:39.572530+00:00"
+    },
+    {
       "title_original": "กรมทรัพย์สินทางปัญญา ยกขบวน GI ไทย บุกงาน THAIFEX – Anuga Asia 2026 - ThaiPR.NET",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYb2p4UVhYZm5La1N1VHFGOWs3bGxZUnVFX21EenpXdWJwSFNIYWJmdFc4SnpBXy1pM2EzVFVSTV83SUV3czZtWklxQXNPSjQ?oc=5",
       "pub_date": "Tue, 26 May 2026 09:15:00 GMT",
@@ -7118,28 +7132,10 @@
       "sentiment": "negative",
       "people_mentioned": [],
       "first_seen": "2026-03-24T14:43:45.202332+00:00"
-    },
-    {
-      "title_original": "เอาไม่อยู่แล้ว 5 ยักษ์ใหญ่ ร่อนหนังสือแจ้งยี่ปัวะ ขึ้นราคาสินค้าแน่ เม.ย. พิษสงครามต้นทุนพุ่ง - เดลินิวส์",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxS2FJNGxENTFhb3JVOEdjOFJnSEt6VEhtWm5USUxvbk9IOTEyNzAzR0E2OFlqcFFhSXhLQzRfNk5nSFhERFJnNFdsRlYyTzlTVFVr?oc=5",
-      "pub_date": "Wed, 18 Mar 2026 23:35:00 GMT",
-      "source": "เดลินิวส์",
-      "description_original": "เอาไม่อยู่แล้ว 5 ยักษ์ใหญ่ ร่อนหนังสือแจ้งยี่ปัวะ ขึ้นราคาสินค้าแน่ เม.ย. พิษสงครามต้นทุนพุ่ง&nbsp;&nbsp;เดลินิวส์",
-      "is_priority_outlet": false,
-      "id": "e9808e554412",
-      "title_en": "Can't Take It Anymore, 5 Giants Send Letters Notifying Retailers of Definite Price Increases in April Due to War-Related Cost Surge",
-      "summary_en": "Five major companies have notified retailers of inevitable product price increases in April due to rising costs from war impacts.",
-      "sentiment": "negative",
-      "people_mentioned": [],
-      "first_seen": "2026-03-24T14:43:45.202332+00:00"
     }
   ],
-  "last_updated": "2026-05-26T13:48:51.166478+00:00",
+  "last_updated": "2026-05-27T00:11:39.572530+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-05-06T12:23:06.830172+00:00",
-      "new_articles": 1
-    },
     {
       "timestamp": "2026-05-06T23:54:10.472579+00:00",
       "new_articles": 3
@@ -7375,6 +7371,10 @@
     {
       "timestamp": "2026-05-26T13:48:51.166478+00:00",
       "new_articles": 2
+    },
+    {
+      "timestamp": "2026-05-27T00:11:39.572530+00:00",
+      "new_articles": 1
     }
   ]
 }
