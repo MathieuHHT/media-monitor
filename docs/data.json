@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "แข่งขันผิวมะพร้าววิถีชุมชนทับสะแก - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNWVBKdXJvZzhNZ0NxbXRjYVdYQXo1X0JsV0tTWmpXSGFXRnBoTmxQaGxpaTY0aWgtaVYxcEhqWTQzVktaOFFEY05uanA5SENMaEh2S2Jn?oc=5",
+      "pub_date": "Mon, 25 May 2026 10:10:00 GMT",
+      "source": "YouTube",
+      "description_original": "แข่งขันผิวมะพร้าววิถีชุมชนทับสะแก&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "1b0e7c495ae0",
+      "title_en": "แข่งขันผิวมะพร้าววิถีชุมชนทับสะแก - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-05-31T08:08:09.345488+00:00"
+    },
+    {
       "title_original": "นายกฯ ฝันใหญ่ ดันไทยยืนหนึ่ง “ครัวของโลก”เดินหน้าเกษตรอัจฉริยะ-นวัตกรรมอนาคต - Thairath.co.th",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vUUs2ZUZXOVVkYzFWOUd3X3doV3VVSXEtdXlqRTdNTE0tcW0wYTNkNkVET2pUMkgyR1FYWXlWdkJiTlloUHVGTm50ZjlSU21YV1lELVl2V2toc28?oc=5",
       "pub_date": "Wed, 27 May 2026 08:46:31 GMT",
@@ -7125,28 +7139,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-03-29T07:56:42.134537+00:00"
-    },
-    {
-      "title_original": "ร้านอาหารดังบางสะพาน รับซื้อมะพร้าวจากชาวสวนให้ลูกค้าดื่มฟรี - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81MGpEZld4bndwS3lwdnJ2UFotZjRqdmlGd2t1QUlabElKM05vQlB3VF9PbnhEb29XeGhuSUJ6MjhjTDJiQUF4U0tNempSaXJnZnZ5dVpn?oc=5",
-      "pub_date": "Sat, 28 Mar 2026 10:00:16 GMT",
-      "source": "YouTube",
-      "description_original": "ร้านอาหารดังบางสะพาน รับซื้อมะพร้าวจากชาวสวนให้ลูกค้าดื่มฟรี&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "9591333d72e5",
-      "title_en": "ร้านอาหารดังบางสะพาน รับซื้อมะพร้าวจากชาวสวนให้ลูกค้าดื่มฟรี - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-03-28T23:58:24.530763+00:00"
     }
   ],
-  "last_updated": "2026-05-31T00:04:02.350381+00:00",
+  "last_updated": "2026-05-31T08:08:09.345488+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-05-10T23:56:11.726045+00:00",
-      "new_articles": 4
-    },
     {
       "timestamp": "2026-05-11T08:19:41.212041+00:00",
       "new_articles": 6
@@ -7382,6 +7378,10 @@
     {
       "timestamp": "2026-05-31T00:04:02.350381+00:00",
       "new_articles": 6
+    },
+    {
+      "timestamp": "2026-05-31T08:08:09.345488+00:00",
+      "new_articles": 1
     }
   ]
 }
