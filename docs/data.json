@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "เซเว่น อีเลฟเว่น จับมือ 14 พันธมิตรนมและเครื่องดื่มสุขภาพ ส่งเสริมคนไทยเข้าถึงโภชนาการที่ดี ผ่านแคมเปญ \"นมหลากสไตล์ที่ 7-Eleven\" รับวันนมโลก - newswit",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NcmFJMGZ1N2pmNkhoRHlCWUVUcFlZS1NlYkdtc0ZqWW5aelh3Wm56TzEtU1FMajlKaEpZY2ZxSGlaQS0zdzVIM2xFUXdHU3dVNWhQOFJaYWxMOEc2MG5yaTVlVy1rcE8wMzgw?oc=5",
+      "pub_date": "Tue, 02 Jun 2026 03:48:00 GMT",
+      "source": "newswit",
+      "description_original": "เซเว่น อีเลฟเว่น จับมือ 14 พันธมิตรนมและเครื่องดื่มสุขภาพ ส่งเสริมคนไทยเข้าถึงโภชนาการที่ดี ผ่านแคมเปญ \"นมหลากสไตล์ที่ 7-Eleven\" รับวันนมโลก&nbsp;&nbsp;newswit",
+      "is_priority_outlet": false,
+      "id": "b58cae6f9af2",
+      "title_en": "เซเว่น อีเลฟเว่น จับมือ 14 พันธมิตรนมและเครื่องดื่มสุขภาพ ส่งเสริมคนไทยเข้าถึงโภชนาการที่ดี ผ่านแคมเปญ \"นมหลากสไตล์ที่ 7-Eleven\" รับวันนมโลก - newswit",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-06-02T08:59:55.915289+00:00"
+    },
+    {
       "title_original": "เปิดฉากงาน THAIFEX 2026 \"NSL Foods\" ชูนวัตกรรมอาหารอนาคต Food Innovation - Thairath.co.th",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1nWGt2WlBCSHFvTW1JYnRTNXFpbHBscndYYzhXXzVfYUs0ZUF4Wl9ldFF6em5oY1pJT1FpdFJoUXFYWWRiM2h6SG1sTWNnYkxxMnpoNkVuQ3B6M3J0UEprWnRJMA?oc=5",
       "pub_date": "Tue, 26 May 2026 08:09:49 GMT",
@@ -7125,28 +7139,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-03-30T14:53:34.839444+00:00"
-    },
-    {
-      "title_original": "เริ่มแล้ว! \"GI Market 2026\" กรมทรัพย์สินทางปัญญา ปักหมุดเซ็นทรัลปิ่นเกล้า - newswit",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kRWVhNXZNdllEdU9pUDlxdXZIX0Vfc2lSMkdQZnBtdExzTkJiVUtBTzFyZE5ia2tLM2lLM1dkM3AtT0pVNlE4TU10enE5VFZiTWR3VXRwWEhtX0tNR09aRGxoWlFkZkxqWUV3?oc=5",
-      "pub_date": "Tue, 24 Mar 2026 03:41:00 GMT",
-      "source": "newswit",
-      "description_original": "เริ่มแล้ว! \"GI Market 2026\" กรมทรัพย์สินทางปัญญา ปักหมุดเซ็นทรัลปิ่นเกล้า&nbsp;&nbsp;newswit",
-      "is_priority_outlet": false,
-      "id": "4b10b7052526",
-      "title_en": "เริ่มแล้ว! \"GI Market 2026\" กรมทรัพย์สินทางปัญญา ปักหมุดเซ็นทรัลปิ่นเกล้า - newswit",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-03-30T09:00:17.650205+00:00"
     }
   ],
-  "last_updated": "2026-06-02T00:16:48.540145+00:00",
+  "last_updated": "2026-06-02T08:59:55.915289+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-05-13T00:03:20.017536+00:00",
-      "new_articles": 0
-    },
     {
       "timestamp": "2026-05-13T07:43:39.950641+00:00",
       "new_articles": 3
@@ -7382,6 +7378,10 @@
     {
       "timestamp": "2026-06-02T00:16:48.540145+00:00",
       "new_articles": 2
+    },
+    {
+      "timestamp": "2026-06-02T08:59:55.915289+00:00",
+      "new_articles": 1
     }
   ]
 }
