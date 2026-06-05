@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "‘มะพร้าวน้ำหอมราชบุรี’ คว้า GI ในอียู เปิดประตูการค้ากว่า 27 ประเทศ | The Bangkok Insight - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zdHhJUXNfZWdtbHlQYzlMeHNvUzctQXY4cWpNZmRra2VMbUhHei12YzNuaHNKd2FaNERtZkpxRVB6OU5uaDNIVDJqeHRSX241dFVhVDh3?oc=5",
+      "pub_date": "Sat, 30 May 2026 10:26:12 GMT",
+      "source": "LINE TODAY",
+      "description_original": "‘มะพร้าวน้ำหอมราชบุรี’ คว้า GI ในอียู เปิดประตูการค้ากว่า 27 ประเทศ | The Bangkok Insight&nbsp;&nbsp;LINE TODAY",
+      "is_priority_outlet": false,
+      "id": "610ab8065c08",
+      "title_en": "‘มะพร้าวน้ำหอมราชบุรี’ คว้า GI ในอียู เปิดประตูการค้ากว่า 27 ประเทศ | The Bangkok Insight - LINE TODAY",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-06-05T00:13:26.943893+00:00"
+    },
+    {
       "title_original": "ปลูกมะพร้าวน้ำหอมในโคกหนองนา #สร้างอนาคต #manasrichan #โคกหนองนา #shorts #coconut #มะพร้าว #สู้ชีวิต - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DOVc0Mnp1OE0xRmx0SVBHYVR0UHJLWGZPYm5CR1l6M0ladzNXdTIyS19Ld1p2QngtSDBxTkxCVkFYMENpbW14WFdBaF9jVUh5V3g5dA?oc=5",
       "pub_date": "Wed, 03 Jun 2026 13:32:42 GMT",
@@ -7125,28 +7139,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-04-01T08:47:24.526174+00:00"
-    },
-    {
-      "title_original": "COCOLOVE ปักหมุดสานต่อแคมเปญ Love yourself, Drink for your health #4 “เบลล่า - เพิร์ธ & แซนต้า” ชวนรักสุขภาพ ดื่มมะพร้าวแท้ 100% - banmuang.co.th",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5pMU55STNRbDdvZFF5eXRrSUowYlF0MzlzajVNYXl0MWhTSUpVS3c1aXRjQWltaDJubnJDalRIV3VlbXRoQU0wVmprVlNTTFJjNW5hMmU3UjJGdjQ1WXNUV2dFUUFXZw?oc=5",
-      "pub_date": "Wed, 01 Apr 2026 08:11:00 GMT",
-      "source": "banmuang.co.th",
-      "description_original": "COCOLOVE ปักหมุดสานต่อแคมเปญ Love yourself, Drink for your health #4 “เบลล่า - เพิร์ธ & แซนต้า” ชวนรักสุขภาพ ดื่มมะพร้าวแท้ 100%&nbsp;&nbsp;banmuang.co.th",
-      "is_priority_outlet": true,
-      "id": "4fb7f67959be",
-      "title_en": "COCOLOVE ปักหมุดสานต่อแคมเปญ Love yourself, Drink for your health #4 “เบลล่า - เพิร์ธ & แซนต้า” ชวนรักสุขภาพ ดื่มมะพร้าวแท้ 100% - banmuang.co.th",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-04-01T08:47:24.526174+00:00"
     }
   ],
-  "last_updated": "2026-06-04T13:53:50.530759+00:00",
+  "last_updated": "2026-06-05T00:13:26.943893+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-05-15T23:57:12.200826+00:00",
-      "new_articles": 3
-    },
     {
       "timestamp": "2026-05-16T07:08:48.460069+00:00",
       "new_articles": 0
@@ -7382,6 +7378,10 @@
     {
       "timestamp": "2026-06-04T13:53:50.530759+00:00",
       "new_articles": 2
+    },
+    {
+      "timestamp": "2026-06-05T00:13:26.943893+00:00",
+      "new_articles": 1
     }
   ]
 }
