@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "ผู้ตรวจการแผ่นดิน วาง 3 ม. แก้ราคามะพร้าวน้ำหอมตกต่ำ ข่าวเที่ยง วันที่ 6 มิถุนายน 2569 #NBT2HD - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRSHFOMHJMUWRpaHBNTWJIOThnTlJwSjJfYWd2S3lVdDdRLVdxOWY3VnRMaHAwRWtwWlBCNGlpclp5RnlLcW5rYm1zUHNLREd0dzdqMHZR?oc=5",
+      "pub_date": "Sat, 06 Jun 2026 05:52:31 GMT",
+      "source": "YouTube",
+      "description_original": "ผู้ตรวจการแผ่นดิน วาง 3 ม. แก้ราคามะพร้าวน้ำหอมตกต่ำ ข่าวเที่ยง วันที่ 6 มิถุนายน 2569 #NBT2HD&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "9347e821159f",
+      "title_en": "ผู้ตรวจการแผ่นดิน วาง 3 ม. แก้ราคามะพร้าวน้ำหอมตกต่ำ ข่าวเที่ยง วันที่ 6 มิถุนายน 2569 #NBT2HD - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-06-06T12:03:23.928692+00:00"
+    },
+    {
       "title_original": "EU มอบใบประกาศขึ้นทะเบียน GI มะพร้าวน้ำหอมราชบุรี เปิดตลาดสู่ 27 ประเทศ - ข่าวสด",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE42VG1lLWJDaFZGRkp1cUpVeFowcVByS3Y1NUJzUzBoSHhCOG1wcXZETDRBVU9PcG5tWlpGUF95eUh2dUkzWmpsX0hDa2dRQXlheFNPeTBKUmgtTThwbFE?oc=5",
       "pub_date": "Sat, 30 May 2026 08:43:00 GMT",
@@ -7125,28 +7139,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-04-03T12:04:34.230598+00:00"
-    },
-    {
-      "title_original": "“มหกรรมมะพร้าวและผลิตภัณฑ์แปรรูปจากมะพร้าวเพชรสมุทรคีรี” - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WeWFFSE5ObUUtNW9pZGRVMEw0eFhDS3lBT1ZHc2hsX2lKTTc5UlJmcDUzVzlIQ0N2S1d2TDdWMW5UcmRsVWNNeUpSSVJmT2t1MnBCa0Vn?oc=5",
-      "pub_date": "Sun, 29 Mar 2026 00:41:58 GMT",
-      "source": "YouTube",
-      "description_original": "“มหกรรมมะพร้าวและผลิตภัณฑ์แปรรูปจากมะพร้าวเพชรสมุทรคีรี”&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "2b0bd2066ea7",
-      "title_en": "“มหกรรมมะพร้าวและผลิตภัณฑ์แปรรูปจากมะพร้าวเพชรสมุทรคีรี” - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-04-03T08:08:38.081749+00:00"
     }
   ],
-  "last_updated": "2026-06-06T07:39:31.730855+00:00",
+  "last_updated": "2026-06-06T12:03:23.928692+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-05-17T11:54:50.819899+00:00",
-      "new_articles": 1
-    },
     {
       "timestamp": "2026-05-17T23:59:39.579731+00:00",
       "new_articles": 1
@@ -7381,6 +7377,10 @@
     },
     {
       "timestamp": "2026-06-06T07:39:31.730855+00:00",
+      "new_articles": 1
+    },
+    {
+      "timestamp": "2026-06-06T12:03:23.928692+00:00",
       "new_articles": 1
     }
   ]
