@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "EU มอบใบประกาศขึ้นทะเบียน GI มะพร้าวน้ำหอมราชบุรี เปิดตลาดสู่ 27 ประเทศ - ข่าวสด",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE42VG1lLWJDaFZGRkp1cUpVeFowcVByS3Y1NUJzUzBoSHhCOG1wcXZETDRBVU9PcG5tWlpGUF95eUh2dUkzWmpsX0hDa2dRQXlheFNPeTBKUmgtTThwbFE?oc=5",
+      "pub_date": "Sat, 30 May 2026 08:43:00 GMT",
+      "source": "ข่าวสด",
+      "description_original": "EU มอบใบประกาศขึ้นทะเบียน GI มะพร้าวน้ำหอมราชบุรี เปิดตลาดสู่ 27 ประเทศ&nbsp;&nbsp;ข่าวสด",
+      "is_priority_outlet": false,
+      "id": "337b4a560b32",
+      "title_en": "EU มอบใบประกาศขึ้นทะเบียน GI มะพร้าวน้ำหอมราชบุรี เปิดตลาดสู่ 27 ประเทศ - ข่าวสด",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-06-06T07:39:31.730855+00:00"
+    },
+    {
       "title_original": "\"แม็คโคร-โลตัส\" เปิดแพลตฟอร์มให้ขายตรง แก้ Pain Point เกษตรกรไทย พร้อมตั้งเป้ารับซื้อ 3.5 หมื่นล้าน - Marketeer Online",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPOF9HdkxWZnBnZ3RnempvX3REWEhSTUVockRCRGVPSEJVT2VXdFJZMXNWWXhCRTZZWHFpVnJyS1hOY0JEQlViaHY5czVDWmFGZnVtdA?oc=5",
       "pub_date": "Tue, 02 Jun 2026 07:00:00 GMT",
@@ -7125,28 +7139,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-04-03T08:08:38.081749+00:00"
-    },
-    {
-      "title_original": "เปิดปม \"วิกฤตมะพร้าวไทย\" ล้นตลาด-ถูกกดราคา ใครได้? ใครเสีย? ในเกมราคาที่ไม่เป็นธรรม! - news.trueid.net",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIdTcyRXlMc3h3dE8teWF2anEtaXg5Uy1BQXVmaFBqX0ZRdjRMM204WS1JZjRZOUc0aERqc0RPVWI4VGtad2ZjblZpcWJfbnV0RW9FczZn?oc=5",
-      "pub_date": "Fri, 27 Mar 2026 01:00:00 GMT",
-      "source": "news.trueid.net",
-      "description_original": "เปิดปม \"วิกฤตมะพร้าวไทย\" ล้นตลาด-ถูกกดราคา ใครได้? ใครเสีย? ในเกมราคาที่ไม่เป็นธรรม!&nbsp;&nbsp;news.trueid.net",
-      "is_priority_outlet": false,
-      "id": "1555645cbd12",
-      "title_en": "เปิดปม \"วิกฤตมะพร้าวไทย\" ล้นตลาด-ถูกกดราคา ใครได้? ใครเสีย? ในเกมราคาที่ไม่เป็นธรรม! - news.trueid.net",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-04-03T00:04:16.831547+00:00"
     }
   ],
-  "last_updated": "2026-06-06T00:10:57.496448+00:00",
+  "last_updated": "2026-06-06T07:39:31.730855+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-05-17T07:29:36.098925+00:00",
-      "new_articles": 3
-    },
     {
       "timestamp": "2026-05-17T11:54:50.819899+00:00",
       "new_articles": 1
@@ -7382,6 +7378,10 @@
     {
       "timestamp": "2026-06-06T00:10:57.496448+00:00",
       "new_articles": 4
+    },
+    {
+      "timestamp": "2026-06-06T07:39:31.730855+00:00",
+      "new_articles": 1
     }
   ]
 }
