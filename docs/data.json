@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "แม็คโคร และ โลตัส ภายใต้ ซีพี แอ็กซ์ตร้า แหล่งรวมสินค้า GI อันดับ 1 ของไทย ผนึกกำลัง กรมทรัพย์สินทางปัญญา ขับเคลื่อนเศรษฐกิจฐานรากสู่ความยั่งยืน - Marketeer Online",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1cGFYX2FjN1BZdUNSOC1xek1Udklkbi1hSklpTjdra0JTMzM0djg5NzVfN19HTHpQcWNRZVJmdXdjZWQwdGM2ekd5ZHdOQnJlUlBkTQ?oc=5",
+      "pub_date": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "source": "Marketeer Online",
+      "description_original": "แม็คโคร และ โลตัส ภายใต้ ซีพี แอ็กซ์ตร้า แหล่งรวมสินค้า GI อันดับ 1 ของไทย ผนึกกำลัง กรมทรัพย์สินทางปัญญา ขับเคลื่อนเศรษฐกิจฐานรากสู่ความยั่งยืน&nbsp;&nbsp;Marketeer Online",
+      "is_priority_outlet": false,
+      "id": "036dec527142",
+      "title_en": "แม็คโคร และ โลตัส ภายใต้ ซีพี แอ็กซ์ตร้า แหล่งรวมสินค้า GI อันดับ 1 ของไทย ผนึกกำลัง กรมทรัพย์สินทางปัญญา ขับเคลื่อนเศรษฐกิจฐานรากสู่ความยั่งยืน - Marketeer Online",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-06-09T00:09:26.502126+00:00"
+    },
+    {
       "title_original": "โลกธุรกิจ - พณ.รับมือผลไม้ออกสู่ตลาด ดึง‘ตลาด-ห้าง’ช่วยดูดซับผลผลิต - แนวหน้า",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUS1l0dGpSNm1QUFFlSjhOb0o3NFYtNm5EUTRaTWJkRmhMR3dveFB0dGpBbFVUQVd2UHA3M3hpRVA0Y1B6bXhoc25vVGlrS3M?oc=5",
       "pub_date": "Sun, 07 Jun 2026 23:00:00 GMT",
@@ -7132,28 +7146,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-04-05T08:00:03.530432+00:00"
-    },
-    {
-      "title_original": "“ลูกมะพร้าว” ตกเกลื่อนเต็มถนน l ตลาดข่าว - ข่าวเช้าเวิร์คพอยท์ l 31 มี.ค.69 - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10VFd1a2IyNUpRd3RMSXpHUERTcUZJRU9EeGM3VVpwOWV0TzVBMUlneHVZd1Nrb25CV2ZZclpjd29PWklncGVlekVCNzBhVG5xVEFBSDVn?oc=5",
-      "pub_date": "Tue, 31 Mar 2026 04:23:17 GMT",
-      "source": "YouTube",
-      "description_original": "“ลูกมะพร้าว” ตกเกลื่อนเต็มถนน l ตลาดข่าว - ข่าวเช้าเวิร์คพอยท์ l 31 มี.ค.69&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "7294a0edd7bf",
-      "title_en": "“ลูกมะพร้าว” ตกเกลื่อนเต็มถนน l ตลาดข่าว - ข่าวเช้าเวิร์คพอยท์ l 31 มี.ค.69 - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-04-05T08:00:03.530432+00:00"
     }
   ],
-  "last_updated": "2026-06-08T14:41:45.680759+00:00",
+  "last_updated": "2026-06-09T00:09:26.502126+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-05-20T00:10:10.084538+00:00",
-      "new_articles": 3
-    },
     {
       "timestamp": "2026-05-20T08:19:17.147497+00:00",
       "new_articles": 5
@@ -7389,6 +7385,10 @@
     {
       "timestamp": "2026-06-08T14:41:45.680759+00:00",
       "new_articles": 2
+    },
+    {
+      "timestamp": "2026-06-09T00:09:26.502126+00:00",
+      "new_articles": 1
     }
   ]
 }
