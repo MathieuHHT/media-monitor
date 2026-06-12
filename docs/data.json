@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "กรมทรัพย์สินทางปัญญา นำสินค้า GI ไทย เยือนเซี่ยงไฮ้ ปิดดีลทุเรียนภูเขาไฟศรีสะเกษ 500 ตัน - js100.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pWXA4eWR3SHhSMmZpMzlQdkF6Ni1tMWp1RGJsNnZ5QmxfdDljdjVXOGVwSk40a2tHTS1LRUVHeFFkMWg1NGtsLXNSUGN2TF9oLWozUFNTWV9NZw?oc=5",
+      "pub_date": "Fri, 12 Jun 2026 02:20:05 GMT",
+      "source": "js100.com",
+      "description_original": "กรมทรัพย์สินทางปัญญา นำสินค้า GI ไทย เยือนเซี่ยงไฮ้ ปิดดีลทุเรียนภูเขาไฟศรีสะเกษ 500 ตัน&nbsp;&nbsp;js100.com",
+      "is_priority_outlet": false,
+      "id": "f47fe177850b",
+      "title_en": "กรมทรัพย์สินทางปัญญา นำสินค้า GI ไทย เยือนเซี่ยงไฮ้ ปิดดีลทุเรียนภูเขาไฟศรีสะเกษ 500 ตัน - js100.com",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-06-12T08:52:32.882061+00:00"
+    },
+    {
       "title_original": "บริษัทไทยลงนามข้อตกลงส่งออกทุเรียน 500 ตันไปยังประเทศจีน - Vietnam.vn",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU3RpZjQ2S3hYbnNRRnhTRGtNZFJXVW1hOENBRHZBMl85UThMc3E4VkNYRGtmNi0yU1hTWmU2UnEweGpqVHkyUExSa0prOUhiWWxmUXFJaWZ5c0xPb0lYQkVSU0pJZ1VZS19QRVdWV1F0bEFac3hCV09ZNnZ2dWd2aXFRRzZxX055Uk51ZGtJNTRTQ1VYdllIVmMxT012N2pVSXdmS2ZPSnY?oc=5",
       "pub_date": "Thu, 11 Jun 2026 04:32:12 GMT",
@@ -7111,36 +7125,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-04-09T16:06:38.354628+00:00"
-    },
-    {
-      "title_original": "“ผู้ตรวจการแผ่นดิน\" ชงแก้กฎหมาย เพิ่มโทษระงับการผลิต เอาผิด ผู้ประกอบการทำน้ำมะพร้าวปลอม - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LcmhKUmRzem9NOS1WYmI2aVRBMTVlQ3JsMWo0NkZBUTBCajQzbktDVFhmT0d6U2FZTnFEODc4dGpPdTgwSTluY0hEalVoaEJDQkZQTg?oc=5",
-      "pub_date": "Thu, 09 Apr 2026 09:22:15 GMT",
-      "source": "YouTube",
-      "description_original": "“ผู้ตรวจการแผ่นดิน\" ชงแก้กฎหมาย เพิ่มโทษระงับการผลิต เอาผิด ผู้ประกอบการทำน้ำมะพร้าวปลอม&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "8c96eb1dc7d7",
-      "title_en": "“ผู้ตรวจการแผ่นดิน\" ชงแก้กฎหมาย เพิ่มโทษระงับการผลิต เอาผิด ผู้ประกอบการทำน้ำมะพร้าวปลอม - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-04-09T16:06:38.354628+00:00"
     }
   ],
-  "last_updated": "2026-06-12T00:20:49.427326+00:00",
+  "last_updated": "2026-06-12T08:52:32.882061+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-05-22T13:24:24.269028+00:00",
-      "new_articles": 5
-    },
-    {
-      "timestamp": "2026-05-23T00:10:30.431521+00:00",
-      "new_articles": 2
-    },
-    {
-      "timestamp": "2026-05-23T07:24:33.003878+00:00",
-      "new_articles": 4
-    },
     {
       "timestamp": "2026-05-23T11:54:41.856187+00:00",
       "new_articles": 3
@@ -7376,6 +7364,10 @@
     {
       "timestamp": "2026-06-12T00:20:49.427341+00:00",
       "new_articles": 0
+    },
+    {
+      "timestamp": "2026-06-12T08:52:32.882061+00:00",
+      "new_articles": 1
     }
   ]
 }
