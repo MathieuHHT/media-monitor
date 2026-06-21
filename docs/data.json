@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "title_original": "กรมพัฒนาธุรกิจฯ ลุยภูเก็ต-กระบี่ ทลายเครือข่ายนอมินี 66 บริษัท ยึดที่ดินพันล้าน - Thairath.co.th",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SN0U4OVk0RnprVGRieHpMQXVzMVRIRlZfUHY3WlYyUmVYdHdTRXVIRUlJOU1ZWWJjUlJUMlBZczZBMUZvTlgtdTM3WWFJUXlRYm9BR1R5czVFQlBaamdrYlFaS3gzZzQ?oc=5",
+      "pub_date": "Sun, 21 Jun 2026 06:00:00 GMT",
+      "source": "Thairath.co.th",
+      "description_original": "กรมพัฒนาธุรกิจฯ ลุยภูเก็ต-กระบี่ ทลายเครือข่ายนอมินี 66 บริษัท ยึดที่ดินพันล้าน&nbsp;&nbsp;Thairath.co.th",
+      "is_priority_outlet": false,
+      "id": "060bfb5d4500",
+      "title_en": "กรมพัฒนาธุรกิจฯ ลุยภูเก็ต-กระบี่ ทลายเครือข่ายนอมินี 66 บริษัท ยึดที่ดินพันล้าน - Thairath.co.th",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [
+        {
+          "key": "poonpong",
+          "name_en": "Poonpong Naiyanapakorn",
+          "role": "Director General, Department of Business Development",
+          "priority": "high"
+        }
+      ],
+      "first_seen": "2026-06-21T13:01:10.845006+00:00"
+    },
+    {
       "title_original": "ไล่ล่าระทึก! หนุ่มตระเวนก่อเหตุขโมยรถ และงัดตู้เอทีเอ็ม ก่อนจนมุมกลางสวนมะพร้าว จ.นครปฐม - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDY0NGUDBjaHRCd1J1TlFSemxjaGtpVVo0dzlIRnBLOXhlWHBQSlpzVS1Ecl90Q0xuV3AyQjNYRjdMWV9MaXFzTnRIWmhJdDdqVVFLMGJ3?oc=5",
       "pub_date": "Thu, 18 Jun 2026 04:17:14 GMT",
@@ -7132,28 +7153,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-04-22T23:50:01.817277+00:00"
-    },
-    {
-      "title_original": "ราชบุรี ///วิกฤตมะพร้าวน้ำหอมลุกลามโครงสร้างตลาดบิดเบือน - topnews.co.th",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xbFRuUVlESmNVcmVhcTdGaGN6aGdrZkE0QkduNXdVTkFfVklRY1U3TENsZ25FMzlKZFVfR1JrOXpRU1ZoZnVqa3k1anJaNVE?oc=5",
-      "pub_date": "Wed, 22 Apr 2026 16:52:05 GMT",
-      "source": "topnews.co.th",
-      "description_original": "ราชบุรี ///วิกฤตมะพร้าวน้ำหอมลุกลามโครงสร้างตลาดบิดเบือน&nbsp;&nbsp;topnews.co.th",
-      "is_priority_outlet": false,
-      "id": "57a5304733fc",
-      "title_en": "ราชบุรี ///วิกฤตมะพร้าวน้ำหอมลุกลามโครงสร้างตลาดบิดเบือน - topnews.co.th",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-04-22T23:50:01.817277+00:00"
     }
   ],
-  "last_updated": "2026-06-21T08:53:03.725470+00:00",
+  "last_updated": "2026-06-21T13:01:10.845006+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-06-01T16:32:32.528256+00:00",
-      "new_articles": 3
-    },
     {
       "timestamp": "2026-06-02T00:16:48.540145+00:00",
       "new_articles": 2
@@ -7388,6 +7391,10 @@
     },
     {
       "timestamp": "2026-06-21T08:53:03.725470+00:00",
+      "new_articles": 1
+    },
+    {
+      "timestamp": "2026-06-21T13:01:10.845006+00:00",
       "new_articles": 1
     }
   ]
