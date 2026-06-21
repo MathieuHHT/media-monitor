@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "ไล่ล่าระทึก! หนุ่มตระเวนก่อเหตุขโมยรถ และงัดตู้เอทีเอ็ม ก่อนจนมุมกลางสวนมะพร้าว จ.นครปฐม - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDY0NGUDBjaHRCd1J1TlFSemxjaGtpVVo0dzlIRnBLOXhlWHBQSlpzVS1Ecl90Q0xuV3AyQjNYRjdMWV9MaXFzTnRIWmhJdDdqVVFLMGJ3?oc=5",
+      "pub_date": "Thu, 18 Jun 2026 04:17:14 GMT",
+      "source": "YouTube",
+      "description_original": "ไล่ล่าระทึก! หนุ่มตระเวนก่อเหตุขโมยรถ และงัดตู้เอทีเอ็ม ก่อนจนมุมกลางสวนมะพร้าว จ.นครปฐม&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "820ff4466603",
+      "title_en": "ไล่ล่าระทึก! หนุ่มตระเวนก่อเหตุขโมยรถ และงัดตู้เอทีเอ็ม ก่อนจนมุมกลางสวนมะพร้าว จ.นครปฐม - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-06-21T08:53:03.725470+00:00"
+    },
+    {
       "title_original": "สังคมข่าวหุ้น | ข่าวหุ้นธุรกิจ - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMGxFdmFZbXkwYllkLWVvdWFIZnFYeE9TQjdKV1lxLXJaLWtzSU0zRzJHelJfYTkxRWRHcUktX1FMVWhrUjgyTjNPSlJTcF9zaUxPQUR5M1l2UTg1dDVhQWRZZ0Y5X1VFOE10RWIyVTA3MGJmaV85NUl4eWZhQVFmSw?oc=5",
       "pub_date": "Wed, 17 Jun 2026 23:42:14 GMT",
@@ -7132,28 +7146,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-04-22T23:50:01.817277+00:00"
-    },
-    {
-      "title_original": "รัฐ เพิ่งรู้ว่า ไทย มีมะพร้าวน้ำหอมขวด (ไม่) 100% | Torpenguin #เจ้าของธุรกิจ #มะพร้าวน้ำหอม - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1UcU9oY1FxVHZoTUtEcWZRSUFmSzdPdlNCb180dlhDQ2ozdE5JZkdQajJFdXpLV2Z1WTVlVTZITVc3c0NMZjF6TWQyQ3haUXViYndtRA?oc=5",
-      "pub_date": "Wed, 22 Apr 2026 12:00:42 GMT",
-      "source": "YouTube",
-      "description_original": "รัฐ เพิ่งรู้ว่า ไทย มีมะพร้าวน้ำหอมขวด (ไม่) 100% | Torpenguin #เจ้าของธุรกิจ #มะพร้าวน้ำหอม&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "32f6320aa98e",
-      "title_en": "รัฐ เพิ่งรู้ว่า ไทย มีมะพร้าวน้ำหอมขวด (ไม่) 100% | Torpenguin #เจ้าของธุรกิจ #มะพร้าวน้ำหอม - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-04-22T23:50:01.817277+00:00"
     }
   ],
-  "last_updated": "2026-06-21T00:11:54.563316+00:00",
+  "last_updated": "2026-06-21T08:53:03.725470+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-06-01T10:10:20.385433+00:00",
-      "new_articles": 2
-    },
     {
       "timestamp": "2026-06-01T16:32:32.528256+00:00",
       "new_articles": 3
@@ -7389,6 +7385,10 @@
     {
       "timestamp": "2026-06-21T00:11:54.563316+00:00",
       "new_articles": 5
+    },
+    {
+      "timestamp": "2026-06-21T08:53:03.725470+00:00",
+      "new_articles": 1
     }
   ]
 }
