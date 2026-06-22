@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "ลุยล้างบางนอมินีต่างชาติ พาณิชย์ผนึก 2 กมธ.สภาฯ ลงพื้นที่ห้วยขวาง | Thairath Money - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Ub0toTFpjOXZWdXdibE5rZmFQNGNnVmFrYVJiQlN6TGdYYzExQ1dfbFRORVAwOVVXdVk2cTVVamxxSTZOU3JSZXpHbFhFUG85c2IwZFpR?oc=5",
+      "pub_date": "Mon, 22 Jun 2026 00:01:39 GMT",
+      "source": "LINE TODAY",
+      "description_original": "ลุยล้างบางนอมินีต่างชาติ พาณิชย์ผนึก 2 กมธ.สภาฯ ลงพื้นที่ห้วยขวาง | Thairath Money&nbsp;&nbsp;LINE TODAY",
+      "is_priority_outlet": false,
+      "id": "696f7b348b6c",
+      "title_en": "ลุยล้างบางนอมินีต่างชาติ พาณิชย์ผนึก 2 กมธ.สภาฯ ลงพื้นที่ห้วยขวาง | Thairath Money - LINE TODAY",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-06-22T00:15:04.854798+00:00"
+    },
+    {
       "title_original": "กรมพัฒนาธุรกิจฯ ลุยภูเก็ต-กระบี่ ทลายเครือข่ายนอมินี 66 บริษัท ยึดที่ดินพันล้าน - Thairath.co.th",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SN0U4OVk0RnprVGRieHpMQXVzMVRIRlZfUHY3WlYyUmVYdHdTRXVIRUlJOU1ZWWJjUlJUMlBZczZBMUZvTlgtdTM3WWFJUXlRYm9BR1R5czVFQlBaamdrYlFaS3gzZzQ?oc=5",
       "pub_date": "Sun, 21 Jun 2026 06:00:00 GMT",
@@ -7139,28 +7153,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-04-23T06:54:43.190673+00:00"
-    },
-    {
-      "title_original": "ขึ้นทะเบียน ‘ปลาสลิดบ้านแพ้ว’ สินค้า GI พรีเมียมสมุทรสาคร - workpointtoday.com",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqbmpKWl82aGFqNmRuU0tYaDhfQWd4eE0tN28xTFJhOFlVZzEzUDQzMVh2MlNkVzlmYzFlLXlXRXNlcmdqVV9jT0RlWkF0VzBpN3BJZQ?oc=5",
-      "pub_date": "Thu, 16 Apr 2026 16:02:00 GMT",
-      "source": "workpointtoday.com",
-      "description_original": "ขึ้นทะเบียน ‘ปลาสลิดบ้านแพ้ว’ สินค้า GI พรีเมียมสมุทรสาคร&nbsp;&nbsp;workpointtoday.com",
-      "is_priority_outlet": false,
-      "id": "26f4e3eb0617",
-      "title_en": "ขึ้นทะเบียน ‘ปลาสลิดบ้านแพ้ว’ สินค้า GI พรีเมียมสมุทรสาคร - workpointtoday.com",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-04-22T23:50:01.817277+00:00"
     }
   ],
-  "last_updated": "2026-06-21T13:01:10.845006+00:00",
+  "last_updated": "2026-06-22T00:15:04.854798+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-06-02T00:16:48.540145+00:00",
-      "new_articles": 2
-    },
     {
       "timestamp": "2026-06-02T08:59:55.915289+00:00",
       "new_articles": 1
@@ -7395,6 +7391,10 @@
     },
     {
       "timestamp": "2026-06-21T13:01:10.845006+00:00",
+      "new_articles": 1
+    },
+    {
+      "timestamp": "2026-06-22T00:15:04.854798+00:00",
       "new_articles": 1
     }
   ]
