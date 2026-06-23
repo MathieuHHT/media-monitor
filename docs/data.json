@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "มะพร้าวน้ำหอมแท้ ดูอย่างไร #theleader #มองแบบผู้นำ #shorts #มะพร้าวไทย - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GSC1FZ05NQmRoZnktN1BCRTZlMkloWjU2eFhPS0RfdE9nSGY4X3FxZkxMYVJ5UFBjMHJ0Y1BwcE9pZDFlaTlFeVMySmJxWjl5Mk1Gbg?oc=5",
+      "pub_date": "Mon, 22 Jun 2026 06:00:27 GMT",
+      "source": "YouTube",
+      "description_original": "มะพร้าวน้ำหอมแท้ ดูอย่างไร #theleader #มองแบบผู้นำ #shorts #มะพร้าวไทย&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "90aaa631adba",
+      "title_en": "มะพร้าวน้ำหอมแท้ ดูอย่างไร #theleader #มองแบบผู้นำ #shorts #มะพร้าวไทย - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-06-23T08:22:58.213981+00:00"
+    },
+    {
       "title_original": "กวาดล้างน้ำมะพร้าวปลอม! \"ศุภจี\" ลุยตรวจ ล้ง-โรงงาน 5 จังหวัด ลงดาบนอมีนีต่างชาติ - TrueID",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yb2tOVmlrYVZHSlhoZ195Vy12a2kxMmdLQjBsSTRrcGVBMTROR09RTWdURk1NbUtfWjFlVVpNcEFGQ2RYa2NHaFh6TGZQZHBJNW92cjZ3?oc=5",
       "pub_date": "Fri, 19 Jun 2026 05:43:00 GMT",
@@ -7153,28 +7167,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-04-24T11:52:59.236919+00:00"
-    },
-    {
-      "title_original": "happymoremore #ดอกมะพร้าว #ดอกไม้มงคล #ดอกมะพร้าวน้ำหอม #มะพร้าวน้ำหอม #มะพร้าว #coconutflower - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5hU01lOVNvUzRNLXJiUC1WZV9KMUpJS2ZjOHplaWRIdHlxMFd0TUV4Mkk0M3d5NnZZVGx0MjV6Mm9QNy1YbmlpTVFDZ1hleHYteGdEdw?oc=5",
-      "pub_date": "Thu, 23 Apr 2026 16:17:55 GMT",
-      "source": "YouTube",
-      "description_original": "happymoremore #ดอกมะพร้าว #ดอกไม้มงคล #ดอกมะพร้าวน้ำหอม #มะพร้าวน้ำหอม #มะพร้าว #coconutflower&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "61de76643942",
-      "title_en": "happymoremore #ดอกมะพร้าว #ดอกไม้มงคล #ดอกมะพร้าวน้ำหอม #มะพร้าวน้ำหอม #มะพร้าว #coconutflower - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-04-24T11:52:59.236919+00:00"
     }
   ],
-  "last_updated": "2026-06-23T00:10:57.715525+00:00",
+  "last_updated": "2026-06-23T08:22:58.213981+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-06-03T09:20:15.063737+00:00",
-      "new_articles": 2
-    },
     {
       "timestamp": "2026-06-03T15:24:24.017434+00:00",
       "new_articles": 2
@@ -7410,6 +7406,10 @@
     {
       "timestamp": "2026-06-23T00:10:57.715525+00:00",
       "new_articles": 3
+    },
+    {
+      "timestamp": "2026-06-23T08:22:58.213981+00:00",
+      "new_articles": 1
     }
   ]
 }
