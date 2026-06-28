@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "รู้หรือไม่? ปลูกมะพร้าวหลุมเดียว 3 ต้น ทำได้จริงแถมเวิร์กมาก! 🌴✨ - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pSmlZNkdrZ1prc1pDX1A4MTlxeFlheVVNeEQ2X1FiTG5ma2hQdUltVmotZnpReFNpME1tWER0RmNpQ2hVMVBzYWd6ZXQ2ZVFObS14aA?oc=5",
+      "pub_date": "Wed, 24 Jun 2026 09:00:01 GMT",
+      "source": "YouTube",
+      "description_original": "รู้หรือไม่? ปลูกมะพร้าวหลุมเดียว 3 ต้น ทำได้จริงแถมเวิร์กมาก! 🌴✨&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "7ca132297542",
+      "title_en": "รู้หรือไม่? ปลูกมะพร้าวหลุมเดียว 3 ต้น ทำได้จริงแถมเวิร์กมาก! 🌴✨ - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-06-28T00:05:42.225719+00:00"
+    },
+    {
       "title_original": "เค้กโมลเทนมะพร้าวน้ำหอม เค้กนุ่มๆ ครีมฉ่ำๆ มีเนื้อมะพร้าวด้วย หวานอร่อย ฟินมากกก # #รีวิวเซเว่น - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5adUg5WW9GTnVodG8tdXc3YllFaW5kMjJQMWFLbWNYUk8xYXVFdzM2bUdQTXdjQnlreDRKMFp0VlRCcEhSelBveHFXdGJINEVveUs4Wg?oc=5",
       "pub_date": "Sat, 27 Jun 2026 06:56:39 GMT",
@@ -7146,28 +7160,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-05-01T11:51:51.851209+00:00"
-    },
-    {
-      "title_original": "ชุดรดน้ำดำหัว #เค้กวุ้นชลบุรี #วุ้นชลบุรี #วุ้นกะทิมะพร้าวน้ำหอม #วุ้นแฟนซี #เค้กวุ้นวันเกิด #jelly - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wb2g4emt1SlZ5T21yTE45b2djZnJZSFZyaTk0Wkg2WDlIRUEzZi1TNi1VbnFiZ1ZjdENaXzduMXRIVWhJNTNMSms5RUoxRW9IMENmeA?oc=5",
-      "pub_date": "Fri, 01 May 2026 09:59:28 GMT",
-      "source": "YouTube",
-      "description_original": "ชุดรดน้ำดำหัว #เค้กวุ้นชลบุรี #วุ้นชลบุรี #วุ้นกะทิมะพร้าวน้ำหอม #วุ้นแฟนซี #เค้กวุ้นวันเกิด #jelly&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "5ae6d42e4645",
-      "title_en": "ชุดรดน้ำดำหัว #เค้กวุ้นชลบุรี #วุ้นชลบุรี #วุ้นกะทิมะพร้าวน้ำหอม #วุ้นแฟนซี #เค้กวุ้นวันเกิด #jelly - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-05-01T11:51:51.851209+00:00"
     }
   ],
-  "last_updated": "2026-06-27T12:04:56.958357+00:00",
+  "last_updated": "2026-06-28T00:05:42.225719+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-06-08T00:12:44.559523+00:00",
-      "new_articles": 4
-    },
     {
       "timestamp": "2026-06-08T09:16:38.268678+00:00",
       "new_articles": 5
@@ -7403,6 +7399,10 @@
     {
       "timestamp": "2026-06-27T12:04:56.958357+00:00",
       "new_articles": 3
+    },
+    {
+      "timestamp": "2026-06-28T00:05:42.225719+00:00",
+      "new_articles": 1
     }
   ]
 }
