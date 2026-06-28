@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "เร่งสอบ 3 แอปฯจีน“Gokoo-Feixiang-E-Gets” สกัดนอมินี–คุมธุรกิจผิดกฎหมาย | The Better - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03aEd4NHF2WC1qZGFOVHA0a3o3QXFWTEtYVXpGc0l5TnhzNk1KZ2huV3MwNWFCNDdrV0R6VkhObnYycGtTRzYtRWxxc1BCdndQYmE4NjN3?oc=5",
+      "pub_date": "Tue, 23 Jun 2026 08:05:44 GMT",
+      "source": "LINE TODAY",
+      "description_original": "เร่งสอบ 3 แอปฯจีน“Gokoo-Feixiang-E-Gets” สกัดนอมินี–คุมธุรกิจผิดกฎหมาย | The Better&nbsp;&nbsp;LINE TODAY",
+      "is_priority_outlet": false,
+      "id": "ced07277035d",
+      "title_en": "เร่งสอบ 3 แอปฯจีน“Gokoo-Feixiang-E-Gets” สกัดนอมินี–คุมธุรกิจผิดกฎหมาย | The Better - LINE TODAY",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-06-28T08:15:18.178448+00:00"
+    },
+    {
       "title_original": "รู้หรือไม่? ปลูกมะพร้าวหลุมเดียว 3 ต้น ทำได้จริงแถมเวิร์กมาก! 🌴✨ - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pSmlZNkdrZ1prc1pDX1A4MTlxeFlheVVNeEQ2X1FiTG5ma2hQdUltVmotZnpReFNpME1tWER0RmNpQ2hVMVBzYWd6ZXQ2ZVFObS14aA?oc=5",
       "pub_date": "Wed, 24 Jun 2026 09:00:01 GMT",
@@ -7146,28 +7160,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-05-01T11:51:51.851209+00:00"
-    },
-    {
-      "title_original": "‘ศุภจี’สั่งลุยสกัด‘นอมินี’ ดึง 21 หน่วยงานเซ็น‘MOU’ 29 เม.ย. - แนวหน้า",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OMHJZX0hka3UxM09ReUZvOVJaQmVuV1AyS2ZtYTkxYlVVNUFJMGFKc09NaVRDb1pub29oVkRNTEtSTThVenlHOFlMWDF2LVU?oc=5",
-      "pub_date": "Sun, 26 Apr 2026 23:00:00 GMT",
-      "source": "แนวหน้า",
-      "description_original": "‘ศุภจี’สั่งลุยสกัด‘นอมินี’ ดึง 21 หน่วยงานเซ็น‘MOU’ 29 เม.ย.&nbsp;&nbsp;แนวหน้า",
-      "is_priority_outlet": false,
-      "id": "2ef34ef4bda1",
-      "title_en": "‘ศุภจี’สั่งลุยสกัด‘นอมินี’ ดึง 21 หน่วยงานเซ็น‘MOU’ 29 เม.ย. - แนวหน้า",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-05-01T11:51:51.851209+00:00"
     }
   ],
-  "last_updated": "2026-06-28T00:05:42.225719+00:00",
+  "last_updated": "2026-06-28T08:15:18.178448+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-06-08T09:16:38.268678+00:00",
-      "new_articles": 5
-    },
     {
       "timestamp": "2026-06-08T14:41:45.680759+00:00",
       "new_articles": 2
@@ -7402,6 +7398,10 @@
     },
     {
       "timestamp": "2026-06-28T00:05:42.225719+00:00",
+      "new_articles": 1
+    },
+    {
+      "timestamp": "2026-06-28T08:15:18.178448+00:00",
       "new_articles": 1
     }
   ]
