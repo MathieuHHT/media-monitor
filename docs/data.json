@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "ดึง “ซันนี่-เกวลิน” เป็นพรีเซ็นเตอร์ พา 4 ผลไม้ไทยเจาะตลาดจีน - posttoday",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1RVFNmY0dnMkRVTnVGZXBvOGZDaFdhSG9qUmFyQ3BBU0ZmeEFDYkpWZzRwT0x1RGNnODhNYkY5QUJEOHkzby1vaFJ5MWhBZE5sNFUxRQ?oc=5",
+      "pub_date": "Tue, 30 Jun 2026 06:33:00 GMT",
+      "source": "posttoday",
+      "description_original": "ดึง “ซันนี่-เกวลิน” เป็นพรีเซ็นเตอร์ พา 4 ผลไม้ไทยเจาะตลาดจีน&nbsp;&nbsp;posttoday",
+      "is_priority_outlet": false,
+      "id": "f024ab28d871",
+      "title_en": "ดึง “ซันนี่-เกวลิน” เป็นพรีเซ็นเตอร์ พา 4 ผลไม้ไทยเจาะตลาดจีน - posttoday",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-07-01T13:31:26.840240+00:00"
+    },
+    {
       "title_original": "กรมทรัพย์สินทางปัญญา เดินหน้าส่งเสริมการควบคุมคุณภาพ GI “ฉะเชิงเทรา” เพิ่มศักยภาพรุกตลาดพรีเมียมทั้งในและต่างประเทศ พร้อมลุยตรวจเยี่ยมแหล่งผลิต GI และผลักดันว่าที่สินค้า GI ในอนาคต - thailandplus",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5iMzVQRVoySUpqSDRDS1YyWjNQdzUxQzVtV1NfRUpXMElKU004c0kzMkhBdEFKZUFCaWVrbl81RkxqUTVmX1owRER1OFBvT3NrQXpld1htcw?oc=5",
       "pub_date": "Mon, 29 Jun 2026 11:17:49 GMT",
@@ -7153,28 +7167,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-05-07T12:24:59.298585+00:00"
-    },
-    {
-      "title_original": "วิธีทำมะพร้าวกะทิ มะพร้าวกะทิน้ำหอม - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yUFFrSGtDWjNEZkFJNDFEUU9PMWJpWlQ1U0Y3c28zNnllT3VHRzJvM01IYjNISWxRRlRueTRycElGZWRqTVh2cjFQOTZLOFE3Z2Vjdk5R?oc=5",
-      "pub_date": "Thu, 07 May 2026 05:11:04 GMT",
-      "source": "YouTube",
-      "description_original": "วิธีทำมะพร้าวกะทิ มะพร้าวกะทิน้ำหอม&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "6935ca56f62e",
-      "title_en": "วิธีทำมะพร้าวกะทิ มะพร้าวกะทิน้ำหอม - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-05-07T12:24:59.298585+00:00"
     }
   ],
-  "last_updated": "2026-07-01T08:43:03.717748+00:00",
+  "last_updated": "2026-07-01T13:31:26.840240+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-06-11T14:31:00.072024+00:00",
-      "new_articles": 0
-    },
     {
       "timestamp": "2026-06-12T00:20:49.427341+00:00",
       "new_articles": 0
@@ -7410,6 +7406,10 @@
     {
       "timestamp": "2026-07-01T08:43:03.717748+00:00",
       "new_articles": 4
+    },
+    {
+      "timestamp": "2026-07-01T13:31:26.840240+00:00",
+      "new_articles": 1
     }
   ]
 }
