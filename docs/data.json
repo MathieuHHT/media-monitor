@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "\"น้ำมะพร้าวน้ำหอมที่ดี ต้องเป็นแบบไหน?\" เมื่อซอมเมอลิเยร์น้ำมะพร้าว พิสูจน์ไทยโคโค่ - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12dnoxY1N6NDRxQXBKYU5QUXJQTXRtemRrdk5kanRqajBhTTJhRTN2Y3p6YzM1S3FLS2kxSENFdktESjctODlUMGgyUjVKYVV4cXNla2dB?oc=5",
+      "pub_date": "Thu, 25 Jun 2026 04:05:06 GMT",
+      "source": "YouTube",
+      "description_original": "\"น้ำมะพร้าวน้ำหอมที่ดี ต้องเป็นแบบไหน?\" เมื่อซอมเมอลิเยร์น้ำมะพร้าว พิสูจน์ไทยโคโค่&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "2dfd7db2c31c",
+      "title_en": "\"น้ำมะพร้าวน้ำหอมที่ดี ต้องเป็นแบบไหน?\" เมื่อซอมเมอลิเยร์น้ำมะพร้าว พิสูจน์ไทยโคโค่ - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-07-01T00:09:48.260200+00:00"
+    },
+    {
       "title_original": "\"ศุภจี\" แจงงบฯ ปี 2570 ชี้รัฐบาลใช้งบจำกัดท่ามกลางความท้าทายโลก เดินหน้าแก้ปัญหาระยะสั้นควบคู่ปฏิรูปโครงสร้างเศรษฐกิจ - moc.go.th",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxdEZ4U3d2bkRYSktqenVOMlBmcU8ySE1IU1Y2ME94UVlVeUpSX2NWcnAwXzlXaHVyLWViVWtXWHZNYk5zWHhUNDFhQ2dSY2xkY3hLeTBSMDh5QTlMWlZpeWIwcS1qd0ppZUF3S3RB?oc=5",
       "pub_date": "Mon, 29 Jun 2026 19:52:30 GMT",
@@ -7153,28 +7167,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-05-07T07:36:38.999828+00:00"
-    },
-    {
-      "title_original": "“พาณิชย์”ส่งจดหมายเปิดผนึก แจงมาตรการแก้ปัญหาทุเรียน ปาล์ม มะพร้าวน้ำหอม มะม่วง ปุ๋ย - ผู้จัดการออนไลน์",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDNWdfSUFnaEVBNHBTZnl5QmY2SWxScFc5clNyaDVqZXNlcG10NWIxR0c0ckN6Z0dNbXY3WlJncnlPSURqN2pRYTdIR05rUlpCYnRfQXhxVXp1YVhWRE5aWQ?oc=5",
-      "pub_date": "Thu, 07 May 2026 06:59:00 GMT",
-      "source": "ผู้จัดการออนไลน์",
-      "description_original": "“พาณิชย์”ส่งจดหมายเปิดผนึก แจงมาตรการแก้ปัญหาทุเรียน ปาล์ม มะพร้าวน้ำหอม มะม่วง ปุ๋ย&nbsp;&nbsp;ผู้จัดการออนไลน์",
-      "is_priority_outlet": false,
-      "id": "f4ebd0c02911",
-      "title_en": "“พาณิชย์”ส่งจดหมายเปิดผนึก แจงมาตรการแก้ปัญหาทุเรียน ปาล์ม มะพร้าวน้ำหอม มะม่วง ปุ๋ย - ผู้จัดการออนไลน์",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-05-07T07:36:38.999828+00:00"
     }
   ],
-  "last_updated": "2026-06-30T13:04:18.492396+00:00",
+  "last_updated": "2026-07-01T00:09:48.260200+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-06-11T00:19:10.323204+00:00",
-      "new_articles": 4
-    },
     {
       "timestamp": "2026-06-11T09:06:28.995194+00:00",
       "new_articles": 3
@@ -7410,6 +7406,10 @@
     {
       "timestamp": "2026-06-30T13:04:18.492396+00:00",
       "new_articles": 4
+    },
+    {
+      "timestamp": "2026-07-01T00:09:48.260200+00:00",
+      "new_articles": 1
     }
   ]
 }
