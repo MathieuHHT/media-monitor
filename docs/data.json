@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "Coconut master! Cuts fast, no need to look 😲🌴 - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfVEY1TFFtZUVhV2pRM3FfdTh4blVYSmc1MUI0OGRWb1ZISHBFQnVkZHFOQW0xQkV1XzhMcS1DNWstMXlwUXpUOUJkbFJBVXhWRmN4Wg?oc=5",
+      "pub_date": "Wed, 01 Jul 2026 13:17:08 GMT",
+      "source": "YouTube",
+      "description_original": "Coconut master! Cuts fast, no need to look 😲🌴&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "4eda2a512b9f",
+      "title_en": "Coconut master! Cuts fast, no need to look 😲🌴 - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-07-02T00:12:12.836071+00:00"
+    },
+    {
       "title_original": "ดึง “ซันนี่-เกวลิน” เป็นพรีเซ็นเตอร์ พา 4 ผลไม้ไทยเจาะตลาดจีน - posttoday",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1RVFNmY0dnMkRVTnVGZXBvOGZDaFdhSG9qUmFyQ3BBU0ZmeEFDYkpWZzRwT0x1RGNnODhNYkY5QUJEOHkzby1vaFJ5MWhBZE5sNFUxRQ?oc=5",
       "pub_date": "Tue, 30 Jun 2026 06:33:00 GMT",
@@ -7153,28 +7167,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-05-07T12:24:59.298585+00:00"
-    },
-    {
-      "title_original": "ไซรัปช่อดอกมะพร้าวน้ำหอม - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hdURPRE96cE5RTGRoRTFYUG5ZdFlBX25vQ18yRTFRN0FCQkR5SHNDNlVhY3BMREJLQzVBd29pUl9iVUdQR1NzSDFFUXY2anE4NlFPcQ?oc=5",
-      "pub_date": "Thu, 07 May 2026 06:21:09 GMT",
-      "source": "YouTube",
-      "description_original": "ไซรัปช่อดอกมะพร้าวน้ำหอม&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "aa409c05765a",
-      "title_en": "ไซรัปช่อดอกมะพร้าวน้ำหอม - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-05-07T12:24:59.298585+00:00"
     }
   ],
-  "last_updated": "2026-07-01T13:31:26.840240+00:00",
+  "last_updated": "2026-07-02T00:12:12.836071+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-06-12T00:20:49.427341+00:00",
-      "new_articles": 0
-    },
     {
       "timestamp": "2026-06-12T08:52:32.882061+00:00",
       "new_articles": 1
@@ -7409,6 +7405,10 @@
     },
     {
       "timestamp": "2026-07-01T13:31:26.840240+00:00",
+      "new_articles": 1
+    },
+    {
+      "timestamp": "2026-07-02T00:12:12.836071+00:00",
       "new_articles": 1
     }
   ]
