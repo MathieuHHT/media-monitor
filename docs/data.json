@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "Thai Coco ยกสวนมะพร้าวน้ำหอมออร์แกนิกจากราชบุรีสู่ใจกลางกรุงเทพฯ - banmuang.co.th",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CVlBnaGxLSEhCSGhSVklGajhHQmpDUk9kNlliWlQ0VXJCa21ZaXM4cDZYRkhGZmRKUF9MMGl0TFZOYlltd0l5amJZUklJOE5ZTFlSTDN2dlAtYXlSWWc?oc=5",
+      "pub_date": "Fri, 03 Jul 2026 09:59:00 GMT",
+      "source": "banmuang.co.th",
+      "description_original": "Thai Coco ยกสวนมะพร้าวน้ำหอมออร์แกนิกจากราชบุรีสู่ใจกลางกรุงเทพฯ&nbsp;&nbsp;banmuang.co.th",
+      "is_priority_outlet": true,
+      "id": "56ca301aa8b2",
+      "title_en": "Thai Coco ยกสวนมะพร้าวน้ำหอมออร์แกนิกจากราชบุรีสู่ใจกลางกรุงเทพฯ - banmuang.co.th",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-07-03T12:51:39.707614+00:00"
+    },
+    {
       "title_original": "พาณิชย์ผนึก ตม. บุกห้างดังย่านหลักสี่ ลุยตรวจ 2 บริษัทเสี่ยง \"นอมินีจีน\" พบพิรุธเพียบ - Thairath.co.th",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LTVRlR21fY0V3bHV6dVJDUS1fNUJZYm5ESDhjYVRHUFktcEF3dlRlSTRrTnpZVmFoR0dkU2hCaFU2STV6b1lhOTN4enh1WXdSOWpaNG5XRHd0d3dIbDlNUlJscUhxNWs?oc=5",
       "pub_date": "Thu, 02 Jul 2026 10:58:33 GMT",
@@ -7153,35 +7167,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-05-08T06:27:25.588983+00:00"
-    },
-    {
-      "title_original": "กรมพัฒนาธุรกิจฯ สแกนนิติบุคคลแหล่งท่องเที่ยวชื่อดัง ล้างภาพต่างชาติยึดเกาะพะงัน-เกาะสมุย พร้อมขอความร่วมมือทุกหน่วยงานบังคับใช้กฎหมายจริงจัง..สกัดกั้นทุนต่างชาติใช้คนไทยเป็น ‘นอมินี’ - banmuang.co.th",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82S3VWTlg2QjBZa1hoRzA2QWNkWmNKNDA3SkhFazM3NkdzcTBVVmlSWS1HT2liOXlsREktV21pbkVWVll2NXFWQVJ5SnE5aHd5Vlp5Q3g2WkhFUFpQTW5BclA4bw?oc=5",
-      "pub_date": "Fri, 08 May 2026 03:09:00 GMT",
-      "source": "banmuang.co.th",
-      "description_original": "กรมพัฒนาธุรกิจฯ สแกนนิติบุคคลแหล่งท่องเที่ยวชื่อดัง ล้างภาพต่างชาติยึดเกาะพะงัน-เกาะสมุย พร้อมขอความร่วมมือทุกหน่วยงานบังคับใช้กฎหมายจริงจัง..สกัดกั้นทุนต่างชาติใช้คนไทยเป็น ‘นอมินี’&nbsp;&nbsp;banmuang.co.th",
-      "is_priority_outlet": true,
-      "id": "99bed8b23090",
-      "title_en": "กรมพัฒนาธุรกิจฯ สแกนนิติบุคคลแหล่งท่องเที่ยวชื่อดัง ล้างภาพต่างชาติยึดเกาะพะงัน-เกาะสมุย พร้อมขอความร่วมมือทุกหน่วยงานบังคับใช้กฎหมายจริงจัง..สกัดกั้นทุนต่างชาติใช้คนไทยเป็น ‘นอมินี’ - banmuang.co.th",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [
-        {
-          "key": "poonpong",
-          "name_en": "Poonpong Naiyanapakorn",
-          "role": "Director General, Department of Business Development",
-          "priority": "high"
-        }
-      ],
-      "first_seen": "2026-05-08T06:27:25.588983+00:00"
     }
   ],
-  "last_updated": "2026-07-03T07:54:10.308386+00:00",
+  "last_updated": "2026-07-03T12:51:39.707614+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-06-13T12:19:47.575825+00:00",
-      "new_articles": 0
-    },
     {
       "timestamp": "2026-06-14T00:11:43.632815+00:00",
       "new_articles": 0
@@ -7417,6 +7406,10 @@
     {
       "timestamp": "2026-07-03T07:54:10.308386+00:00",
       "new_articles": 5
+    },
+    {
+      "timestamp": "2026-07-03T12:51:39.707614+00:00",
+      "new_articles": 1
     }
   ]
 }
