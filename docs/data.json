@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "ก.ล.ต. สั่งสอบเชิงลึก! พบพิรุธรายงานหุ้น ‘สุภาพรพิมพงษ์’ ข้อมูลเพียบแต่ไม่ตรงความจริง - เดลินิวส์",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yQXV4dmJFV2NQaGJMaExtNGxWLW9rTlo5T3RPcTZURWZKQmFrUE1nVnVYcXlXUWJEMXR1dF9qNDFYem11UThpd3pLS3BFMmkxVTJB?oc=5",
+      "pub_date": "Tue, 07 Jul 2026 15:09:00 GMT",
+      "source": "เดลินิวส์",
+      "description_original": "ก.ล.ต. สั่งสอบเชิงลึก! พบพิรุธรายงานหุ้น ‘สุภาพรพิมพงษ์’ ข้อมูลเพียบแต่ไม่ตรงความจริง&nbsp;&nbsp;เดลินิวส์",
+      "is_priority_outlet": false,
+      "id": "91d3c1e95066",
+      "title_en": "ก.ล.ต. สั่งสอบเชิงลึก! พบพิรุธรายงานหุ้น ‘สุภาพรพิมพงษ์’ ข้อมูลเพียบแต่ไม่ตรงความจริง - เดลินิวส์",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-07-08T00:00:05.582290+00:00"
+    },
+    {
       "title_original": "“ศุภจี” หายไปไหน เพจกระทรวงพาณิชย์โพสต์เองชวนให้มาติดตาม - Thairath.co.th",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjU1JwYW5tZjRkNGhwOG1FelVLeURKQWEzc1JLSzU3dWJHQ3JrMFFZc3VYZC10ZzN0LWtHaUtKNEZEYUZQaW5GamlhNjdGMWdtM3k1ZkVJdFNCWDg?oc=5",
       "pub_date": "Mon, 06 Jul 2026 13:41:15 GMT",
@@ -7160,28 +7174,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-05-18T08:39:34.574845+00:00"
-    },
-    {
-      "title_original": "เร่งสอบเส้นทางการเงินกลุ่ม\"นอมินี\"เกาะพะงัน | TURNING POINT จุดเปลี่ยน | 14 พ.ค. 69 - Thai PBS",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nNE40SU12RmR3MlM0enhvVFoxS28wVVhPVGEwZ1plV0hORnhiWU1sM3V3bUJzZGg0WklzeVBBb1dKdDJKUTlWbnJRS081akVlSDluN0V2QXc?oc=5",
-      "pub_date": "Thu, 14 May 2026 03:48:51 GMT",
-      "source": "Thai PBS",
-      "description_original": "เร่งสอบเส้นทางการเงินกลุ่ม\"นอมินี\"เกาะพะงัน | TURNING POINT จุดเปลี่ยน | 14 พ.ค. 69&nbsp;&nbsp;Thai PBS",
-      "is_priority_outlet": true,
-      "id": "0c2448cf1ad0",
-      "title_en": "เร่งสอบเส้นทางการเงินกลุ่ม\"นอมินี\"เกาะพะงัน | TURNING POINT จุดเปลี่ยน | 14 พ.ค. 69 - Thai PBS",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-05-17T23:59:39.579731+00:00"
     }
   ],
-  "last_updated": "2026-07-07T13:12:00.209069+00:00",
+  "last_updated": "2026-07-08T00:00:05.582290+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-06-18T00:17:52.738764+00:00",
-      "new_articles": 5
-    },
     {
       "timestamp": "2026-06-18T09:07:47.388343+00:00",
       "new_articles": 11
@@ -7417,6 +7413,10 @@
     {
       "timestamp": "2026-07-07T13:12:00.209069+00:00",
       "new_articles": 5
+    },
+    {
+      "timestamp": "2026-07-08T00:00:05.582290+00:00",
+      "new_articles": 1
     }
   ]
 }
