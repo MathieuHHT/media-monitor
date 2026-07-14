@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "“ศุภจี” ชู The Harmony Model โมเดลใหม่เพิ่มมูลค่าสินค้าเกษตรไทย - Thairath.co.th",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XUlF0bE1CM2dWZHdkdlVzN0NkTkwyOFVaZkFxZDJpOWt3aGJaM1hMTU12YUJiUDZROW1kdFZ6YmxjbTNLWlFta3ROZDRPWUYxQnFVNkVrUjc?oc=5",
+      "pub_date": "Wed, 08 Jul 2026 04:53:13 GMT",
+      "source": "Thairath.co.th",
+      "description_original": "“ศุภจี” ชู The Harmony Model โมเดลใหม่เพิ่มมูลค่าสินค้าเกษตรไทย&nbsp;&nbsp;Thairath.co.th",
+      "is_priority_outlet": false,
+      "id": "36a7ecd48d8e",
+      "title_en": "“ศุภจี” ชู The Harmony Model โมเดลใหม่เพิ่มมูลค่าสินค้าเกษตรไทย - Thairath.co.th",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-07-14T12:05:28.367991+00:00"
+    },
+    {
       "title_original": "มะพร้าวไทยในวิกฤต เมื่อ 'อัญมณีแห่งเขตร้อน' กำลังถูกบีบ - spacebar.th",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZW9Eb1B4Q3RZQ3U3RkRQMzRZdERZcHJtektwSnZFR1JzVW9RTkU1MUxkYUEzM0JrLUR2clRraVRJR3RCOUsyZE5DeFN3bkd5VHh5M1ZPQ08wbk1vSm43aC1sMUdzanFxeEVTTW9FWlVuTTdrNDZ6ZW9ROGp3dzRzbUs1VkxIVXBsbHc?oc=5",
       "pub_date": "Tue, 14 Jul 2026 05:15:00 GMT",
@@ -7153,28 +7167,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-05-23T00:10:30.431521+00:00"
-    },
-    {
-      "title_original": "ข่าวเครื่องดื่มสุขภาพ+มหกรรมแสดงสินค้าวันนี้ - newswit",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16bjR5c1BDc3RaZkhSb2p0NTc4dGF6aXFNeVB4QTJQX01JRk90UXprRWpDV2tMMXVLZy10UnozUmJBSy1vTXlSSE00N2p3S3lPemFhN3BwSWtJYkUwaU1CeEtXcVZDTzIwekVF?oc=5",
-      "pub_date": "Fri, 22 May 2026 07:50:00 GMT",
-      "source": "newswit",
-      "description_original": "ข่าวเครื่องดื่มสุขภาพ+มหกรรมแสดงสินค้าวันนี้&nbsp;&nbsp;newswit",
-      "is_priority_outlet": false,
-      "id": "9a01f60dafea",
-      "title_en": "ข่าวเครื่องดื่มสุขภาพ+มหกรรมแสดงสินค้าวันนี้ - newswit",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-05-22T13:24:24.269028+00:00"
     }
   ],
-  "last_updated": "2026-07-14T07:02:11.843995+00:00",
+  "last_updated": "2026-07-14T12:05:28.367991+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-06-24T13:11:45.361135+00:00",
-      "new_articles": 2
-    },
     {
       "timestamp": "2026-06-25T00:16:27.416250+00:00",
       "new_articles": 2
@@ -7410,6 +7406,10 @@
     {
       "timestamp": "2026-07-14T07:02:11.843995+00:00",
       "new_articles": 5
+    },
+    {
+      "timestamp": "2026-07-14T12:05:28.367991+00:00",
+      "new_articles": 1
     }
   ]
 }
