@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "\"ปลูกมะพร้าวน้ำหอม 1 ไร่ 3-5ปี รายได้ 12,000 บาท\"/เดือน 🌱💰📈 - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xUHdMZjhJYndFRGZzQWlocHBkN1Rkb3B5eGg5NmJYVmpJcWpZV0FYNGhLRnNTZm9jcXd4YjVucUxDbU5XRjZUZjBMcEpURGJBeElpWHFB?oc=5",
+      "pub_date": "Tue, 14 Jul 2026 08:09:15 GMT",
+      "source": "YouTube",
+      "description_original": "\"ปลูกมะพร้าวน้ำหอม 1 ไร่ 3-5ปี รายได้ 12,000 บาท\"/เดือน 🌱💰📈&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "d258358ce9f7",
+      "title_en": "\"ปลูกมะพร้าวน้ำหอม 1 ไร่ 3-5ปี รายได้ 12,000 บาท\"/เดือน 🌱💰📈 - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-07-16T12:14:11.414072+00:00"
+    },
+    {
       "title_original": "100% real coconut water bottling process - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94ZENWU2dsYTdmZllYZ2k4b3AzNDdOVzFJRzB0ZkxqRTZrT3J3TDhGOGZfbjM5UDhFdkc3OG0zM2hqWnFCakdBV2lkczIzem5NNnIwYw?oc=5",
       "pub_date": "Wed, 15 Jul 2026 13:55:37 GMT",
@@ -7153,32 +7167,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-05-25T13:55:08.384582+00:00"
-    },
-    {
-      "title_original": "พาณิชย์จับมืออินฟลูเอนเซอร์จีนชื่อดัง ดัน “มะพร้าวน้ำหอมไทย” เจาะตลาดแดนมังกร ตอกย้ำภาพลักษณ์ไทย “Land of Tropical Fruits” - ผู้จัดการออนไลน์",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EZFpZeFhLWFpMQXFkT0ItS0VnN1Z0V2hzSThaWXM3TUtyOXlyZ3Rfem94VTdsblpaMm0zTjJZNWpJbmVyVmxkUTZmVks3UTUyQnpVRWpTZEZDXzA?oc=5",
-      "pub_date": "Mon, 25 May 2026 03:25:00 GMT",
-      "source": "ผู้จัดการออนไลน์",
-      "description_original": "พาณิชย์จับมืออินฟลูเอนเซอร์จีนชื่อดัง ดัน “มะพร้าวน้ำหอมไทย” เจาะตลาดแดนมังกร ตอกย้ำภาพลักษณ์ไทย “Land of Tropical Fruits”&nbsp;&nbsp;ผู้จัดการออนไลน์",
-      "is_priority_outlet": false,
-      "id": "1954785c78f7",
-      "title_en": "พาณิชย์จับมืออินฟลูเอนเซอร์จีนชื่อดัง ดัน “มะพร้าวน้ำหอมไทย” เจาะตลาดแดนมังกร ตอกย้ำภาพลักษณ์ไทย “Land of Tropical Fruits” - ผู้จัดการออนไลน์",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-05-25T08:49:45.536256+00:00"
     }
   ],
-  "last_updated": "2026-07-16T07:13:46.648973+00:00",
+  "last_updated": "2026-07-16T12:14:11.414072+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-06-26T08:24:32.145735+00:00",
-      "new_articles": 8
-    },
-    {
-      "timestamp": "2026-06-26T13:03:41.367292+00:00",
-      "new_articles": 0
-    },
     {
       "timestamp": "2026-06-27T00:11:55.239371+00:00",
       "new_articles": 4
@@ -7414,6 +7406,10 @@
     {
       "timestamp": "2026-07-16T07:13:46.648986+00:00",
       "new_articles": 0
+    },
+    {
+      "timestamp": "2026-07-16T12:14:11.414072+00:00",
+      "new_articles": 1
     }
   ]
 }
