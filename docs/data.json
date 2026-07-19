@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "ดันโรงงานซื้อมะพร้าวไทย แทนนำเข้า แก้ราคาตก : รอบวันทันเหตุการณ์ 17.00 น./ วันที่ 19 ก.ค.69 - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GZzFiRGR2bDMtTGNGX1RTZlBrczhLWGlmeXFGNEhIQ05uS1dCNXlvTXFuNnV1OVpzYXp6TVVZblg0djREeGE3REFfMjNJam0tWm5uNXF3?oc=5",
+      "pub_date": "Sun, 19 Jul 2026 11:39:35 GMT",
+      "source": "YouTube",
+      "description_original": "ดันโรงงานซื้อมะพร้าวไทย แทนนำเข้า แก้ราคาตก : รอบวันทันเหตุการณ์ 17.00 น./ วันที่ 19 ก.ค.69&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "d73e62826a33",
+      "title_en": "ดันโรงงานซื้อมะพร้าวไทย แทนนำเข้า แก้ราคาตก : รอบวันทันเหตุการณ์ 17.00 น./ วันที่ 19 ก.ค.69 - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-07-19T11:48:38.233511+00:00"
+    },
+    {
       "title_original": "วุ้นวันแม่ #วุ้นชลบุรี #เค้กวุ้นชลบุรี #วุ้นแฟนซี #วุ้นวันแม่ #วุ้นกะทิมะพร้าวน้ำหอม #เค้กวุ้นแฟนซี - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wbjZjQU5ZMTJzYWY5NU1CQmJjYnJVeWVBX0pxdnVoS3E1Y3VGWVRYSjNnNzMzbUFKQUQ0T2JEZHdKYzhEa0pBci1NZm1MV1B3ZGVTWA?oc=5",
       "pub_date": "Sun, 19 Jul 2026 02:10:41 GMT",
@@ -7146,28 +7160,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-05-29T13:53:21.956133+00:00"
-    },
-    {
-      "title_original": "COCOLOVE สร้างปรากฏการณ์ใน THAIFEX 2026 ดัน “น้ำมะพร้าวไทย” สู่เวทีโลก รับกระแสสุขภาพโตแรง - banmuang.co.th",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wa2puSTlYRm1CaEhpdjY3UGR4YzlVOU5ZRF81cHpjQ0dKZUFkYTlhMTlTWlZGOFZkcFFXd2R1Q3ZSM2xVNjhGUy1XMTdlWTNNSXBrTThzMV8?oc=5",
-      "pub_date": "Fri, 29 May 2026 04:37:00 GMT",
-      "source": "banmuang.co.th",
-      "description_original": "COCOLOVE สร้างปรากฏการณ์ใน THAIFEX 2026 ดัน “น้ำมะพร้าวไทย” สู่เวทีโลก รับกระแสสุขภาพโตแรง&nbsp;&nbsp;banmuang.co.th",
-      "is_priority_outlet": true,
-      "id": "b2c0b8df0efc",
-      "title_en": "COCOLOVE สร้างปรากฏการณ์ใน THAIFEX 2026 ดัน “น้ำมะพร้าวไทย” สู่เวทีโลก รับกระแสสุขภาพโตแรง - banmuang.co.th",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-05-29T13:53:21.956133+00:00"
     }
   ],
-  "last_updated": "2026-07-19T07:21:14.508056+00:00",
+  "last_updated": "2026-07-19T11:48:38.233511+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-06-29T14:42:01.739274+00:00",
-      "new_articles": 8
-    },
     {
       "timestamp": "2026-06-30T00:08:15.391455+00:00",
       "new_articles": 6
@@ -7402,6 +7398,10 @@
     },
     {
       "timestamp": "2026-07-19T07:21:14.508056+00:00",
+      "new_articles": 1
+    },
+    {
+      "timestamp": "2026-07-19T11:48:38.233511+00:00",
       "new_articles": 1
     }
   ]
