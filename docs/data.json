@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "วุ้นวันแม่ #วุ้นชลบุรี #เค้กวุ้นชลบุรี #วุ้นแฟนซี #วุ้นวันแม่ #วุ้นกะทิมะพร้าวน้ำหอม #เค้กวุ้นแฟนซี - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wbjZjQU5ZMTJzYWY5NU1CQmJjYnJVeWVBX0pxdnVoS3E1Y3VGWVRYSjNnNzMzbUFKQUQ0T2JEZHdKYzhEa0pBci1NZm1MV1B3ZGVTWA?oc=5",
+      "pub_date": "Sun, 19 Jul 2026 02:10:41 GMT",
+      "source": "YouTube",
+      "description_original": "วุ้นวันแม่ #วุ้นชลบุรี #เค้กวุ้นชลบุรี #วุ้นแฟนซี #วุ้นวันแม่ #วุ้นกะทิมะพร้าวน้ำหอม #เค้กวุ้นแฟนซี&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "4009453a594f",
+      "title_en": "วุ้นวันแม่ #วุ้นชลบุรี #เค้กวุ้นชลบุรี #วุ้นแฟนซี #วุ้นวันแม่ #วุ้นกะทิมะพร้าวน้ำหอม #เค้กวุ้นแฟนซี - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-07-19T07:21:14.508056+00:00"
+    },
+    {
       "title_original": "“พาณิชย์เชิงรุก” เปิดแผนบริหารสินค้าเกษตรครบวงจร แก้ปัญหาก่อนเกิด ดันสินค้าไทยสู่ตลาดโลก - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55TWRhWlZCMkdzZHZ1N2xqTWpkdzc3N0RuWW5FN3RHa0taQmtMSFlOdUhJdXhLV2h2b2xleWV2bDNLS0RvRUpRUFNfeURocTM3NDZVdk9R?oc=5",
       "pub_date": "Sat, 18 Jul 2026 10:36:14 GMT",
@@ -7146,28 +7160,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-05-29T13:53:21.956133+00:00"
-    },
-    {
-      "title_original": "เอสเอ็มอีโตได้ต้องมีพื้นที่ !! พาเปิด “DIPROM ITC” กลไกช่วย SMEsบ่มเพาะสินค้าดีก่อนออกสู่ตลาดจริง พร้อมถอดรหัส สุพรรณบุรีโมเดล DC8 พื้นที่ช่วยเตรียมธุรกิจ - ผลิตภัณฑ์ให้โตแบบ “ดีพร้อม” - มิติหุ้น | ชี้ชัดทุกการลงทุน - มิติหุ้น",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KQkxBaXVOQ3FHckJGMEE0U1RBTnVxY2xGaVRZNG4tdjFFXzRBSF8zWmJQMXBZZTFGT29sMFU4VzlZM0xNamdMWnZ5YUMydExsSW1NSmlR?oc=5",
-      "pub_date": "Fri, 29 May 2026 07:06:06 GMT",
-      "source": "มิติหุ้น",
-      "description_original": "เอสเอ็มอีโตได้ต้องมีพื้นที่ !! พาเปิด “DIPROM ITC” กลไกช่วย SMEsบ่มเพาะสินค้าดีก่อนออกสู่ตลาดจริง พร้อมถอดรหัส สุพรรณบุรีโมเดล DC8 พื้นที่ช่วยเตรียมธุรกิจ - ผลิตภัณฑ์ให้โตแบบ “ดีพร้อม” - มิติหุ้น | ชี้ชัดทุกการลงทุน&nbsp;&nbsp;มิติหุ้น",
-      "is_priority_outlet": false,
-      "id": "2943c224c171",
-      "title_en": "เอสเอ็มอีโตได้ต้องมีพื้นที่ !! พาเปิด “DIPROM ITC” กลไกช่วย SMEsบ่มเพาะสินค้าดีก่อนออกสู่ตลาดจริง พร้อมถอดรหัส สุพรรณบุรีโมเดล DC8 พื้นที่ช่วยเตรียมธุรกิจ - ผลิตภัณฑ์ให้โตแบบ “ดีพร้อม” - มิติหุ้น | ชี้ชัดทุกการลงทุน - มิติหุ้น",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-05-29T08:36:34.535534+00:00"
     }
   ],
-  "last_updated": "2026-07-18T23:56:45.598774+00:00",
+  "last_updated": "2026-07-19T07:21:14.508056+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-06-29T09:20:49.977464+00:00",
-      "new_articles": 5
-    },
     {
       "timestamp": "2026-06-29T14:42:01.739274+00:00",
       "new_articles": 8
@@ -7403,6 +7399,10 @@
     {
       "timestamp": "2026-07-18T23:56:45.598774+00:00",
       "new_articles": 2
+    },
+    {
+      "timestamp": "2026-07-19T07:21:14.508056+00:00",
+      "new_articles": 1
     }
   ]
 }
