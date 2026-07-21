@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "กลุ่มเซ็นทรัล เปิดงาน ‘จริงใจ มาหา…นคร’ ครั้งที่ 13 ชวนช้อปของดีจากชุมชนทั่วไทย คัดสรรของกิน-ของใช้ ครบจบที่เซ็นทรัลเวิลด์ - เทคโนโลยีชาวบ้าน - ข่าวสด",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ydE03QVdzMGN1WkdqUV9ycnRMZDBoSnMtTEJpSzdaMG9VemQtVlYxZ0ZGeE5ac0NSdTlsVFgxZHI1WHRTUjMzYmJwM3ZobHVpdDktNlZWcHhRanVmRU9xc3M3UklqNUo5UlBkaWY0ZGJKcDBvOTlyN2VR?oc=5",
+      "pub_date": "Wed, 15 Jul 2026 14:09:34 GMT",
+      "source": "ข่าวสด",
+      "description_original": "กลุ่มเซ็นทรัล เปิดงาน ‘จริงใจ มาหา…นคร’ ครั้งที่ 13 ชวนช้อปของดีจากชุมชนทั่วไทย คัดสรรของกิน-ของใช้ ครบจบที่เซ็นทรัลเวิลด์ - เทคโนโลยีชาวบ้าน&nbsp;&nbsp;ข่าวสด",
+      "is_priority_outlet": false,
+      "id": "ffb058bd8b4b",
+      "title_en": "กลุ่มเซ็นทรัล เปิดงาน ‘จริงใจ มาหา…นคร’ ครั้งที่ 13 ชวนช้อปของดีจากชุมชนทั่วไทย คัดสรรของกิน-ของใช้ ครบจบที่เซ็นทรัลเวิลด์ - เทคโนโลยีชาวบ้าน - ข่าวสด",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-07-21T23:57:15.032142+00:00"
+    },
+    {
       "title_original": "แบ่งปันสูตรขนมถ้วยโบราณ(ขนมไทย)/Steamed coconut milk custard/Sek Food & DIY - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVMWs2cVQza0xnR1hEbnZIUU9aVVVSMmZKYWVmdGY4STVXYzBDRGExc3JNbTdPV3dRSm9DQ1pxaUVUSFRSNnpmUlZldkp6Y295YUxnUmVR?oc=5",
       "pub_date": "Mon, 20 Jul 2026 13:00:28 GMT",
@@ -7146,36 +7160,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-05-30T12:00:58.148097+00:00"
-    },
-    {
-      "title_original": "เค้กวุ้นช่อดอกทานตะวัน #วุ้นชลบุรี #เค้กวุ้นชลบุรี #วุ้นกะทิมะพร้าวน้ำหอม #เค้กวุ้นวันเกิด - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsbWtXaXhDNXhxdjFyLTd2b3VTeUJTcGxsNmQ5NFdEY0Y2Y19XVThJd05qN1d3T05MY0o0X3dyTUF3dmU2VzloYm9vNFZtMGNXSnkwUQ?oc=5",
-      "pub_date": "Sat, 30 May 2026 09:15:12 GMT",
-      "source": "YouTube",
-      "description_original": "เค้กวุ้นช่อดอกทานตะวัน #วุ้นชลบุรี #เค้กวุ้นชลบุรี #วุ้นกะทิมะพร้าวน้ำหอม #เค้กวุ้นวันเกิด&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "8ec95b161b2c",
-      "title_en": "เค้กวุ้นช่อดอกทานตะวัน #วุ้นชลบุรี #เค้กวุ้นชลบุรี #วุ้นกะทิมะพร้าวน้ำหอม #เค้กวุ้นวันเกิด - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-05-30T12:00:58.148097+00:00"
     }
   ],
-  "last_updated": "2026-07-21T12:19:27.760358+00:00",
+  "last_updated": "2026-07-21T23:57:15.032142+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-07-01T08:43:03.717748+00:00",
-      "new_articles": 4
-    },
-    {
-      "timestamp": "2026-07-01T13:31:26.840240+00:00",
-      "new_articles": 1
-    },
-    {
-      "timestamp": "2026-07-02T00:12:12.836071+00:00",
-      "new_articles": 1
-    },
     {
       "timestamp": "2026-07-02T07:59:29.157247+00:00",
       "new_articles": 5
@@ -7411,6 +7399,10 @@
     {
       "timestamp": "2026-07-21T12:19:27.760373+00:00",
       "new_articles": 0
+    },
+    {
+      "timestamp": "2026-07-21T23:57:15.032142+00:00",
+      "new_articles": 1
     }
   ]
 }
