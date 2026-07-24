@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "ไลฟ์สด สอนทำ ชิฟฟ่อนมะพร้าว คัสตาร์ดมะพร้าวอ่อน - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVVFNCcXdVMXRkeGFTcnQwUjVQY1BJZThmbFlpM1dGajhoZW40M0Y4c0o5dmctWEFITTBXLXJJSUg4NUpLdWQzbmdaTmNTVmI5b0loQ193?oc=5",
+      "pub_date": "Fri, 24 Jul 2026 05:57:05 GMT",
+      "source": "YouTube",
+      "description_original": "ไลฟ์สด สอนทำ ชิฟฟ่อนมะพร้าว คัสตาร์ดมะพร้าวอ่อน&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "edbf74aa081c",
+      "title_en": "ไลฟ์สด สอนทำ ชิฟฟ่อนมะพร้าว คัสตาร์ดมะพร้าวอ่อน - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-07-24T12:13:22.915062+00:00"
+    },
+    {
       "title_original": "ปฏิบัติการทลายขบวนการนอมินีจีน ยึดบ้านหรู 33 หลัง มูลค่า 1,275 ล้านบาท - pptvhd36",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYzhzYjlpcVFyUk9PUW9wMjMwbkdmdU5NVFJJSlBHSGswbUNfdHdIQXFFaXFibGk4TnZjWUN6aFlBZThmSTI1YXl5dXFCVWRLS1dzRnJPTXJKRlZpRFJsTmtqUGZwa1E1NUhEVHEweG1WRXppZGttbmkwaTlwbWpDZV8tYzNuRWpxRkE?oc=5",
       "pub_date": "Fri, 24 Jul 2026 03:16:00 GMT",
@@ -7146,28 +7160,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-06-01T16:32:32.528256+00:00"
-    },
-    {
-      "title_original": "วุ่นทั้งตำบล! เพราะมะพร้าวลูกเดียว l ตลาดข่าว - ข่าวเช้าเวิร์คพอยท์ l 1 มิ.ย.69 - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QYlR4UmJ0U3pfWDVzakhwdHdmM3FaVTBoTHdBc2lkdUtMQ3ZFM1VIT2ZHUWY2OXpPWDJCcE5PYlJjOGMwbmRvMDlkMkxMN0t1TFZfb3d3?oc=5",
-      "pub_date": "Mon, 01 Jun 2026 04:43:46 GMT",
-      "source": "YouTube",
-      "description_original": "วุ่นทั้งตำบล! เพราะมะพร้าวลูกเดียว l ตลาดข่าว - ข่าวเช้าเวิร์คพอยท์ l 1 มิ.ย.69&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "9072e872373e",
-      "title_en": "วุ่นทั้งตำบล! เพราะมะพร้าวลูกเดียว l ตลาดข่าว - ข่าวเช้าเวิร์คพอยท์ l 1 มิ.ย.69 - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-06-01T16:32:32.528256+00:00"
     }
   ],
-  "last_updated": "2026-07-24T07:24:42.638268+00:00",
+  "last_updated": "2026-07-24T12:13:22.915062+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-07-04T12:01:20.383814+00:00",
-      "new_articles": 6
-    },
     {
       "timestamp": "2026-07-05T00:04:30.422213+00:00",
       "new_articles": 7
@@ -7403,6 +7399,10 @@
     {
       "timestamp": "2026-07-24T07:24:42.638268+00:00",
       "new_articles": 2
+    },
+    {
+      "timestamp": "2026-07-24T12:13:22.915062+00:00",
+      "new_articles": 1
     }
   ]
 }
