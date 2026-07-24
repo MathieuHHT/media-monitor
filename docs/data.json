@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "โลกธุรกิจ - กรมทรัพย์สินทางปัญญา พา “7 ผลไม้ GI ไทย” บุกศูนย์การค้า ICS ในเครือ ICONSIAM - แนวหน้า",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54R0FET0NxQ2NQTjNNRTdGaW44RTRvQm9aUEhkdGdGOFFzNGRNbldtLUtabTkwT1hhZjJSck45S2JGdktieVNHMDRMUnZKRWs?oc=5",
+      "pub_date": "Fri, 17 Jul 2026 06:58:00 GMT",
+      "source": "แนวหน้า",
+      "description_original": "โลกธุรกิจ - กรมทรัพย์สินทางปัญญา พา “7 ผลไม้ GI ไทย” บุกศูนย์การค้า ICS ในเครือ ICONSIAM&nbsp;&nbsp;แนวหน้า",
+      "is_priority_outlet": false,
+      "id": "e37aa8f0743e",
+      "title_en": "โลกธุรกิจ - กรมทรัพย์สินทางปัญญา พา “7 ผลไม้ GI ไทย” บุกศูนย์การค้า ICS ในเครือ ICONSIAM - แนวหน้า",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-07-24T00:03:45.759936+00:00"
+    },
+    {
       "title_original": "กรมทรัพย์สินทางปัญญา พา “7 ผลไม้ GI ไทย” บุกศูนย์การค้า ICS ในเครือ ICONSIAM โชว์อัตลักษณ์ผลไม้ไทย - ThaiPR.NET",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXYkpoY3FSRVljeUtHWG1TdjN1UjFCYThqTnVZbTBpTUtGWGJIbWtTU2lpWjh5ZTNFRkZkZ21iSjU1RTlOSjg2cmRxTnlOX1k?oc=5",
       "pub_date": "Mon, 20 Jul 2026 03:55:00 GMT",
@@ -7146,32 +7160,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-06-01T10:10:20.385433+00:00"
-    },
-    {
-      "title_original": "‘มะพร้าวน้ำหอมราชบุรี’ คว้า GI ในอียู เปิดประตูการค้ากว่า 27 ประเทศ - The Bangkok Insight",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nWU53cjdZUzQzdklsQjN0QUpmR2ZHd1hhR3RSX005WEZTVzEyN2I4akFWemFPalJoRG9ZSk9QMDhoQW9ia21HMVYxQVNLeWFCelJwcU43cDU4QzhtckN4aUdIYnBqczk4MWFrQVlkN0E2b2VG?oc=5",
-      "pub_date": "Sat, 30 May 2026 10:18:19 GMT",
-      "source": "The Bangkok Insight",
-      "description_original": "‘มะพร้าวน้ำหอมราชบุรี’ คว้า GI ในอียู เปิดประตูการค้ากว่า 27 ประเทศ&nbsp;&nbsp;The Bangkok Insight",
-      "is_priority_outlet": false,
-      "id": "b29dbb6a0fdf",
-      "title_en": "‘มะพร้าวน้ำหอมราชบุรี’ คว้า GI ในอียู เปิดประตูการค้ากว่า 27 ประเทศ - The Bangkok Insight",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-06-01T00:09:45.726530+00:00"
     }
   ],
-  "last_updated": "2026-07-23T12:19:11.161551+00:00",
+  "last_updated": "2026-07-24T00:03:45.759936+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-07-03T12:51:39.707614+00:00",
-      "new_articles": 1
-    },
-    {
-      "timestamp": "2026-07-04T00:08:23.031278+00:00",
-      "new_articles": 2
-    },
     {
       "timestamp": "2026-07-04T07:35:32.838049+00:00",
       "new_articles": 5
@@ -7407,6 +7399,10 @@
     {
       "timestamp": "2026-07-23T12:19:11.161566+00:00",
       "new_articles": 0
+    },
+    {
+      "timestamp": "2026-07-24T00:03:45.759936+00:00",
+      "new_articles": 1
     }
   ]
 }
