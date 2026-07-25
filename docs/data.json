@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "เปิดพฤติการณ์ ชาวอังกฤษ ถือหุ้นไขว้ ครองที่ดิน 120 ไร่ พณ.เผย กระบี่ มีต่างด้าวถือหุ้นบริษัท 700 กว่าราย - มติชนออนไลน์",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hejBnenBVODdvMzJxbm1JaV9kR01hZVNLWEZ4cmhfWkJDN1B5MW9uWTR3bU1lNk5CTnM0ZWZiYi1EeTFyTlotMnVCelg5NGJDWV9LX21FUnBUbFU?oc=5",
+      "pub_date": "Sat, 25 Jul 2026 06:10:45 GMT",
+      "source": "มติชนออนไลน์",
+      "description_original": "เปิดพฤติการณ์ ชาวอังกฤษ ถือหุ้นไขว้ ครองที่ดิน 120 ไร่ พณ.เผย กระบี่ มีต่างด้าวถือหุ้นบริษัท 700 กว่าราย&nbsp;&nbsp;มติชนออนไลน์",
+      "is_priority_outlet": false,
+      "id": "bf63e4d50cb1",
+      "title_en": "เปิดพฤติการณ์ ชาวอังกฤษ ถือหุ้นไขว้ ครองที่ดิน 120 ไร่ พณ.เผย กระบี่ มีต่างด้าวถือหุ้นบริษัท 700 กว่าราย - มติชนออนไลน์",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-07-25T11:56:41.937556+00:00"
+    },
+    {
       "title_original": "การทูต “ศูนย์เหรียญ” “อนุทิน” ได้ “หน้า” “คนไทย” (ไม่)ได้ “อะไร” - ผู้จัดการออนไลน์",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmcnZPZ1pzM1Nfb2tENUN3WEZqTl91N3UtNmkxVHFtU2xIa0VZUzFRVl8xamh5ZlhPVnBXTllHd3B3NWNHYjZtUC11TGZDaGlEQ01jZzdmNHRreTlG?oc=5",
       "pub_date": "Sat, 25 Jul 2026 00:10:00 GMT",
@@ -7146,28 +7160,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-06-03T01:41:25.862841+00:00"
-    },
-    {
-      "title_original": "[ตัวอย่าง] กินเที่ยวอะราวเดอะเวิล์ด พาไปชิมเมนูอาหารไทย “ห่อหมกทะเลมะพร้าวอ่อน” | 31 พ.ค. 69 | GMM25 - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PUmxENXd2OGJZRWJwZlZDd0tma0Z5dldzOXU3Nm5KWWUwMDZVb25ZQ2RmbWR6bFM0WnljU3J0QTZpNldGQi1lVDNfZHY4YkdmUVI2WTZ3?oc=5",
-      "pub_date": "Sat, 30 May 2026 06:00:23 GMT",
-      "source": "YouTube",
-      "description_original": "[ตัวอย่าง] กินเที่ยวอะราวเดอะเวิล์ด พาไปชิมเมนูอาหารไทย “ห่อหมกทะเลมะพร้าวอ่อน” | 31 พ.ค. 69 | GMM25&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "ac102bd80701",
-      "title_en": "[ตัวอย่าง] กินเที่ยวอะราวเดอะเวิล์ด พาไปชิมเมนูอาหารไทย “ห่อหมกทะเลมะพร้าวอ่อน” | 31 พ.ค. 69 | GMM25 - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-06-03T01:41:25.862841+00:00"
     }
   ],
-  "last_updated": "2026-07-25T07:08:36.003341+00:00",
+  "last_updated": "2026-07-25T11:56:41.937556+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-07-05T12:09:30.144238+00:00",
-      "new_articles": 3
-    },
     {
       "timestamp": "2026-07-06T00:09:57.978535+00:00",
       "new_articles": 6
@@ -7402,6 +7398,10 @@
     },
     {
       "timestamp": "2026-07-25T07:08:36.003341+00:00",
+      "new_articles": 1
+    },
+    {
+      "timestamp": "2026-07-25T11:56:41.937556+00:00",
       "new_articles": 1
     }
   ]
