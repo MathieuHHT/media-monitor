@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "การทูต “ศูนย์เหรียญ” “อนุทิน” ได้ “หน้า” “คนไทย” (ไม่)ได้ “อะไร” - ผู้จัดการออนไลน์",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmcnZPZ1pzM1Nfb2tENUN3WEZqTl91N3UtNmkxVHFtU2xIa0VZUzFRVl8xamh5ZlhPVnBXTllHd3B3NWNHYjZtUC11TGZDaGlEQ01jZzdmNHRreTlG?oc=5",
+      "pub_date": "Sat, 25 Jul 2026 00:10:00 GMT",
+      "source": "ผู้จัดการออนไลน์",
+      "description_original": "การทูต “ศูนย์เหรียญ” “อนุทิน” ได้ “หน้า” “คนไทย” (ไม่)ได้ “อะไร”&nbsp;&nbsp;ผู้จัดการออนไลน์",
+      "is_priority_outlet": false,
+      "id": "b0e49183be2c",
+      "title_en": "การทูต “ศูนย์เหรียญ” “อนุทิน” ได้ “หน้า” “คนไทย” (ไม่)ได้ “อะไร” - ผู้จัดการออนไลน์",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-07-25T07:08:36.003341+00:00"
+    },
+    {
       "title_original": "บิ๊กราญ สั่งลุย ทลายเครือข่ายนอมินีต่างด้าว บุกเชียงใหม่ค้น18จุด มูลค่าความเสียหาย633ล้าน - ข่าวสด",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mNzZoZzdwTzZ5eW9VN1I5QXhzQ1JUM2FiRkFWN3dNQks2VnVpc1FLTDZQMk80MGpGbXRGQXNNM3BNa3lqZHpFY1U3TmkyM3RfcVVVMU0wMmIwcDZRVjBCR09jQmp6QQ?oc=5",
       "pub_date": "Mon, 20 Jul 2026 03:07:00 GMT",
@@ -7146,28 +7160,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-06-03T01:41:25.862841+00:00"
-    },
-    {
-      "title_original": "เซเว่น อีเลฟเว่น จับมือ 14 พันธมิตรนมและเครื่องดื่มสุขภาพ ส่งเสริมคนไทยเข้าถึงโภชนาการที่ดี ผ่านแคมเปญ \"นมหลากสไตล์ที่ 7-Eleven\" รับวันนมโลก - newswit",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NcmFJMGZ1N2pmNkhoRHlCWUVUcFlZS1NlYkdtc0ZqWW5aelh3Wm56TzEtU1FMajlKaEpZY2ZxSGlaQS0zdzVIM2xFUXdHU3dVNWhQOFJaYWxMOEc2MG5yaTVlVy1rcE8wMzgw?oc=5",
-      "pub_date": "Tue, 02 Jun 2026 03:48:00 GMT",
-      "source": "newswit",
-      "description_original": "เซเว่น อีเลฟเว่น จับมือ 14 พันธมิตรนมและเครื่องดื่มสุขภาพ ส่งเสริมคนไทยเข้าถึงโภชนาการที่ดี ผ่านแคมเปญ \"นมหลากสไตล์ที่ 7-Eleven\" รับวันนมโลก&nbsp;&nbsp;newswit",
-      "is_priority_outlet": false,
-      "id": "b58cae6f9af2",
-      "title_en": "เซเว่น อีเลฟเว่น จับมือ 14 พันธมิตรนมและเครื่องดื่มสุขภาพ ส่งเสริมคนไทยเข้าถึงโภชนาการที่ดี ผ่านแคมเปญ \"นมหลากสไตล์ที่ 7-Eleven\" รับวันนมโลก - newswit",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-06-02T08:59:55.915289+00:00"
     }
   ],
-  "last_updated": "2026-07-25T00:07:11.789633+00:00",
+  "last_updated": "2026-07-25T07:08:36.003341+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-07-05T07:51:15.806497+00:00",
-      "new_articles": 5
-    },
     {
       "timestamp": "2026-07-05T12:09:30.144238+00:00",
       "new_articles": 3
@@ -7403,6 +7399,10 @@
     {
       "timestamp": "2026-07-25T00:07:11.789633+00:00",
       "new_articles": 4
+    },
+    {
+      "timestamp": "2026-07-25T07:08:36.003341+00:00",
+      "new_articles": 1
     }
   ]
 }
