@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "‘วันมะม่วงแห่งชาติ’ ชวนอุดหนุน 13 มะม่วง GI ไทย สร้างมูลค่ากว่า 1 พันล้าน | The Bangkok Insight - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90ZFJPeTJ2djQ2clphb2t0dVpoYmdDSTcyR1pFbmJ2WmpmX3IxbWpGeTZhQkpVbFZOMmhlRFpPSkNsTWRYaGdFR3pfNjJIRWp2R3Z5VEpR?oc=5",
+      "pub_date": "Wed, 22 Jul 2026 11:34:47 GMT",
+      "source": "LINE TODAY",
+      "description_original": "‘วันมะม่วงแห่งชาติ’ ชวนอุดหนุน 13 มะม่วง GI ไทย สร้างมูลค่ากว่า 1 พันล้าน | The Bangkok Insight&nbsp;&nbsp;LINE TODAY",
+      "is_priority_outlet": false,
+      "id": "fa99a611e3ff",
+      "title_en": "‘วันมะม่วงแห่งชาติ’ ชวนอุดหนุน 13 มะม่วง GI ไทย สร้างมูลค่ากว่า 1 พันล้าน | The Bangkok Insight - LINE TODAY",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-07-27T00:02:19.990862+00:00"
+    },
+    {
       "title_original": "COCOCO ลงนาม MOU 2 หน่วยงาน ผนึกกำลัง SCGP - ม.เกษตรฯ เสริมแกร่ง ESG ทั้งรีไซเคิลและสมการมะพร้าวสู่ Net Zero - wealthythai.com",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yTDVkOEZua2FwV0dyV1FVU3RVbmtLWHkwaUpTcGI2U2JCaGtYOV9EY09fajdVa0s2RnlSNC1rMXpMMGE5V2FzRTZLRkZWRjltLTN5MEMtb0p1MGZjTjIya1U4cUxzbms?oc=5",
       "pub_date": "Sat, 25 Jul 2026 11:35:23 GMT",
@@ -7146,32 +7160,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-06-04T01:43:37.976165+00:00"
-    },
-    {
-      "title_original": "มะพร้าวน้ำหอม/ มะพร้าวอ่อน/ เฉาะมะพร้าว/ มัทฉะน้ำมะพร้าว Coconut Matcha🇹🇭: 28.05.2026 - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YRjZmSVFtMFhJRDg5MVhlRmczLU5KUlJGT0Z4Q29ocGtnVnV4anlqQ0dBOGhtY3JFcEh0c0MzSUoxVG1DNURxaldHbGROS2plOWxuaHRB?oc=5",
-      "pub_date": "Wed, 03 Jun 2026 23:00:19 GMT",
-      "source": "YouTube",
-      "description_original": "มะพร้าวน้ำหอม/ มะพร้าวอ่อน/ เฉาะมะพร้าว/ มัทฉะน้ำมะพร้าว Coconut Matcha🇹🇭: 28.05.2026&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "789e69d8e2eb",
-      "title_en": "มะพร้าวน้ำหอม/ มะพร้าวอ่อน/ เฉาะมะพร้าว/ มัทฉะน้ำมะพร้าว Coconut Matcha🇹🇭: 28.05.2026 - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-06-04T01:43:37.976165+00:00"
     }
   ],
-  "last_updated": "2026-07-26T11:56:36.135480+00:00",
+  "last_updated": "2026-07-27T00:02:19.990862+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-07-06T14:23:30.671788+00:00",
-      "new_articles": 0
-    },
-    {
-      "timestamp": "2026-07-07T00:11:37.851924+00:00",
-      "new_articles": 8
-    },
     {
       "timestamp": "2026-07-07T08:13:19.299533+00:00",
       "new_articles": 7
@@ -7407,6 +7399,10 @@
     {
       "timestamp": "2026-07-26T11:56:36.135495+00:00",
       "new_articles": 0
+    },
+    {
+      "timestamp": "2026-07-27T00:02:19.990862+00:00",
+      "new_articles": 1
     }
   ]
 }
