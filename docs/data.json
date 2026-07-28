@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "เพลง ท่องเที่ยวชุมชนสงขลามหานครมะพร้าวน้ำหอม (สวพ8) - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5teVZXWmZUNXBRTUpYb29qckdqdl9nY2JwclhQNjlkcW5Ud1N3WnJvQzItblBvVWhVZHFjTUJDVjlwZWFvTTNpdUJXYjBJYy1fYmpKZ3VB?oc=5",
+      "pub_date": "Tue, 28 Jul 2026 09:26:35 GMT",
+      "source": "YouTube",
+      "description_original": "เพลง ท่องเที่ยวชุมชนสงขลามหานครมะพร้าวน้ำหอม (สวพ8)&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "5598132e6c54",
+      "title_en": "เพลง ท่องเที่ยวชุมชนสงขลามหานครมะพร้าวน้ำหอม (สวพ8) - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-07-28T12:48:12.081384+00:00"
+    },
+    {
       "title_original": "สุดยอดเซียนปอกมะพร้าว ปอกยังไงให้นิ้วยังอยู่ครบ มะพร้าวน้ำหอมสามพราน #มะพร้าว #cutting #coconut - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEUGxkdnFiT3BFRUp0UThvN2tia3FKc3dmRkppS0kxQkk5NEJSTHZDQ3lSSmlZanpvbEhLdl9UUlcyVm5QdlkybTNBalhCOFl2TDdLNQ?oc=5",
       "pub_date": "Sun, 26 Jul 2026 12:52:04 GMT",
@@ -7146,28 +7160,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-06-04T13:53:50.530759+00:00"
-    },
-    {
-      "title_original": "พลิกฟื้นผืนดิน มะพร้าวน้ำหอมยะลา รายได้แซงยางพารา ตลาดพุ่งผลิตไม่ทัน - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3UFFBMzhkclVndzBhWDFZc284bVVPd294OWVJbkZJUzFzNVZ1OXpETDlmWTFzYWxoNFhERUx5cU9JN0ZNYlJLZ2JuVUp4Y0hMNk9abGJ3?oc=5",
-      "pub_date": "Thu, 04 Jun 2026 04:25:06 GMT",
-      "source": "YouTube",
-      "description_original": "พลิกฟื้นผืนดิน มะพร้าวน้ำหอมยะลา รายได้แซงยางพารา ตลาดพุ่งผลิตไม่ทัน&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "dc4287d2b7f2",
-      "title_en": "พลิกฟื้นผืนดิน มะพร้าวน้ำหอมยะลา รายได้แซงยางพารา ตลาดพุ่งผลิตไม่ทัน - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-06-04T08:42:24.080776+00:00"
     }
   ],
-  "last_updated": "2026-07-28T07:30:49.868850+00:00",
+  "last_updated": "2026-07-28T12:48:12.081384+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-07-08T12:14:16.505052+00:00",
-      "new_articles": 4
-    },
     {
       "timestamp": "2026-07-09T00:14:33.240298+00:00",
       "new_articles": 3
@@ -7402,6 +7398,10 @@
     },
     {
       "timestamp": "2026-07-28T07:30:49.868850+00:00",
+      "new_articles": 1
+    },
+    {
+      "timestamp": "2026-07-28T12:48:12.081384+00:00",
       "new_articles": 1
     }
   ]
