@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "สุดยอดเซียนปอกมะพร้าว ปอกยังไงให้นิ้วยังอยู่ครบ มะพร้าวน้ำหอมสามพราน #มะพร้าว #cutting #coconut - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEUGxkdnFiT3BFRUp0UThvN2tia3FKc3dmRkppS0kxQkk5NEJSTHZDQ3lSSmlZanpvbEhLdl9UUlcyVm5QdlkybTNBalhCOFl2TDdLNQ?oc=5",
+      "pub_date": "Sun, 26 Jul 2026 12:52:04 GMT",
+      "source": "YouTube",
+      "description_original": "สุดยอดเซียนปอกมะพร้าว ปอกยังไงให้นิ้วยังอยู่ครบ มะพร้าวน้ำหอมสามพราน #มะพร้าว #cutting #coconut&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "4c23dc48d770",
+      "title_en": "สุดยอดเซียนปอกมะพร้าว ปอกยังไงให้นิ้วยังอยู่ครบ มะพร้าวน้ำหอมสามพราน #มะพร้าว #cutting #coconut - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-07-28T07:30:49.868850+00:00"
+    },
+    {
       "title_original": "ตอนที่6 สวพ8 แนะชมเหล็กขูดและเรื่องเล่าระโนด เส้นทางท่องเที่ยวสงขลามหานครมะพร้าวน้ำหอม - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42M0dDMURqTlFQQWkwVlg1Y1A5cFIwMkt1c282aEFfaTJmdk4yYWZTT1FBeWdUUnA2bzkwX0poY2huTGFHZWIzendEcnFtaE1YWWlpSDB3?oc=5",
       "pub_date": "Mon, 27 Jul 2026 02:18:36 GMT",
@@ -7146,28 +7160,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-06-04T08:42:24.080776+00:00"
-    },
-    {
-      "title_original": "วิกฤต ล้งนอมินีต่างชาติ ฮั้วราคามะพร้ - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5qcjcyVUlHVDZXQ1psNXlFVGZINGxyTC1yWm5jZWMwTEJrRGZTSmoyY3RHTXdjMGNfV0R5Z0d5SVJjcV9MZ1dxdGVMZUVLSnV5SVhudQ?oc=5",
-      "pub_date": "Thu, 04 Jun 2026 00:30:30 GMT",
-      "source": "YouTube",
-      "description_original": "วิกฤต ล้งนอมินีต่างชาติ ฮั้วราคามะพร้&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "c0a19f73bcc3",
-      "title_en": "วิกฤต ล้งนอมินีต่างชาติ ฮั้วราคามะพร้ - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-06-04T08:42:24.080776+00:00"
     }
   ],
-  "last_updated": "2026-07-28T00:04:15.788900+00:00",
+  "last_updated": "2026-07-28T07:30:49.868850+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-07-08T07:21:40.978483+00:00",
-      "new_articles": 4
-    },
     {
       "timestamp": "2026-07-08T12:14:16.505052+00:00",
       "new_articles": 4
@@ -7403,6 +7399,10 @@
     {
       "timestamp": "2026-07-28T00:04:15.788900+00:00",
       "new_articles": 2
+    },
+    {
+      "timestamp": "2026-07-28T07:30:49.868850+00:00",
+      "new_articles": 1
     }
   ]
 }
