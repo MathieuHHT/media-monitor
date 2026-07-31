@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "พาณิชย์ ออกมาตรการใหม่ปิดช่องโหว่นอมินี คุมเข้มตั้งแต่จดทะเบียนถึงเปลี่ยนผู้ถือหุ้น มีผล 1 ส.ค.นี้ - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01TDc1Nk9pWmpkejd4R3oyel9ma203X1ByQnA0SHUyYnE3QkFfWDBrTm9yRUNuUVNMemxzS1EzSW4wNW85SUJPYVl3Z1pFLXJ6amhFQS1n?oc=5",
+      "pub_date": "Fri, 31 Jul 2026 06:01:33 GMT",
+      "source": "LINE TODAY",
+      "description_original": "พาณิชย์ ออกมาตรการใหม่ปิดช่องโหว่นอมินี คุมเข้มตั้งแต่จดทะเบียนถึงเปลี่ยนผู้ถือหุ้น มีผล 1 ส.ค.นี้&nbsp;&nbsp;LINE TODAY",
+      "is_priority_outlet": false,
+      "id": "b108a55e0335",
+      "title_en": "พาณิชย์ ออกมาตรการใหม่ปิดช่องโหว่นอมินี คุมเข้มตั้งแต่จดทะเบียนถึงเปลี่ยนผู้ถือหุ้น มีผล 1 ส.ค.นี้ - LINE TODAY",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-07-31T12:50:22.712181+00:00"
+    },
+    {
       "title_original": "พาณิชย์ประกาศ “ชารางแดงเกาะเกร็ด” สินค้า GI ล่าสุด ลำดับที่ 5 นนทบุรี - thansettakij",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xTWdKSV8ySWNfQ21LajY5MnIxRF84Z1NldS1DQl9QeVdieDhxa2pwakVMYmRSdVpSZU0ya0N1TTUzOWc4SUpyVmpVUUZMSDREQWtCd2dR?oc=5",
       "pub_date": "Fri, 31 Jul 2026 02:49:00 GMT",
@@ -7139,28 +7153,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-06-05T13:48:42.382846+00:00"
-    },
-    {
-      "title_original": "ผู้ตรวจการแผ่นดิน ผนึก 16 หน่วยงาน แก้วิกฤติมะพร้าวน้ำหอมไทย - เดลินิวส์",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jbG9iNE41ZnFvZURxX2wyRHJ4NFdIWGZ3aktQQ1BHYXY5RUxJWU1qdWdwZVJEUk5qMlM4X2tqbnRTSzVLYV9Yc3gxenplbXhxeVFZ?oc=5",
-      "pub_date": "Fri, 05 Jun 2026 10:28:00 GMT",
-      "source": "เดลินิวส์",
-      "description_original": "ผู้ตรวจการแผ่นดิน ผนึก 16 หน่วยงาน แก้วิกฤติมะพร้าวน้ำหอมไทย&nbsp;&nbsp;เดลินิวส์",
-      "is_priority_outlet": false,
-      "id": "cb2198d79865",
-      "title_en": "ผู้ตรวจการแผ่นดิน ผนึก 16 หน่วยงาน แก้วิกฤติมะพร้าวน้ำหอมไทย - เดลินิวส์",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-06-05T13:48:42.382846+00:00"
     }
   ],
-  "last_updated": "2026-07-31T07:43:49.450906+00:00",
+  "last_updated": "2026-07-31T12:50:22.712181+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-07-11T11:44:59.852820+00:00",
-      "new_articles": 3
-    },
     {
       "timestamp": "2026-07-11T23:59:00.999010+00:00",
       "new_articles": 4
@@ -7396,6 +7392,10 @@
     {
       "timestamp": "2026-07-31T07:43:49.450906+00:00",
       "new_articles": 2
+    },
+    {
+      "timestamp": "2026-07-31T12:50:22.712181+00:00",
+      "new_articles": 1
     }
   ]
 }
