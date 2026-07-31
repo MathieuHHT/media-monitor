@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "ตาชาญเห็นเครื่องสับมะพร้าวในตำนานถึงกับตะลึง - youtube.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4V1AzZTVPbmU3LUdvS09jaEtra3RIOGFXbGZzUGxEUEtRaVVLbENka09fY0d5NE5zNGprcF9aejdxX2lvSmJWRFNDM1JLNHZQMEdLYjlB?oc=5",
+      "pub_date": "Fri, 24 Jul 2026 00:11:33 GMT",
+      "source": "youtube.com",
+      "description_original": "ตาชาญเห็นเครื่องสับมะพร้าวในตำนานถึงกับตะลึง&nbsp;&nbsp;youtube.com",
+      "is_priority_outlet": true,
+      "id": "5e610766789e",
+      "title_en": "ตาชาญเห็นเครื่องสับมะพร้าวในตำนานถึงกับตะลึง - youtube.com",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-07-31T00:05:07.776077+00:00"
+    },
+    {
       "title_original": "ทำไม \"ไทย โคโคนัท\" ต้องพลิกเกมกลับมารุกสร้างแบรนด์ในไทย ทั้งที่รายได้กว่า 90% มาจากต่างประเทศ - Marketeer Online",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5sOWZvVnRyOXBUd09KU1NHUUx3UUh2MGdERm5JRnpZM3p3SllWeXRoZHdQSjRFenBJRUMyNWRZT0VqcUZwMWJfMjMyYW9lZHNuMHlXaA?oc=5",
       "pub_date": "Mon, 27 Jul 2026 07:00:00 GMT",
@@ -7146,36 +7160,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-06-05T13:48:42.382846+00:00"
-    },
-    {
-      "title_original": "มาริทอซโซ่ ครีมนมมะพร้าว l ครัวป้ามารายห์ - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5COUJmc1JJZm9pcktRWHFCTF9xc3RpUVVnbWtHRFg3MlFLa1VkcHJ6ell1TkJrNFR5N2gwLTJlQVdlNk5ISkZlUTJ6TlRTazRGckRnakdB?oc=5",
-      "pub_date": "Fri, 05 Jun 2026 07:30:02 GMT",
-      "source": "YouTube",
-      "description_original": "มาริทอซโซ่ ครีมนมมะพร้าว l ครัวป้ามารายห์&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "3ce896a5da0a",
-      "title_en": "มาริทอซโซ่ ครีมนมมะพร้าว l ครัวป้ามารายห์ - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-06-05T13:48:42.382846+00:00"
     }
   ],
-  "last_updated": "2026-07-30T12:23:24.578863+00:00",
+  "last_updated": "2026-07-31T00:05:07.776077+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-07-10T08:14:35.412330+00:00",
-      "new_articles": 5
-    },
-    {
-      "timestamp": "2026-07-10T13:04:27.403982+00:00",
-      "new_articles": 3
-    },
-    {
-      "timestamp": "2026-07-11T00:01:30.855518+00:00",
-      "new_articles": 2
-    },
     {
       "timestamp": "2026-07-11T07:04:26.027002+00:00",
       "new_articles": 2
@@ -7411,6 +7399,10 @@
     {
       "timestamp": "2026-07-30T12:23:24.578880+00:00",
       "new_articles": 0
+    },
+    {
+      "timestamp": "2026-07-31T00:05:07.776077+00:00",
+      "new_articles": 1
     }
   ]
 }
