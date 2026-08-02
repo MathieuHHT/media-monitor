@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "บีไอจี Super League B5 คู่ 4ทีม โชคองศามะพร้าวน้ำหอม X ปลาสลิด พบกับ ทีม WOLFGANG FC X SD DESIGN - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkTXUtcXY3bldINTJVS1VKcUROV0NFcmdfeUVSMk5hdnhJRDE4RHItSUU5dkpXMDY1VVlnNVdfNlQ2azRTMVRKZXJIX0ZWWEhBQjFwSkdR?oc=5",
+      "pub_date": "Sun, 02 Aug 2026 02:58:57 GMT",
+      "source": "YouTube",
+      "description_original": "บีไอจี Super League B5 คู่ 4ทีม โชคองศามะพร้าวน้ำหอม X ปลาสลิด พบกับ ทีม WOLFGANG FC X SD DESIGN&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "0341e6a24d48",
+      "title_en": "บีไอจี Super League B5 คู่ 4ทีม โชคองศามะพร้าวน้ำหอม X ปลาสลิด พบกับ ทีม WOLFGANG FC X SD DESIGN - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-08-02T11:54:29.393492+00:00"
+    },
+    {
       "title_original": "แย่สุด ดินเสีย ต้นตาย พลิกฟื้นสู้เส้นทางการทำแปลงมะพร้าวน้ำหอมแบบอินทรีย์ [KING FARMER] - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5idWRXVkxQbXBFVlFzSkhXSTV0RmJKRmFpeTVyZ1VyVkRRRWxZd1E4TjM2ZWpwc3BCR1o2dDFvLUxwUmZyZ0Z4MlBhODJMWTNDUTIzYW5B?oc=5",
       "pub_date": "Sun, 02 Aug 2026 00:37:00 GMT",
@@ -7132,28 +7146,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-06-08T00:12:44.559523+00:00"
-    },
-    {
-      "title_original": "โลกธุรกิจ - พาณิชย์ จับมือ CPN จัดงาน ‘Thailand Tropical Fruit Fiesta’ เชื่อมโยงผลไม้ไทยสู่ผู้บริโภค - แนวหน้า",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MLXZwZ2g5ekRONEpEc0ZVWVZCUWd2dG9UblhpTWRhc25WMVlYaTNrQnh1T2hmVmV6aGcwa2tBV3VpdU9hUnhscWl1MFJVNGc?oc=5",
-      "pub_date": "Sun, 07 Jun 2026 08:21:00 GMT",
-      "source": "แนวหน้า",
-      "description_original": "โลกธุรกิจ - พาณิชย์ จับมือ CPN จัดงาน ‘Thailand Tropical Fruit Fiesta’ เชื่อมโยงผลไม้ไทยสู่ผู้บริโภค&nbsp;&nbsp;แนวหน้า",
-      "is_priority_outlet": false,
-      "id": "b230ed73ec2e",
-      "title_en": "โลกธุรกิจ - พาณิชย์ จับมือ CPN จัดงาน ‘Thailand Tropical Fruit Fiesta’ เชื่อมโยงผลไม้ไทยสู่ผู้บริโภค - แนวหน้า",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-06-07T12:16:04.787589+00:00"
     }
   ],
-  "last_updated": "2026-08-02T07:26:06.442883+00:00",
+  "last_updated": "2026-08-02T11:54:29.393492+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-07-13T13:11:41.727793+00:00",
-      "new_articles": 0
-    },
     {
       "timestamp": "2026-07-13T23:56:09.372138+00:00",
       "new_articles": 1
@@ -7389,6 +7385,10 @@
     {
       "timestamp": "2026-08-02T07:26:06.442883+00:00",
       "new_articles": 2
+    },
+    {
+      "timestamp": "2026-08-02T11:54:29.393492+00:00",
+      "new_articles": 1
     }
   ]
 }
