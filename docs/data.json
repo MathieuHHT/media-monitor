@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "มะพร้าวน้ำหอม #fyp #ตลก #คลิปตลก #หนวดเยิ้มยิ้มแย้ม #ปั่นป่วน - youtube.com",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tN2pYV19tcHdSemJXMUlxOGJoVUpFdzNsZnpKUUFiMDJfUUFPRkZob2dobTJDdHYwaEF3N3BOU1F0TlBlbFhFYXd0LW1JNTdoSXMxXw?oc=5",
+      "pub_date": "Sun, 02 Aug 2026 10:20:42 GMT",
+      "source": "youtube.com",
+      "description_original": "มะพร้าวน้ำหอม #fyp #ตลก #คลิปตลก #หนวดเยิ้มยิ้มแย้ม #ปั่นป่วน&nbsp;&nbsp;youtube.com",
+      "is_priority_outlet": true,
+      "id": "f4b5a6653e08",
+      "title_en": "มะพร้าวน้ำหอม #fyp #ตลก #คลิปตลก #หนวดเยิ้มยิ้มแย้ม #ปั่นป่วน - youtube.com",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-08-03T00:01:01.629860+00:00"
+    },
+    {
       "title_original": "บีไอจี Super League B5 คู่ 4ทีม โชคองศามะพร้าวน้ำหอม X ปลาสลิด พบกับ ทีม WOLFGANG FC X SD DESIGN - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkTXUtcXY3bldINTJVS1VKcUROV0NFcmdfeUVSMk5hdnhJRDE4RHItSUU5dkpXMDY1VVlnNVdfNlQ2azRTMVRKZXJIX0ZWWEhBQjFwSkdR?oc=5",
       "pub_date": "Sun, 02 Aug 2026 02:58:57 GMT",
@@ -7132,28 +7146,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-06-08T00:12:44.559523+00:00"
-    },
-    {
-      "title_original": "“ไทยช่วยไทย พลัส” ปลุกตลาดนัดมะพร้าว จ.ยะลา คึกคัก - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xaVZMaE42VHVLZlA1R2FoczhmanRLcm9ZRFR1Tk96dE1UMkxXMnNBektOVXdNRmtNbGxwV2hyU1FtX3I5MHhQLTQtWmVnUXFyTk9Sdndn?oc=5",
-      "pub_date": "Sat, 06 Jun 2026 10:36:44 GMT",
-      "source": "YouTube",
-      "description_original": "“ไทยช่วยไทย พลัส” ปลุกตลาดนัดมะพร้าว จ.ยะลา คึกคัก&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "ad0ed9946393",
-      "title_en": "“ไทยช่วยไทย พลัส” ปลุกตลาดนัดมะพร้าว จ.ยะลา คึกคัก - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-06-08T00:12:44.559523+00:00"
     }
   ],
-  "last_updated": "2026-08-02T11:54:29.393492+00:00",
+  "last_updated": "2026-08-03T00:01:01.629860+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-07-13T23:56:09.372138+00:00",
-      "new_articles": 1
-    },
     {
       "timestamp": "2026-07-14T07:02:11.843995+00:00",
       "new_articles": 5
@@ -7388,6 +7384,10 @@
     },
     {
       "timestamp": "2026-08-02T11:54:29.393492+00:00",
+      "new_articles": 1
+    },
+    {
+      "timestamp": "2026-08-03T00:01:01.629860+00:00",
       "new_articles": 1
     }
   ]
