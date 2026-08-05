@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "ขนมบ้าบิ่นมะพร้าวอ่อน กาดฝรั่งหางดง เชึยงใหม่ - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HMzlHbjdhQTRtUGV3cGNHci1kV1FWUkItVE10VUJwUFVSdjMwVWxkTVhsTmlza0pKQlktYlN4U0QxdU04OFFKUGtNVDJabFdwRExJNA?oc=5",
+      "pub_date": "Tue, 04 Aug 2026 11:59:45 GMT",
+      "source": "YouTube",
+      "description_original": "ขนมบ้าบิ่นมะพร้าวอ่อน กาดฝรั่งหางดง เชึยงใหม่&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "3cddb287f0e7",
+      "title_en": "ขนมบ้าบิ่นมะพร้าวอ่อน กาดฝรั่งหางดง เชึยงใหม่ - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-08-05T00:06:45.827328+00:00"
+    },
+    {
       "title_original": "ชง ครม. พรุ่งนี้ คาดตั้ง “พูนพงษ์” นั่งปลัดกระทรวงพาณิชย์ คนใหม่ แทน “วุฒิไกร” - Thairath.co.th",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xVHNxSTBuWm1CWVd5MzhmMTJha0lTeTJSNjlpWjZnWVhCYThBYXpmMmdDTUFJNS1ETmJ2WnFuSXRFTVpIWEJ3M0pBUmFOeDZKeGFIWkd6SDNaNDg?oc=5",
       "pub_date": "Tue, 04 Aug 2026 12:28:38 GMT",
@@ -7139,28 +7153,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-06-09T08:25:32.274812+00:00"
-    },
-    {
-      "title_original": "COCOCO ย้ำโรงงาน NOVOCOCONUT ไม่ได้รับผลกระทบแผ่นดินไหว ในฟิลิปปินส์ - banmuang.co.th",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKeVZWVWtPUndhUkRScl8ySDI5YTZOY2c1VktIZ3Q3OEpxSklGN3ZySWhMNDFzRmgwUmZ5WFpONmhqZzVMY0o4eENfLS1pS3QyalpSdnhGZmRLVzFF?oc=5",
-      "pub_date": "Tue, 09 Jun 2026 04:00:00 GMT",
-      "source": "banmuang.co.th",
-      "description_original": "COCOCO ย้ำโรงงาน NOVOCOCONUT ไม่ได้รับผลกระทบแผ่นดินไหว ในฟิลิปปินส์&nbsp;&nbsp;banmuang.co.th",
-      "is_priority_outlet": true,
-      "id": "6a0be29e4a3b",
-      "title_en": "COCOCO ย้ำโรงงาน NOVOCOCONUT ไม่ได้รับผลกระทบแผ่นดินไหว ในฟิลิปปินส์ - banmuang.co.th",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-06-09T08:25:32.274812+00:00"
     }
   ],
-  "last_updated": "2026-08-04T12:53:07.053445+00:00",
+  "last_updated": "2026-08-05T00:06:45.827328+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-07-16T00:01:03.099832+00:00",
-      "new_articles": 3
-    },
     {
       "timestamp": "2026-07-16T07:13:46.648986+00:00",
       "new_articles": 0
@@ -7396,6 +7392,10 @@
     {
       "timestamp": "2026-08-04T12:53:07.053445+00:00",
       "new_articles": 2
+    },
+    {
+      "timestamp": "2026-08-05T00:06:45.827328+00:00",
+      "new_articles": 1
     }
   ]
 }
