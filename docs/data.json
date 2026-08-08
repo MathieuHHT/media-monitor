@@ -1,6 +1,48 @@
 {
   "articles": [
     {
+      "title_original": "จับตาเศรษฐกิจภูมิภาค พาณิชย์เผยอีสานธุรกิจใหม่โต 46.7% ใต้เลิกพุ่ง 69.5% - thansettakij",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QZVduWW80QnVWYjRGMWFwVW5TTTlINm5ZN214VE9qTG95R21tUFYxc1QzV3BYSXUwR1h3U0Q1S3RydHpuUlQtaEthalZZeGpLSUh3cURR?oc=5",
+      "pub_date": "Sat, 08 Aug 2026 01:50:00 GMT",
+      "source": "thansettakij",
+      "description_original": "จับตาเศรษฐกิจภูมิภาค พาณิชย์เผยอีสานธุรกิจใหม่โต 46.7% ใต้เลิกพุ่ง 69.5%&nbsp;&nbsp;thansettakij",
+      "is_priority_outlet": true,
+      "id": "3ef619264a56",
+      "title_en": "จับตาเศรษฐกิจภูมิภาค พาณิชย์เผยอีสานธุรกิจใหม่โต 46.7% ใต้เลิกพุ่ง 69.5% - thansettakij",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-08-08T05:34:17.292050+00:00"
+    },
+    {
+      "title_original": "“ชัยชนะ” กมธ.ตำรวจ กับชับตำรวจภาค 8 คุมเข้มนอมินี-สแกมเมอร์” จับตาต่างชาติใช้ภูเก็ตเป็นฐานก่ออาชญากรรม - ผู้จัดการออนไลน์",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9OUFcyRkdpOFFYTndNSFJ4bEd0T2E2V0hpYTFTejJOR1YtM0txVVRrd1g1M1F0LTE4eWpfSzBQd0dRbUpaSTVMMS1sNTJWYU1WY2wtQmNFejRuOEpn?oc=5",
+      "pub_date": "Thu, 06 Aug 2026 10:04:00 GMT",
+      "source": "ผู้จัดการออนไลน์",
+      "description_original": "“ชัยชนะ” กมธ.ตำรวจ กับชับตำรวจภาค 8 คุมเข้มนอมินี-สแกมเมอร์” จับตาต่างชาติใช้ภูเก็ตเป็นฐานก่ออาชญากรรม&nbsp;&nbsp;ผู้จัดการออนไลน์",
+      "is_priority_outlet": false,
+      "id": "8d5f7cdef6cb",
+      "title_en": "“ชัยชนะ” กมธ.ตำรวจ กับชับตำรวจภาค 8 คุมเข้มนอมินี-สแกมเมอร์” จับตาต่างชาติใช้ภูเก็ตเป็นฐานก่ออาชญากรรม - ผู้จัดการออนไลน์",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-08-08T05:34:17.292050+00:00"
+    },
+    {
+      "title_original": "กว่าจะเป็น \"บ้านคุณแม่\" เบเกอรี่ เจ้าดัง! ชิฟฟ่อนไส้แตกมะพร้าวลาวาอีเว้นต์รุมทั้งปีไม่พัก - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43a0I5VGVXVVFyZVlBX1hFSVp0UmtPSmxfOC1KVnJfZUdpWXNvRjkycjBtd0lNU1o2LXBhNmhXbUVCNjRvTGpTY1JrX3JQZHRISl85QUNn?oc=5",
+      "pub_date": "Tue, 04 Aug 2026 21:45:08 GMT",
+      "source": "YouTube",
+      "description_original": "กว่าจะเป็น \"บ้านคุณแม่\" เบเกอรี่ เจ้าดัง! ชิฟฟ่อนไส้แตกมะพร้าวลาวาอีเว้นต์รุมทั้งปีไม่พัก&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "6322f223774b",
+      "title_en": "กว่าจะเป็น \"บ้านคุณแม่\" เบเกอรี่ เจ้าดัง! ชิฟฟ่อนไส้แตกมะพร้าวลาวาอีเว้นต์รุมทั้งปีไม่พัก - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-08-08T05:34:17.292050+00:00"
+    },
+    {
       "title_original": "깔끔하게 벗겨내는 마법! 코코넛 알맹이 껍질 까기 Satisfying Skinned Coconut Peeling! Incredible Speed - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9CM1pQYlNMSTlmRTVGOV83dU8yY1lUV09OckFyTE4tWGg0X0c0NjMyRzVaTWE0aFFvUm1XTGdCTy1QbEJSZ3BUckF5WHhZc2p0aDhPSQ?oc=5",
       "pub_date": "Thu, 06 Aug 2026 11:00:10 GMT",
@@ -7132,68 +7174,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-06-10T00:18:09.613873+00:00"
-    },
-    {
-      "title_original": "DBD ส่ง ‘แฟรนไชส์สร้างอาชีพ’ ปักหมุดระยอง ขน 40 แบรนด์ดังปั๊มเศรษฐกิจภูมิภาค - ประชาชาติธุรกิจ",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3TXVNY3dENS0zTk5uamFKb1dCT3ROemxiNE9kUDhGQ3NGVzljcS1rWWljdkhwSEJmVXlmSFl0bFJ2WEdISDRzdWtBN0dtLVdrV1ZKRXVhSWJZanZiV3pEek52NWZPendZZFctRnhUdw?oc=5",
-      "pub_date": "Tue, 09 Jun 2026 12:35:13 GMT",
-      "source": "ประชาชาติธุรกิจ",
-      "description_original": "DBD ส่ง ‘แฟรนไชส์สร้างอาชีพ’ ปักหมุดระยอง ขน 40 แบรนด์ดังปั๊มเศรษฐกิจภูมิภาค&nbsp;&nbsp;ประชาชาติธุรกิจ",
-      "is_priority_outlet": false,
-      "id": "ffcce8e15ec3",
-      "title_en": "DBD ส่ง ‘แฟรนไชส์สร้างอาชีพ’ ปักหมุดระยอง ขน 40 แบรนด์ดังปั๊มเศรษฐกิจภูมิภาค - ประชาชาติธุรกิจ",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-06-09T13:38:26.663554+00:00"
-    },
-    {
-      "title_original": "กะทิชาวเกาะ ชู ESG ทุ่มงบลงทุนเทคโนโลยีขั้นสูงตรวจสอบคุณภาพน้ำมะพร้าว ยกระดับความเชื่อมั่นตลาดโลก ดันส่งออกโต 20% สวนทางตลาดกะทิไทยทรงตัว - ไทยโพสต์",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VTmJaRHBKdGJZVjRoY05TSWV0YTJnRFlhRFlrcy1RM25teDFxRWRvdnlWNVNjS1p6TEo3WldwWXFtMEZNZG5DS1d3d0xpVDJxSDJmLW03STVyZw?oc=5",
-      "pub_date": "Tue, 09 Jun 2026 09:04:15 GMT",
-      "source": "ไทยโพสต์",
-      "description_original": "กะทิชาวเกาะ ชู ESG ทุ่มงบลงทุนเทคโนโลยีขั้นสูงตรวจสอบคุณภาพน้ำมะพร้าว ยกระดับความเชื่อมั่นตลาดโลก ดันส่งออกโต 20% สวนทางตลาดกะทิไทยทรงตัว&nbsp;&nbsp;ไทยโพสต์",
-      "is_priority_outlet": false,
-      "id": "90e0e2ad013a",
-      "title_en": "กะทิชาวเกาะ ชู ESG ทุ่มงบลงทุนเทคโนโลยีขั้นสูงตรวจสอบคุณภาพน้ำมะพร้าว ยกระดับความเชื่อมั่นตลาดโลก ดันส่งออกโต 20% สวนทางตลาดกะทิไทยทรงตัว - ไทยโพสต์",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-06-09T13:38:26.663554+00:00"
-    },
-    {
-      "title_original": "แกล้งมะพร้าวน้ำหอมต้นแคระแกร็นให้ติดลูก #สวนหลังบ้าน #ทำสวน #garden #gardening - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBjWHczM01INmNsQ1ExeklOZ05HREdwSWkyUllOUnBYb1lZY1E2ME1iVy1Ua0JPdWlma2pnQjZvQ183WVhNNWEwUVFNRlFaQ1BKRk5LQg?oc=5",
-      "pub_date": "Tue, 09 Jun 2026 11:28:14 GMT",
-      "source": "YouTube",
-      "description_original": "แกล้งมะพร้าวน้ำหอมต้นแคระแกร็นให้ติดลูก #สวนหลังบ้าน #ทำสวน #garden #gardening&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "f835b4386819",
-      "title_en": "แกล้งมะพร้าวน้ำหอมต้นแคระแกร็นให้ติดลูก #สวนหลังบ้าน #ทำสวน #garden #gardening - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-06-09T13:38:26.663554+00:00"
     }
   ],
-  "last_updated": "2026-08-07T23:36:36.931363+00:00",
+  "last_updated": "2026-08-08T05:34:17.292050+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-07-18T06:51:52.635676+00:00",
-      "new_articles": 4
-    },
-    {
-      "timestamp": "2026-07-18T11:45:00.545041+00:00",
-      "new_articles": 2
-    },
-    {
-      "timestamp": "2026-07-18T23:56:45.598774+00:00",
-      "new_articles": 2
-    },
-    {
-      "timestamp": "2026-07-19T07:21:14.508056+00:00",
-      "new_articles": 1
-    },
     {
       "timestamp": "2026-07-19T11:48:38.233511+00:00",
       "new_articles": 1
@@ -7429,6 +7413,10 @@
     {
       "timestamp": "2026-08-07T23:36:36.931379+00:00",
       "new_articles": 0
+    },
+    {
+      "timestamp": "2026-08-08T05:34:17.292050+00:00",
+      "new_articles": 3
     }
   ]
 }
