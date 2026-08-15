@@ -1,6 +1,97 @@
 {
   "articles": [
     {
+      "title_original": "คุมเข้มแก้น้ำมะพร้าวปลอมปน กรมพัฒน์ ย้ำใช้กฎหมายจัดการเด็ดขาด - Thai PBS",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmSl9CT0FKMVlwYVpEU2RFaVdPUm4zMzBaWUVRZGpMcDNUSFNMVmh0T01aLXM1TW05ZEFuYjBnM2lNcUZROGtIamhqaUZRTG1SQmFvQ0k5UHE?oc=5",
+      "pub_date": "Sat, 15 Aug 2026 05:33:50 GMT",
+      "source": "Thai PBS",
+      "description_original": "คุมเข้มแก้น้ำมะพร้าวปลอมปน กรมพัฒน์ ย้ำใช้กฎหมายจัดการเด็ดขาด&nbsp;&nbsp;Thai PBS",
+      "is_priority_outlet": true,
+      "id": "2161953afa56",
+      "title_en": "คุมเข้มแก้น้ำมะพร้าวปลอมปน กรมพัฒน์ ย้ำใช้กฎหมายจัดการเด็ดขาด - Thai PBS",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [
+        {
+          "key": "poonpong",
+          "name_en": "Poonpong Naiyanapakorn",
+          "role": "Director General, Department of Business Development",
+          "priority": "high"
+        }
+      ],
+      "first_seen": "2026-08-15T11:11:14.488581+00:00"
+    },
+    {
+      "title_original": "พาณิชย์ ลุยปราบปรามการปลอมปนน้ำมะพร้าว ลงพื้น สามพราน รับฟังปัญหาผู้ประกอบการ - เดลินิวส์",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BeV9BZnBWNUZxTjNGMm1ydlV2SzlHTllyRTkwcnhjY2tVbzhUaEhHZWxpVEZYZ1BmNC1zSENwMlpKOEVmN0RpcUptWmcySGZnY1Fz?oc=5",
+      "pub_date": "Sat, 15 Aug 2026 06:08:00 GMT",
+      "source": "เดลินิวส์",
+      "description_original": "พาณิชย์ ลุยปราบปรามการปลอมปนน้ำมะพร้าว ลงพื้น สามพราน รับฟังปัญหาผู้ประกอบการ&nbsp;&nbsp;เดลินิวส์",
+      "is_priority_outlet": false,
+      "id": "c38395282868",
+      "title_en": "พาณิชย์ ลุยปราบปรามการปลอมปนน้ำมะพร้าว ลงพื้น สามพราน รับฟังปัญหาผู้ประกอบการ - เดลินิวส์",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-08-15T11:11:14.488581+00:00"
+    },
+    {
+      "title_original": "“พาณิชย์” ลุยปราบนอมินีห้วยขวาง แฉเครือข่ายจัดตั้งบริษัท-หาคนไทยถือหุ้น - Thai PBS",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xQUpMdVFja3B4TGlKRXlHSVd4UEFtMnZYTlJIb18ybmN1cHNCVTJuMFRyOVRWN25ieE5ZdWVtLWtlMnhkWUxjaUJPU3B5X2VCMjhEdDQwTWQ?oc=5",
+      "pub_date": "Mon, 10 Aug 2026 04:30:52 GMT",
+      "source": "Thai PBS",
+      "description_original": "“พาณิชย์” ลุยปราบนอมินีห้วยขวาง แฉเครือข่ายจัดตั้งบริษัท-หาคนไทยถือหุ้น&nbsp;&nbsp;Thai PBS",
+      "is_priority_outlet": true,
+      "id": "a6b0a909acbc",
+      "title_en": "“พาณิชย์” ลุยปราบนอมินีห้วยขวาง แฉเครือข่ายจัดตั้งบริษัท-หาคนไทยถือหุ้น - Thai PBS",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-08-15T11:11:14.488581+00:00"
+    },
+    {
+      "title_original": "ลุยเกาะพะงัน ปราบนอมินีโรงแรม-วิลลา พบคนไทยเอื้อทุนต่างชาติเลี่ยงกฎหมาย - Thai PBS",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11cHEtR0Y0dGtza3F2YWRmOTJLZGJJUXNubjFLRWtFWHYwZmxYaHczVXd2NmRkWHJiZnVzNmh5cF9wNW04UmdsNnBnTWYtdGRnWmR2YUM0ek8?oc=5",
+      "pub_date": "Sat, 15 Aug 2026 05:52:11 GMT",
+      "source": "Thai PBS",
+      "description_original": "ลุยเกาะพะงัน ปราบนอมินีโรงแรม-วิลลา พบคนไทยเอื้อทุนต่างชาติเลี่ยงกฎหมาย&nbsp;&nbsp;Thai PBS",
+      "is_priority_outlet": true,
+      "id": "2d0d25c473af",
+      "title_en": "ลุยเกาะพะงัน ปราบนอมินีโรงแรม-วิลลา พบคนไทยเอื้อทุนต่างชาติเลี่ยงกฎหมาย - Thai PBS",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-08-15T11:11:14.488581+00:00"
+    },
+    {
+      "title_original": "\"พลพีร์-บิ๊กราญ\" แถลงทลายนอมินีต่างชาติสมุย เฟส 7 พบผิดกฎหมาย 138 บริษัท - Thai PBS",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1ZmwxUVhIT0lCQ3ZfcFVDS1E1SVFvSWZLd3ZrTkx4WnJCUEFlY3BPXzVINllkOENrbWs0R0xsS0xsUkdwdkVsd0hicnFMLVExMmwyZHNLSWE?oc=5",
+      "pub_date": "Sat, 15 Aug 2026 05:20:12 GMT",
+      "source": "Thai PBS",
+      "description_original": "\"พลพีร์-บิ๊กราญ\" แถลงทลายนอมินีต่างชาติสมุย เฟส 7 พบผิดกฎหมาย 138 บริษัท&nbsp;&nbsp;Thai PBS",
+      "is_priority_outlet": true,
+      "id": "b9d648002aaf",
+      "title_en": "\"พลพีร์-บิ๊กราญ\" แถลงทลายนอมินีต่างชาติสมุย เฟส 7 พบผิดกฎหมาย 138 บริษัท - Thai PBS",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-08-15T11:11:14.488581+00:00"
+    },
+    {
+      "title_original": "เปิดเกมสกัด “น้ำมะพร้าวปลอม” เช็กสมดุลผลผลิต 4 จังหวัด หวังดันราคาหน้าสวน - ประชาชาติธุรกิจ",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03c3ZUSFAtcTZmdi1Damx1VU1jRktLM1F0Y3M0NEJIM3JsT3A4am9UUExXMG8zdDFuY01aSVhaRW1lOE1VNW5zOG9KX1ZFdUxpd010T2gzUHlvdDgz?oc=5",
+      "pub_date": "Sat, 15 Aug 2026 04:18:21 GMT",
+      "source": "ประชาชาติธุรกิจ",
+      "description_original": "เปิดเกมสกัด “น้ำมะพร้าวปลอม” เช็กสมดุลผลผลิต 4 จังหวัด หวังดันราคาหน้าสวน&nbsp;&nbsp;ประชาชาติธุรกิจ",
+      "is_priority_outlet": false,
+      "id": "61761ee20c91",
+      "title_en": "เปิดเกมสกัด “น้ำมะพร้าวปลอม” เช็กสมดุลผลผลิต 4 จังหวัด หวังดันราคาหน้าสวน - ประชาชาติธุรกิจ",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-08-15T11:11:14.488581+00:00"
+    },
+    {
       "title_original": "เกษตรฯ รุกตลาด 'ผลไม้ไทย ' ตรงจากสวนกวาดรายได้ 8.6 แสนบาท - bangkokbiznews",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1nZ3pZVktuRWNtbXltUkthVWZEVUg4aU5mOC0tZmI4VkxPS3FNRGFxVGZ2OFk0RlJjVmtITFctUG1WTHNoMFhMUVZhRERZM2x1Y3YtV1VsUVNReXds?oc=5",
       "pub_date": "Fri, 14 Aug 2026 22:21:00 GMT",
@@ -7069,112 +7160,10 @@
         }
       ],
       "first_seen": "2026-06-17T14:23:23.083545+00:00"
-    },
-    {
-      "title_original": "\"ออมฟอร์ด\" ซิ่งซาเล้ง! หาชะคราม ทำแกงคั่ว | วัยรุ่นเรียนไทย | คุณพระช่วย | ๑๔ มิถุนายน ๒๕๖๙ - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LbHJUZEVrQXNSaE91VDZKRGZNVnpfbDA1U2JPX281YmxZUXFVejd0cEV3eVRHMEh4VEJqUEt1RDF1YmNURHNmR2h2ZkhycklLa01vY293?oc=5",
-      "pub_date": "Sun, 14 Jun 2026 03:30:26 GMT",
-      "source": "YouTube",
-      "description_original": "\"ออมฟอร์ด\" ซิ่งซาเล้ง! หาชะคราม ทำแกงคั่ว | วัยรุ่นเรียนไทย | คุณพระช่วย | ๑๔ มิถุนายน ๒๕๖๙&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "bfde0faf4b96",
-      "title_en": "\"ออมฟอร์ด\" ซิ่งซาเล้ง! หาชะคราม ทำแกงคั่ว | วัยรุ่นเรียนไทย | คุณพระช่วย | ๑๔ มิถุนายน ๒๕๖๙ - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-06-17T14:23:23.083545+00:00"
-    },
-    {
-      "title_original": "ด่วน! นํ้ามะพร้าวไทยยอดตก!? (รีวิวงบ COCOCO ล่าสุด!) | มีเป็นล้านเลยหรอพี่! Right Now - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEdGhiMVl4dGlhVW13XzZVdzJ6OHUyZTMtd2x6c2tKZnhHSlRYSC1YR2NVSW5JVkRGQ3FqUWFMa0lJSzcxdFZjR2hRY1o3Q2FfcjZlM2F3?oc=5",
-      "pub_date": "Wed, 17 Jun 2026 12:07:06 GMT",
-      "source": "YouTube",
-      "description_original": "ด่วน! นํ้ามะพร้าวไทยยอดตก!? (รีวิวงบ COCOCO ล่าสุด!) | มีเป็นล้านเลยหรอพี่! Right Now&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "c5ee220e291d",
-      "title_en": "ด่วน! นํ้ามะพร้าวไทยยอดตก!? (รีวิวงบ COCOCO ล่าสุด!) | มีเป็นล้านเลยหรอพี่! Right Now - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-06-17T14:23:23.083545+00:00"
-    },
-    {
-      "title_original": "“ชัชวาลล์ - อรรถวิชช์” นำชาวสวนมะพร้าวน้ำหอมราชบุรี-สมุทรสาคร ยื่น 7 ข้อเสนอถึงรัฐบาล เร่งแก้วิกฤตราคาตกต่ำ - คุมทุนต่างชาติ - banmuang.co.th",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIWEdrQ1dLdVo5bGdNSktwMzVjVjZERVBDTlRDRDVTczR1d2Y4Sm1iYXZTcHZncm1BTDdOdlFjeFNBZktuelBybjUtcERybmU5bGFHZWpCZ25tUQ?oc=5",
-      "pub_date": "Wed, 17 Jun 2026 05:55:00 GMT",
-      "source": "banmuang.co.th",
-      "description_original": "“ชัชวาลล์ - อรรถวิชช์” นำชาวสวนมะพร้าวน้ำหอมราชบุรี-สมุทรสาคร ยื่น 7 ข้อเสนอถึงรัฐบาล เร่งแก้วิกฤตราคาตกต่ำ - คุมทุนต่างชาติ&nbsp;&nbsp;banmuang.co.th",
-      "is_priority_outlet": true,
-      "id": "8a8738b9e302",
-      "title_en": "“ชัชวาลล์ - อรรถวิชช์” นำชาวสวนมะพร้าวน้ำหอมราชบุรี-สมุทรสาคร ยื่น 7 ข้อเสนอถึงรัฐบาล เร่งแก้วิกฤตราคาตกต่ำ - คุมทุนต่างชาติ - banmuang.co.th",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [
-        {
-          "key": "chawarn",
-          "name_en": "Chawarn Khongsub",
-          "role": "Director of Agriculture, HHT",
-          "priority": "medium"
-        }
-      ],
-      "first_seen": "2026-06-17T14:23:23.083545+00:00"
-    },
-    {
-      "title_original": "ราคามะพร้าวดิ่งเหลือลูกละ 3 บาท เกษตรกรไทยอ่วมพิษทุนจีนครองตลาด - thestandard.co",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBaaEFscGpLVlhqY29IWnY4NEcyTHdZUmlqMjQ0aEY1RUVXanJKZnJhNjZPYm0wZmJxN090SDNHbGtJMV9Qa1pBNUxxRUpxZzJhaDl3aXBUaEpLYmd6NlBHWUNURmRaY0gyVnRxTWxB?oc=5",
-      "pub_date": "Wed, 17 Jun 2026 09:12:20 GMT",
-      "source": "thestandard.co",
-      "description_original": "ราคามะพร้าวดิ่งเหลือลูกละ 3 บาท เกษตรกรไทยอ่วมพิษทุนจีนครองตลาด&nbsp;&nbsp;thestandard.co",
-      "is_priority_outlet": false,
-      "id": "1ecbd5c2221b",
-      "title_en": "ราคามะพร้าวดิ่งเหลือลูกละ 3 บาท เกษตรกรไทยอ่วมพิษทุนจีนครองตลาด - thestandard.co",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-06-17T09:25:09.520171+00:00"
-    },
-    {
-      "title_original": "พาณิชย์ ดึงโรงงานรับซื้อ 8.8 ล้านลูก บี้ชะลอนำเข้า เร่งช่วยชาวสวนมะพร้าวแกง - เดลินิวส์",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IcklYemZaaUV6M1p5SGx3aFY0SmFhTktqNTJldWh1MGV6SklkejhkT2VGYkdxYnh3SjdKNzBacjMtUWdCVHd4WjZnZWpTZlA5dUlF?oc=5",
-      "pub_date": "Wed, 17 Jun 2026 05:05:00 GMT",
-      "source": "เดลินิวส์",
-      "description_original": "พาณิชย์ ดึงโรงงานรับซื้อ 8.8 ล้านลูก บี้ชะลอนำเข้า เร่งช่วยชาวสวนมะพร้าวแกง&nbsp;&nbsp;เดลินิวส์",
-      "is_priority_outlet": false,
-      "id": "fb59f3903b1e",
-      "title_en": "พาณิชย์ ดึงโรงงานรับซื้อ 8.8 ล้านลูก บี้ชะลอนำเข้า เร่งช่วยชาวสวนมะพร้าวแกง - เดลินิวส์",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-06-17T09:25:09.520171+00:00"
-    },
-    {
-      "title_original": "โลกธุรกิจ - กรมพัฒน์ ผนึก สสว. จัดงาน ‘Food Truck Carnival 2026’ - แนวหน้า",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9FbFUyZmtYTFN1VENVN3dOYV9MdWFrVEFYbk9YZnJnQXZrZmhNQVhlRlgtelYwWjJIT2J4NFBMVklFV1dQVXdsYW9LaTZoMUE?oc=5",
-      "pub_date": "Wed, 17 Jun 2026 02:46:00 GMT",
-      "source": "แนวหน้า",
-      "description_original": "โลกธุรกิจ - กรมพัฒน์ ผนึก สสว. จัดงาน ‘Food Truck Carnival 2026’&nbsp;&nbsp;แนวหน้า",
-      "is_priority_outlet": false,
-      "id": "83179125238c",
-      "title_en": "โลกธุรกิจ - กรมพัฒน์ ผนึก สสว. จัดงาน ‘Food Truck Carnival 2026’ - แนวหน้า",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [
-        {
-          "key": "poonpong",
-          "name_en": "Poonpong Naiyanapakorn",
-          "role": "Director General, Department of Business Development",
-          "priority": "high"
-        }
-      ],
-      "first_seen": "2026-06-17T09:25:09.520171+00:00"
     }
   ],
-  "last_updated": "2026-08-15T05:14:37.455919+00:00",
+  "last_updated": "2026-08-15T11:11:14.488581+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-07-26T11:56:36.135495+00:00",
-      "new_articles": 0
-    },
     {
       "timestamp": "2026-07-27T00:02:19.990862+00:00",
       "new_articles": 1
@@ -7410,6 +7399,10 @@
     {
       "timestamp": "2026-08-15T05:14:37.455919+00:00",
       "new_articles": 2
+    },
+    {
+      "timestamp": "2026-08-15T11:11:14.488581+00:00",
+      "new_articles": 6
     }
   ]
 }
