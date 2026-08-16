@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "“ศุภจี” ตั้งแผนรับมือมะพร้าวน้ำหอมล้นตลาด ดันล้ง 12 แห่ง เชื่อมตลาดไทย-ส่งออก - posttoday",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KeFluLWVHbnlEMDEtQmNMV2VSS0phQjYtZ1c4aGlVVUJESW55LUljelhRcGlmbXpyMzlDbFB2Z0JPTFFwbnExcEE4Q19KclRMWUVlaw?oc=5",
+      "pub_date": "Sun, 16 Aug 2026 09:56:00 GMT",
+      "source": "posttoday",
+      "description_original": "“ศุภจี” ตั้งแผนรับมือมะพร้าวน้ำหอมล้นตลาด ดันล้ง 12 แห่ง เชื่อมตลาดไทย-ส่งออก&nbsp;&nbsp;posttoday",
+      "is_priority_outlet": false,
+      "id": "d6e0cc35869f",
+      "title_en": "“ศุภจี” ตั้งแผนรับมือมะพร้าวน้ำหอมล้นตลาด ดันล้ง 12 แห่ง เชื่อมตลาดไทย-ส่งออก - posttoday",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-08-16T11:11:28.146686+00:00"
+    },
+    {
       "title_original": "“ศุภจี” เร่งตั้งล้งมะพร้าว 12 แห่ง รับผลผลิตพุ่ง 13% สกัดราคาดิ่ง | ข่าวหุ้นธุรกิจ - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFUk1JNG5iVmQzb3BBa2xKSUJYd0FSenN5MDI2SXZFUE9SdkFjY0t5cWp6WU5EbmhpeFRoV0VZVVBrcGhBQnNpTEhJZUhmRThSN2gtZmVR?oc=5",
       "pub_date": "Sun, 16 Aug 2026 04:14:49 GMT",
@@ -7132,28 +7146,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-06-18T00:17:52.738764+00:00"
-    },
-    {
-      "title_original": "กรมทรัพย์สินทางปัญญา ขยายความร่วมมือสำนักงาน IP เซี่ยงไฮ้พร้อมดึงต้นแบบธุรกิจสร้างสรรค์ MINISO ต่อยอดศักยภาพครีเอเตอร์ไทยสู่ตลาดสากล ผลักดันสินค้า GI ไทยสู่ห้างชั้นนำจีน - bangkokbiznews",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NZTFTTV9OTlRXY0txckFuS1VsUkFHVW9raGV5RHFzNnhFZlpaZmtudFQ3TUlOZjN3UjBIRk5YWEVLckNyTXUyM2VGMTlPaEpBb2d6bk9ucGdzcFVZ?oc=5",
-      "pub_date": "Thu, 11 Jun 2026 02:21:00 GMT",
-      "source": "bangkokbiznews",
-      "description_original": "กรมทรัพย์สินทางปัญญา ขยายความร่วมมือสำนักงาน IP เซี่ยงไฮ้พร้อมดึงต้นแบบธุรกิจสร้างสรรค์ MINISO ต่อยอดศักยภาพครีเอเตอร์ไทยสู่ตลาดสากล ผลักดันสินค้า GI ไทยสู่ห้างชั้นนำจีน&nbsp;&nbsp;bangkokbiznews",
-      "is_priority_outlet": false,
-      "id": "b9779184fc38",
-      "title_en": "กรมทรัพย์สินทางปัญญา ขยายความร่วมมือสำนักงาน IP เซี่ยงไฮ้พร้อมดึงต้นแบบธุรกิจสร้างสรรค์ MINISO ต่อยอดศักยภาพครีเอเตอร์ไทยสู่ตลาดสากล ผลักดันสินค้า GI ไทยสู่ห้างชั้นนำจีน - bangkokbiznews",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-06-18T00:17:52.738764+00:00"
     }
   ],
-  "last_updated": "2026-08-16T05:17:12.450600+00:00",
+  "last_updated": "2026-08-16T11:11:28.146686+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-07-27T13:33:48.681268+00:00",
-      "new_articles": 0
-    },
     {
       "timestamp": "2026-07-28T00:04:15.788900+00:00",
       "new_articles": 2
@@ -7389,6 +7385,10 @@
     {
       "timestamp": "2026-08-16T05:17:12.450600+00:00",
       "new_articles": 3
+    },
+    {
+      "timestamp": "2026-08-16T11:11:28.146686+00:00",
+      "new_articles": 1
     }
   ]
 }
