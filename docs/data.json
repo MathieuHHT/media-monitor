@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "[422 Studio ]มะพร้าวน้ำหอม GI ฉะเชิงเทรา - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NVmtoWS1teVFKdGI3VUE5VTZNc2swYm4xQVBreEhwVDFXN1NiUFk5aEsta3puNkl2aTN0cjljQlVPdl9HNk85S054TDFadU5FWHZWYXFn?oc=5",
+      "pub_date": "Thu, 20 Aug 2026 09:10:35 GMT",
+      "source": "YouTube",
+      "description_original": "[422 Studio ]มะพร้าวน้ำหอม GI ฉะเชิงเทรา&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "b127cbb2af66",
+      "title_en": "[422 Studio ]มะพร้าวน้ำหอม GI ฉะเชิงเทรา - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-08-20T23:27:48.921118+00:00"
+    },
+    {
       "title_original": "“ศุภจี” นำพาณิชย์ลุยบ้านแพ้ว สมุทรสาคร เร่งตั้งล้งชุมชนมะพร้าวน้ำหอมเพิ่ม 12 แห่ง - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wbWFCb1h3NUZDREpWTEJ1WXdNbWZnX2lOd3hjNGUyWlBHMVFKdW9CdENDX3dYUEtSWmk0UFBXclU3WWtrU0tzRHlLUWVqLUZUZ2NMY1Bn?oc=5",
       "pub_date": "Thu, 20 Aug 2026 08:00:22 GMT",
@@ -7139,28 +7153,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-06-19T01:45:33.518409+00:00"
-    },
-    {
-      "title_original": "กินมะพร้าวน้ำหอม - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5salZnZGt5XzRSZ2gxR3g2QnFlVXo2SDRYSmxTMjN1U28yNHVlU2RUV3E4bG1IQjNUcXVGLXJwRzdEZ1JLWjRYX1BmdGNIZmJPT01lN1Vn?oc=5",
-      "pub_date": "Thu, 18 Jun 2026 10:27:15 GMT",
-      "source": "YouTube",
-      "description_original": "กินมะพร้าวน้ำหอม&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "ec89f5e8a95a",
-      "title_en": "กินมะพร้าวน้ำหอม - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-06-19T01:45:33.518409+00:00"
     }
   ],
-  "last_updated": "2026-08-20T11:18:05.569559+00:00",
+  "last_updated": "2026-08-20T23:27:48.921118+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-08-01T00:03:33.086978+00:00",
-      "new_articles": 3
-    },
     {
       "timestamp": "2026-08-01T07:22:22.398082+00:00",
       "new_articles": 2
@@ -7395,6 +7391,10 @@
     },
     {
       "timestamp": "2026-08-20T11:18:05.569559+00:00",
+      "new_articles": 1
+    },
+    {
+      "timestamp": "2026-08-20T23:27:48.921118+00:00",
       "new_articles": 1
     }
   ]
