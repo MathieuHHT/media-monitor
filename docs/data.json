@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "“ศุภจี” นำพาณิชย์ลุยบ้านแพ้ว สมุทรสาคร เร่งตั้งล้งชุมชนมะพร้าวน้ำหอมเพิ่ม 12 แห่ง - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wbWFCb1h3NUZDREpWTEJ1WXdNbWZnX2lOd3hjNGUyWlBHMVFKdW9CdENDX3dYUEtSWmk0UFBXclU3WWtrU0tzRHlLUWVqLUZUZ2NMY1Bn?oc=5",
+      "pub_date": "Thu, 20 Aug 2026 08:00:22 GMT",
+      "source": "YouTube",
+      "description_original": "“ศุภจี” นำพาณิชย์ลุยบ้านแพ้ว สมุทรสาคร เร่งตั้งล้งชุมชนมะพร้าวน้ำหอมเพิ่ม 12 แห่ง&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "8ceb654b27d6",
+      "title_en": "“ศุภจี” นำพาณิชย์ลุยบ้านแพ้ว สมุทรสาคร เร่งตั้งล้งชุมชนมะพร้าวน้ำหอมเพิ่ม 12 แห่ง - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-08-20T11:18:05.569559+00:00"
+    },
+    {
       "title_original": "สนธิกำลังบุกทลายนอมินีต่างชาติ เปิด 60 บริษัทผิดกฎหมาย “เนอสเซอรี่ - พูลวิลล่าหรู - ธุรกิจวีซ่า” โยงที่ดินพันล้าน หมายจับต่างชาติ 62 ราย | สวพ.FM91 - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xWTMyRU4tMjNJb216cTJ3OFZucDdTdGktY1l2WjQ0cHZRUmdTenROYUFsYlNJalRFbkRHTHVsUzJ2N3BhY3BPYWhLbURET0djYkhYSnZR?oc=5",
       "pub_date": "Sat, 15 Aug 2026 04:29:34 GMT",
@@ -7139,32 +7153,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-06-19T01:45:33.518409+00:00"
-    },
-    {
-      "title_original": "พาณิชย์ผนึกกำลังรัฐ-เอกชน เดินหน้าป้องกันและปราบปรามการปลอมปนน้ำมะพร้าว เร่งตรวจนอมินี 15 ราย สร้างมาตรฐาน-ฟื้นความเชื่อมั่นมะพร้าวน้ำหอมไทย - banmuang.co.th",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxb0NmdERGM09OM0RDZzl4TnBwYWxLNWd6Y1NpM1FlZGdQRGRNV01DSWxudnNjSnlqN3hmU3BiRkZZc0tJN0tybTBlSVRlOG1vSVR6eDBNVlVTZw?oc=5",
-      "pub_date": "Thu, 18 Jun 2026 13:52:00 GMT",
-      "source": "banmuang.co.th",
-      "description_original": "พาณิชย์ผนึกกำลังรัฐ-เอกชน เดินหน้าป้องกันและปราบปรามการปลอมปนน้ำมะพร้าว เร่งตรวจนอมินี 15 ราย สร้างมาตรฐาน-ฟื้นความเชื่อมั่นมะพร้าวน้ำหอมไทย&nbsp;&nbsp;banmuang.co.th",
-      "is_priority_outlet": true,
-      "id": "3b8b553edb81",
-      "title_en": "พาณิชย์ผนึกกำลังรัฐ-เอกชน เดินหน้าป้องกันและปราบปรามการปลอมปนน้ำมะพร้าว เร่งตรวจนอมินี 15 ราย สร้างมาตรฐาน-ฟื้นความเชื่อมั่นมะพร้าวน้ำหอมไทย - banmuang.co.th",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-06-19T01:45:33.518409+00:00"
     }
   ],
-  "last_updated": "2026-08-20T05:20:30.937660+00:00",
+  "last_updated": "2026-08-20T11:18:05.569559+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-07-31T07:43:49.450906+00:00",
-      "new_articles": 2
-    },
-    {
-      "timestamp": "2026-07-31T12:50:22.712181+00:00",
-      "new_articles": 1
-    },
     {
       "timestamp": "2026-08-01T00:03:33.086978+00:00",
       "new_articles": 3
@@ -7400,6 +7392,10 @@
     {
       "timestamp": "2026-08-20T05:20:30.937675+00:00",
       "new_articles": 0
+    },
+    {
+      "timestamp": "2026-08-20T11:18:05.569559+00:00",
+      "new_articles": 1
     }
   ]
 }
