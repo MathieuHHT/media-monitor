@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "มาลุ้นกันมะพร้าวน้ำหอมของน้าแตปลูกจะอร่อย - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RdWhyc0JXRnNnVHBDeUliNl9vNm4xQ2h2N1pkRkJTQ0xLclNQeHpkRUVpWHFFM0pfeXZ1RWllanVtQ3RKdnRKMnppY1VPUVVfT3ZNY0JR?oc=5",
+      "pub_date": "Sat, 22 Aug 2026 04:01:39 GMT",
+      "source": "YouTube",
+      "description_original": "มาลุ้นกันมะพร้าวน้ำหอมของน้าแตปลูกจะอร่อย&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "1bf8183b2823",
+      "title_en": "มาลุ้นกันมะพร้าวน้ำหอมของน้าแตปลูกจะอร่อย - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-08-22T05:16:30.299942+00:00"
+    },
+    {
       "title_original": "‘ศุภจี’ ลุยบ้านแพ้ว เร่งตั้งล้งชุมชนมะพร้าวน้ำหอมเพิ่ม 12 แห่ง | The Bangkok Insight - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhdm9hQ3FrM0VpaWk1SDFCbE5yQ0FmQnA5aVRWOEJaZjRSNEVBUEcySmxJeUtaNkdRbFA3NFRFT1pCWEFvMGVfejBNdGFRbnd1TTFiNDBR?oc=5",
       "pub_date": "Sun, 16 Aug 2026 08:44:52 GMT",
@@ -7139,28 +7153,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-06-19T01:45:33.518409+00:00"
-    },
-    {
-      "title_original": "ปักหมุดรอเช็กอิน! DBD ชวนสัมผัสนิทรรศการ ‘SUNS Day Trip’ เปิดมุมมองใหม่ 16 แบรนด์ชุมชนจาก 4 จังหวัด สู่ผลิตภัณฑ์ร่วมสมัย 26 - 27 มิ.ย. นี้ ณ เซ็นทรัล ดุสิต - banmuang.co.th",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sbWRTUWRqSVRKUkdqTUVydkdFSVV2S2xwV2R5MFJiU1huMFcwVkNpNTNqeUYtMGZTY0xiQnpaZU50T0dydHljT0xDb19tQkUwNjlrVHhzQTRZZw?oc=5",
-      "pub_date": "Tue, 16 Jun 2026 02:46:00 GMT",
-      "source": "banmuang.co.th",
-      "description_original": "ปักหมุดรอเช็กอิน! DBD ชวนสัมผัสนิทรรศการ ‘SUNS Day Trip’ เปิดมุมมองใหม่ 16 แบรนด์ชุมชนจาก 4 จังหวัด สู่ผลิตภัณฑ์ร่วมสมัย 26 - 27 มิ.ย. นี้ ณ เซ็นทรัล ดุสิต&nbsp;&nbsp;banmuang.co.th",
-      "is_priority_outlet": true,
-      "id": "1efa2ed73e17",
-      "title_en": "ปักหมุดรอเช็กอิน! DBD ชวนสัมผัสนิทรรศการ ‘SUNS Day Trip’ เปิดมุมมองใหม่ 16 แบรนด์ชุมชนจาก 4 จังหวัด สู่ผลิตภัณฑ์ร่วมสมัย 26 - 27 มิ.ย. นี้ ณ เซ็นทรัล ดุสิต - banmuang.co.th",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-06-19T01:45:33.518409+00:00"
     }
   ],
-  "last_updated": "2026-08-21T23:26:49.047954+00:00",
+  "last_updated": "2026-08-22T05:16:30.299942+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-08-02T07:26:06.442883+00:00",
-      "new_articles": 2
-    },
     {
       "timestamp": "2026-08-02T11:54:29.393492+00:00",
       "new_articles": 1
@@ -7396,6 +7392,10 @@
     {
       "timestamp": "2026-08-21T23:26:49.047954+00:00",
       "new_articles": 2
+    },
+    {
+      "timestamp": "2026-08-22T05:16:30.299942+00:00",
+      "new_articles": 1
     }
   ]
 }
