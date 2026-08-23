@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "“ศุภจี” บุกศรีสะเกษ ปั้นโคเนื้อพรีเมียม 2.9 พันล้าน ลุยเจาะตลาดจีน-เวียดนาม - thansettakij",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90TkJJQjZCUUNIQ1FQRUFpdDZONnk0NU5Ic1loSWlaWkxsdGU3LXNzOENKT3gwczgxNlkzZTRLZkR4Z1NST0ExMWx6Z1VOMVZVX3dObG9n?oc=5",
+      "pub_date": "Sun, 23 Aug 2026 08:32:00 GMT",
+      "source": "thansettakij",
+      "description_original": "“ศุภจี” บุกศรีสะเกษ ปั้นโคเนื้อพรีเมียม 2.9 พันล้าน ลุยเจาะตลาดจีน-เวียดนาม&nbsp;&nbsp;thansettakij",
+      "is_priority_outlet": true,
+      "id": "a4c369899055",
+      "title_en": "“ศุภจี” บุกศรีสะเกษ ปั้นโคเนื้อพรีเมียม 2.9 พันล้าน ลุยเจาะตลาดจีน-เวียดนาม - thansettakij",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-08-23T11:12:25.794065+00:00"
+    },
+    {
       "title_original": "กรมทรัพย์สินทางปัญญา จับมือ สยาม ทาคาชิมายะ เปิดตลาด “GI MARKET” คัดสุดยอด GI 15 จังหวัด ปักหมุดตลาดพรีเมียมใจกลางกรุง ชวนมาช็อปของดีจากแหล่งผลิตทั่วไทย 17–23 ส.ค. นี้ - thailandplus",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VV0dabEpyVHF5N0hCbFRpVjUxVTVMY3ZnYjZqeTF0R2JEdUctN0VCdC1laklxdi0xOFJmck5tU01HQm91X1dlNWlPam43WG45OVc0LXFPRQ?oc=5",
       "pub_date": "Tue, 18 Aug 2026 09:55:11 GMT",
@@ -7139,28 +7153,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-06-19T09:23:49.427693+00:00"
-    },
-    {
-      "title_original": "“ศุภจี” ลุยปราบปราม น้ำมะพร้าวปลอมปน | เนชั่นทั่วไทย |19 มิ.ย.69 | NationTV22 - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uajFxSG1HaHdYMDdYNm9LVjRVd3VwbGFJRW9iUjg0bmJKaUE0SXNqQklWYnFlT0xueEliZjVFWS1jSkUweVBXZ25vTHZuVDdNaVNfbnlR?oc=5",
-      "pub_date": "Fri, 19 Jun 2026 03:59:57 GMT",
-      "source": "YouTube",
-      "description_original": "“ศุภจี” ลุยปราบปราม น้ำมะพร้าวปลอมปน | เนชั่นทั่วไทย |19 มิ.ย.69 | NationTV22&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "e05e23302197",
-      "title_en": "“ศุภจี” ลุยปราบปราม น้ำมะพร้าวปลอมปน | เนชั่นทั่วไทย |19 มิ.ย.69 | NationTV22 - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-06-19T09:23:49.427693+00:00"
     }
   ],
-  "last_updated": "2026-08-23T05:18:45.511637+00:00",
+  "last_updated": "2026-08-23T11:12:25.794065+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-08-03T13:32:36.383722+00:00",
-      "new_articles": 0
-    },
     {
       "timestamp": "2026-08-04T00:11:05.372218+00:00",
       "new_articles": 3
@@ -7396,6 +7392,10 @@
     {
       "timestamp": "2026-08-23T05:18:45.511637+00:00",
       "new_articles": 2
+    },
+    {
+      "timestamp": "2026-08-23T11:12:25.794065+00:00",
+      "new_articles": 1
     }
   ]
 }
