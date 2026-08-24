@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "#ขนมเข่งมันม่วงมะพร้าวอ่อน - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43V01lamh3Z1FabUJVRGlDcXVjWWM5b0lUNlM2OGZ6UDZHRzNBVGJnQ2xRemdrNkFKT1U4azlwbDdmVUFjbnBTRmRsU0FlYmlYZWNXaDl3?oc=5",
+      "pub_date": "Fri, 21 Aug 2026 08:39:26 GMT",
+      "source": "YouTube",
+      "description_original": "#ขนมเข่งมันม่วงมะพร้าวอ่อน&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "5dd09aeeb744",
+      "title_en": "#ขนมเข่งมันม่วงมะพร้าวอ่อน - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-08-24T05:28:25.598395+00:00"
+    },
+    {
       "title_original": "พาณิชย์ตรวจเข้ม ‘น้ำมะพร้าวปลอมปน’ ลุยสแกน 4 จังหวัดแหล่งผลิต แบรนด์ ‘อีฟ’ ชี้ปีนี้อุตสาหกรรมเจอ 2 เด้ง ผลผลิตล้น-พิษสงครามกดตลาด - thestandard.co",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BTGxzZzNyXzlzU25BdS1aYzVheUtnMy12VTlMN3FOS3lHSjRQZFNoVmtZRUMzN1VhZkdOQVF6ZEhUb2hIZHhGbjM2RUNvOGVZUmREeUVJa1lGODJHaGhtcU5FS1J3UEVjN0dPajY2R3FoUQ?oc=5",
       "pub_date": "Sun, 23 Aug 2026 11:16:31 GMT",
@@ -7139,28 +7153,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-06-19T09:23:49.427693+00:00"
-    },
-    {
-      "title_original": "กวาดล้างน้ำมะพร้าวปลอม! \"ศุภจี\" ลุยตรวจ ล้ง-โรงงาน 5 จังหวัด ลงดาบนอมีนีต่างชาติ - TNN",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5KcFN5dXJEb050SkxoVzN4Wk9oZDBzUmd2TWJVN1FPbzNsV01lUnd4Q19jX1kxaWF0c0dnbUhwNmh3dndWMFg2RFd0Y0JTdkYyQWJpR01POEo3czNOTWlJN2JRUQ?oc=5",
-      "pub_date": "Fri, 19 Jun 2026 06:19:15 GMT",
-      "source": "TNN",
-      "description_original": "กวาดล้างน้ำมะพร้าวปลอม! \"ศุภจี\" ลุยตรวจ ล้ง-โรงงาน 5 จังหวัด ลงดาบนอมีนีต่างชาติ&nbsp;&nbsp;TNN",
-      "is_priority_outlet": false,
-      "id": "04ec111b3179",
-      "title_en": "กวาดล้างน้ำมะพร้าวปลอม! \"ศุภจี\" ลุยตรวจ ล้ง-โรงงาน 5 จังหวัด ลงดาบนอมีนีต่างชาติ - TNN",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-06-19T09:23:49.427693+00:00"
     }
   ],
-  "last_updated": "2026-08-23T23:23:52.419583+00:00",
+  "last_updated": "2026-08-24T05:28:25.598395+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-08-04T07:29:36.786799+00:00",
-      "new_articles": 3
-    },
     {
       "timestamp": "2026-08-04T12:53:07.053445+00:00",
       "new_articles": 2
@@ -7396,6 +7392,10 @@
     {
       "timestamp": "2026-08-23T23:23:52.419583+00:00",
       "new_articles": 5
+    },
+    {
+      "timestamp": "2026-08-24T05:28:25.598395+00:00",
+      "new_articles": 1
     }
   ]
 }
