@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "Amazing Thai Coconut Peeling Skills! 🌴🥥 - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yX0ZZeDA5eFNjNExDUHVweXJtQkwzbVlfclk5dzg1LWUxblhyRTRmTkZPem5LU19uUEkxWUhPRWhLLXgxNlp3NUw0eGduQVdrTldiQ1dn?oc=5",
+      "pub_date": "Tue, 18 Aug 2026 15:02:42 GMT",
+      "source": "YouTube",
+      "description_original": "Amazing Thai Coconut Peeling Skills! 🌴🥥&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "ae22033ea795",
+      "title_en": "Amazing Thai Coconut Peeling Skills! 🌴🥥 - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-08-25T05:22:03.679366+00:00"
+    },
+    {
       "title_original": "“ศุภจี” แถลงผลงาน 90 วัน พาณิชย์ “ไทยช่วยไทย” ลดค่าครองชีพ 818 ล้าน สร้างมูลค่าเศรษฐกิจ 2.9 พันล้าน ดันสินค้าเกษตร–เสริมแกร่ง SME–เร่งส่งออก สร้างมูลค่าการค้ากว่า 1.45 แสนล้าน พร้อมลุย 7 ภารกิจต่อ - กรมประชาสัมพันธ์",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xUjk0cFlYcHNWbDFMV2xySEloZWVHVDFVMUhYRzNJX0gzR3F1bkgzTXBnVlpXM2RwQWV4aURlSXJPY1diOVdPX2FfN0JmZVU2ZXR4SU5LS1Z0b0VZNjN2cTU4czkzMk9zdEd5Y3A2ZjNYN1E?oc=5",
       "pub_date": "Mon, 24 Aug 2026 09:50:03 GMT",
@@ -7139,28 +7153,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-06-20T08:16:33.637968+00:00"
-    },
-    {
-      "title_original": "เปิดปฏิบัติการกวาดล้างนอมินีต่างด้าว! ตำรวจสนธิกำลังตรวจค้นภูเก็ต-กระบี่-พังงา - pptvhd36",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZ0N6UHpLcHMyVVN1VV80MWJCTzZmTW5janBQLThKcmtDNFN3RXNaUVRKNTBpRWtLYng3Y2F2VUs2Ny1YeUVjQ0tSOHdpZjVUR3JDXzgzWl9xVE8wWWppZlB0NTFydUdHdURhYm1ZejhWYmF3OHQ0NmM1WXYxS3VfY3VSNGl5U0NsNUE?oc=5",
-      "pub_date": "Sat, 20 Jun 2026 01:07:00 GMT",
-      "source": "pptvhd36",
-      "description_original": "เปิดปฏิบัติการกวาดล้างนอมินีต่างด้าว! ตำรวจสนธิกำลังตรวจค้นภูเก็ต-กระบี่-พังงา&nbsp;&nbsp;pptvhd36",
-      "is_priority_outlet": true,
-      "id": "2944f1b1eeb4",
-      "title_en": "เปิดปฏิบัติการกวาดล้างนอมินีต่างด้าว! ตำรวจสนธิกำลังตรวจค้นภูเก็ต-กระบี่-พังงา - pptvhd36",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-06-20T08:16:33.637968+00:00"
     }
   ],
-  "last_updated": "2026-08-24T23:24:48.245782+00:00",
+  "last_updated": "2026-08-25T05:22:03.679366+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-08-05T07:31:04.723316+00:00",
-      "new_articles": 2
-    },
     {
       "timestamp": "2026-08-05T12:47:40.668204+00:00",
       "new_articles": 0
@@ -7396,6 +7392,10 @@
     {
       "timestamp": "2026-08-24T23:24:48.245782+00:00",
       "new_articles": 5
+    },
+    {
+      "timestamp": "2026-08-25T05:22:03.679366+00:00",
+      "new_articles": 1
     }
   ]
 }
