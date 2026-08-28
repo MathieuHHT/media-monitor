@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "พาณิชย์ดัน “ล้งชุมชนมะพร้าวน้ำหอม” 12 แห่ง ใช้ Harmony Model เชื่อมโยงผลผลิต - ประชาชาติธุรกิจ",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBoSWh2eXJQVTZsajZONEdGME52S1JBaEgxcGIzR1BzZE5pNVBRdDYwZzhaTjN6eDhob1l5czdpMWE0eEdiX2t5Y284UUNqQkI2YXFnRHVFd0x5RkpD?oc=5",
+      "pub_date": "Fri, 28 Aug 2026 03:00:37 GMT",
+      "source": "ประชาชาติธุรกิจ",
+      "description_original": "พาณิชย์ดัน “ล้งชุมชนมะพร้าวน้ำหอม” 12 แห่ง ใช้ Harmony Model เชื่อมโยงผลผลิต&nbsp;&nbsp;ประชาชาติธุรกิจ",
+      "is_priority_outlet": false,
+      "id": "1be5184863bf",
+      "title_en": "พาณิชย์ดัน “ล้งชุมชนมะพร้าวน้ำหอม” 12 แห่ง ใช้ Harmony Model เชื่อมโยงผลผลิต - ประชาชาติธุรกิจ",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-08-28T06:48:57.494101+00:00"
+    },
+    {
       "title_original": "เปิด “ล้งชุมชนมะพร้าวน้ำหอม” คืบหน้า 6 จังหวัดสนใจตั้งรวม 12 แห่ง - ผู้จัดการออนไลน์",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CdzlsR2F2UnFTd25VR0k3M0FvbmhNZHV1eXZISjFmUVk2bHptdko0T241ZWdPa1R6VlNCMFJUSkRhbjhfUHRhSkRxNzB1T1d1YTZWdXVnby1kMG51d3l4LQ?oc=5",
       "pub_date": "Thu, 27 Aug 2026 11:06:00 GMT",
@@ -7132,32 +7146,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-06-22T10:31:18.396784+00:00"
-    },
-    {
-      "title_original": "ถึงคิว..นักบัญชี เอี่ยวนอมินี \"พาณิชย์\" เตรียมเชือดผู้ทำบัญชีสีเทา 140 ราย - bangkokbiznews",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51X3dRdmlDb2NoYzEwc0xIblQzRFlYY1Nsb242T3dOMThldzhWdE96RWUwOURVZ2paQ2VIeWVfSzdRZnE4NU5Ia1YzQmVIbmpTeUNGYmp0UW1uUmVL?oc=5",
-      "pub_date": "Mon, 22 Jun 2026 05:37:00 GMT",
-      "source": "bangkokbiznews",
-      "description_original": "ถึงคิว..นักบัญชี เอี่ยวนอมินี \"พาณิชย์\" เตรียมเชือดผู้ทำบัญชีสีเทา 140 ราย&nbsp;&nbsp;bangkokbiznews",
-      "is_priority_outlet": false,
-      "id": "04b087e906b7",
-      "title_en": "ถึงคิว..นักบัญชี เอี่ยวนอมินี \"พาณิชย์\" เตรียมเชือดผู้ทำบัญชีสีเทา 140 ราย - bangkokbiznews",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-06-22T10:31:18.396784+00:00"
     }
   ],
-  "last_updated": "2026-08-27T20:51:34.649142+00:00",
+  "last_updated": "2026-08-28T06:48:57.494101+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-08-07T11:38:14.153901+00:00",
-      "new_articles": 0
-    },
-    {
-      "timestamp": "2026-08-07T23:36:36.931379+00:00",
-      "new_articles": 0
-    },
     {
       "timestamp": "2026-08-08T05:34:17.292050+00:00",
       "new_articles": 3
@@ -7393,6 +7385,10 @@
     {
       "timestamp": "2026-08-27T20:51:34.649159+00:00",
       "new_articles": 0
+    },
+    {
+      "timestamp": "2026-08-28T06:48:57.494101+00:00",
+      "new_articles": 1
     }
   ]
 }
