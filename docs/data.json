@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "พาณิชย์รุกจัดกิจกรรม GI Journey ยกระดับสินค้าท้องถิ่นสู่วัตถุดิบระดับพรีเมียม - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUeG9xQXIwRUF2dU8wYlgzUzdDVG9aQnVBLUQ4SE4tcHFXM1NNZHlLR2Jadmc3UXZGWWJmbkdrZ1BiYkVjdzE4QldmcGVvYTl4ZWs3dWFR?oc=5",
+      "pub_date": "Wed, 02 Sep 2026 09:04:06 GMT",
+      "source": "LINE TODAY",
+      "description_original": "พาณิชย์รุกจัดกิจกรรม GI Journey ยกระดับสินค้าท้องถิ่นสู่วัตถุดิบระดับพรีเมียม&nbsp;&nbsp;LINE TODAY",
+      "is_priority_outlet": false,
+      "id": "53ac9deeea49",
+      "title_en": "พาณิชย์รุกจัดกิจกรรม GI Journey ยกระดับสินค้าท้องถิ่นสู่วัตถุดิบระดับพรีเมียม - LINE TODAY",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-09-02T14:49:10.916381+00:00"
+    },
+    {
       "title_original": "มะพร้าวน้ำหอมต้นเตี้ย - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RSTVCS2JaMlZram9kM3Q4Vzdnc1h5UWUxeDRiV085cTVScUJ6YjlUUldLdDNicmNxMjk1RWRXbEkxYUo2aVBwaG01WXV0ZzNmTHBQQ0Z3?oc=5",
       "pub_date": "Tue, 01 Sep 2026 03:23:28 GMT",
@@ -7125,28 +7139,10 @@
         }
       ],
       "first_seen": "2026-06-25T00:16:27.416250+00:00"
-    },
-    {
-      "title_original": "“พาณิชย์”ตรวจ 3 แพลตฟอร์มส่งอาหารจีน มีคนไทยเป็นนอมินี หรือขออนุญาตทำธุรกิจหรือไม่ - ผู้จัดการออนไลน์",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42a2VFX1RDWFlPdXhaVkx6ckNCdVc4ZHpqYUNKRXpWNTI2V0FkaTgtc3paOFdZdUJEaHBlTGx6MklERU0waUJkTWZRTFlDa2ctUTBWcFZhMUw2Y21CWGxKRA?oc=5",
-      "pub_date": "Tue, 23 Jun 2026 07:43:00 GMT",
-      "source": "ผู้จัดการออนไลน์",
-      "description_original": "“พาณิชย์”ตรวจ 3 แพลตฟอร์มส่งอาหารจีน มีคนไทยเป็นนอมินี หรือขออนุญาตทำธุรกิจหรือไม่&nbsp;&nbsp;ผู้จัดการออนไลน์",
-      "is_priority_outlet": false,
-      "id": "b3181ad0a06d",
-      "title_en": "“พาณิชย์”ตรวจ 3 แพลตฟอร์มส่งอาหารจีน มีคนไทยเป็นนอมินี หรือขออนุญาตทำธุรกิจหรือไม่ - ผู้จัดการออนไลน์",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-06-25T00:16:27.416250+00:00"
     }
   ],
-  "last_updated": "2026-09-02T09:09:51.547614+00:00",
+  "last_updated": "2026-09-02T14:49:10.916381+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-08-13T11:39:41.822245+00:00",
-      "new_articles": 3
-    },
     {
       "timestamp": "2026-08-13T23:44:44.275043+00:00",
       "new_articles": 3
@@ -7382,6 +7378,10 @@
     {
       "timestamp": "2026-09-02T09:09:51.547614+00:00",
       "new_articles": 2
+    },
+    {
+      "timestamp": "2026-09-02T14:49:10.916381+00:00",
+      "new_articles": 1
     }
   ]
 }
