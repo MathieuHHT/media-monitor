@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "สอนทำ\"เต้าฮวยนมสดมะพร้าวอ่อน\" : เชฟหมอปุ้ม - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCRVdROUlUZ1pQU3FHMzF2aC0xMnQwWi1VOXhBZ05XVlp2Q25XZmJPemdqa1ZhQ3NuYXllNEhlTnRLbGMwS2tUdEtySjlyb0NhRHdWMWN3?oc=5",
+      "pub_date": "Thu, 03 Sep 2026 05:30:37 GMT",
+      "source": "YouTube",
+      "description_original": "สอนทำ\"เต้าฮวยนมสดมะพร้าวอ่อน\" : เชฟหมอปุ้ม&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "0305d93fea2a",
+      "title_en": "สอนทำ\"เต้าฮวยนมสดมะพร้าวอ่อน\" : เชฟหมอปุ้ม - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-09-03T09:16:42.484092+00:00"
+    },
+    {
       "title_original": "พาณิชย์รุกจัดกิจกรรม GI Journey ยกระดับสินค้าท้องถิ่นสู่วัตถุดิบระดับพรีเมียม - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUeG9xQXIwRUF2dU8wYlgzUzdDVG9aQnVBLUQ4SE4tcHFXM1NNZHlLR2Jadmc3UXZGWWJmbkdrZ1BiYkVjdzE4QldmcGVvYTl4ZWs3dWFR?oc=5",
       "pub_date": "Wed, 02 Sep 2026 09:04:06 GMT",
@@ -7118,39 +7132,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-06-25T08:16:12.130401+00:00"
-    },
-    {
-      "title_original": "กรมพัฒนาธุรกิจฯ ผนึกกำลังปูพรมตรวจนอมินีภูเก็ต - กระบี่ ลุยตรวจ 66 บริษัท พัวพันถือครองที่ดินอำพราง - moc.go.th",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RTVdqcE82ZzFiMGlvX0VSWExSbHlDM0d3LXFxYVY0TVRucWY5NzJyWTFHNGRkYWJUeXlvR1p2eXhWNTBuNUtMMmhBNVpmMHBUUFFTM2pNeFI4SmxrcGx2azh1bm1ucTVjR1JDRnc3SQ?oc=5",
-      "pub_date": "Sun, 21 Jun 2026 08:24:09 GMT",
-      "source": "moc.go.th",
-      "description_original": "กรมพัฒนาธุรกิจฯ ผนึกกำลังปูพรมตรวจนอมินีภูเก็ต - กระบี่ ลุยตรวจ 66 บริษัท พัวพันถือครองที่ดินอำพราง&nbsp;&nbsp;moc.go.th",
-      "is_priority_outlet": false,
-      "id": "37774fa9756e",
-      "title_en": "กรมพัฒนาธุรกิจฯ ผนึกกำลังปูพรมตรวจนอมินีภูเก็ต - กระบี่ ลุยตรวจ 66 บริษัท พัวพันถือครองที่ดินอำพราง - moc.go.th",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [
-        {
-          "key": "poonpong",
-          "name_en": "Poonpong Naiyanapakorn",
-          "role": "Director General, Department of Business Development",
-          "priority": "high"
-        }
-      ],
-      "first_seen": "2026-06-25T00:16:27.416250+00:00"
     }
   ],
-  "last_updated": "2026-09-03T01:00:30.987827+00:00",
+  "last_updated": "2026-09-03T09:16:42.484092+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-08-13T23:44:44.275043+00:00",
-      "new_articles": 3
-    },
-    {
-      "timestamp": "2026-08-14T06:06:38.232093+00:00",
-      "new_articles": 0
-    },
     {
       "timestamp": "2026-08-14T11:37:01.995913+00:00",
       "new_articles": 3
@@ -7386,6 +7371,10 @@
     {
       "timestamp": "2026-09-03T01:00:30.987845+00:00",
       "new_articles": 0
+    },
+    {
+      "timestamp": "2026-09-03T09:16:42.484092+00:00",
+      "new_articles": 1
     }
   ]
 }
