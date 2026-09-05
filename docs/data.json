@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "มะพร้าวน้ำหอมต้นเตี้ย ใกล้หมดแล้ว - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4xV19WZWloRHZTWGZ5MGw4dmxQMnotWXpMNHZBeGRkVEhSUlJsMUxvWVF2em9JOFlCWFZWUVZNUXhTQ0NtWTNUdXRkNC1hYW5xcl95Uw?oc=5",
+      "pub_date": "Wed, 02 Sep 2026 06:00:44 GMT",
+      "source": "YouTube",
+      "description_original": "มะพร้าวน้ำหอมต้นเตี้ย ใกล้หมดแล้ว&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "9c6228de0c99",
+      "title_en": "มะพร้าวน้ำหอมต้นเตี้ย ใกล้หมดแล้ว - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-09-05T00:43:22.924833+00:00"
+    },
+    {
       "title_original": "สรุปสำนวนสั่งฟ้อง 2 บริษัท ปมที่ดินมรดกร้อยล้าน ‘แหม่มฝรั่งเศส’ ยกให้แม่บ้านไทย พร้อม 2 นอมินี - เดลินิวส์",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HVWY4aHlNcXE5TDZuYjYtdDhtMnozRzlYVW50SE1abjB3cUljNi1XaFA2SHdxX1VGM1A4TnJJSzJnM3JsZUJ6eFR6TE1LNHpZVGk0?oc=5",
       "pub_date": "Thu, 03 Sep 2026 05:11:00 GMT",
@@ -7111,28 +7125,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-06-26T08:24:32.145735+00:00"
-    },
-    {
-      "title_original": "สวนนงนุชพัทยาผ่ามะพร้าวทะเล เมล็ดใหญ่ที่สุดในโลก - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBMkg0VFBpQ0NzOXNWTEdHVTd5REdUUmdmX0I0eWxrV1J2SUVheWpGOHBOWlRWczA0ZmdHSDd3QU9leFVtYk0wWWJHVE1xRjhYaGpIT3Rn?oc=5",
-      "pub_date": "Wed, 24 Jun 2026 00:52:31 GMT",
-      "source": "YouTube",
-      "description_original": "สวนนงนุชพัทยาผ่ามะพร้าวทะเล เมล็ดใหญ่ที่สุดในโลก&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "fd56c585359f",
-      "title_en": "สวนนงนุชพัทยาผ่ามะพร้าวทะเล เมล็ดใหญ่ที่สุดในโลก - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-06-26T08:24:32.145735+00:00"
     }
   ],
-  "last_updated": "2026-09-04T14:37:55.514160+00:00",
+  "last_updated": "2026-09-05T00:43:22.924833+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-08-15T23:22:52.471950+00:00",
-      "new_articles": 3
-    },
     {
       "timestamp": "2026-08-16T05:17:12.450600+00:00",
       "new_articles": 3
@@ -7368,6 +7364,10 @@
     {
       "timestamp": "2026-09-04T14:37:55.514160+00:00",
       "new_articles": 2
+    },
+    {
+      "timestamp": "2026-09-05T00:43:22.924833+00:00",
+      "new_articles": 1
     }
   ]
 }
