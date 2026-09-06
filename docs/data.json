@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "\"พาณิชย์\" ผนึก Iron Chef Thailand เปิดเวทีปั้นเชฟรุ่นใหม่ ยกระดับวัตถุดิบไทยสู่เบเกอรี่โลก - moc.go.th",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJckFZTXdCWERyN0ZRRmppcEMxYlVZM2VsN3B1Y0hoWnpseHJMOVRGc2F2OE5nSWpsODN1b0JVTkZXVnhMalVKWjk4RmV2MWJhTVFJR2U5ZktDNURuSmRkSWRKY1B6RjRiaUF2ZmFn?oc=5",
+      "pub_date": "Fri, 04 Sep 2026 07:45:36 GMT",
+      "source": "moc.go.th",
+      "description_original": "\"พาณิชย์\" ผนึก Iron Chef Thailand เปิดเวทีปั้นเชฟรุ่นใหม่ ยกระดับวัตถุดิบไทยสู่เบเกอรี่โลก&nbsp;&nbsp;moc.go.th",
+      "is_priority_outlet": false,
+      "id": "90f5f6925d84",
+      "title_en": "\"พาณิชย์\" ผนึก Iron Chef Thailand เปิดเวทีปั้นเชฟรุ่นใหม่ ยกระดับวัตถุดิบไทยสู่เบเกอรี่โลก - moc.go.th",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-09-06T13:50:52.355205+00:00"
+    },
+    {
       "title_original": "มะพร้าวน้ำหอมในสวน #เกษตรอินทรีย์ #สวน #มะพร้าว #garden #coconut - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NdXpPd0g5U05iWTQ3X1lkMzdfMTZLMDJtZndURlhaajc4T0dqcl9BWDk4UmRILThLRGRONjkxdG9pNFNMX2M0bk9hbGw4N29BUENUMw?oc=5",
       "pub_date": "Sat, 05 Sep 2026 03:16:34 GMT",
@@ -7111,40 +7125,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-06-26T08:24:32.145735+00:00"
-    },
-    {
-      "title_original": "“ตลาดค้าขนมหวานทองหยิบทองหยอดฝอยทองเม็ดขนุนเผือกมะพร้าวน้ำหอม”ร้านทิพวรรณขนมไทย#ตลาดไท - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QanI1ekxXTjR6SldYTXNneVFCSnlpcVhibExmWnJoRExIYVJXODdYdG85Z1J1ODJDeFBTVUpINU5PNVFiQmxvMC1aenhLbDZJLURDbklB?oc=5",
-      "pub_date": "Thu, 25 Jun 2026 09:30:52 GMT",
-      "source": "YouTube",
-      "description_original": "“ตลาดค้าขนมหวานทองหยิบทองหยอดฝอยทองเม็ดขนุนเผือกมะพร้าวน้ำหอม”ร้านทิพวรรณขนมไทย#ตลาดไท&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "629019e39c3f",
-      "title_en": "“ตลาดค้าขนมหวานทองหยิบทองหยอดฝอยทองเม็ดขนุนเผือกมะพร้าวน้ำหอม”ร้านทิพวรรณขนมไทย#ตลาดไท - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-06-26T08:24:32.145735+00:00"
     }
   ],
-  "last_updated": "2026-09-06T09:02:25.088736+00:00",
+  "last_updated": "2026-09-06T13:50:52.355205+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-08-16T11:11:28.146686+00:00",
-      "new_articles": 1
-    },
-    {
-      "timestamp": "2026-08-16T23:22:35.127135+00:00",
-      "new_articles": 5
-    },
-    {
-      "timestamp": "2026-08-17T05:25:12.706405+00:00",
-      "new_articles": 4
-    },
-    {
-      "timestamp": "2026-08-17T11:16:47.383100+00:00",
-      "new_articles": 3
-    },
     {
       "timestamp": "2026-08-17T23:25:58.337353+00:00",
       "new_articles": 3
@@ -7380,6 +7364,10 @@
     {
       "timestamp": "2026-09-06T09:02:25.088774+00:00",
       "new_articles": 0
+    },
+    {
+      "timestamp": "2026-09-06T13:50:52.355205+00:00",
+      "new_articles": 1
     }
   ]
 }
