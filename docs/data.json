@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "รอบรั้วการตลาด : ศิริราชผนึก MIT ถกบทบาท AI เพื่อยกระดับสุขภาพประชาชน - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vRmtJbkFJenFuRm54RHhaeVFONTgzcDdKMDFtMEVUUnhIMGNTbHQ2S2ZiczRQcjFLZFlpSVVadlRwcndxeE16bkxhYW51OG1qMEJHdndB?oc=5",
+      "pub_date": "Tue, 08 Sep 2026 01:49:16 GMT",
+      "source": "LINE TODAY",
+      "description_original": "รอบรั้วการตลาด : ศิริราชผนึก MIT ถกบทบาท AI เพื่อยกระดับสุขภาพประชาชน&nbsp;&nbsp;LINE TODAY",
+      "is_priority_outlet": false,
+      "id": "444aa8500ae5",
+      "title_en": "รอบรั้วการตลาด : ศิริราชผนึก MIT ถกบทบาท AI เพื่อยกระดับสุขภาพประชาชน - LINE TODAY",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-09-08T09:13:20.566007+00:00"
+    },
+    {
       "title_original": "เร่งเครื่องท่องเที่ยวไตรมาส 4 สร้างมูลค่า ดันเป้ารายได้ปีนี้ 2.7-2.8 ล้านล้าน | The Bangkok Insight - today.line.me",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hWnE0YUpDQkkxeGF4alUzdHE1Mmd5VTBGbFE5Rm5zRjVzUVJSdkp1OXZicnZoaGZCQ1RhWGYwT2xiTV8yaUljRTAtNU0weFJsY21seUVn?oc=5",
       "pub_date": "Mon, 07 Sep 2026 12:42:16 GMT",
@@ -7111,28 +7125,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-06-27T07:42:31.717758+00:00"
-    },
-    {
-      "title_original": "รายการข่าวยามเช้า กรมการค้าภายใน ร่วมกับหน่วยงานที่เกี่ยวข้อง ลงพื้นที่ติดตามการรับซื้อมะพร้าว - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94Q2RnSmtiS3VxLVBscU5mSzZ0OGJ0NXc3NVByN0RXZlJwYVZvSUJJYXF0ZFhTNjJiZlM5MFpfLTREeXFWeTJhNF8wR2hUMGhOS19XV2Fn?oc=5",
-      "pub_date": "Fri, 26 Jun 2026 03:00:14 GMT",
-      "source": "YouTube",
-      "description_original": "รายการข่าวยามเช้า กรมการค้าภายใน ร่วมกับหน่วยงานที่เกี่ยวข้อง ลงพื้นที่ติดตามการรับซื้อมะพร้าว&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "4e4260a5d38b",
-      "title_en": "รายการข่าวยามเช้า กรมการค้าภายใน ร่วมกับหน่วยงานที่เกี่ยวข้อง ลงพื้นที่ติดตามการรับซื้อมะพร้าว - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-06-27T07:42:31.717758+00:00"
     }
   ],
-  "last_updated": "2026-09-08T01:00:17.989065+00:00",
+  "last_updated": "2026-09-08T09:13:20.566007+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-08-19T05:19:13.911307+00:00",
-      "new_articles": 0
-    },
     {
       "timestamp": "2026-08-19T11:16:33.827592+00:00",
       "new_articles": 3
@@ -7367,6 +7363,10 @@
     },
     {
       "timestamp": "2026-09-08T01:00:17.989065+00:00",
+      "new_articles": 1
+    },
+    {
+      "timestamp": "2026-09-08T09:13:20.566007+00:00",
       "new_articles": 1
     }
   ]
