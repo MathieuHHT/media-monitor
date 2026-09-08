@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "​“พาณิชย์”เปิด 5 อันดับ จังหวัดมีสินค้า GI มากสุดในไทย “นครราชสีมา” ครองแชมป์ - commercenewsagency",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42MFdFaVlIcUxmcnZBT1BPMk1yM3lIdW4zSU9VSGR5aE5nZmRna1VmUkFRRzdJaVdSRVVpckp2bDMxeW8xdS0ya1pEeE5uMExfbmlBOXBHSQ?oc=5",
+      "pub_date": "Mon, 07 Sep 2026 08:30:21 GMT",
+      "source": "commercenewsagency",
+      "description_original": "​“พาณิชย์”เปิด 5 อันดับ จังหวัดมีสินค้า GI มากสุดในไทย “นครราชสีมา” ครองแชมป์&nbsp;&nbsp;commercenewsagency",
+      "is_priority_outlet": false,
+      "id": "dcc65ba23fca",
+      "title_en": "​“พาณิชย์”เปิด 5 อันดับ จังหวัดมีสินค้า GI มากสุดในไทย “นครราชสีมา” ครองแชมป์ - commercenewsagency",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-09-08T14:49:30.121055+00:00"
+    },
+    {
       "title_original": "รอบรั้วการตลาด : ศิริราชผนึก MIT ถกบทบาท AI เพื่อยกระดับสุขภาพประชาชน - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vRmtJbkFJenFuRm54RHhaeVFONTgzcDdKMDFtMEVUUnhIMGNTbHQ2S2ZiczRQcjFLZFlpSVVadlRwcndxeE16bkxhYW51OG1qMEJHdndB?oc=5",
       "pub_date": "Tue, 08 Sep 2026 01:49:16 GMT",
@@ -7111,28 +7125,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-06-27T07:42:31.717758+00:00"
-    },
-    {
-      "title_original": "มะพร้าวกะทิ รอบหน้าจะกินได้มั๊ย ปีก่อนหน้านี้ มัดบูดก่อน ลุ้นๆๆ - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13bmNoX0Ixd0tzdEJid19zRC1nYlJFdDZFbzYwREs3SG42M2luTnpiTFlBdzBHb2FkaWdHR0ZrVWJTdGQwWU1wV00zamhUWnhPNFZyX1Zn?oc=5",
-      "pub_date": "Mon, 22 Jun 2026 11:15:14 GMT",
-      "source": "YouTube",
-      "description_original": "มะพร้าวกะทิ รอบหน้าจะกินได้มั๊ย ปีก่อนหน้านี้ มัดบูดก่อน ลุ้นๆๆ&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "70126ad19805",
-      "title_en": "มะพร้าวกะทิ รอบหน้าจะกินได้มั๊ย ปีก่อนหน้านี้ มัดบูดก่อน ลุ้นๆๆ - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-06-27T07:42:31.717758+00:00"
     }
   ],
-  "last_updated": "2026-09-08T09:13:20.566007+00:00",
+  "last_updated": "2026-09-08T14:49:30.121055+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-08-19T11:16:33.827592+00:00",
-      "new_articles": 3
-    },
     {
       "timestamp": "2026-08-19T23:25:14.510741+00:00",
       "new_articles": 2
@@ -7367,6 +7363,10 @@
     },
     {
       "timestamp": "2026-09-08T09:13:20.566007+00:00",
+      "new_articles": 1
+    },
+    {
+      "timestamp": "2026-09-08T14:49:30.121055+00:00",
       "new_articles": 1
     }
   ]
