@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "มะพร้าวน้ำหอม เนื้ออ่อน น้ำหวานๆ เข้ากันดี - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16VlZnSDlYUXRvOXU4TWVqZHJvN255ZVFxcTU5TWVkR0hjRkU4SGdPTWE3R2ptYjFSdUlVb0hNa2FGN0ViSkJtMWt4Vk9EelVncFBDTg?oc=5",
+      "pub_date": "Wed, 09 Sep 2026 09:29:22 GMT",
+      "source": "YouTube",
+      "description_original": "มะพร้าวน้ำหอม เนื้ออ่อน น้ำหวานๆ เข้ากันดี&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "5287e43d317b",
+      "title_en": "มะพร้าวน้ำหอม เนื้ออ่อน น้ำหวานๆ เข้ากันดี - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-09-09T14:55:29.983455+00:00"
+    },
+    {
       "title_original": "ดันมะพร้าวน้ำหอมเข้า Fruit Board กรมส่งเสริมฯ ติวเข้มทีมแก้ราคาผันผวน - bangkokbiznews",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pZnE2eDhnNmZzcFVlZzNiSVBQTlEwdFBYRHNkWFlKMkQ4Wl9WNGZ6amlST1lpVm50WUhSaUp4ZkQzaDE1V2tsU3J1emg0LWlPVzVFTjB2R0FES0NC?oc=5",
       "pub_date": "Wed, 09 Sep 2026 07:14:00 GMT",
@@ -7111,28 +7125,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-06-29T00:12:04.820026+00:00"
-    },
-    {
-      "title_original": "สวนนงนุชผ่า “มะพร้าวทะเล” เมล็ดใหญ่ที่สุดในโลก 12 ลูก มูลค่ารวมกว่า 1.2 ล้านบาท เปิดภาพหาชมยาก - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95TDFYQjBQWUV2WW1laVNCbkpzSGxLVVU3UWF5Sm9IYndEZ056SUZ2RG81NnlUMTJESno5M1dLVVJrSTJEUmxtMXNpYzQzSkltYlNxU1R3?oc=5",
-      "pub_date": "Wed, 24 Jun 2026 08:41:00 GMT",
-      "source": "YouTube",
-      "description_original": "สวนนงนุชผ่า “มะพร้าวทะเล” เมล็ดใหญ่ที่สุดในโลก 12 ลูก มูลค่ารวมกว่า 1.2 ล้านบาท เปิดภาพหาชมยาก&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "b4b6f82e55e9",
-      "title_en": "สวนนงนุชผ่า “มะพร้าวทะเล” เมล็ดใหญ่ที่สุดในโลก 12 ลูก มูลค่ารวมกว่า 1.2 ล้านบาท เปิดภาพหาชมยาก - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-06-29T00:12:04.820026+00:00"
     }
   ],
-  "last_updated": "2026-09-09T09:16:55.187070+00:00",
+  "last_updated": "2026-09-09T14:55:29.983455+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-08-20T11:18:05.569559+00:00",
-      "new_articles": 1
-    },
     {
       "timestamp": "2026-08-20T23:27:48.921118+00:00",
       "new_articles": 1
@@ -7368,6 +7364,10 @@
     {
       "timestamp": "2026-09-09T09:16:55.187070+00:00",
       "new_articles": 4
+    },
+    {
+      "timestamp": "2026-09-09T14:55:29.983455+00:00",
+      "new_articles": 1
     }
   ]
 }
