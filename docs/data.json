@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "วิธีชำหน่อมะพร้าวน้ำหอมแบบง่ายๆ - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sMUtmck9GUFlINV9mT0FVVW8tN19mblVmb0VWaG5PaW5XZGNnaGptTXRWejBPeHl2MXdMdDZmRkc5WGRFT2tTWTZBZmhSSlNtamMwOXN3?oc=5",
+      "pub_date": "Thu, 10 Sep 2026 15:04:08 GMT",
+      "source": "YouTube",
+      "description_original": "วิธีชำหน่อมะพร้าวน้ำหอมแบบง่ายๆ&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "210ac4b19fc8",
+      "title_en": "วิธีชำหน่อมะพร้าวน้ำหอมแบบง่ายๆ - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-09-11T00:52:10.493376+00:00"
+    },
+    {
       "title_original": "LIVE !! สด!! l ปลูกมะม่วง 65 ไร่ 4 สายพันธุ์ ส่งออกรายได้ดี - น้ำช่อดอกมะพร้าวเก็บขายได้ทุกวัน !! - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pT29ZWmFBYUdFRFNScTRydHhYUDRMVnJqd0stdmU0bmRJMDlKLTk1UFJkTndhTVpuUGNVb0NZak9IZy10bS1CcF9nZk05M2txT19KRlpB?oc=5",
       "pub_date": "Thu, 10 Sep 2026 09:29:52 GMT",
@@ -7104,28 +7118,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-06-29T14:42:01.739274+00:00"
-    },
-    {
-      "title_original": "​“พาณิชย์”ติวเข้มเกษตรกร ผู้ประกอบการ GI ควบคุมคุณภาพ สร้างความเชื่อมั่นผู้ซื้อ - commercenewsagency",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5udWxMRUpmdWlXaXhRSVFhLTN4OWlPekJLY1k3eHZKYXlzbTdBSmgzLXNDckk3aHpSekJ0ZWZ5NkxGV1RlUEUwVlFDNlFjNWxqSDZERm83dw?oc=5",
-      "pub_date": "Mon, 29 Jun 2026 09:10:34 GMT",
-      "source": "commercenewsagency",
-      "description_original": "​“พาณิชย์”ติวเข้มเกษตรกร ผู้ประกอบการ GI ควบคุมคุณภาพ สร้างความเชื่อมั่นผู้ซื้อ&nbsp;&nbsp;commercenewsagency",
-      "is_priority_outlet": false,
-      "id": "3bcfd99b6de9",
-      "title_en": "​“พาณิชย์”ติวเข้มเกษตรกร ผู้ประกอบการ GI ควบคุมคุณภาพ สร้างความเชื่อมั่นผู้ซื้อ - commercenewsagency",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-06-29T09:20:49.977464+00:00"
     }
   ],
-  "last_updated": "2026-09-10T14:41:57.658080+00:00",
+  "last_updated": "2026-09-11T00:52:10.493376+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-08-21T23:26:49.047954+00:00",
-      "new_articles": 2
-    },
     {
       "timestamp": "2026-08-22T05:16:30.299942+00:00",
       "new_articles": 1
@@ -7360,6 +7356,10 @@
     },
     {
       "timestamp": "2026-09-10T14:41:57.658080+00:00",
+      "new_articles": 1
+    },
+    {
+      "timestamp": "2026-09-11T00:52:10.493376+00:00",
       "new_articles": 1
     }
   ]
