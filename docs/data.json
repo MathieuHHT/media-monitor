@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "“บิ๊กซี มินิ” ปรับโฉมใหม่ เปลี่ยนบทบาท “ร้านใกล้บ้าน” ตอบโจทย์คนชุมชน | ข่าวหุ้นธุรกิจ - today.line.me",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUMThPNnloRFVYUlk0SlpJTkl1ZlNnOHgyODdQeVBvVUpCUUtlOE55TmFVNlBJVDJwVVRFZEpwcmJCQkI2WVdOU3VXc2dGa0IxUENKMWxB?oc=5",
+      "pub_date": "Mon, 07 Sep 2026 05:13:10 GMT",
+      "source": "today.line.me",
+      "description_original": "“บิ๊กซี มินิ” ปรับโฉมใหม่ เปลี่ยนบทบาท “ร้านใกล้บ้าน” ตอบโจทย์คนชุมชน | ข่าวหุ้นธุรกิจ&nbsp;&nbsp;today.line.me",
+      "is_priority_outlet": false,
+      "id": "a262809572d1",
+      "title_en": "“บิ๊กซี มินิ” ปรับโฉมใหม่ เปลี่ยนบทบาท “ร้านใกล้บ้าน” ตอบโจทย์คนชุมชน | ข่าวหุ้นธุรกิจ - today.line.me",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-09-12T08:55:26.135015+00:00"
+    },
+    {
       "title_original": "ไทยรับมือการค้าเดินแผน Unlocking New Growth สร้างมูลค่าเศรษฐกิจ | The Better - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfR1hRNWZfT2dtN0NNWUpMZ21iUXJVYmpiUm5NV2FfeVEyNnE1N1B6MHlMNUtSSWkyRGRDYW50R1R1UnQzMkxxWnhiTzdBcUNzUDlsX2xR?oc=5",
       "pub_date": "Fri, 11 Sep 2026 02:44:43 GMT",
@@ -7104,28 +7118,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-06-29T14:42:01.739274+00:00"
-    },
-    {
-      "title_original": "'ศุภจี' กางแผนงบปี 70 ลุยปราบนอมินี ดันส่งออก-เกษตร ฝ่าวิกฤตโลก - thansettakij",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92aVhqSGlNNGp0NFBZcjVUUGViMC1xVzVUT2xieHpIVjdHbTE3QlJZUV93S3JtUDNGTzNqd21oVjFNUzAwOUZnWUtIVF9wVUR0SFpWa3Fn?oc=5",
-      "pub_date": "Mon, 29 Jun 2026 13:03:00 GMT",
-      "source": "thansettakij",
-      "description_original": "'ศุภจี' กางแผนงบปี 70 ลุยปราบนอมินี ดันส่งออก-เกษตร ฝ่าวิกฤตโลก&nbsp;&nbsp;thansettakij",
-      "is_priority_outlet": true,
-      "id": "e5354c584ecd",
-      "title_en": "'ศุภจี' กางแผนงบปี 70 ลุยปราบนอมินี ดันส่งออก-เกษตร ฝ่าวิกฤตโลก - thansettakij",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-06-29T14:42:01.739274+00:00"
     }
   ],
-  "last_updated": "2026-09-12T00:57:23.840406+00:00",
+  "last_updated": "2026-09-12T08:55:26.135015+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-08-23T05:18:45.511637+00:00",
-      "new_articles": 2
-    },
     {
       "timestamp": "2026-08-23T11:12:25.794065+00:00",
       "new_articles": 1
@@ -7361,6 +7357,10 @@
     {
       "timestamp": "2026-09-12T00:57:23.840406+00:00",
       "new_articles": 2
+    },
+    {
+      "timestamp": "2026-09-12T08:55:26.135015+00:00",
+      "new_articles": 1
     }
   ]
 }
