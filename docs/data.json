@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "ชิฟฟ่อนมะพร้าวหอมๆ นุ่มฟู ละมุนลิ้น 🥥🌴 ของดีบอกต่อ! - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oYl9JZndxdm1QZGZDZjd3T1NteEk1eWsyenFIVzAyZ0ZxWjVvM015LWd4SjlZS3RQZTRCVzE5N3hKeE1pZzhZbTNBNW9PLWNXZG5ESA?oc=5",
+      "pub_date": "Fri, 18 Sep 2026 08:01:45 GMT",
+      "source": "YouTube",
+      "description_original": "ชิฟฟ่อนมะพร้าวหอมๆ นุ่มฟู ละมุนลิ้น 🥥🌴 ของดีบอกต่อ!&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "38b239fb325e",
+      "title_en": "ชิฟฟ่อนมะพร้าวหอมๆ นุ่มฟู ละมุนลิ้น 🥥🌴 ของดีบอกต่อ! - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-09-18T14:42:08.621712+00:00"
+    },
+    {
       "title_original": "คลื่นใต้น้ำ “โยกย้าย” พาณิชย์ “ศุภจี” แจงซ้ำ มองประโยชน์ประเทศชาติ - thaipbs.or.th",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40MkN5VTRNZ2NiQVRjZFVVQTlWcjVpdkFnX3UxamRQdGZpVjBFeTFTRGNnalo5RkZpcnBzVVAxSFduX3JqdkpLZmZiNnVhVW1zUHJlNVNHQ1A?oc=5",
       "pub_date": "Tue, 15 Sep 2026 08:32:37 GMT",
@@ -7111,28 +7125,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-02T07:59:29.157247+00:00"
-    },
-    {
-      "title_original": "โครงการส่งเสริมอุตสาหกรรม 2 โครงการที่สนับสนุนนวัตกรรมทางเทคโนโลยีในการแปรรูปผลิตภัณฑ์พื้นเมืองได้รับการอนุมัติแล้ว - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZXpER01zVElrckFkeEpReVBySTA5dDJRT2ZseGpBeE9JbWoyenlqUFVHQWd2a1JKT21ycjVxVjEwZDFhZ3FMVy1OYnJXdzROR2tOU3NsNk5MZndaeVR2UENnOEotTWJJbGZfWEZqcDFSWm5BRXQ2RVJzcGZPZ1V6MEZfaF9FcmFaUTQwVTc3MmgwOG85NnQ4ekZBanM0MnlJc1FpOUF0VE9vdWNWYkE?oc=5",
-      "pub_date": "Thu, 02 Jul 2026 05:40:47 GMT",
-      "source": "Vietnam.vn",
-      "description_original": "โครงการส่งเสริมอุตสาหกรรม 2 โครงการที่สนับสนุนนวัตกรรมทางเทคโนโลยีในการแปรรูปผลิตภัณฑ์พื้นเมืองได้รับการอนุมัติแล้ว&nbsp;&nbsp;Vietnam.vn",
-      "is_priority_outlet": false,
-      "id": "9a3935f68874",
-      "title_en": "โครงการส่งเสริมอุตสาหกรรม 2 โครงการที่สนับสนุนนวัตกรรมทางเทคโนโลยีในการแปรรูปผลิตภัณฑ์พื้นเมืองได้รับการอนุมัติแล้ว - Vietnam.vn",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-02T07:59:29.157247+00:00"
     }
   ],
-  "last_updated": "2026-09-18T09:16:35.944799+00:00",
+  "last_updated": "2026-09-18T14:42:08.621712+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-08-29T15:22:53.233667+00:00",
-      "new_articles": 0
-    },
     {
       "timestamp": "2026-08-30T01:09:31.589636+00:00",
       "new_articles": 1
@@ -7368,6 +7364,10 @@
     {
       "timestamp": "2026-09-18T09:16:35.944799+00:00",
       "new_articles": 3
+    },
+    {
+      "timestamp": "2026-09-18T14:42:08.621712+00:00",
+      "new_articles": 1
     }
   ]
 }
