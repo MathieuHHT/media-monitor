@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "มากับ “ เค้กวุ้นกะทิมะพร้าวน้ำหอมน้องกระต่าย🐰” 😊 #แม่เป้ขนมไทย #เค้กวันเกิด #ขนมไทย #cake - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA4N2djMV8tdHk1YjJNRnUzTDdaUTlScW1Kbm02NWZGejV2U0VZX3hBa01TVDZvblB5end4ZlkzV21GVUhiSzZaSjNxNWVycmhxRXptcg?oc=5",
+      "pub_date": "Sun, 13 Sep 2026 07:01:05 GMT",
+      "source": "YouTube",
+      "description_original": "มากับ “ เค้กวุ้นกะทิมะพร้าวน้ำหอมน้องกระต่าย🐰” 😊 #แม่เป้ขนมไทย #เค้กวันเกิด #ขนมไทย #cake&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "4fad245169f8",
+      "title_en": "มากับ “ เค้กวุ้นกะทิมะพร้าวน้ำหอมน้องกระต่าย🐰” 😊 #แม่เป้ขนมไทย #เค้กวันเกิด #ขนมไทย #cake - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-09-18T01:07:23.563976+00:00"
+    },
+    {
       "title_original": "องคมนตรี ติดตามผลสำเร็จ 'อ่างเก็บน้ำนฤบดินทรจินดา' พลิกวิถีเกษตรกรปราจีนบุรี ยกระดับคุณภาพชีวิตอย่างยั่งยืน - แนวหน้า",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00LVJkNnNpQ2NVb0dFNGsyQmJEM05jMVEydWtqdTgyRjJDcFI2VTRoZmtwRmFSNXlFck1DSkRCWE5Uc3lIU3Qxb013UGdtakJJR3RaUDBlR2ZkZG82blNzZmlMRDVTaEVM?oc=5",
       "pub_date": "Thu, 17 Sep 2026 05:44:42 GMT",
@@ -7118,32 +7132,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-01T13:31:26.840240+00:00"
-    },
-    {
-      "title_original": "กรมทรัพย์สินทางปัญญา เดินหน้าส่งเสริมการควบคุมคุณภาพ GI “ฉะเชิงเทรา” เพิ่มศักยภาพรุกตลาดพรีเมียมทั้งในและต่างประเทศ พร้อมลุยตรวจเยี่ยมแหล่งผลิต GI และผลักดันว่าที่สินค้า GI ในอนาคต - thailandplus",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5iMzVQRVoySUpqSDRDS1YyWjNQdzUxQzVtV1NfRUpXMElKU004c0kzMkhBdEFKZUFCaWVrbl81RkxqUTVmX1owRER1OFBvT3NrQXpld1htcw?oc=5",
-      "pub_date": "Mon, 29 Jun 2026 11:17:49 GMT",
-      "source": "thailandplus",
-      "description_original": "กรมทรัพย์สินทางปัญญา เดินหน้าส่งเสริมการควบคุมคุณภาพ GI “ฉะเชิงเทรา” เพิ่มศักยภาพรุกตลาดพรีเมียมทั้งในและต่างประเทศ พร้อมลุยตรวจเยี่ยมแหล่งผลิต GI และผลักดันว่าที่สินค้า GI ในอนาคต&nbsp;&nbsp;thailandplus",
-      "is_priority_outlet": false,
-      "id": "90bd9e7e311f",
-      "title_en": "กรมทรัพย์สินทางปัญญา เดินหน้าส่งเสริมการควบคุมคุณภาพ GI “ฉะเชิงเทรา” เพิ่มศักยภาพรุกตลาดพรีเมียมทั้งในและต่างประเทศ พร้อมลุยตรวจเยี่ยมแหล่งผลิต GI และผลักดันว่าที่สินค้า GI ในอนาคต - thailandplus",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-01T08:43:03.717748+00:00"
     }
   ],
-  "last_updated": "2026-09-17T15:22:13.054158+00:00",
+  "last_updated": "2026-09-18T01:07:23.563976+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-08-28T21:16:46.117672+00:00",
-      "new_articles": 2
-    },
-    {
-      "timestamp": "2026-08-29T04:03:50.885028+00:00",
-      "new_articles": 1
-    },
     {
       "timestamp": "2026-08-29T11:23:58.498707+00:00",
       "new_articles": 0
@@ -7379,6 +7371,10 @@
     {
       "timestamp": "2026-09-17T15:22:13.054174+00:00",
       "new_articles": 0
+    },
+    {
+      "timestamp": "2026-09-18T01:07:23.563976+00:00",
+      "new_articles": 1
     }
   ]
 }
