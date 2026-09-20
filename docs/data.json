@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "น้ำมะพร้าวสีชมพู Ep.2 #Sayโอ๋ #น้ำมะพร้าวแท้ #มะพร้าวน้ำหอม #วัยรุ่นบ้านแพ้ว - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11ZV9leEQtd0xhd1BJZ2ctOVNPQjM1U3lrbllNVG14b011b0NUUkhFcXhJM0UtN094Y3AxeG1PdnYxdHBjSWtZQmlfUjFubWh3QVRCUA?oc=5",
+      "pub_date": "Tue, 15 Sep 2026 11:00:23 GMT",
+      "source": "YouTube",
+      "description_original": "น้ำมะพร้าวสีชมพู Ep.2 #Sayโอ๋ #น้ำมะพร้าวแท้ #มะพร้าวน้ำหอม #วัยรุ่นบ้านแพ้ว&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "0244a1abd981",
+      "title_en": "น้ำมะพร้าวสีชมพู Ep.2 #Sayโอ๋ #น้ำมะพร้าวแท้ #มะพร้าวน้ำหอม #วัยรุ่นบ้านแพ้ว - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-09-20T14:23:15.731334+00:00"
+    },
+    {
       "title_original": "ช่วงซ้อมกีฬาสีกลับมาอีกเเล้ว!!! #ร้อนๆเผ็ดๆสู้ด้วยเย็นเย็น #จับเลี้ยงมะพร้าวน้ำหอม #YenYenxThaiCoco - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xekVmQVRLR24tNnQzY3pzOGoxbXRHREw1eTJRbURiT1NLdmJCaF96LUtIWndQblgyWDZVYVA1ZDc5cVN1LWg2UUFwZWdOSlJOSGwzOA?oc=5",
       "pub_date": "Sun, 20 Sep 2026 07:06:43 GMT",
@@ -7111,28 +7125,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-03T12:51:39.707614+00:00"
-    },
-    {
-      "title_original": "พาณิชย์ผนึก ตม. บุกห้างดังย่านหลักสี่ ลุยตรวจ 2 บริษัทเสี่ยง \"นอมินีจีน\" พบพิรุธเพียบ - Thairath.co.th",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LTVRlR21fY0V3bHV6dVJDUS1fNUJZYm5ESDhjYVRHUFktcEF3dlRlSTRrTnpZVmFoR0dkU2hCaFU2STV6b1lhOTN4enh1WXdSOWpaNG5XRHd0d3dIbDlNUlJscUhxNWs?oc=5",
-      "pub_date": "Thu, 02 Jul 2026 10:58:33 GMT",
-      "source": "Thairath.co.th",
-      "description_original": "พาณิชย์ผนึก ตม. บุกห้างดังย่านหลักสี่ ลุยตรวจ 2 บริษัทเสี่ยง \"นอมินีจีน\" พบพิรุธเพียบ&nbsp;&nbsp;Thairath.co.th",
-      "is_priority_outlet": false,
-      "id": "8bc609c339d7",
-      "title_en": "พาณิชย์ผนึก ตม. บุกห้างดังย่านหลักสี่ ลุยตรวจ 2 บริษัทเสี่ยง \"นอมินีจีน\" พบพิรุธเพียบ - Thairath.co.th",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-03T07:54:10.308386+00:00"
     }
   ],
-  "last_updated": "2026-09-20T09:30:12.582741+00:00",
+  "last_updated": "2026-09-20T14:23:15.731334+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-08-31T17:45:56.173231+00:00",
-      "new_articles": 3
-    },
     {
       "timestamp": "2026-09-01T01:43:18.882179+00:00",
       "new_articles": 3
@@ -7367,6 +7363,10 @@
     },
     {
       "timestamp": "2026-09-20T09:30:12.582741+00:00",
+      "new_articles": 1
+    },
+    {
+      "timestamp": "2026-09-20T14:23:15.731334+00:00",
       "new_articles": 1
     }
   ]
