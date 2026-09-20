@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "ช่วงซ้อมกีฬาสีกลับมาอีกเเล้ว!!! #ร้อนๆเผ็ดๆสู้ด้วยเย็นเย็น #จับเลี้ยงมะพร้าวน้ำหอม #YenYenxThaiCoco - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xekVmQVRLR24tNnQzY3pzOGoxbXRHREw1eTJRbURiT1NLdmJCaF96LUtIWndQblgyWDZVYVA1ZDc5cVN1LWg2UUFwZWdOSlJOSGwzOA?oc=5",
+      "pub_date": "Sun, 20 Sep 2026 07:06:43 GMT",
+      "source": "YouTube",
+      "description_original": "ช่วงซ้อมกีฬาสีกลับมาอีกเเล้ว!!! #ร้อนๆเผ็ดๆสู้ด้วยเย็นเย็น #จับเลี้ยงมะพร้าวน้ำหอม #YenYenxThaiCoco&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "601119b87839",
+      "title_en": "ช่วงซ้อมกีฬาสีกลับมาอีกเเล้ว!!! #ร้อนๆเผ็ดๆสู้ด้วยเย็นเย็น #จับเลี้ยงมะพร้าวน้ำหอม #YenYenxThaiCoco - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-09-20T09:30:12.582741+00:00"
+    },
+    {
       "title_original": "ปลูกมะพร้าวน้ำหอมเผยเคล็บลับทำให้มะพร้าวมีน้ำหวาน หอม ผิวสวย ผลดก เนื้อขาวละเอียด - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPOGUxYUJkUm0zRmUzU3dkMktFOHBGZ0JtbkYzVWF6T3laQkJaMm9PTVUxdTZERm1jYkl6eFRQUmNZUFlVUmNfM3hhMEg4bHdTZkIzWXRn?oc=5",
       "pub_date": "Sat, 19 Sep 2026 13:55:42 GMT",
@@ -7111,28 +7125,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-03T07:54:10.308386+00:00"
-    },
-    {
-      "title_original": "​“พาณิชย์”ลงพื้นที่ตรวจ 2 ธุรกิจเสี่ยงนอมินี ย่านหลักสี่ พบทำธุรกิจ-เส้นเงินผิดปกติ - commercenewsagency",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rRmozOG9mWk1PRDd6cmdaemgxd1ZUa2FjUkRaTEhDR2ZSOVoxTGxMbHJ2LXc2VU5FMjBvbVdhMVhrZXI1Tkt2NnZmMVJjQjBmNFlfYUMzSQ?oc=5",
-      "pub_date": "Thu, 02 Jul 2026 09:36:30 GMT",
-      "source": "commercenewsagency",
-      "description_original": "​“พาณิชย์”ลงพื้นที่ตรวจ 2 ธุรกิจเสี่ยงนอมินี ย่านหลักสี่ พบทำธุรกิจ-เส้นเงินผิดปกติ&nbsp;&nbsp;commercenewsagency",
-      "is_priority_outlet": false,
-      "id": "71b464291cef",
-      "title_en": "​“พาณิชย์”ลงพื้นที่ตรวจ 2 ธุรกิจเสี่ยงนอมินี ย่านหลักสี่ พบทำธุรกิจ-เส้นเงินผิดปกติ - commercenewsagency",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-03T07:54:10.308386+00:00"
     }
   ],
-  "last_updated": "2026-09-20T00:49:19.156645+00:00",
+  "last_updated": "2026-09-20T09:30:12.582741+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-08-31T11:12:31.999658+00:00",
-      "new_articles": 2
-    },
     {
       "timestamp": "2026-08-31T17:45:56.173231+00:00",
       "new_articles": 3
@@ -7368,6 +7364,10 @@
     {
       "timestamp": "2026-09-20T00:49:19.156645+00:00",
       "new_articles": 4
+    },
+    {
+      "timestamp": "2026-09-20T09:30:12.582741+00:00",
+      "new_articles": 1
     }
   ]
 }
