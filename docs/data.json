@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "ความในใจของมะพร้าว EP.2 (จบ) #ไบรท์ไร้ไขมัน #ร้อนๆเผ็ดๆสู้ด้วยเย็นเย็น #จับเลี้ยงมะพร้าวน้ำหอม - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01QWtpYWlFU1FnemxYUWd2WWRWbFM4eDVOVzMtY3BiSlgzUzdBNHY3aUtheWFadkJ6RWdfeldRMldVM1A1UGFfbmtzS1VucjZQbWhTWQ?oc=5",
+      "pub_date": "Mon, 21 Sep 2026 12:04:22 GMT",
+      "source": "YouTube",
+      "description_original": "ความในใจของมะพร้าว EP.2 (จบ) #ไบรท์ไร้ไขมัน #ร้อนๆเผ็ดๆสู้ด้วยเย็นเย็น #จับเลี้ยงมะพร้าวน้ำหอม&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "cd5c6465774b",
+      "title_en": "ความในใจของมะพร้าว EP.2 (จบ) #ไบรท์ไร้ไขมัน #ร้อนๆเผ็ดๆสู้ด้วยเย็นเย็น #จับเลี้ยงมะพร้าวน้ำหอม - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-09-21T16:42:31.962789+00:00"
+    },
+    {
       "title_original": "ไขข้อข้องใจหลังออกกำลังกาย ต้องดื่มน้ำมะพร้าวจริงไหม? | Sports Round Up - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vTmc5UXJlLXdNSmNsNnZTRUpYbmUwTmJzYXIwRUI5cVVYb0p4ZXdzbzU0V0pDUlJLWmpHTVRwNnRNaWlKV3JWVFZBck1IUzdMZXYtZ3NB?oc=5",
       "pub_date": "Mon, 21 Sep 2026 07:39:26 GMT",
@@ -7111,28 +7125,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-04T07:35:32.838049+00:00"
-    },
-    {
-      "title_original": "พาณิชย์ ไล่บี้ผู้ผลิตลดราคาสินค้า หลังต้นทุนพลังงานขยับลง - RYT9",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9vV3NDWV9WMUVhTVdUQmwtUm1lODU2SWpaYWxKWnRSb3BKTFkxZ3VMeTktazI4NkEwOHl1bnFsWXZ2aWhxSE9GanVR?oc=5",
-      "pub_date": "Thu, 02 Jul 2026 11:22:52 GMT",
-      "source": "RYT9",
-      "description_original": "พาณิชย์ ไล่บี้ผู้ผลิตลดราคาสินค้า หลังต้นทุนพลังงานขยับลง&nbsp;&nbsp;RYT9",
-      "is_priority_outlet": false,
-      "id": "0e298f087369",
-      "title_en": "พาณิชย์ ไล่บี้ผู้ผลิตลดราคาสินค้า หลังต้นทุนพลังงานขยับลง - RYT9",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-04T00:08:23.031278+00:00"
     }
   ],
-  "last_updated": "2026-09-21T10:16:49.561355+00:00",
+  "last_updated": "2026-09-21T16:42:31.962789+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-09-01T15:19:21.424273+00:00",
-      "new_articles": 0
-    },
     {
       "timestamp": "2026-09-02T00:53:52.846444+00:00",
       "new_articles": 0
@@ -7367,6 +7363,10 @@
     },
     {
       "timestamp": "2026-09-21T10:16:49.561355+00:00",
+      "new_articles": 1
+    },
+    {
+      "timestamp": "2026-09-21T16:42:31.962789+00:00",
       "new_articles": 1
     }
   ]
