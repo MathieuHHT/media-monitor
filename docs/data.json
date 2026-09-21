@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "ภัทรินทร์ไอศกรีมกะทิสด x น้ำมะพร้าวน้ำหอมปั่น - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fRDZTTy11dzd5eF8zSDFsUTNpY3ZQWndQQll5elJUNHNhbG45eUJES3lIQTZlZndBUkE4TDZEbnlqc1dHZmpPUWtLRXkwdWtDUjRmVw?oc=5",
+      "pub_date": "Fri, 18 Sep 2026 07:00:11 GMT",
+      "source": "YouTube",
+      "description_original": "ภัทรินทร์ไอศกรีมกะทิสด x น้ำมะพร้าวน้ำหอมปั่น&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "c279f9d73c1e",
+      "title_en": "ภัทรินทร์ไอศกรีมกะทิสด x น้ำมะพร้าวน้ำหอมปั่น - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-09-21T00:55:27.518272+00:00"
+    },
+    {
       "title_original": "น้ำมะพร้าวสีชมพู Ep.2 #Sayโอ๋ #น้ำมะพร้าวแท้ #มะพร้าวน้ำหอม #วัยรุ่นบ้านแพ้ว - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11ZV9leEQtd0xhd1BJZ2ctOVNPQjM1U3lrbllNVG14b011b0NUUkhFcXhJM0UtN094Y3AxeG1PdnYxdHBjSWtZQmlfUjFubWh3QVRCUA?oc=5",
       "pub_date": "Tue, 15 Sep 2026 11:00:23 GMT",
@@ -7111,28 +7125,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-04T00:08:23.031278+00:00"
-    },
-    {
-      "title_original": "Thai Coco ยกสวนมะพร้าวน้ำหอมออร์แกนิกจากราชบุรีสู่ใจกลางกรุงเทพฯ - banmuang.co.th",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CVlBnaGxLSEhCSGhSVklGajhHQmpDUk9kNlliWlQ0VXJCa21ZaXM4cDZYRkhGZmRKUF9MMGl0TFZOYlltd0l5amJZUklJOE5ZTFlSTDN2dlAtYXlSWWc?oc=5",
-      "pub_date": "Fri, 03 Jul 2026 09:59:00 GMT",
-      "source": "banmuang.co.th",
-      "description_original": "Thai Coco ยกสวนมะพร้าวน้ำหอมออร์แกนิกจากราชบุรีสู่ใจกลางกรุงเทพฯ&nbsp;&nbsp;banmuang.co.th",
-      "is_priority_outlet": true,
-      "id": "56ca301aa8b2",
-      "title_en": "Thai Coco ยกสวนมะพร้าวน้ำหอมออร์แกนิกจากราชบุรีสู่ใจกลางกรุงเทพฯ - banmuang.co.th",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-03T12:51:39.707614+00:00"
     }
   ],
-  "last_updated": "2026-09-20T14:23:15.731334+00:00",
+  "last_updated": "2026-09-21T00:55:27.518272+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-09-01T01:43:18.882179+00:00",
-      "new_articles": 3
-    },
     {
       "timestamp": "2026-09-01T09:38:40.904545+00:00",
       "new_articles": 2
@@ -7367,6 +7363,10 @@
     },
     {
       "timestamp": "2026-09-20T14:23:15.731334+00:00",
+      "new_articles": 1
+    },
+    {
+      "timestamp": "2026-09-21T00:55:27.518272+00:00",
       "new_articles": 1
     }
   ]
