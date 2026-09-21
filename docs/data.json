@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "ไขข้อข้องใจหลังออกกำลังกาย ต้องดื่มน้ำมะพร้าวจริงไหม? | Sports Round Up - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vTmc5UXJlLXdNSmNsNnZTRUpYbmUwTmJzYXIwRUI5cVVYb0p4ZXdzbzU0V0pDUlJLWmpHTVRwNnRNaWlKV3JWVFZBck1IUzdMZXYtZ3NB?oc=5",
+      "pub_date": "Mon, 21 Sep 2026 07:39:26 GMT",
+      "source": "YouTube",
+      "description_original": "ไขข้อข้องใจหลังออกกำลังกาย ต้องดื่มน้ำมะพร้าวจริงไหม? | Sports Round Up&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "f6b018e5f49a",
+      "title_en": "ไขข้อข้องใจหลังออกกำลังกาย ต้องดื่มน้ำมะพร้าวจริงไหม? | Sports Round Up - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-09-21T10:16:49.561355+00:00"
+    },
+    {
       "title_original": "ภัทรินทร์ไอศกรีมกะทิสด x น้ำมะพร้าวน้ำหอมปั่น - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fRDZTTy11dzd5eF8zSDFsUTNpY3ZQWndQQll5elJUNHNhbG45eUJES3lIQTZlZndBUkE4TDZEbnlqc1dHZmpPUWtLRXkwdWtDUjRmVw?oc=5",
       "pub_date": "Fri, 18 Sep 2026 07:00:11 GMT",
@@ -7111,28 +7125,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-04T00:08:23.031278+00:00"
-    },
-    {
-      "title_original": "Coconut Tomyum | มันมีจริงนะ! ก๋วยเตี๋ยวต้มยำมะพร้าวน้ำหอม - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zLVVNYVYwLW1ySy1JOEwxZ2FfTkhrbVNyRW9qeUtpRk14YnZSTHFmeEVlSHZQZmFhT19Wbk5LeEw5TmQwNnE3VHJCV3pxX0dQQ0JoOVRR?oc=5",
-      "pub_date": "Fri, 03 Jul 2026 16:57:55 GMT",
-      "source": "YouTube",
-      "description_original": "Coconut Tomyum | มันมีจริงนะ! ก๋วยเตี๋ยวต้มยำมะพร้าวน้ำหอม&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "c666ade505d0",
-      "title_en": "Coconut Tomyum | มันมีจริงนะ! ก๋วยเตี๋ยวต้มยำมะพร้าวน้ำหอม - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-04T00:08:23.031278+00:00"
     }
   ],
-  "last_updated": "2026-09-21T00:55:27.518272+00:00",
+  "last_updated": "2026-09-21T10:16:49.561355+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-09-01T09:38:40.904545+00:00",
-      "new_articles": 2
-    },
     {
       "timestamp": "2026-09-01T15:19:21.424273+00:00",
       "new_articles": 0
@@ -7367,6 +7363,10 @@
     },
     {
       "timestamp": "2026-09-21T00:55:27.518272+00:00",
+      "new_articles": 1
+    },
+    {
+      "timestamp": "2026-09-21T10:16:49.561355+00:00",
       "new_articles": 1
     }
   ]
