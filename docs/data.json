@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "ขายมะพร้าวน้ำหอมที่ข้างทางแต่ฝนตกไม่หยุดเลย - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9CODN0cG5SSm5qUy1rX3JjN0NwaE42VjdpUTBudDI0c0FyN1FWMWZ4anNLSkkzZ2lIQnItZnpudHVJUUdNbmF0Vko0aHpKYnZRVkF3TQ?oc=5",
+      "pub_date": "Fri, 25 Sep 2026 04:46:41 GMT",
+      "source": "YouTube",
+      "description_original": "ขายมะพร้าวน้ำหอมที่ข้างทางแต่ฝนตกไม่หยุดเลย&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "3baaea637187",
+      "title_en": "ขายมะพร้าวน้ำหอมที่ข้างทางแต่ฝนตกไม่หยุดเลย - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-09-25T09:54:08.323200+00:00"
+    },
+    {
       "title_original": "“พาณิชย์”ควง สสว. ถก CP Investment ผลักดันนำสินค้า GI ไทย ขายในจีน - commercenewsagency",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1JUXBMLXAxYXYzTnF1RWxIVUtQT0JScGNoRFFHR2dPVW85QlJBVV9FTWpIS1VEWHJMbm9MeER2V1gtTEJaZVlaS3RVbFVuRy1zRXotTlVHQQ?oc=5",
       "pub_date": "Thu, 24 Sep 2026 07:58:24 GMT",
@@ -7090,28 +7104,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-05T12:09:30.144238+00:00"
-    },
-    {
-      "title_original": "“ศุภจี” ลุยราชบุรี ดันล้งชุมชนมะพร้าวน้ำหอม เชื่อมตลาด–ต่อยอด Zero Waste | ข่าวหุ้นธุรกิจ - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVnFXdHV0a3ViSmJUTU5hYzdFNTFTVjEtWXltTWNoUnEyS2tabEZ6UzZsbHF5S0dJakFudHhsaExkNXFmVERXNDJ1Mk9HWWRCMW1fUnJRTWRSMVVXZjh4cnBmMEtia2ZXZVQtcXpHc0o5M096RjZDcXNzWkd3Tlk0Qg?oc=5",
-      "pub_date": "Sat, 04 Jul 2026 10:36:49 GMT",
-      "source": "LINE TODAY",
-      "description_original": "“ศุภจี” ลุยราชบุรี ดันล้งชุมชนมะพร้าวน้ำหอม เชื่อมตลาด–ต่อยอด Zero Waste | ข่าวหุ้นธุรกิจ&nbsp;&nbsp;LINE TODAY",
-      "is_priority_outlet": false,
-      "id": "ae8ceeb150d0",
-      "title_en": "“ศุภจี” ลุยราชบุรี ดันล้งชุมชนมะพร้าวน้ำหอม เชื่อมตลาด–ต่อยอด Zero Waste | ข่าวหุ้นธุรกิจ - LINE TODAY",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-05T07:51:15.806497+00:00"
     }
   ],
-  "last_updated": "2026-09-25T01:15:30.114087+00:00",
+  "last_updated": "2026-09-25T09:54:08.323200+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-09-05T00:43:22.924833+00:00",
-      "new_articles": 1
-    },
     {
       "timestamp": "2026-09-05T08:41:26.928821+00:00",
       "new_articles": 2
@@ -7347,6 +7343,10 @@
     {
       "timestamp": "2026-09-25T01:15:30.114087+00:00",
       "new_articles": 2
+    },
+    {
+      "timestamp": "2026-09-25T09:54:08.323200+00:00",
+      "new_articles": 1
     }
   ]
 }
