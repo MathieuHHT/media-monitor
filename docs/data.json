@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "Satisfying No-Look Coconut Cutting Master 🥥 - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85dDcyNFRwYlM5Q1pTVV9MMjZJX2RfSnRLYzJMMmVYa2RBV1NINmtsTzJQWlFfaW9XOERBZ25MTndoVDlmN09SVUM3MTZ3RXRzb0ExMw?oc=5",
+      "pub_date": "Sat, 26 Sep 2026 01:49:06 GMT",
+      "source": "YouTube",
+      "description_original": "Satisfying No-Look Coconut Cutting Master 🥥&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "3c26c16be87d",
+      "title_en": "Satisfying No-Look Coconut Cutting Master 🥥 - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-09-28T11:19:24.781025+00:00"
+    },
+    {
       "title_original": "เพิ่มโอกาสการค้า สร้างเครือข่ายธุรกิจ GI ไทยในจีน \"พาณิชย์\" ใช้ทรัพย์สินทางปัญญาขับเคลื่อนเศรษฐกิจ - thairath.co.th",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96d2d5UmoyeU9WN1ViVFhhaklMSUYyZTRKTWRVcFMwZVVrQUcyNzZmUXNIN0xVQ2IxV3VsSi02UXJmNmFOQ1pUMkF0S2h1ZVZnVHVoX1JXejFkNmhyYzktSzNGWWRrWWNETFo0YzBSQ2puUkE?oc=5",
       "pub_date": "Sun, 27 Sep 2026 22:00:00 GMT",
@@ -7083,28 +7097,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-06T08:53:52.897009+00:00"
-    },
-    {
-      "title_original": "พาณิชย์ลงพื้นที่ราชบุรี ติดตามความก้าวหน้า “ล้งชุมชนมะพร้าวน้ำหอม” ต้นแบบ ยกระดับระบบมะพร้าวไทยทั้งห - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44UXQwNm9SVW1DTXNlM29iRFp4WmlTaFFOdTV0OXJFYkpyNzE0TE04NjhfaVBjdmVyd1FLQ3lZZXpiV2llZG9QVVZORUxmOVJDZ3lqUktB?oc=5",
-      "pub_date": "Sun, 05 Jul 2026 16:30:35 GMT",
-      "source": "YouTube",
-      "description_original": "พาณิชย์ลงพื้นที่ราชบุรี ติดตามความก้าวหน้า “ล้งชุมชนมะพร้าวน้ำหอม” ต้นแบบ ยกระดับระบบมะพร้าวไทยทั้งห&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "037040bb24f2",
-      "title_en": "พาณิชย์ลงพื้นที่ราชบุรี ติดตามความก้าวหน้า “ล้งชุมชนมะพร้าวน้ำหอม” ต้นแบบ ยกระดับระบบมะพร้าวไทยทั้งห - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-06T08:53:52.897009+00:00"
     }
   ],
-  "last_updated": "2026-09-28T01:27:46.699476+00:00",
+  "last_updated": "2026-09-28T11:19:24.781025+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-09-08T01:00:17.989065+00:00",
-      "new_articles": 1
-    },
     {
       "timestamp": "2026-09-08T09:13:20.566007+00:00",
       "new_articles": 1
@@ -7340,6 +7336,10 @@
     {
       "timestamp": "2026-09-28T01:27:46.699476+00:00",
       "new_articles": 2
+    },
+    {
+      "timestamp": "2026-09-28T11:19:24.781025+00:00",
+      "new_articles": 1
     }
   ]
 }
