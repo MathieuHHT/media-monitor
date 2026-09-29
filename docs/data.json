@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "ที่นอนฟองน้ำ+ใยมะพร้าว สัมผัสที่นุ่มลื่นเย็นสบาย กระจายน้ำหนักได้ดี #ที่นอนใหม่ของคุณ - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmeXk1WTZaWTdOeHBPNFd1QzRyZjBIZkVUQTY4cjhGRi1XcDk1WkN2Z00wU1pidnVjSjVaZ2UzY1NOUENNaVZ3S1V0bUlGMlprZWhieURR?oc=5",
+      "pub_date": "Sun, 27 Sep 2026 17:58:30 GMT",
+      "source": "YouTube",
+      "description_original": "ที่นอนฟองน้ำ+ใยมะพร้าว สัมผัสที่นุ่มลื่นเย็นสบาย กระจายน้ำหนักได้ดี #ที่นอนใหม่ของคุณ&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "fde8009734aa",
+      "title_en": "ที่นอนฟองน้ำ+ใยมะพร้าว สัมผัสที่นุ่มลื่นเย็นสบาย กระจายน้ำหนักได้ดี #ที่นอนใหม่ของคุณ - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-09-29T02:30:55.715159+00:00"
+    },
+    {
       "title_original": "Satisfying No-Look Coconut Cutting Master 🥥 - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85dDcyNFRwYlM5Q1pTVV9MMjZJX2RfSnRLYzJMMmVYa2RBV1NINmtsTzJQWlFfaW9XOERBZ25MTndoVDlmN09SVUM3MTZ3RXRzb0ExMw?oc=5",
       "pub_date": "Sat, 26 Sep 2026 01:49:06 GMT",
@@ -7083,32 +7097,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-06T08:53:52.897009+00:00"
-    },
-    {
-      "title_original": "ใช้ล้งชุมชน ทลายวงจรกดราคามะพร้าวน้ำหอม : รอบวันทันเหตุการณ์ 12.00น./ วันที่ 06 ก.ค. 69 - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rUUNBcnJleVBQYzQ5bVFaUHhyZHR0dEE2YWI1WF9KSi1SdENBcHJ3WDN3ZGNFN0R3cVBfaEZqaGY0aWxtTUJpalBFdXI2bnR0NmEzZ1NB?oc=5",
-      "pub_date": "Mon, 06 Jul 2026 06:41:19 GMT",
-      "source": "YouTube",
-      "description_original": "ใช้ล้งชุมชน ทลายวงจรกดราคามะพร้าวน้ำหอม : รอบวันทันเหตุการณ์ 12.00น./ วันที่ 06 ก.ค. 69&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "bda0d6f4fa29",
-      "title_en": "ใช้ล้งชุมชน ทลายวงจรกดราคามะพร้าวน้ำหอม : รอบวันทันเหตุการณ์ 12.00น./ วันที่ 06 ก.ค. 69 - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-06T08:53:52.897009+00:00"
     }
   ],
-  "last_updated": "2026-09-28T18:18:40.037613+00:00",
+  "last_updated": "2026-09-29T02:30:55.715159+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-09-08T09:13:20.566007+00:00",
-      "new_articles": 1
-    },
-    {
-      "timestamp": "2026-09-08T14:49:30.121055+00:00",
-      "new_articles": 1
-    },
     {
       "timestamp": "2026-09-09T01:05:58.341848+00:00",
       "new_articles": 3
@@ -7344,6 +7336,10 @@
     {
       "timestamp": "2026-09-28T18:18:40.037625+00:00",
       "new_articles": 0
+    },
+    {
+      "timestamp": "2026-09-29T02:30:55.715159+00:00",
+      "new_articles": 1
     }
   ]
 }
