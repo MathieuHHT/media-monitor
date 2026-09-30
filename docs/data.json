@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "ขับเคลื่อนงานวิจัยปุ๋ยมะพร้าวน้ำหอมสงขลา( สวพ8 2567-2569) - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yQ0FWb0FmblYweHFFMDZuQmV1UG13VmRvcG5NVnNHQ2JyT3ZtXzZkOFIyMm5NU1Vjd2w1RjdTX3Y0ME9QM1JBSDMyektCUDdqOTNmLVpn?oc=5",
+      "pub_date": "Mon, 28 Sep 2026 06:27:49 GMT",
+      "source": "YouTube",
+      "description_original": "ขับเคลื่อนงานวิจัยปุ๋ยมะพร้าวน้ำหอมสงขลา( สวพ8 2567-2569)&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "9977231f3820",
+      "title_en": "ขับเคลื่อนงานวิจัยปุ๋ยมะพร้าวน้ำหอมสงขลา( สวพ8 2567-2569) - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-09-30T16:33:10.913228+00:00"
+    },
+    {
       "title_original": "กรมทรัพย์สินทางปัญญา ลุยต่อยอดตลาด GI ไทยในจีนนำผู้ประกอบการบุกปักกิ่ง เชื่อมคู่ค้า ขยายช่องทางจำหน่ายแดนมังกร - ThaiPR.NET",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6WFJMVVQzLXItQ3BkSkQtbUM2NkdXNGhVVGVQVzBYR2h4dFpwcjEzNDVhM0RHME1vdU9MVE5nblVGNWxadG9SM3lCc0hjSnM?oc=5",
       "pub_date": "Wed, 23 Sep 2026 05:32:35 GMT",
@@ -7076,47 +7090,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-06T08:53:52.897009+00:00"
-    },
-    {
-      "title_original": "กรมพัฒนาธุรกิจการค้า ลุยเช็กบิล นอมินีธุรกิจนำเที่ยว| เที่ยงทันข่าว | 6 ก.ค. 69 - pptvhd36",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoUXE0V09YTWJCbGh0UTNHeDhCRzdYM25iWjVpOTNzOFlmdk5YcnRJaEtSaFZrOFF3dy1vZ0VPNG96c2lxaV9nUC1zU2gtekZBLWRUQQ?oc=5",
-      "pub_date": "Mon, 06 Jul 2026 07:45:00 GMT",
-      "source": "pptvhd36",
-      "description_original": "กรมพัฒนาธุรกิจการค้า ลุยเช็กบิล นอมินีธุรกิจนำเที่ยว| เที่ยงทันข่าว | 6 ก.ค. 69&nbsp;&nbsp;pptvhd36",
-      "is_priority_outlet": true,
-      "id": "3176d76f2a9d",
-      "title_en": "กรมพัฒนาธุรกิจการค้า ลุยเช็กบิล นอมินีธุรกิจนำเที่ยว| เที่ยงทันข่าว | 6 ก.ค. 69 - pptvhd36",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [
-        {
-          "key": "poonpong",
-          "name_en": "Poonpong Naiyanapakorn",
-          "role": "Director General, Department of Business Development",
-          "priority": "high"
-        }
-      ],
-      "first_seen": "2026-07-06T08:53:52.897009+00:00"
     }
   ],
-  "last_updated": "2026-09-30T10:47:52.881970+00:00",
+  "last_updated": "2026-09-30T16:33:10.913228+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-09-09T09:16:55.187070+00:00",
-      "new_articles": 4
-    },
-    {
-      "timestamp": "2026-09-09T14:55:29.983455+00:00",
-      "new_articles": 1
-    },
-    {
-      "timestamp": "2026-09-10T00:54:42.394704+00:00",
-      "new_articles": 0
-    },
-    {
-      "timestamp": "2026-09-10T09:15:41.922291+00:00",
-      "new_articles": 7
-    },
     {
       "timestamp": "2026-09-10T14:41:57.658080+00:00",
       "new_articles": 1
@@ -7352,6 +7329,10 @@
     {
       "timestamp": "2026-09-30T10:47:52.881985+00:00",
       "new_articles": 0
+    },
+    {
+      "timestamp": "2026-09-30T16:33:10.913228+00:00",
+      "new_articles": 1
     }
   ]
 }
