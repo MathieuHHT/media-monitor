@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "ขายมะพร้าวน้ำหอม ลูกค้า มาซื้อถึงสวน#สวนมะพร้าวน้ำหอม - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lRUlaWm15RXlVOWNEaWkzSFRsTUhqTlBrakZZUFRnX0l3T00tQ0cyZ0FDQ2RReF83Q1Q5akxrclFHVHpRNVhGVXNreGIzVm56QmlnbTNR?oc=5",
+      "pub_date": "Mon, 28 Sep 2026 01:43:57 GMT",
+      "source": "YouTube",
+      "description_original": "ขายมะพร้าวน้ำหอม ลูกค้า มาซื้อถึงสวน#สวนมะพร้าวน้ำหอม&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "47852c3cab86",
+      "title_en": "ขายมะพร้าวน้ำหอม ลูกค้า มาซื้อถึงสวน#สวนมะพร้าวน้ำหอม - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-10-01T17:11:43.085365+00:00"
+    },
+    {
       "title_original": "พาณิชย์ หวังดึง 43 สถานทูตในประเทศไทย ร่วมดูแลนักลงทุนต่างชาติ ส่งข้อมูลบริษัทจำกัดให้กว่า 100,000 ราย - moc.go.th",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFbExudTRvMU1tdThTTHV4NVJWYVNxOFJ3VmRyUXI0enppZXI2Wnk0Y1V4M2hjN0J2RTVsUXFnZTR6Vlczc1BmX3pyUU94WXlvLXBnOG5QeF9CZXpmYjUtTU9ld1BJTVlzUjhJVXZrMA?oc=5",
       "pub_date": "Wed, 30 Sep 2026 10:51:18 GMT",
@@ -7076,28 +7090,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-06T08:53:52.897009+00:00"
-    },
-    {
-      "title_original": "\"พาณิชย์\" เปิดรายชื่อ 11 กลุ่มธุรกิจเสี่ยงนอมินีต่างชาติ เร่งลุยปราบต่อเนื่อง! - TrueID",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YaVNMZHFhV0gwY1hKNDNYX1hMVmFDemQ4YVRWX0FWTWwydGl6RlJJcHhaMDNHeDBnTmxEX19lT3BTMGV3d1FsbExCV3FGQW9WTVFzbUh3?oc=5",
-      "pub_date": "Sun, 05 Jul 2026 23:30:00 GMT",
-      "source": "TrueID",
-      "description_original": "\"พาณิชย์\" เปิดรายชื่อ 11 กลุ่มธุรกิจเสี่ยงนอมินีต่างชาติ เร่งลุยปราบต่อเนื่อง!&nbsp;&nbsp;TrueID",
-      "is_priority_outlet": false,
-      "id": "68ae9224f790",
-      "title_en": "\"พาณิชย์\" เปิดรายชื่อ 11 กลุ่มธุรกิจเสี่ยงนอมินีต่างชาติ เร่งลุยปราบต่อเนื่อง! - TrueID",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-06T08:53:52.897009+00:00"
     }
   ],
-  "last_updated": "2026-10-01T11:14:26.074212+00:00",
+  "last_updated": "2026-10-01T17:11:43.085365+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-09-11T09:14:28.287476+00:00",
-      "new_articles": 2
-    },
     {
       "timestamp": "2026-09-11T14:43:20.005747+00:00",
       "new_articles": 1
@@ -7332,6 +7328,10 @@
     },
     {
       "timestamp": "2026-10-01T11:14:26.074212+00:00",
+      "new_articles": 1
+    },
+    {
+      "timestamp": "2026-10-01T17:11:43.085365+00:00",
       "new_articles": 1
     }
   ]
