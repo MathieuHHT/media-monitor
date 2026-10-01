@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "พาณิชย์ หวังดึง 43 สถานทูตในประเทศไทย ร่วมดูแลนักลงทุนต่างชาติ ส่งข้อมูลบริษัทจำกัดให้กว่า 100,000 ราย - moc.go.th",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFbExudTRvMU1tdThTTHV4NVJWYVNxOFJ3VmRyUXI0enppZXI2Wnk0Y1V4M2hjN0J2RTVsUXFnZTR6Vlczc1BmX3pyUU94WXlvLXBnOG5QeF9CZXpmYjUtTU9ld1BJTVlzUjhJVXZrMA?oc=5",
+      "pub_date": "Wed, 30 Sep 2026 10:51:18 GMT",
+      "source": "moc.go.th",
+      "description_original": "พาณิชย์ หวังดึง 43 สถานทูตในประเทศไทย ร่วมดูแลนักลงทุนต่างชาติ ส่งข้อมูลบริษัทจำกัดให้กว่า 100,000 ราย&nbsp;&nbsp;moc.go.th",
+      "is_priority_outlet": false,
+      "id": "09b94daa9567",
+      "title_en": "พาณิชย์ หวังดึง 43 สถานทูตในประเทศไทย ร่วมดูแลนักลงทุนต่างชาติ ส่งข้อมูลบริษัทจำกัดให้กว่า 100,000 ราย - moc.go.th",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-10-01T11:14:26.074212+00:00"
+    },
+    {
       "title_original": "หลังออกกำลังกาย ต้องดื่มมะพร้าวจริงไหม ? | Sports Round U - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fVFhmSld4YS1id3U4YzNWUlIydDd2SlQzLUM2V1VEM09WMWFtdHhpbTJYRWRUeGs3c3UtLW5hWnNoYlZ5Y0h4WWRpQmxwakdRSERiamdB?oc=5",
       "pub_date": "Sun, 27 Sep 2026 08:10:27 GMT",
@@ -7076,28 +7090,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-06T08:53:52.897009+00:00"
-    },
-    {
-      "title_original": "พาณิชย์ลุยนอมินีรอบใหม่ 1 ส.ค. ปิดช่องต่างชาติอำพรางธุรกิจไทย - ประชาชาติธุรกิจ",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQeFA4TEFab0ZyMjBManFWQUlMM1lPeE93WUZJd2xjUjB6NkVjd2lEV3R0NTBkRmduYWN0WFVfVkdRRHJ3OHdlV3VhcWpLU3dCQVJZZmNDUFlXMWFJ?oc=5",
-      "pub_date": "Mon, 06 Jul 2026 06:40:42 GMT",
-      "source": "ประชาชาติธุรกิจ",
-      "description_original": "พาณิชย์ลุยนอมินีรอบใหม่ 1 ส.ค. ปิดช่องต่างชาติอำพรางธุรกิจไทย&nbsp;&nbsp;ประชาชาติธุรกิจ",
-      "is_priority_outlet": false,
-      "id": "8287edc42d06",
-      "title_en": "พาณิชย์ลุยนอมินีรอบใหม่ 1 ส.ค. ปิดช่องต่างชาติอำพรางธุรกิจไทย - ประชาชาติธุรกิจ",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-06T08:53:52.897009+00:00"
     }
   ],
-  "last_updated": "2026-10-01T01:53:24.226861+00:00",
+  "last_updated": "2026-10-01T11:14:26.074212+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-09-11T00:52:10.493376+00:00",
-      "new_articles": 1
-    },
     {
       "timestamp": "2026-09-11T09:14:28.287476+00:00",
       "new_articles": 2
@@ -7332,6 +7328,10 @@
     },
     {
       "timestamp": "2026-10-01T01:53:24.226861+00:00",
+      "new_articles": 1
+    },
+    {
+      "timestamp": "2026-10-01T11:14:26.074212+00:00",
       "new_articles": 1
     }
   ]
