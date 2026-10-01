@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "หลังออกกำลังกาย ต้องดื่มมะพร้าวจริงไหม ? | Sports Round U - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fVFhmSld4YS1id3U4YzNWUlIydDd2SlQzLUM2V1VEM09WMWFtdHhpbTJYRWRUeGs3c3UtLW5hWnNoYlZ5Y0h4WWRpQmxwakdRSERiamdB?oc=5",
+      "pub_date": "Sun, 27 Sep 2026 08:10:27 GMT",
+      "source": "YouTube",
+      "description_original": "หลังออกกำลังกาย ต้องดื่มมะพร้าวจริงไหม ? | Sports Round U&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "9124a8a26b0e",
+      "title_en": "หลังออกกำลังกาย ต้องดื่มมะพร้าวจริงไหม ? | Sports Round U - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-10-01T01:53:24.226861+00:00"
+    },
+    {
       "title_original": "ขับเคลื่อนงานวิจัยปุ๋ยมะพร้าวน้ำหอมสงขลา( สวพ8 2567-2569) - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yQ0FWb0FmblYweHFFMDZuQmV1UG13VmRvcG5NVnNHQ2JyT3ZtXzZkOFIyMm5NU1Vjd2w1RjdTX3Y0ME9QM1JBSDMyektCUDdqOTNmLVpn?oc=5",
       "pub_date": "Mon, 28 Sep 2026 06:27:49 GMT",
@@ -7076,28 +7090,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-06T08:53:52.897009+00:00"
-    },
-    {
-      "title_original": "พณ. กางสถิติมาตรการสกัด “นอมินี” ลดฮวบ 65% - TNN",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxMDlxRWNSdW15dVpPX0h6dW9UMERHSUhxeUloWGpRSWhPU3VaMk4zRWduNjBWUzlvNUxfTjBONk5OUWIwVjFPYjY2U0lVT0xEbU8zTw?oc=5",
-      "pub_date": "Sat, 04 Jul 2026 06:43:49 GMT",
-      "source": "TNN",
-      "description_original": "พณ. กางสถิติมาตรการสกัด “นอมินี” ลดฮวบ 65%&nbsp;&nbsp;TNN",
-      "is_priority_outlet": false,
-      "id": "aff20f04e002",
-      "title_en": "พณ. กางสถิติมาตรการสกัด “นอมินี” ลดฮวบ 65% - TNN",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-06T08:53:52.897009+00:00"
     }
   ],
-  "last_updated": "2026-09-30T16:33:10.913228+00:00",
+  "last_updated": "2026-10-01T01:53:24.226861+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-09-10T14:41:57.658080+00:00",
-      "new_articles": 1
-    },
     {
       "timestamp": "2026-09-11T00:52:10.493376+00:00",
       "new_articles": 1
@@ -7332,6 +7328,10 @@
     },
     {
       "timestamp": "2026-09-30T16:33:10.913228+00:00",
+      "new_articles": 1
+    },
+    {
+      "timestamp": "2026-10-01T01:53:24.226861+00:00",
       "new_articles": 1
     }
   ]
