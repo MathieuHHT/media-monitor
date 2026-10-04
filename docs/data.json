@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "มะพร้าวน้ำหอมบ้านแพ้วปลูกที่ขอนแก่นต้นเตี้ยลูกดกๆงามๆ#มะพร้าวน้ำหอม#ปลูกผักกินเอ#ของกิน#อร่อย#ฟีด - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tZUd2X2pTX1A4eGc4VFlWcDlrQVVLWXRaWUJFaW5ZeFVGeExqV0UxV3I2bGExdnhsVEQ2eUhKck1ybVN2a0l0MXlsbDBmMjVzMkE4SA?oc=5",
+      "pub_date": "Sun, 04 Oct 2026 00:02:00 GMT",
+      "source": "YouTube",
+      "description_original": "มะพร้าวน้ำหอมบ้านแพ้วปลูกที่ขอนแก่นต้นเตี้ยลูกดกๆงามๆ#มะพร้าวน้ำหอม#ปลูกผักกินเอ#ของกิน#อร่อย#ฟีด&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "605c10e38cb0",
+      "title_en": "มะพร้าวน้ำหอมบ้านแพ้วปลูกที่ขอนแก่นต้นเตี้ยลูกดกๆงามๆ#มะพร้าวน้ำหอม#ปลูกผักกินเอ#ของกิน#อร่อย#ฟีด - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-10-04T02:27:37.509831+00:00"
+    },
+    {
       "title_original": "Coconut Espresso 🥥☕️หรือกาแฟมะพร้าวอีกหนึ่งเมนูขายดี ถูกใจสายสุขภาพ - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BZ0cxdzVMM0puV2t6ZU9Ia3FETnpXcUR3V0phMlVCOVhkc0NQem14UmEwMDUxbXg1bnEyOTNSRzN2OFhhOXVCaEpuTFlJLTcwLXoxdg?oc=5",
       "pub_date": "Fri, 02 Oct 2026 10:22:19 GMT",
@@ -7076,36 +7090,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-07T00:11:37.851924+00:00"
-    },
-    {
-      "title_original": "DITP บุกมาเก๊า! ดันสินค้าไทยขึ้น แพลตฟอร์ม mFood ตั้งเป้าโกย 32 ล้าน - สยามรัฐ",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14Sms1WktfaEUyUkdsSXczRmdDSnppS09tRlRZRXZadVAxOFgwemJka3VwODdpSG1fSUIzMEVNNFNzbW1DUXV2QmFWZlBDWnhIVkxaMEo4UmdNQQ?oc=5",
-      "pub_date": "Mon, 06 Jul 2026 13:37:37 GMT",
-      "source": "สยามรัฐ",
-      "description_original": "DITP บุกมาเก๊า! ดันสินค้าไทยขึ้น แพลตฟอร์ม mFood ตั้งเป้าโกย 32 ล้าน&nbsp;&nbsp;สยามรัฐ",
-      "is_priority_outlet": false,
-      "id": "71277006ad64",
-      "title_en": "DITP บุกมาเก๊า! ดันสินค้าไทยขึ้น แพลตฟอร์ม mFood ตั้งเป้าโกย 32 ล้าน - สยามรัฐ",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-07T00:11:37.851924+00:00"
     }
   ],
-  "last_updated": "2026-10-03T14:59:20.786938+00:00",
+  "last_updated": "2026-10-04T02:27:37.509831+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-09-13T00:41:08.956564+00:00",
-      "new_articles": 0
-    },
-    {
-      "timestamp": "2026-09-13T09:51:45.765043+00:00",
-      "new_articles": 3
-    },
-    {
-      "timestamp": "2026-09-13T14:44:21.409026+00:00",
-      "new_articles": 0
-    },
     {
       "timestamp": "2026-09-14T00:49:45.482332+00:00",
       "new_articles": 2
@@ -7341,6 +7329,10 @@
     {
       "timestamp": "2026-10-03T14:59:20.786949+00:00",
       "new_articles": 0
+    },
+    {
+      "timestamp": "2026-10-04T02:27:37.509831+00:00",
+      "new_articles": 1
     }
   ]
 }
