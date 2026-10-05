@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "เลิศๆแบบนี้ก็ไปมาแล้ว ! เสริฟแซบให้โลกจำ@กะลามะพร้าวมาเป็นครกๆ แถวว่าที่มรดกโลก / กินไปเม้าท์น้องไป - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fYklYdzZ5dEhoR1JaNmZUQ1NoV09VTzFzZGpCUEdyYzIyZV9VOTVGTEtYTUZsdW1nNkhVLWptWkh5M0IwR0R1UVppVEpfelpieVZoenVn?oc=5",
+      "pub_date": "Sun, 04 Oct 2026 23:53:33 GMT",
+      "source": "YouTube",
+      "description_original": "เลิศๆแบบนี้ก็ไปมาแล้ว ! เสริฟแซบให้โลกจำ@กะลามะพร้าวมาเป็นครกๆ แถวว่าที่มรดกโลก / กินไปเม้าท์น้องไป&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "117b9425d2c1",
+      "title_en": "เลิศๆแบบนี้ก็ไปมาแล้ว ! เสริฟแซบให้โลกจำ@กะลามะพร้าวมาเป็นครกๆ แถวว่าที่มรดกโลก / กินไปเม้าท์น้องไป - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-10-05T01:44:38.902424+00:00"
+    },
+    {
       "title_original": "❗️น้ำมะพร้าวแบบขวดผลิตยังไง⁉️โรงงานเมืองไทย🇹🇭 #สาววอนว้าวไทยลาว #น้ำมะพร้าวขวด #โรงงานเมืองไทย🇹🇭 - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HU3ZOYWtSbktvVDdDbWRMREpIUzZXT0V1S0psRHVQM0FnOXFwNEFiU3h0eUFEUUlSTWFhbTZLT2I3ZVBCYktLRl9hbVFrZ3d0eGktOVZB?oc=5",
       "pub_date": "Sun, 04 Oct 2026 00:45:34 GMT",
@@ -7076,28 +7090,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-07T08:13:19.299533+00:00"
-    },
-    {
-      "title_original": "'ศุภจี' ถอดโมเดลมะพร้าวน้ำหอมราชบุรี ชู ‘The Harmony Model’ ดันเกษตรมูลค่าสูง - thansettakij",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDdnVaUlhKTEZaTVZJaWVqem9VR0tjVXRzMlMyekp4aTRPWWRoMVU3aG1RclZiUUJNOHg1S0NyM3k1U01TellMeXh0TDVEY1g3ZTJtajZ3?oc=5",
-      "pub_date": "Tue, 07 Jul 2026 04:25:00 GMT",
-      "source": "thansettakij",
-      "description_original": "'ศุภจี' ถอดโมเดลมะพร้าวน้ำหอมราชบุรี ชู ‘The Harmony Model’ ดันเกษตรมูลค่าสูง&nbsp;&nbsp;thansettakij",
-      "is_priority_outlet": true,
-      "id": "839ce4fa9e37",
-      "title_en": "'ศุภจี' ถอดโมเดลมะพร้าวน้ำหอมราชบุรี ชู ‘The Harmony Model’ ดันเกษตรมูลค่าสูง - thansettakij",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-07T08:13:19.299533+00:00"
     }
   ],
-  "last_updated": "2026-10-04T15:34:18.232245+00:00",
+  "last_updated": "2026-10-05T01:44:38.902424+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-09-14T16:42:09.884561+00:00",
-      "new_articles": 2
-    },
     {
       "timestamp": "2026-09-15T01:16:03.322372+00:00",
       "new_articles": 2
@@ -7333,6 +7329,10 @@
     {
       "timestamp": "2026-10-04T15:34:18.232245+00:00",
       "new_articles": 3
+    },
+    {
+      "timestamp": "2026-10-05T01:44:38.902424+00:00",
+      "new_articles": 1
     }
   ]
 }
