@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "EP2 อัพเดทมะพร้าวพวงร้อย - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1RM1VoNWpTMGU1NGx5UHRLUnY5RDJlMGlyeWEtVEs4VnJaWTdYXzJnMmdFd3pCcFZkOTNrbmIwLTNfTGNDd3JHTzdXdFZVaEYwSzlHXw?oc=5",
+      "pub_date": "Mon, 05 Oct 2026 23:00:20 GMT",
+      "source": "YouTube",
+      "description_original": "EP2 อัพเดทมะพร้าวพวงร้อย&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "c9f2cd6708bd",
+      "title_en": "EP2 อัพเดทมะพร้าวพวงร้อย - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-10-07T02:10:10.984875+00:00"
+    },
+    {
       "title_original": "อคส. เชื่อมสวนสู่โรงงาน เดินหน้าสร้างตลาดมะพร้าวน้ำหอมไทย จับมือ 3 วิสาหกิจชุมชน – 2 โรงงานแปรรูป เชื่อมเกษตรกรสู่ตลาดอย่างเป็นรูปธรรม - moc.go.th",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GbmZXZi1fOE95UUtuX0VncGRUMDQ2RlJQd0UwLWRzUmVSREhrVUs3a1dUTFFzMU5leThlM1ZWWHlDemY1NWNmSmJEcERoZldERDNSWVpxOEl5bVhhSzJaYWxGWThNeHZaUlpIZ0I1NA?oc=5",
       "pub_date": "Fri, 02 Oct 2026 04:35:16 GMT",
@@ -7076,40 +7090,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-07T08:13:19.299533+00:00"
-    },
-    {
-      "title_original": "รัฐช่วยจ่าย 50% พาณิชย์ผุด \"ไทยช่วยไทย แฟรนไชส์สร้างอาชีพ พลัส\" ฟรีค่าเช่า 6 เดือน - Thairath.co.th",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xSkpGYXFTWmx4ak9wOGt2dWEtaXZEdGdQamM0akFWSEZkOTBVYnQtWkE4dmFHa3pzWWkxenB2OHFRLUhES1RKLXBSWU5oQ0lIOThlcVI0MDllVjhoMXdRMUxUOU4yOWc?oc=5",
-      "pub_date": "Tue, 07 Jul 2026 07:04:48 GMT",
-      "source": "Thairath.co.th",
-      "description_original": "รัฐช่วยจ่าย 50% พาณิชย์ผุด \"ไทยช่วยไทย แฟรนไชส์สร้างอาชีพ พลัส\" ฟรีค่าเช่า 6 เดือน&nbsp;&nbsp;Thairath.co.th",
-      "is_priority_outlet": false,
-      "id": "ad138b9c47cd",
-      "title_en": "รัฐช่วยจ่าย 50% พาณิชย์ผุด \"ไทยช่วยไทย แฟรนไชส์สร้างอาชีพ พลัส\" ฟรีค่าเช่า 6 เดือน - Thairath.co.th",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-07T08:13:19.299533+00:00"
     }
   ],
-  "last_updated": "2026-10-06T16:59:40.611824+00:00",
+  "last_updated": "2026-10-07T02:10:10.984875+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-09-15T15:20:33.337782+00:00",
-      "new_articles": 2
-    },
-    {
-      "timestamp": "2026-09-16T01:10:10.668709+00:00",
-      "new_articles": 0
-    },
-    {
-      "timestamp": "2026-09-16T09:34:39.846990+00:00",
-      "new_articles": 3
-    },
-    {
-      "timestamp": "2026-09-16T15:12:49.564457+00:00",
-      "new_articles": 2
-    },
     {
       "timestamp": "2026-09-17T01:11:05.085261+00:00",
       "new_articles": 0
@@ -7345,6 +7329,10 @@
     {
       "timestamp": "2026-10-06T16:59:40.611838+00:00",
       "new_articles": 0
+    },
+    {
+      "timestamp": "2026-10-07T02:10:10.984875+00:00",
+      "new_articles": 1
     }
   ]
 }
