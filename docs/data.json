@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "สิ่งนี้มะพร้าวชอบ เสริมการเจริญเติบโต ติดผลได้ดีขึ้น - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rRG9hZHlXTWVDbnUwRHg5M3VGOHRvZzNfNXRZQTlYWXNzZ3pWVV90TzZ4S1lVX0FNSW1EbzdVUFJtVTR1TXRjc3RzX2pmRjZ6UC15em1B?oc=5",
+      "pub_date": "Sat, 10 Oct 2026 11:30:04 GMT",
+      "source": "YouTube",
+      "description_original": "สิ่งนี้มะพร้าวชอบ เสริมการเจริญเติบโต ติดผลได้ดีขึ้น&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "f83c956f743c",
+      "title_en": "สิ่งนี้มะพร้าวชอบ เสริมการเจริญเติบโต ติดผลได้ดีขึ้น - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-10-10T16:01:49.470087+00:00"
+    },
+    {
       "title_original": "Sharp Knife Coconut Cutting Skills | มีดคมจัด! ปอกมะพร้าวอย่างง่าย มะพร้าวน้ำหอมลูกสวย - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QZE1lM29tTTNCV3huV2lueXN3NUJRMU1GcDYzbWRKbFJhYnVzY0RaTFN6bUJac0pVanhpR3Vld3VTS3IxVFF5UExhd1otd1dWVHlFVA?oc=5",
       "pub_date": "Sat, 10 Oct 2026 02:00:36 GMT",
@@ -7083,28 +7097,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-09T13:43:55.935862+00:00"
-    },
-    {
-      "title_original": "สหรัฐ-อิหร่านตึงเครียด ฉุดเงินบาทอ่อนค่าสุดในรอบ 14 เดือน แตะ 33.54 บาท - เดลินิวส์",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WOFdQV0dTdUhqemluZ08ta1RIcEdRNENqZnNGYlhMV0NsR3Y4RnRYVU93dGxqQlJhVUQ5N193SF94RjBjRzVVLU02elp5TmY1MUdV?oc=5",
-      "pub_date": "Thu, 09 Jul 2026 03:24:00 GMT",
-      "source": "เดลินิวส์",
-      "description_original": "สหรัฐ-อิหร่านตึงเครียด ฉุดเงินบาทอ่อนค่าสุดในรอบ 14 เดือน แตะ 33.54 บาท&nbsp;&nbsp;เดลินิวส์",
-      "is_priority_outlet": false,
-      "id": "a91e1e36d9d5",
-      "title_en": "สหรัฐ-อิหร่านตึงเครียด ฉุดเงินบาทอ่อนค่าสุดในรอบ 14 เดือน แตะ 33.54 บาท - เดลินิวส์",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-09T13:43:55.935862+00:00"
     }
   ],
-  "last_updated": "2026-10-10T10:51:43.771161+00:00",
+  "last_updated": "2026-10-10T16:01:49.470087+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-09-20T09:30:12.582741+00:00",
-      "new_articles": 1
-    },
     {
       "timestamp": "2026-09-20T14:23:15.731334+00:00",
       "new_articles": 1
@@ -7340,6 +7336,10 @@
     {
       "timestamp": "2026-10-10T10:51:43.771161+00:00",
       "new_articles": 2
+    },
+    {
+      "timestamp": "2026-10-10T16:01:49.470087+00:00",
+      "new_articles": 1
     }
   ]
 }
