@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "สาวลาวคิดเงิน￼ราคามะพร้าว ลาวกับที่ไทย ￼￼￼🇱🇦🇹🇭 ￼ ห่างกันราคาเท่าไหร่? ที่เราถูกจริงไหม …#สาวลาว - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mc2lQMjVlSEZ0cndITVA4MlJiZThHQlhTOEczN1FPaW9WMVctb0JQeWxvX2tjSEhONGV1NVFlYUp3MTI0bEg3TVQycVZYWE5tYkxpSFln?oc=5",
+      "pub_date": "Thu, 08 Oct 2026 12:45:50 GMT",
+      "source": "YouTube",
+      "description_original": "สาวลาวคิดเงิน￼ราคามะพร้าว ลาวกับที่ไทย ￼￼￼🇱🇦🇹🇭 ￼ ห่างกันราคาเท่าไหร่? ที่เราถูกจริงไหม …#สาวลาว&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "5359d5c3fa18",
+      "title_en": "สาวลาวคิดเงิน￼ราคามะพร้าว ลาวกับที่ไทย ￼￼￼🇱🇦🇹🇭 ￼ ห่างกันราคาเท่าไหร่? ที่เราถูกจริงไหม …#สาวลาว - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-10-11T11:04:26.007149+00:00"
+    },
+    {
       "title_original": "บ้านสร้างยังอ่วม ฝนซ้ำน้ำท่วม ป้าตั้งกระต่ายขูดมะพร้าวตัดฝน | ข่าวอรุณอมรินทร์ | 11/10/69 - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZVmV1SWN1VVJsbl9OdmpwU3pSNDB5X3ZscFFkZnJwQ0czczJGdi1yUUt3UFoxSkRzZ1N0NDZpdlNlTkt4a21QX3FVWEhBejFxNEVodndB?oc=5",
       "pub_date": "Sun, 11 Oct 2026 01:05:17 GMT",
@@ -7083,28 +7097,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-10T08:14:35.412330+00:00"
-    },
-    {
-      "title_original": "ปลูกมะพร้าวน้ำหอม #manasrichan #สร้างอนาคต #โคกหนองนา #farming #shorts #มะพร้าวน้ำหอม #เกษตร #ปลา - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4tckF0YUw0RXVJdHpuZ0p4RUUtUHRRb2t2Y1hVZEF0dG9XNFNrVUtMUEVybUlKTEtfUllibnphYXBBVHQ2WUpXejB5WmplY0FVLWlUSw?oc=5",
-      "pub_date": "Fri, 10 Jul 2026 01:10:11 GMT",
-      "source": "YouTube",
-      "description_original": "ปลูกมะพร้าวน้ำหอม #manasrichan #สร้างอนาคต #โคกหนองนา #farming #shorts #มะพร้าวน้ำหอม #เกษตร #ปลา&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "c2929ccc89cc",
-      "title_en": "ปลูกมะพร้าวน้ำหอม #manasrichan #สร้างอนาคต #โคกหนองนา #farming #shorts #มะพร้าวน้ำหอม #เกษตร #ปลา - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-10T08:14:35.412330+00:00"
     }
   ],
-  "last_updated": "2026-10-11T01:40:29.545901+00:00",
+  "last_updated": "2026-10-11T11:04:26.007149+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-09-21T00:55:27.518272+00:00",
-      "new_articles": 1
-    },
     {
       "timestamp": "2026-09-21T10:16:49.561355+00:00",
       "new_articles": 1
@@ -7340,6 +7336,10 @@
     {
       "timestamp": "2026-10-11T01:40:29.545901+00:00",
       "new_articles": 2
+    },
+    {
+      "timestamp": "2026-10-11T11:04:26.007149+00:00",
+      "new_articles": 1
     }
   ]
 }
