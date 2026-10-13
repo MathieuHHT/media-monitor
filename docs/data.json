@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "เคยได้ยินคำว่า “มะพร้าวถอดเสื้อ” กันไหม? #วรรณ - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFYUNRQ3Eyd184bFRLcGNwbU94QTQtcUJ1LTZOS24yZV9Ta2NpRnJFS0hiRzRlMzhpT2YydFZoRXBaWVhXZlBUNEx5eGVXS3lxWEUxV2l3?oc=5",
+      "pub_date": "Mon, 12 Oct 2026 11:00:01 GMT",
+      "source": "YouTube",
+      "description_original": "เคยได้ยินคำว่า “มะพร้าวถอดเสื้อ” กันไหม? #วรรณ&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "974ee83e9d94",
+      "title_en": "เคยได้ยินคำว่า “มะพร้าวถอดเสื้อ” กันไหม? #วรรณ - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-10-13T12:17:05.568460+00:00"
+    },
+    {
       "title_original": "MALEE COCO มาลี โคโค่ น้ำมะพร้าวผสมมะพร้าวน้ำหอม 100% ขนาด 1000 มล. - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sbDBmMHVFX0VFTVFSSEkzdWRPWnF2ck5jdkVTS2RVMUp4cEx3V24wSDlEYzduR3BCN1U1bENET1VLbWtFU0lwV204RVlta0t0T0lLcw?oc=5",
       "pub_date": "Mon, 12 Oct 2026 16:24:19 GMT",
@@ -7083,32 +7097,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-10T13:04:27.403982+00:00"
-    },
-    {
-      "title_original": "‘ศุภจี’ มาแล้ว ย้ำไม่ได้หาย เน้นทำคอนเทนต์เน้นทำงาน แจงยาววิกฤตทุกเรื่องแก้อยู่ - workpointtoday.com",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9za2hrWmVuNS0zcDdyVDJFdVNoeWFTaDJnU2FwMXZ0Mm9vSG05TzZIamg0ajVlZWVBY0wtRmh2Y2hfOTUweWRwZmZHd253RU9jYkE?oc=5",
-      "pub_date": "Fri, 10 Jul 2026 10:13:04 GMT",
-      "source": "workpointtoday.com",
-      "description_original": "‘ศุภจี’ มาแล้ว ย้ำไม่ได้หาย เน้นทำคอนเทนต์เน้นทำงาน แจงยาววิกฤตทุกเรื่องแก้อยู่&nbsp;&nbsp;workpointtoday.com",
-      "is_priority_outlet": false,
-      "id": "7ca9f1a23311",
-      "title_en": "‘ศุภจี’ มาแล้ว ย้ำไม่ได้หาย เน้นทำคอนเทนต์เน้นทำงาน แจงยาววิกฤตทุกเรื่องแก้อยู่ - workpointtoday.com",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-10T13:04:27.403982+00:00"
     }
   ],
-  "last_updated": "2026-10-13T03:24:42.473869+00:00",
+  "last_updated": "2026-10-13T12:17:05.568460+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-09-22T15:16:43.310479+00:00",
-      "new_articles": 2
-    },
-    {
-      "timestamp": "2026-09-23T01:19:35.845217+00:00",
-      "new_articles": 3
-    },
     {
       "timestamp": "2026-09-23T09:37:18.491340+00:00",
       "new_articles": 5
@@ -7344,6 +7336,10 @@
     {
       "timestamp": "2026-10-13T03:24:42.473884+00:00",
       "new_articles": 0
+    },
+    {
+      "timestamp": "2026-10-13T12:17:05.568460+00:00",
+      "new_articles": 1
     }
   ]
 }
