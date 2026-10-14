@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "จัดวุ้นตะกร้าดอกไม้ #วุ้นชลบุรี #เค้กวุ้นชลบุรี #วุ้นวันเกิด #วุ้นดอกไม้ #วุ้นกะทิมะพร้าวน้ำหอม - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5NVy1PVFRNTGRqUFNjNXowSHQ2Y20wNlJoUGx5Vml4WWg0M0x6elBPbXBXZllDTlpQTlVja19sOV82M2Z6N2hhanpmZGoxY25KY2xmVQ?oc=5",
+      "pub_date": "Tue, 13 Oct 2026 12:51:21 GMT",
+      "source": "YouTube",
+      "description_original": "จัดวุ้นตะกร้าดอกไม้ #วุ้นชลบุรี #เค้กวุ้นชลบุรี #วุ้นวันเกิด #วุ้นดอกไม้ #วุ้นกะทิมะพร้าวน้ำหอม&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "6997043ec082",
+      "title_en": "จัดวุ้นตะกร้าดอกไม้ #วุ้นชลบุรี #เค้กวุ้นชลบุรี #วุ้นวันเกิด #วุ้นดอกไม้ #วุ้นกะทิมะพร้าวน้ำหอม - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-10-14T09:49:17.217712+00:00"
+    },
+    {
       "title_original": "วันนี้น้องโดล้าขึ้นต้นมะพร้าว ￼ หอมหวานสดชื่น ￼ - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DazdGX2c5cVpVWnJzUFBhdUVRZEZBSDJsQ3gtVVFmcHVrMlh3aUo1TFh5WXItcUp2ajVESmo1VTI3ZkJSVGpna0dSN2MxTXVLNHVNQVZR?oc=5",
       "pub_date": "Wed, 07 Oct 2026 10:18:26 GMT",
@@ -7083,28 +7097,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-11T07:04:26.027002+00:00"
-    },
-    {
-      "title_original": "พาณิชย์ปั้น \"ล้งชุมชนมะพร้าว\" ดัน Zero Waste ยกระดับทั้งห่วงโซ่ - TrueID",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtZC1MVVltbTVCaXF6WjdVWWYwcloyOFhaQjBSWE9hcGh3SW5Na1BzU3RoMW1FNFkyNlRrX3E5bkY2U05RSjQ2ZnlUOTNCZldGa2F4QUl3?oc=5",
-      "pub_date": "Sat, 04 Jul 2026 09:30:00 GMT",
-      "source": "TrueID",
-      "description_original": "พาณิชย์ปั้น \"ล้งชุมชนมะพร้าว\" ดัน Zero Waste ยกระดับทั้งห่วงโซ่&nbsp;&nbsp;TrueID",
-      "is_priority_outlet": false,
-      "id": "6d2e46aa7eef",
-      "title_en": "พาณิชย์ปั้น \"ล้งชุมชนมะพร้าว\" ดัน Zero Waste ยกระดับทั้งห่วงโซ่ - TrueID",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-11T00:01:30.855518+00:00"
     }
   ],
-  "last_updated": "2026-10-14T01:41:15.644187+00:00",
+  "last_updated": "2026-10-14T09:49:17.217712+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-09-24T01:14:21.929529+00:00",
-      "new_articles": 0
-    },
     {
       "timestamp": "2026-09-24T09:36:46.115068+00:00",
       "new_articles": 1
@@ -7340,6 +7336,10 @@
     {
       "timestamp": "2026-10-14T01:41:15.644187+00:00",
       "new_articles": 2
+    },
+    {
+      "timestamp": "2026-10-14T09:49:17.217712+00:00",
+      "new_articles": 1
     }
   ]
 }
