@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "วุ้นการ์ตูนไดโนเสาร์ #วุ้นชลบุรี #เค้กวุ้นชลบุรี #วุ้นการ์ตูน #วุ้นแฟนซี #วุ้นกะทิมะพร้าวน้ำหอม - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9IUm5FLXdtbGdQQUhMV1ROUDdxNi1JQzJrWnZjT2EyZWFCT2U2bWZrU1pvVVYtQlp0WF9PNW1zZVRSM2txTTNJZnFlX2RBbEo0a3VjTQ?oc=5",
+      "pub_date": "Fri, 09 Oct 2026 01:00:03 GMT",
+      "source": "YouTube",
+      "description_original": "วุ้นการ์ตูนไดโนเสาร์ #วุ้นชลบุรี #เค้กวุ้นชลบุรี #วุ้นการ์ตูน #วุ้นแฟนซี #วุ้นกะทิมะพร้าวน้ำหอม&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "8df0a9b8e73e",
+      "title_en": "วุ้นการ์ตูนไดโนเสาร์ #วุ้นชลบุรี #เค้กวุ้นชลบุรี #วุ้นการ์ตูน #วุ้นแฟนซี #วุ้นกะทิมะพร้าวน้ำหอม - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-10-15T15:24:25.208830+00:00"
+    },
+    {
       "title_original": "มะพร้าวน้ำหอมบ้านแพ้ว พร้อมปลูก /098-8877925 - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZNUNBcTNvVWs3VFBQLXlWckp6UTFWbS1Dbk9sQko0QU5MVFo4VFFDMnVuSFFCLTFocVBKUlVsQmNDcnowT0NSNnZTakpUSF84UEtuUFpn?oc=5",
       "pub_date": "Thu, 08 Oct 2026 01:18:50 GMT",
@@ -7083,36 +7097,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-11T11:44:59.852820+00:00"
-    },
-    {
-      "title_original": "ข่าว Like สาระ - บทเรียนจาก ศุภจี ในวันที่ต้องเปลี่ยนเสียงยั่วยุให้กลายเป็น พลังสติ - แนวหน้า",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43OGtmdEZDVWNMNlVlWXd1QlA5T0VaRHRKVktwTGEzOXFoZ1Z5Y1BBeWl1MEIySkUzbVh2MmZDbXJnQXRYM1lJckRDRmYyVE0?oc=5",
-      "pub_date": "Sat, 11 Jul 2026 08:41:00 GMT",
-      "source": "แนวหน้า",
-      "description_original": "ข่าว Like สาระ - บทเรียนจาก ศุภจี ในวันที่ต้องเปลี่ยนเสียงยั่วยุให้กลายเป็น พลังสติ&nbsp;&nbsp;แนวหน้า",
-      "is_priority_outlet": false,
-      "id": "1e9ee3bbe380",
-      "title_en": "ข่าว Like สาระ - บทเรียนจาก ศุภจี ในวันที่ต้องเปลี่ยนเสียงยั่วยุให้กลายเป็น พลังสติ - แนวหน้า",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-11T11:44:59.852820+00:00"
     }
   ],
-  "last_updated": "2026-10-15T09:29:54.125872+00:00",
+  "last_updated": "2026-10-15T15:24:25.208830+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-09-25T01:15:30.114087+00:00",
-      "new_articles": 2
-    },
-    {
-      "timestamp": "2026-09-25T09:54:08.323200+00:00",
-      "new_articles": 1
-    },
-    {
-      "timestamp": "2026-09-25T15:42:18.306831+00:00",
-      "new_articles": 0
-    },
     {
       "timestamp": "2026-09-26T01:17:52.167123+00:00",
       "new_articles": 5
@@ -7348,6 +7336,10 @@
     {
       "timestamp": "2026-10-15T09:29:54.125882+00:00",
       "new_articles": 0
+    },
+    {
+      "timestamp": "2026-10-15T15:24:25.208830+00:00",
+      "new_articles": 1
     }
   ]
 }
