@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "ชิฟฟ่อนเค้กมะพร้าวน้ำหอม เนื้อนุ่มเบา หวานน้อย อร่อยละมุน#ชิฟฟ่อนเค้กมะพร้าวน้ำหอม #เค้กหนองพงนก - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1uTjh2emdlQWJ6RllPY01zMnB1QUxxNVhUeExFN0pzV2lndDF1X0NpVlVZM1N6Nk83ZHpjZ2pDYTcwcGxsNkxWQ0N5MXFtNldfclhCWg?oc=5",
+      "pub_date": "Sat, 17 Oct 2026 11:19:23 GMT",
+      "source": "YouTube",
+      "description_original": "ชิฟฟ่อนเค้กมะพร้าวน้ำหอม เนื้อนุ่มเบา หวานน้อย อร่อยละมุน#ชิฟฟ่อนเค้กมะพร้าวน้ำหอม #เค้กหนองพงนก&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "3110e065527e",
+      "title_en": "ชิฟฟ่อนเค้กมะพร้าวน้ำหอม เนื้อนุ่มเบา หวานน้อย อร่อยละมุน#ชิฟฟ่อนเค้กมะพร้าวน้ำหอม #เค้กหนองพงนก - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-10-17T13:59:38.116670+00:00"
+    },
+    {
       "title_original": "น้ำมะพร้าวน้ำหอม ไทยโคโค่ Thai Coco น้ำมะพร้าวพร้อมดื่ม - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwazRZQWZsX0hBNmJpREo0d295QVRsTzhVQkkyYVUydnVlUFZYYmpsQU5aVUZRX0NCX1RQMGVPQmt0akJYSk1ZWXZxRTFJUnNsckg5VA?oc=5",
       "pub_date": "Fri, 16 Oct 2026 10:25:26 GMT",
@@ -7083,36 +7097,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-11T23:59:00.999010+00:00"
-    },
-    {
-      "title_original": "ชาวสวนมะพร้าวบุกที่ว่าการอำเภอบางสะพาน เผาหุ่นและโลงศพประท้วง 'อนุมัติน้ำกะทิแช่แข็ง-สำเร็จรูป' - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SYlBYSW1xS0s4TGpnUUlXTFNDVmNPM19kUUVpLVRUT2JSUm04bDlVNy1XZ2NocXRGT25TNzduaHlOSnhDREVra3RMb0V1UHJ4U25LWVdn?oc=5",
-      "pub_date": "Wed, 08 Jul 2026 05:19:41 GMT",
-      "source": "YouTube",
-      "description_original": "ชาวสวนมะพร้าวบุกที่ว่าการอำเภอบางสะพาน เผาหุ่นและโลงศพประท้วง 'อนุมัติน้ำกะทิแช่แข็ง-สำเร็จรูป'&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "9ad80c34d5d3",
-      "title_en": "ชาวสวนมะพร้าวบุกที่ว่าการอำเภอบางสะพาน เผาหุ่นและโลงศพประท้วง 'อนุมัติน้ำกะทิแช่แข็ง-สำเร็จรูป' - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-11T23:59:00.999010+00:00"
     }
   ],
-  "last_updated": "2026-10-17T08:54:22.102074+00:00",
+  "last_updated": "2026-10-17T13:59:38.116670+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-09-27T01:11:32.849159+00:00",
-      "new_articles": 0
-    },
-    {
-      "timestamp": "2026-09-27T10:16:01.241317+00:00",
-      "new_articles": 3
-    },
-    {
-      "timestamp": "2026-09-27T15:27:38.311326+00:00",
-      "new_articles": 2
-    },
     {
       "timestamp": "2026-09-28T01:27:46.699476+00:00",
       "new_articles": 2
@@ -7348,6 +7336,10 @@
     {
       "timestamp": "2026-10-17T08:54:22.102091+00:00",
       "new_articles": 0
+    },
+    {
+      "timestamp": "2026-10-17T13:59:38.116670+00:00",
+      "new_articles": 1
     }
   ]
 }
