@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "Incredible Coconut Flesh Removal Technique! | มะพร้าวถอดเสื้อ มืออาชีพ ลุงทำเร็วมาก - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KLWpjMXpGcDNJUkg5bW1Id2lrOE5qdGFiSVBqZTFwN0Npd0luWXdCaFpmRUxlTWlkZXJhbFYxUFRmOFRSU2xLMmV2UHd5dU5tU3NzYw?oc=5",
+      "pub_date": "Mon, 19 Oct 2026 08:39:25 GMT",
+      "source": "YouTube",
+      "description_original": "Incredible Coconut Flesh Removal Technique! | มะพร้าวถอดเสื้อ มืออาชีพ ลุงทำเร็วมาก&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "ec52053f5cc2",
+      "title_en": "Incredible Coconut Flesh Removal Technique! | มะพร้าวถอดเสื้อ มืออาชีพ ลุงทำเร็วมาก - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-10-19T10:22:30.321542+00:00"
+    },
+    {
       "title_original": "🤣 ปอกมะพร้าวแค่นี้ ง่ายนิดเดียว! พอลองเองถึงกับอุ๊ย 😂🥥 #มะพร้าวน้ำหอม #เครื่องปอกมะพร้าว - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aWTFsZGdTck8taUJFM2RGZm5PN2Uwb0ZCdXNUcnM4YW9hb0NRcUx0QVNfSjNxcWlBU0tzU3BPMWhKWEFiRmh2WHBQYkZUNURJSTlaeg?oc=5",
       "pub_date": "Sun, 18 Oct 2026 16:07:14 GMT",
@@ -7083,28 +7097,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-12T11:52:48.970960+00:00"
-    },
-    {
-      "title_original": "เค้กวุ้นตัวอักษร #วุ้นชลบุรี #เค้กวุ้นชลบุรี #เค้กวุ้นแฟนซี #เค้กวุ้นวันเกิด #วุ้นกะทิมะพร้าวน้ำหอม - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50RXRaWVBMVHJ2QzlYZmQ2TDN0NlYxOWVXUlhjdW1hS1VBdU1kbzdlS2pTLWNlMVpSV2FGN2VNTlhhOWhxVUoxZmZSRDVKQnVyYmJEag?oc=5",
-      "pub_date": "Sun, 12 Jul 2026 08:07:59 GMT",
-      "source": "YouTube",
-      "description_original": "เค้กวุ้นตัวอักษร #วุ้นชลบุรี #เค้กวุ้นชลบุรี #เค้กวุ้นแฟนซี #เค้กวุ้นวันเกิด #วุ้นกะทิมะพร้าวน้ำหอม&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "b6f3422f07cc",
-      "title_en": "เค้กวุ้นตัวอักษร #วุ้นชลบุรี #เค้กวุ้นชลบุรี #เค้กวุ้นแฟนซี #เค้กวุ้นวันเกิด #วุ้นกะทิมะพร้าวน้ำหอม - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-12T11:52:48.970960+00:00"
     }
   ],
-  "last_updated": "2026-10-19T00:56:25.124933+00:00",
+  "last_updated": "2026-10-19T10:22:30.321542+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-09-29T10:58:00.644189+00:00",
-      "new_articles": 2
-    },
     {
       "timestamp": "2026-09-29T16:41:44.029201+00:00",
       "new_articles": 0
@@ -7340,6 +7336,10 @@
     {
       "timestamp": "2026-10-19T00:56:25.124933+00:00",
       "new_articles": 2
+    },
+    {
+      "timestamp": "2026-10-19T10:22:30.321542+00:00",
+      "new_articles": 1
     }
   ]
 }
