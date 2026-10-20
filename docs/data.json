@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "นักศึกษาวิทยาลัยดุสิตธานีคว้าแชมป์ The University Pastry Chef Championship บนเวที Iron Chef Thailand - RYT9",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9FVTlKOFZBVG5CWkV0SnZZSFVQS1NqZVUyc0d3MmxOVEstamgzYU9mM0xCS1lsVHJLMDQ2bmRWVnNIdjlxd2tCUkR2Zw?oc=5",
+      "pub_date": "Mon, 19 Oct 2026 05:28:49 GMT",
+      "source": "RYT9",
+      "description_original": "นักศึกษาวิทยาลัยดุสิตธานีคว้าแชมป์ The University Pastry Chef Championship บนเวที Iron Chef Thailand&nbsp;&nbsp;RYT9",
+      "is_priority_outlet": false,
+      "id": "058a6e6e1fbe",
+      "title_en": "นักศึกษาวิทยาลัยดุสิตธานีคว้าแชมป์ The University Pastry Chef Championship บนเวที Iron Chef Thailand - RYT9",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-10-20T01:38:21.623839+00:00"
+    },
+    {
       "title_original": "Incredible Coconut Flesh Removal Technique! | มะพร้าวถอดเสื้อ มืออาชีพ ลุงทำเร็วมาก - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KLWpjMXpGcDNJUkg5bW1Id2lrOE5qdGFiSVBqZTFwN0Npd0luWXdCaFpmRUxlTWlkZXJhbFYxUFRmOFRSU2xLMmV2UHd5dU5tU3NzYw?oc=5",
       "pub_date": "Mon, 19 Oct 2026 08:39:25 GMT",
@@ -7083,32 +7097,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-12T11:52:48.970960+00:00"
-    },
-    {
-      "title_original": "เปิดประวัติ ‘พิพัฒ พะเนียงเวทย์’ แม่ทัพผู้สร้าง ‘มาม่า’ - เดลินิวส์",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXelV0a3Rmc0NUSmtST2Qycy1zZDJpRmtiNkhPNWo2ZmVwc05HeWN0dzZVYWllcTVCUXotNVJ4R2xMTnhZYWF3U1Z6S3B2WHdvSGtn?oc=5",
-      "pub_date": "Thu, 09 Jul 2026 00:09:00 GMT",
-      "source": "เดลินิวส์",
-      "description_original": "เปิดประวัติ ‘พิพัฒ พะเนียงเวทย์’ แม่ทัพผู้สร้าง ‘มาม่า’&nbsp;&nbsp;เดลินิวส์",
-      "is_priority_outlet": false,
-      "id": "3d9b9b0ba3c6",
-      "title_en": "เปิดประวัติ ‘พิพัฒ พะเนียงเวทย์’ แม่ทัพผู้สร้าง ‘มาม่า’ - เดลินิวส์",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-12T11:52:48.970960+00:00"
     }
   ],
-  "last_updated": "2026-10-19T17:15:48.527760+00:00",
+  "last_updated": "2026-10-20T01:38:21.623839+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-09-29T16:41:44.029201+00:00",
-      "new_articles": 0
-    },
-    {
-      "timestamp": "2026-09-30T01:53:32.433729+00:00",
-      "new_articles": 0
-    },
     {
       "timestamp": "2026-09-30T10:47:52.881985+00:00",
       "new_articles": 0
@@ -7344,6 +7336,10 @@
     {
       "timestamp": "2026-10-19T17:15:48.527773+00:00",
       "new_articles": 0
+    },
+    {
+      "timestamp": "2026-10-20T01:38:21.623839+00:00",
+      "new_articles": 1
     }
   ]
 }
