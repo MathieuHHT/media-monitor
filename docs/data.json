@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "ของแปลก😆 #มะพร้าวน้ำหอม - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1SDlSdE1Femk4MFJjYnF1VDZscnFXZU90ejlJbDIteW5jT01GVEJSTlZMaTZhT1VnOE8tdDNwQ3VabkJ3cmUxQTZTLVB0blJscTBXaw?oc=5",
+      "pub_date": "Mon, 19 Oct 2026 10:10:50 GMT",
+      "source": "YouTube",
+      "description_original": "ของแปลก😆 #มะพร้าวน้ำหอม&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "f8fb820d4106",
+      "title_en": "ของแปลก😆 #มะพร้าวน้ำหอม - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-10-20T09:42:14.820674+00:00"
+    },
+    {
       "title_original": "นักศึกษาวิทยาลัยดุสิตธานีคว้าแชมป์ The University Pastry Chef Championship บนเวที Iron Chef Thailand - RYT9",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9FVTlKOFZBVG5CWkV0SnZZSFVQS1NqZVUyc0d3MmxOVEstamgzYU9mM0xCS1lsVHJLMDQ2bmRWVnNIdjlxd2tCUkR2Zw?oc=5",
       "pub_date": "Mon, 19 Oct 2026 05:28:49 GMT",
@@ -7083,28 +7097,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-12T23:58:40.145679+00:00"
-    },
-    {
-      "title_original": "เนรมิตบ้านศิลปะ ‘เกษรวิลเลจ’ เนรมิตบ้านศิลปะ ดึง 3 แบรนด์โลกคอลแลบศิลปินไทย - เดลินิวส์",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HTERnYTkxdDBobGVrQk1zWjExbVdDRVg3QXJrZUk1LXVHSk9RUXljRHpWMlRKRHlKdFhLR1p0T19sTzRjUHhGRHFrS3pYMWJkUFBJ?oc=5",
-      "pub_date": "Thu, 09 Jul 2026 10:59:00 GMT",
-      "source": "เดลินิวส์",
-      "description_original": "เนรมิตบ้านศิลปะ ‘เกษรวิลเลจ’ เนรมิตบ้านศิลปะ ดึง 3 แบรนด์โลกคอลแลบศิลปินไทย&nbsp;&nbsp;เดลินิวส์",
-      "is_priority_outlet": false,
-      "id": "1d0d9aced986",
-      "title_en": "เนรมิตบ้านศิลปะ ‘เกษรวิลเลจ’ เนรมิตบ้านศิลปะ ดึง 3 แบรนด์โลกคอลแลบศิลปินไทย - เดลินิวส์",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-12T11:52:48.970960+00:00"
     }
   ],
-  "last_updated": "2026-10-20T01:38:21.623839+00:00",
+  "last_updated": "2026-10-20T09:42:14.820674+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-09-30T10:47:52.881985+00:00",
-      "new_articles": 0
-    },
     {
       "timestamp": "2026-09-30T16:33:10.913228+00:00",
       "new_articles": 1
@@ -7339,6 +7335,10 @@
     },
     {
       "timestamp": "2026-10-20T01:38:21.623839+00:00",
+      "new_articles": 1
+    },
+    {
+      "timestamp": "2026-10-20T09:42:14.820674+00:00",
       "new_articles": 1
     }
   ]
