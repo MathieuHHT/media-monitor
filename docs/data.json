@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "มะพร้าวน้ำหอมปลูกเอง😋👩🏻‍🌾#มะพร้าวอ่อน #มะพร้าว #ข่าวบันเทิง #ขนมไทย #อร่อยแบบบ้านๆ #coconut #eating - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4yNVZhczFQYjhmWUh3bDRKYm9NdkdlSloyYkFacE83eklnYjkyTXJ5UkpaZ3hLMG4tc01TNU04YmpUWUxUdnU4SmV3VEM1YzJDaWpaQg?oc=5",
+      "pub_date": "Thu, 15 Oct 2026 00:01:58 GMT",
+      "source": "YouTube",
+      "description_original": "มะพร้าวน้ำหอมปลูกเอง😋👩🏻‍🌾#มะพร้าวอ่อน #มะพร้าว #ข่าวบันเทิง #ขนมไทย #อร่อยแบบบ้านๆ #coconut #eating&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "9db7eb327c51",
+      "title_en": "มะพร้าวน้ำหอมปลูกเอง😋👩🏻‍🌾#มะพร้าวอ่อน #มะพร้าว #ข่าวบันเทิง #ขนมไทย #อร่อยแบบบ้านๆ #coconut #eating - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-10-21T01:23:40.091454+00:00"
+    },
+    {
       "title_original": "ซีพี แอ็กซ์ตร้า หนุนมะพร้าวน้ำหอมอินทรีย์ คว้าฉลาก CFP รายแรก - homeday.co.th",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIU2hxTXpZaUhNS0VzdVVISGczX0tIWGtfNzRGTHAyY0I4MVduaUZMbHYzUVhnQzYyVkNucGRMY2g2ZVpkblVkSTFBaVN3SnhsUE9KT0hxa05mMmlmX2NoQUNCaw?oc=5",
       "pub_date": "Tue, 20 Oct 2026 03:19:09 GMT",
@@ -7083,28 +7097,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-13T08:08:20.348576+00:00"
-    },
-    {
-      "title_original": "ต้อนรับน้าตี๋มีเดินป่า ￼ เที่ยวสวนทุเรียนน้าเล่กินมะพร้าวน้ำหอมชิมโกโก้สด - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51SlpKZ25aMlQzYS1DSEpMR1VQZ056aXR3cEpqQ1YwR1VPV0xVZjdTaVpoYllNTzh4TTA3M2k0Zm9oUWRnZjdiU21VQnp5QndMQWcwalJn?oc=5",
-      "pub_date": "Sun, 12 Jul 2026 10:25:12 GMT",
-      "source": "YouTube",
-      "description_original": "ต้อนรับน้าตี๋มีเดินป่า ￼ เที่ยวสวนทุเรียนน้าเล่กินมะพร้าวน้ำหอมชิมโกโก้สด&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "e1b6a480b7d0",
-      "title_en": "ต้อนรับน้าตี๋มีเดินป่า ￼ เที่ยวสวนทุเรียนน้าเล่กินมะพร้าวน้ำหอมชิมโกโก้สด - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-12T23:58:40.145679+00:00"
     }
   ],
-  "last_updated": "2026-10-20T15:28:58.038017+00:00",
+  "last_updated": "2026-10-21T01:23:40.091454+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-10-01T01:53:24.226861+00:00",
-      "new_articles": 1
-    },
     {
       "timestamp": "2026-10-01T11:14:26.074212+00:00",
       "new_articles": 1
@@ -7340,6 +7336,10 @@
     {
       "timestamp": "2026-10-20T15:28:58.038017+00:00",
       "new_articles": 2
+    },
+    {
+      "timestamp": "2026-10-21T01:23:40.091454+00:00",
+      "new_articles": 1
     }
   ]
 }
