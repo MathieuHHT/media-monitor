@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "พันธุ์มะพร้าวน้ำหอมต้นเตี้ยบ้านแพ้วราคาย่อมเยา - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84NmdFOGs5RG9BSnVNbmlDWmF3dU5mUFF0N0xuQ1JmVm9RLTBuRWp4Sy1lTjFsSHB4V204Q2I0c19ZZlRMOXZlZmczWlpVaGQ0R21RUDZSRHVtdnd1YWc?oc=5",
+      "pub_date": "Sun, 18 Oct 2026 00:19:39 GMT",
+      "source": "YouTube",
+      "description_original": "พันธุ์มะพร้าวน้ำหอมต้นเตี้ยบ้านแพ้วราคาย่อมเยา&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "822e7c2f41ab",
+      "title_en": "พันธุ์มะพร้าวน้ำหอมต้นเตี้ยบ้านแพ้วราคาย่อมเยา - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-10-21T09:43:37.929153+00:00"
+    },
+    {
       "title_original": "มะพร้าวน้ำหอมปลูกเอง😋👩🏻‍🌾#มะพร้าวอ่อน #มะพร้าว #ข่าวบันเทิง #ขนมไทย #อร่อยแบบบ้านๆ #coconut #eating - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4yNVZhczFQYjhmWUh3bDRKYm9NdkdlSloyYkFacE83eklnYjkyTXJ5UkpaZ3hLMG4tc01TNU04YmpUWUxUdnU4SmV3VEM1YzJDaWpaQg?oc=5",
       "pub_date": "Thu, 15 Oct 2026 00:01:58 GMT",
@@ -7083,28 +7097,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-13T08:08:20.348576+00:00"
-    },
-    {
-      "title_original": "มะพร้าวน้ำหอมต้นเตี้ยของแท้ #มะพร้าว - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9QOHI1SzN6U001UGJfa0NhOFY1RzBrV1FzMXJxdzFsR0lYa2RBMXJTM1JaTEpLWTlvaTRzOFktQWhVZkF3RW9HNkF6WkZsVkVoaHRFbQ?oc=5",
-      "pub_date": "Sat, 11 Jul 2026 12:40:35 GMT",
-      "source": "YouTube",
-      "description_original": "มะพร้าวน้ำหอมต้นเตี้ยของแท้ #มะพร้าว&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "cfb81a91605c",
-      "title_en": "มะพร้าวน้ำหอมต้นเตี้ยของแท้ #มะพร้าว - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-13T08:08:20.348576+00:00"
     }
   ],
-  "last_updated": "2026-10-21T01:23:40.091454+00:00",
+  "last_updated": "2026-10-21T09:43:37.929153+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-10-01T11:14:26.074212+00:00",
-      "new_articles": 1
-    },
     {
       "timestamp": "2026-10-01T17:11:43.085365+00:00",
       "new_articles": 1
@@ -7339,6 +7335,10 @@
     },
     {
       "timestamp": "2026-10-21T01:23:40.091454+00:00",
+      "new_articles": 1
+    },
+    {
+      "timestamp": "2026-10-21T09:43:37.929153+00:00",
       "new_articles": 1
     }
   ]
