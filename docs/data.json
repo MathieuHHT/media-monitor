@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "The Most Dangerous and Satisfying Coconut Skill Ever 🥥🔥 - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4ydTkxbDQ2bmw0bGVxa3RjdnlHZ2htSTVPYW1feURKbFc4ZXI2cUtjU2NXZ2t6OTFzalROUVBrdnE2Tk5yWTBsdHQtUFlhS0pLMlNyYw?oc=5",
+      "pub_date": "Sun, 18 Oct 2026 09:21:43 GMT",
+      "source": "YouTube",
+      "description_original": "The Most Dangerous and Satisfying Coconut Skill Ever 🥥🔥&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "adae866188c0",
+      "title_en": "The Most Dangerous and Satisfying Coconut Skill Ever 🥥🔥 - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-10-22T15:44:14.942598+00:00"
+    },
+    {
       "title_original": "#เพราะพี่รักจริง มะพร้าวน้ำหอม - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA5U3VteUVjQ1BGX0ljY0JHQnZPbS1TLW5HZHM1STJEeDRCTmRoSjVJT3hLdWduV0ZFdHZEM3hHdlh5R3JpV2xNYnlhWFNEZ1pxOGlEMw?oc=5",
       "pub_date": "Fri, 16 Oct 2026 00:36:24 GMT",
@@ -7090,28 +7104,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-14T07:02:11.843995+00:00"
-    },
-    {
-      "title_original": "DITP ชี้เป้าผู้ส่งออก ขายสินค้าความงามธรรมชาติ เจาะตลาดเม็กซิโก - commercenewsagency",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBEQ215OXZYOTlCN0E1UXUyWWEtczRKOS1WSFlRZDFqejVwYzZlcHVmMm1wb3JlbkRwTjZ0QmNZXy1iWUlwdURVbmNibHlJUWNwdGpDbUo0UQ?oc=5",
-      "pub_date": "Tue, 14 Jul 2026 03:26:16 GMT",
-      "source": "commercenewsagency",
-      "description_original": "DITP ชี้เป้าผู้ส่งออก ขายสินค้าความงามธรรมชาติ เจาะตลาดเม็กซิโก&nbsp;&nbsp;commercenewsagency",
-      "is_priority_outlet": false,
-      "id": "9bc334bb8c41",
-      "title_en": "DITP ชี้เป้าผู้ส่งออก ขายสินค้าความงามธรรมชาติ เจาะตลาดเม็กซิโก - commercenewsagency",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-14T07:02:11.843995+00:00"
     }
   ],
-  "last_updated": "2026-10-22T09:43:16.083968+00:00",
+  "last_updated": "2026-10-22T15:44:14.942598+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-10-02T16:24:59.847905+00:00",
-      "new_articles": 2
-    },
     {
       "timestamp": "2026-10-03T01:47:29.402463+00:00",
       "new_articles": 2
@@ -7346,6 +7342,10 @@
     },
     {
       "timestamp": "2026-10-22T09:43:16.083968+00:00",
+      "new_articles": 1
+    },
+    {
+      "timestamp": "2026-10-22T15:44:14.942598+00:00",
       "new_articles": 1
     }
   ]
