@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "#เพราะพี่รักจริง มะพร้าวน้ำหอม - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA5U3VteUVjQ1BGX0ljY0JHQnZPbS1TLW5HZHM1STJEeDRCTmRoSjVJT3hLdWduV0ZFdHZEM3hHdlh5R3JpV2xNYnlhWFNEZ1pxOGlEMw?oc=5",
+      "pub_date": "Fri, 16 Oct 2026 00:36:24 GMT",
+      "source": "YouTube",
+      "description_original": "#เพราะพี่รักจริง มะพร้าวน้ำหอม&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "f4aa8519bea8",
+      "title_en": "#เพราะพี่รักจริง มะพร้าวน้ำหอม - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-10-22T09:43:16.083968+00:00"
+    },
+    {
       "title_original": "พาบิวบองบุกเวียงจันทน์! ชิมแหนมเนืองในตำนาน 30 ปี ยกซด...ซุปน้ำมะพร้าว - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Fa1dDQmNhZFF1VlFUSHZVS0Q3QkxUSDUzNEZLSFBUdkJJbVhOT2dfZGlJYjBFYXB0VnlvM2NiWFBmamRaeVgzejg4VDVLbEJSQnhuOUln?oc=5",
       "pub_date": "Sat, 17 Oct 2026 03:00:20 GMT",
@@ -7090,28 +7104,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-14T07:02:11.843995+00:00"
-    },
-    {
-      "title_original": "อบจ.สงขลา แถลงข่าวจัดงาน “เกษตรแฟร์ อบจ.สงขลา” วันที่ 15-19 ก.ค.69 นี้ - ผู้จัดการออนไลน์",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMbnN4enI2MjVzY3h2T095czdHNkdDREZrT0xWTjRhTlFET2d2YlhWZmtoYUFOT1VLajJQOFNGRkd6Sk1ZQ0FsOWhhcG8xLXA5ajhMS2htSDQ2SWlP?oc=5",
-      "pub_date": "Thu, 09 Jul 2026 14:08:00 GMT",
-      "source": "ผู้จัดการออนไลน์",
-      "description_original": "อบจ.สงขลา แถลงข่าวจัดงาน “เกษตรแฟร์ อบจ.สงขลา” วันที่ 15-19 ก.ค.69 นี้&nbsp;&nbsp;ผู้จัดการออนไลน์",
-      "is_priority_outlet": false,
-      "id": "ea2c0b15447c",
-      "title_en": "อบจ.สงขลา แถลงข่าวจัดงาน “เกษตรแฟร์ อบจ.สงขลา” วันที่ 15-19 ก.ค.69 นี้ - ผู้จัดการออนไลน์",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-14T07:02:11.843995+00:00"
     }
   ],
-  "last_updated": "2026-10-22T01:21:11.492797+00:00",
+  "last_updated": "2026-10-22T09:43:16.083968+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-10-02T10:46:56.686655+00:00",
-      "new_articles": 4
-    },
     {
       "timestamp": "2026-10-02T16:24:59.847905+00:00",
       "new_articles": 2
@@ -7346,6 +7342,10 @@
     },
     {
       "timestamp": "2026-10-22T01:21:11.492797+00:00",
+      "new_articles": 1
+    },
+    {
+      "timestamp": "2026-10-22T09:43:16.083968+00:00",
       "new_articles": 1
     }
   ]
