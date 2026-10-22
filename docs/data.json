@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "พาบิวบองบุกเวียงจันทน์! ชิมแหนมเนืองในตำนาน 30 ปี ยกซด...ซุปน้ำมะพร้าว - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Fa1dDQmNhZFF1VlFUSHZVS0Q3QkxUSDUzNEZLSFBUdkJJbVhOT2dfZGlJYjBFYXB0VnlvM2NiWFBmamRaeVgzejg4VDVLbEJSQnhuOUln?oc=5",
+      "pub_date": "Sat, 17 Oct 2026 03:00:20 GMT",
+      "source": "YouTube",
+      "description_original": "พาบิวบองบุกเวียงจันทน์! ชิมแหนมเนืองในตำนาน 30 ปี ยกซด...ซุปน้ำมะพร้าว&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "c0c9ea09ab05",
+      "title_en": "พาบิวบองบุกเวียงจันทน์! ชิมแหนมเนืองในตำนาน 30 ปี ยกซด...ซุปน้ำมะพร้าว - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-10-22T01:21:11.492797+00:00"
+    },
+    {
       "title_original": "ซีพี แอ็กซ์ตร้า หนุนสินค้าเกษตรไทยสู่ความยั่งยืน ครั้งแรกกับ \"มะพร้าวน้ำหอมอินทรีย์\" คว้าฉลาก CFP สะท้อนการยกระดับสินค้า เพิ่มมูลค่าด้วยมาตรฐานด้านสิ่งแวดล้อม - newswit",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE00MFd3S2xRUV9ISXRPVzJxVnNDRDFNRkR2cU94dTJoRHJhTXJ6Ql9ubWkxd2ktS01lbFpza3BQd1RpbDZuY1k1aktkTHJiX0tHLUVIU0x4SHBlbkpOMzNXejFUZUtCUEhfYzEw?oc=5",
       "pub_date": "Wed, 21 Oct 2026 09:19:56 GMT",
@@ -7090,28 +7104,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-14T07:02:11.843995+00:00"
-    },
-    {
-      "title_original": "ค้นธุรกิจต้องสงสัย 5 จุด “สมุย-พะงัน”ส่อใช้นอมินีถือครองที่ดิน - Thai PBS",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45V3Q4UVdHT2pmVktUSXpBQklNLWJQQ09jLW95bkdjR25XN1hxaVlYdkxCam43WTNqSDE5V3ZjQTd0U3owenVkU0VUNEFLb0tpU2UwaGxnNEk?oc=5",
-      "pub_date": "Sat, 11 Jul 2026 02:09:14 GMT",
-      "source": "Thai PBS",
-      "description_original": "ค้นธุรกิจต้องสงสัย 5 จุด “สมุย-พะงัน”ส่อใช้นอมินีถือครองที่ดิน&nbsp;&nbsp;Thai PBS",
-      "is_priority_outlet": true,
-      "id": "43b468e787a4",
-      "title_en": "ค้นธุรกิจต้องสงสัย 5 จุด “สมุย-พะงัน”ส่อใช้นอมินีถือครองที่ดิน - Thai PBS",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-14T07:02:11.843995+00:00"
     }
   ],
-  "last_updated": "2026-10-21T15:44:59.609564+00:00",
+  "last_updated": "2026-10-22T01:21:11.492797+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-10-02T02:03:39.062935+00:00",
-      "new_articles": 0
-    },
     {
       "timestamp": "2026-10-02T10:46:56.686655+00:00",
       "new_articles": 4
@@ -7347,6 +7343,10 @@
     {
       "timestamp": "2026-10-21T15:44:59.609564+00:00",
       "new_articles": 4
+    },
+    {
+      "timestamp": "2026-10-22T01:21:11.492797+00:00",
+      "new_articles": 1
     }
   ]
 }
