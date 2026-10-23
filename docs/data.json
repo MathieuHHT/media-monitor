@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "น้ำมะพร้าวน้ำหอมปั่นสมูตตี้ขายราคา 45 บาท แพงไหม - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE91NUJtUVJ6ZkVSQ0g4NDZhLTBRek5BUkhjMDVhUEI1aUxDczlGTmN0dE5IMjNidmFLamhkSXBiOTA5eVhjU3QzRGVkOEhKVXg5YU55NA?oc=5",
+      "pub_date": "Sun, 18 Oct 2026 07:00:29 GMT",
+      "source": "YouTube",
+      "description_original": "น้ำมะพร้าวน้ำหอมปั่นสมูตตี้ขายราคา 45 บาท แพงไหม&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "86fd1f9dba02",
+      "title_en": "น้ำมะพร้าวน้ำหอมปั่นสมูตตี้ขายราคา 45 บาท แพงไหม - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-10-23T09:39:14.626100+00:00"
+    },
+    {
       "title_original": "CPAXT ดัน “มะพร้าวน้ำหอมอินทรีย์” คว้าฉลาก CFP ยกระดับสินค้าเกษตรไทย | ข่าวหุ้นธุรกิจ - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tWFBBQlc2VUJiYk9PdmZwWDFIeUJITzk4YW5jX2lTN0w4N0pHREVwVkhhRFd4TUI4ZjUwckxtb2xLcFZjRXBRQjJaU0kwUGM5VWdvblpn?oc=5",
       "pub_date": "Tue, 20 Oct 2026 04:30:34 GMT",
@@ -7090,28 +7104,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-14T12:05:28.367991+00:00"
-    },
-    {
-      "title_original": "มะพร้าวไทยในวิกฤต เมื่อ 'อัญมณีแห่งเขตร้อน' กำลังถูกบีบ - spacebar.th",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZW9Eb1B4Q3RZQ3U3RkRQMzRZdERZcHJtektwSnZFR1JzVW9RTkU1MUxkYUEzM0JrLUR2clRraVRJR3RCOUsyZE5DeFN3bkd5VHh5M1ZPQ08wbk1vSm43aC1sMUdzanFxeEVTTW9FWlVuTTdrNDZ6ZW9ROGp3dzRzbUs1VkxIVXBsbHc?oc=5",
-      "pub_date": "Tue, 14 Jul 2026 05:15:00 GMT",
-      "source": "spacebar.th",
-      "description_original": "มะพร้าวไทยในวิกฤต เมื่อ 'อัญมณีแห่งเขตร้อน' กำลังถูกบีบ&nbsp;&nbsp;spacebar.th",
-      "is_priority_outlet": false,
-      "id": "8f7859397198",
-      "title_en": "มะพร้าวไทยในวิกฤต เมื่อ 'อัญมณีแห่งเขตร้อน' กำลังถูกบีบ - spacebar.th",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-14T07:02:11.843995+00:00"
     }
   ],
-  "last_updated": "2026-10-23T01:19:47.468445+00:00",
+  "last_updated": "2026-10-23T09:39:14.626100+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-10-03T10:07:00.112683+00:00",
-      "new_articles": 0
-    },
     {
       "timestamp": "2026-10-03T14:59:20.786949+00:00",
       "new_articles": 0
@@ -7346,6 +7342,10 @@
     },
     {
       "timestamp": "2026-10-23T01:19:47.468445+00:00",
+      "new_articles": 1
+    },
+    {
+      "timestamp": "2026-10-23T09:39:14.626100+00:00",
       "new_articles": 1
     }
   ]
