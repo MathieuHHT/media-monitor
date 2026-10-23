@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "title_original": "กรมพัฒนาธุรกิจการค้า ดัน 4 ยุทธศาสตร์ ขยายผล \"ผ้าทอพื้นเมือง\" สู่สากล - Thairath.co.th",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14VnRJbGw5V0I2bng3VGJud2ZFaGlTYjgtWnJTdDQtLXN3cXVTMWE3Wkw3d3dSdUlMZ3hiaVVuZG5RNW5pTEVQSVVXbnZEVU9hanpVMTNkOVpTVWhGemdTaGRibUNIU0U?oc=5",
+      "pub_date": "Fri, 23 Oct 2026 09:48:48 GMT",
+      "source": "Thairath.co.th",
+      "description_original": "กรมพัฒนาธุรกิจการค้า ดัน 4 ยุทธศาสตร์ ขยายผล \"ผ้าทอพื้นเมือง\" สู่สากล&nbsp;&nbsp;Thairath.co.th",
+      "is_priority_outlet": false,
+      "id": "67b2557b6b10",
+      "title_en": "กรมพัฒนาธุรกิจการค้า ดัน 4 ยุทธศาสตร์ ขยายผล \"ผ้าทอพื้นเมือง\" สู่สากล - Thairath.co.th",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [
+        {
+          "key": "poonpong",
+          "name_en": "Poonpong Naiyanapakorn",
+          "role": "Director General, Department of Business Development",
+          "priority": "high"
+        }
+      ],
+      "first_seen": "2026-10-23T15:32:21.989820+00:00"
+    },
+    {
       "title_original": "น้ำมะพร้าวน้ำหอมปั่นสมูตตี้ขายราคา 45 บาท แพงไหม - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE91NUJtUVJ6ZkVSQ0g4NDZhLTBRek5BUkhjMDVhUEI1aUxDczlGTmN0dE5IMjNidmFLamhkSXBiOTA5eVhjU3QzRGVkOEhKVXg5YU55NA?oc=5",
       "pub_date": "Sun, 18 Oct 2026 07:00:29 GMT",
@@ -7090,28 +7111,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-14T23:55:01.986464+00:00"
-    },
-    {
-      "title_original": "“ศุภจี” ชู The Harmony Model โมเดลใหม่เพิ่มมูลค่าสินค้าเกษตรไทย - Thairath.co.th",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XUlF0bE1CM2dWZHdkdlVzN0NkTkwyOFVaZkFxZDJpOWt3aGJaM1hMTU12YUJiUDZROW1kdFZ6YmxjbTNLWlFta3ROZDRPWUYxQnFVNkVrUjc?oc=5",
-      "pub_date": "Wed, 08 Jul 2026 04:53:13 GMT",
-      "source": "Thairath.co.th",
-      "description_original": "“ศุภจี” ชู The Harmony Model โมเดลใหม่เพิ่มมูลค่าสินค้าเกษตรไทย&nbsp;&nbsp;Thairath.co.th",
-      "is_priority_outlet": false,
-      "id": "36a7ecd48d8e",
-      "title_en": "“ศุภจี” ชู The Harmony Model โมเดลใหม่เพิ่มมูลค่าสินค้าเกษตรไทย - Thairath.co.th",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-14T12:05:28.367991+00:00"
     }
   ],
-  "last_updated": "2026-10-23T09:39:14.626100+00:00",
+  "last_updated": "2026-10-23T15:32:21.989820+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-10-03T14:59:20.786949+00:00",
-      "new_articles": 0
-    },
     {
       "timestamp": "2026-10-04T02:27:37.509831+00:00",
       "new_articles": 1
@@ -7346,6 +7349,10 @@
     },
     {
       "timestamp": "2026-10-23T09:39:14.626100+00:00",
+      "new_articles": 1
+    },
+    {
+      "timestamp": "2026-10-23T15:32:21.989820+00:00",
       "new_articles": 1
     }
   ]
