@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "CPAXT ดัน “มะพร้าวน้ำหอมอินทรีย์” คว้าฉลาก CFP ยกระดับสินค้าเกษตรไทย | ข่าวหุ้นธุรกิจ - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tWFBBQlc2VUJiYk9PdmZwWDFIeUJITzk4YW5jX2lTN0w4N0pHREVwVkhhRFd4TUI4ZjUwckxtb2xLcFZjRXBRQjJaU0kwUGM5VWdvblpn?oc=5",
+      "pub_date": "Tue, 20 Oct 2026 04:30:34 GMT",
+      "source": "LINE TODAY",
+      "description_original": "CPAXT ดัน “มะพร้าวน้ำหอมอินทรีย์” คว้าฉลาก CFP ยกระดับสินค้าเกษตรไทย | ข่าวหุ้นธุรกิจ&nbsp;&nbsp;LINE TODAY",
+      "is_priority_outlet": false,
+      "id": "7f49400b29dd",
+      "title_en": "CPAXT ดัน “มะพร้าวน้ำหอมอินทรีย์” คว้าฉลาก CFP ยกระดับสินค้าเกษตรไทย | ข่าวหุ้นธุรกิจ - LINE TODAY",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-10-23T01:19:47.468445+00:00"
+    },
+    {
       "title_original": "The Most Dangerous and Satisfying Coconut Skill Ever 🥥🔥 - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4ydTkxbDQ2bmw0bGVxa3RjdnlHZ2htSTVPYW1feURKbFc4ZXI2cUtjU2NXZ2t6OTFzalROUVBrdnE2Tk5yWTBsdHQtUFlhS0pLMlNyYw?oc=5",
       "pub_date": "Sun, 18 Oct 2026 09:21:43 GMT",
@@ -7090,28 +7104,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-14T07:02:11.843995+00:00"
-    },
-    {
-      "title_original": "“ศุภจี” ชู The Harmony Model โมเดลใหม่เพิ่มมูลค่าสินค้าเกษตรไทย พาณิชย์พร้อมช่วยสนับสนุนเต็มที่ - สยามรัฐ",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4NVlCeGlIQTh2UGl2YURfYTlBVXR5SHpWa1oxXzRVSmVhVDZobE5pbHB1VnNCNjFTYWtuSmd6SjFIei0wbERGSExOQTdXZ1dFQUJ0dm5XTVNOZw?oc=5",
-      "pub_date": "Tue, 07 Jul 2026 10:55:50 GMT",
-      "source": "สยามรัฐ",
-      "description_original": "“ศุภจี” ชู The Harmony Model โมเดลใหม่เพิ่มมูลค่าสินค้าเกษตรไทย พาณิชย์พร้อมช่วยสนับสนุนเต็มที่&nbsp;&nbsp;สยามรัฐ",
-      "is_priority_outlet": false,
-      "id": "2faf68c524b3",
-      "title_en": "“ศุภจี” ชู The Harmony Model โมเดลใหม่เพิ่มมูลค่าสินค้าเกษตรไทย พาณิชย์พร้อมช่วยสนับสนุนเต็มที่ - สยามรัฐ",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-14T07:02:11.843995+00:00"
     }
   ],
-  "last_updated": "2026-10-22T15:44:14.942598+00:00",
+  "last_updated": "2026-10-23T01:19:47.468445+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-10-03T01:47:29.402463+00:00",
-      "new_articles": 2
-    },
     {
       "timestamp": "2026-10-03T10:07:00.112683+00:00",
       "new_articles": 0
@@ -7346,6 +7342,10 @@
     },
     {
       "timestamp": "2026-10-22T15:44:14.942598+00:00",
+      "new_articles": 1
+    },
+    {
+      "timestamp": "2026-10-23T01:19:47.468445+00:00",
       "new_articles": 1
     }
   ]
