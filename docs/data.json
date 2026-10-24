@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "🥥 สุขใจกลางสวนมะพร้าวน้ำหอม 🌴💚 #สองฟ้าฟาร์ม #มะพร้าวน้ำหอม #ธรรมชาติ - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8xamhMenBSWjNaX2hGbzVwQ0NuSVJXTXgwR2dqb1RMTFhnZ1BuUy1pd1diaGlmQ2E3X0RwVWg3OWpZRWplYnlLMHoxRXIyZTU4VGZaZg?oc=5",
+      "pub_date": "Fri, 23 Oct 2026 13:49:46 GMT",
+      "source": "YouTube",
+      "description_original": "🥥 สุขใจกลางสวนมะพร้าวน้ำหอม 🌴💚 #สองฟ้าฟาร์ม #มะพร้าวน้ำหอม #ธรรมชาติ&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "ad947bb506f0",
+      "title_en": "🥥 สุขใจกลางสวนมะพร้าวน้ำหอม 🌴💚 #สองฟ้าฟาร์ม #มะพร้าวน้ำหอม #ธรรมชาติ - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-10-24T01:24:50.740662+00:00"
+    },
+    {
       "title_original": "กรมพัฒนาธุรกิจการค้า ดัน 4 ยุทธศาสตร์ ขยายผล \"ผ้าทอพื้นเมือง\" สู่สากล - Thairath.co.th",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14VnRJbGw5V0I2bng3VGJud2ZFaGlTYjgtWnJTdDQtLXN3cXVTMWE3Wkw3d3dSdUlMZ3hiaVVuZG5RNW5pTEVQSVVXbnZEVU9hanpVMTNkOVpTVWhGemdTaGRibUNIU0U?oc=5",
       "pub_date": "Fri, 23 Oct 2026 09:48:48 GMT",
@@ -7097,28 +7111,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-14T23:55:01.986464+00:00"
-    },
-    {
-      "title_original": "ชาวสวนมะพร้าวประจวบฯ ชุมนุมหน้าที่ว่าการอำเภอบางสะพาน เรียกร้องรัฐแก้ราคามะพร้าวตกต่ำ - banmuang.co.th",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1neXpkTno1MmJzbnMzcUJNNHVRWDZ6Rm54bXJpR29UNVNENzZhQkNNNTZLa0w0YmZHWXpudnFDamdkemt6eHpITDM3Snd6RXVwTUNkYzNQd2s?oc=5",
-      "pub_date": "Tue, 14 Jul 2026 13:56:00 GMT",
-      "source": "banmuang.co.th",
-      "description_original": "ชาวสวนมะพร้าวประจวบฯ ชุมนุมหน้าที่ว่าการอำเภอบางสะพาน เรียกร้องรัฐแก้ราคามะพร้าวตกต่ำ&nbsp;&nbsp;banmuang.co.th",
-      "is_priority_outlet": true,
-      "id": "04d769f44833",
-      "title_en": "ชาวสวนมะพร้าวประจวบฯ ชุมนุมหน้าที่ว่าการอำเภอบางสะพาน เรียกร้องรัฐแก้ราคามะพร้าวตกต่ำ - banmuang.co.th",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-14T23:55:01.986464+00:00"
     }
   ],
-  "last_updated": "2026-10-23T15:32:21.989820+00:00",
+  "last_updated": "2026-10-24T01:24:50.740662+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-10-04T02:27:37.509831+00:00",
-      "new_articles": 1
-    },
     {
       "timestamp": "2026-10-04T10:49:18.645351+00:00",
       "new_articles": 0
@@ -7353,6 +7349,10 @@
     },
     {
       "timestamp": "2026-10-23T15:32:21.989820+00:00",
+      "new_articles": 1
+    },
+    {
+      "timestamp": "2026-10-24T01:24:50.740662+00:00",
       "new_articles": 1
     }
   ]
