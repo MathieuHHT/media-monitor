@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "จากสวนมะพร้าว…สู่คาเฟ่ในฝัน 🥥☕️ #สองฟ้าฟาร์ม #คาเฟ่กาฬสินธุ์ #มะพร้าวน้ำหอม - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQcWFvb3h3SU1vVkZ4RU5wWG1EYmhGTGFsb2psUUItMUI4QUtJYVVVUmgzVWtDa2J0cUJ1aGFENEtYd2RpT1BGTERnOEhhbGxBWXpjaQ?oc=5",
+      "pub_date": "Sat, 24 Oct 2026 11:59:35 GMT",
+      "source": "YouTube",
+      "description_original": "จากสวนมะพร้าว…สู่คาเฟ่ในฝัน 🥥☕️ #สองฟ้าฟาร์ม #คาเฟ่กาฬสินธุ์ #มะพร้าวน้ำหอม&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "a8ed6274e7f4",
+      "title_en": "จากสวนมะพร้าว…สู่คาเฟ่ในฝัน 🥥☕️ #สองฟ้าฟาร์ม #คาเฟ่กาฬสินธุ์ #มะพร้าวน้ำหอม - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-10-25T00:54:29.894739+00:00"
+    },
+    {
       "title_original": "ทองม้วนทวิน เผือกลาวา คัสตาร์ดมะพร้าวน้ำหอม - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zQ0NvOXZsLWNOaEp3S0ZjQVdIdEdTbjRxbVNLb0R0UFZRUGVFYzdxbG9PTk9ZNjA4UTVldGxaN296SUhDdlBVTUc1S0JfLUNta2xnWA?oc=5",
       "pub_date": "Thu, 22 Oct 2026 07:32:17 GMT",
@@ -7097,28 +7111,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-15T07:05:17.370517+00:00"
-    },
-    {
-      "title_original": "Thai Coco ทุ่มงบ 30 ล้านบาท ปั้นแบรนด์มะพร้าวพรีเมียม รุกตลาดไทยต่อยอดสู่เวทีโลก | การเงินธนาคาร - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iQm5zTW9feDYxUnFuN3lvRlJId0pZYWhUYU5lZktSbHItbXR5S0tzZ3ZmLTVLTTVjSGdLekFCR296N2VjdjljeGRkWm1QQW9nRXdXOXhB?oc=5",
-      "pub_date": "Sat, 11 Jul 2026 07:05:40 GMT",
-      "source": "LINE TODAY",
-      "description_original": "Thai Coco ทุ่มงบ 30 ล้านบาท ปั้นแบรนด์มะพร้าวพรีเมียม รุกตลาดไทยต่อยอดสู่เวทีโลก | การเงินธนาคาร&nbsp;&nbsp;LINE TODAY",
-      "is_priority_outlet": false,
-      "id": "33e224336a79",
-      "title_en": "Thai Coco ทุ่มงบ 30 ล้านบาท ปั้นแบรนด์มะพร้าวพรีเมียม รุกตลาดไทยต่อยอดสู่เวทีโลก | การเงินธนาคาร - LINE TODAY",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-15T07:05:17.370517+00:00"
     }
   ],
-  "last_updated": "2026-10-24T14:10:05.952727+00:00",
+  "last_updated": "2026-10-25T00:54:29.894739+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-10-05T01:44:38.902424+00:00",
-      "new_articles": 1
-    },
     {
       "timestamp": "2026-10-05T11:54:50.036944+00:00",
       "new_articles": 0
@@ -7354,6 +7350,10 @@
     {
       "timestamp": "2026-10-24T14:10:05.952727+00:00",
       "new_articles": 4
+    },
+    {
+      "timestamp": "2026-10-25T00:54:29.894739+00:00",
+      "new_articles": 1
     }
   ]
 }
