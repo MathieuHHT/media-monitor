@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "ต่างชาติแย่งชิง! 8 พืชของไทย จากพืชพรรณพื้นบ้านสู่ตลาดโลก บางชนิดมูลค่าหลักล้าน! - Sanook",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1PTl9fVlZUd2QwR09iVG9QSWpnYzBJYmN2bzAzRXY2V0xJYnBBcDZ5a3drNHdJVzhCOXBjZkpQUXZudHFMYy1GbERKcEU?oc=5",
+      "pub_date": "Mon, 26 Oct 2026 14:43:09 GMT",
+      "source": "Sanook",
+      "description_original": "ต่างชาติแย่งชิง! 8 พืชของไทย จากพืชพรรณพื้นบ้านสู่ตลาดโลก บางชนิดมูลค่าหลักล้าน!&nbsp;&nbsp;Sanook",
+      "is_priority_outlet": false,
+      "id": "a2647fd4c4f4",
+      "title_en": "ต่างชาติแย่งชิง! 8 พืชของไทย จากพืชพรรณพื้นบ้านสู่ตลาดโลก บางชนิดมูลค่าหลักล้าน! - Sanook",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-10-26T17:03:45.688951+00:00"
+    },
+    {
       "title_original": "มะพร้าวน้ำหอมบ้านแพ้ว - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TNnh5OS16V0J2Q1BLYlp2T1pqVTBjSWwweFlhQTl3Y3l1aVhPZlYtenU2U01nbksyaVJyZ0x0QzRlMUpXN1BGVmdZME1sM3hMYTNEMkJn?oc=5",
       "pub_date": "Thu, 22 Oct 2026 07:16:01 GMT",
@@ -7083,35 +7097,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-16T00:01:03.099832+00:00"
-    },
-    {
-      "title_original": "'กรมพัฒนาธุรกิจการค้า' จับมือ 'กอ.รมน.' สกัดนอมินี-ทุนเทา ใช้ Bank Statement คัดกรองผู้ถือหุ้นกลุ่มเสี่ยง - t.co",
-      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5KR3ZXOTdpY0w0MHR2SUw1WGtRMG1rVi1WdUlZMGotQTRhbUpRX24zTzB1OU9LLVA3cEhj?oc=5",
-      "pub_date": "Wed, 15 Jul 2026 09:04:20 GMT",
-      "source": "t.co",
-      "description_original": "'กรมพัฒนาธุรกิจการค้า' จับมือ 'กอ.รมน.' สกัดนอมินี-ทุนเทา ใช้ Bank Statement คัดกรองผู้ถือหุ้นกลุ่มเสี่ยง&nbsp;&nbsp;t.co",
-      "is_priority_outlet": false,
-      "id": "1983fbac2ac1",
-      "title_en": "'กรมพัฒนาธุรกิจการค้า' จับมือ 'กอ.รมน.' สกัดนอมินี-ทุนเทา ใช้ Bank Statement คัดกรองผู้ถือหุ้นกลุ่มเสี่ยง - t.co",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [
-        {
-          "key": "poonpong",
-          "name_en": "Poonpong Naiyanapakorn",
-          "role": "Director General, Department of Business Development",
-          "priority": "high"
-        }
-      ],
-      "first_seen": "2026-07-15T12:09:26.882980+00:00"
     }
   ],
-  "last_updated": "2026-10-26T10:37:13.823814+00:00",
+  "last_updated": "2026-10-26T17:03:45.688951+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-10-06T16:59:40.611838+00:00",
-      "new_articles": 0
-    },
     {
       "timestamp": "2026-10-07T02:10:10.984875+00:00",
       "new_articles": 1
@@ -7347,6 +7336,10 @@
     {
       "timestamp": "2026-10-26T10:37:13.823814+00:00",
       "new_articles": 2
+    },
+    {
+      "timestamp": "2026-10-26T17:03:45.688951+00:00",
+      "new_articles": 1
     }
   ]
 }
