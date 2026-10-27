@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "มะพร้าวน้ำหอมอร่อยแบบธรรมชาติไม่ผสมสารใดๆตรงข้ามกับเซเว่นตลาดจอมพลป #น้ำมะพร้าวน้ำหอม #สร้างอาชีพ - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fSXV0c2ZSb2ZGbXg0RjdyaFRTRjY0N1drTmtzdXdOUEZFTndlNDhjbVVqQXhObC04Vm5IamVuajFTdUV6ZjRrYk9CZGE3dk9tZmRNTA?oc=5",
+      "pub_date": "Mon, 26 Oct 2026 14:53:19 GMT",
+      "source": "YouTube",
+      "description_original": "มะพร้าวน้ำหอมอร่อยแบบธรรมชาติไม่ผสมสารใดๆตรงข้ามกับเซเว่นตลาดจอมพลป #น้ำมะพร้าวน้ำหอม #สร้างอาชีพ&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "e5f7af90efd1",
+      "title_en": "มะพร้าวน้ำหอมอร่อยแบบธรรมชาติไม่ผสมสารใดๆตรงข้ามกับเซเว่นตลาดจอมพลป #น้ำมะพร้าวน้ำหอม #สร้างอาชีพ - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-10-27T01:52:49.140958+00:00"
+    },
+    {
       "title_original": "ต่างชาติแย่งชิง! 8 พืชของไทย จากพืชพรรณพื้นบ้านสู่ตลาดโลก บางชนิดมูลค่าหลักล้าน! - Sanook",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1PTl9fVlZUd2QwR09iVG9QSWpnYzBJYmN2bzAzRXY2V0xJYnBBcDZ5a3drNHdJVzhCOXBjZkpQUXZudHFMYy1GbERKcEU?oc=5",
       "pub_date": "Mon, 26 Oct 2026 14:43:09 GMT",
@@ -7083,28 +7097,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-16T00:01:03.099832+00:00"
-    },
-    {
-      "title_original": "ลมหัวฝนถล่มชุมพร! มะพร้าวสูง 20 เมตรโค่นทับบ้าน-รถพัง - banmuang.co.th",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5aM3NZTWpxN2tITDJteEMyWXNSQnVGVE1CTUtyN2tMcUdTenhLdk5TcU1TZjBHdklyS2JZVlJyaE5GUno3ZzVDR2hEcjBPMWswQ1hWc1JUTHo?oc=5",
-      "pub_date": "Wed, 15 Jul 2026 15:07:00 GMT",
-      "source": "banmuang.co.th",
-      "description_original": "ลมหัวฝนถล่มชุมพร! มะพร้าวสูง 20 เมตรโค่นทับบ้าน-รถพัง&nbsp;&nbsp;banmuang.co.th",
-      "is_priority_outlet": true,
-      "id": "a9869b661b31",
-      "title_en": "ลมหัวฝนถล่มชุมพร! มะพร้าวสูง 20 เมตรโค่นทับบ้าน-รถพัง - banmuang.co.th",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-16T00:01:03.099832+00:00"
     }
   ],
-  "last_updated": "2026-10-26T17:03:45.688951+00:00",
+  "last_updated": "2026-10-27T01:52:49.140958+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-10-07T02:10:10.984875+00:00",
-      "new_articles": 1
-    },
     {
       "timestamp": "2026-10-07T11:24:43.248660+00:00",
       "new_articles": 2
@@ -7339,6 +7335,10 @@
     },
     {
       "timestamp": "2026-10-26T17:03:45.688951+00:00",
+      "new_articles": 1
+    },
+    {
+      "timestamp": "2026-10-27T01:52:49.140958+00:00",
       "new_articles": 1
     }
   ]
