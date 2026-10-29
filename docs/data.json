@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "มาให้น้ำมะพร้าวน้ำหอมกับผักอยู่ในสวน #บ้านสวนชานุชิต - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JOU9BQmZQNFlIUjQwd1pjS1VwY3JpMkRBTnpyVXJUbGFNS08yV1hERFQtaUh4UTg3MlMyRjQxNUl4dkxDN3BGZUl3SWdTZ2VVZWJfdA?oc=5",
+      "pub_date": "Wed, 28 Oct 2026 17:25:22 GMT",
+      "source": "YouTube",
+      "description_original": "มาให้น้ำมะพร้าวน้ำหอมกับผักอยู่ในสวน #บ้านสวนชานุชิต&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "4ff3cc71f83f",
+      "title_en": "มาให้น้ำมะพร้าวน้ำหอมกับผักอยู่ในสวน #บ้านสวนชานุชิต - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-10-29T17:12:01.863913+00:00"
+    },
+    {
       "title_original": "สภาเกษตรกรแห่งชาติ ผนึกกำลัง ทีเส็บ-ภาครัฐ-เอกชน เปิดงาน “Agri Next Thailand 2026” มหกรรมเกษตรครบวงจรที่มุ่งสร้างโอกาสทางธุรกิจ - ThaiPR.NET",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPcHFWeUg1XzdzTlo5QWRUMjFMLVJtNENYc2drMlFpRkdUZVJUTmJWMTRqOXMxZTF3M0EtSmFkbThpTjBHTDZndzlpOVdKZzRR?oc=5",
       "pub_date": "Thu, 29 Oct 2026 02:28:00 GMT",
@@ -7083,28 +7097,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-17T12:02:12.658875+00:00"
-    },
-    {
-      "title_original": "กรมทรัพย์สินทางปัญญา พา “7 ผลไม้ GI ไทย” บุกศูนย์การค้า ICS ในเครือ ICONSIAM - ThaiPR.NET",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCazZPQXBnTE9aNDFIZE9KV1JaWEZqNm9JUzJLdlNkNEI0MDlvRE9aQnl6eGRzVUhwS2pxZEk4bkVIVkg2Qk9BZ0xnQUJIUmM?oc=5",
-      "pub_date": "Fri, 17 Jul 2026 10:25:00 GMT",
-      "source": "ThaiPR.NET",
-      "description_original": "กรมทรัพย์สินทางปัญญา พา “7 ผลไม้ GI ไทย” บุกศูนย์การค้า ICS ในเครือ ICONSIAM&nbsp;&nbsp;ThaiPR.NET",
-      "is_priority_outlet": false,
-      "id": "cab81a366482",
-      "title_en": "กรมทรัพย์สินทางปัญญา พา “7 ผลไม้ GI ไทย” บุกศูนย์การค้า ICS ในเครือ ICONSIAM - ThaiPR.NET",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-17T12:02:12.658875+00:00"
     }
   ],
-  "last_updated": "2026-10-29T11:09:55.864709+00:00",
+  "last_updated": "2026-10-29T17:12:01.863913+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-10-09T17:14:48.602501+00:00",
-      "new_articles": 2
-    },
     {
       "timestamp": "2026-10-10T02:10:44.088672+00:00",
       "new_articles": 0
@@ -7340,6 +7336,10 @@
     {
       "timestamp": "2026-10-29T11:09:55.864709+00:00",
       "new_articles": 6
+    },
+    {
+      "timestamp": "2026-10-29T17:12:01.863913+00:00",
+      "new_articles": 1
     }
   ]
 }
