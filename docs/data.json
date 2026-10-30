@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "ข่าวภาคค่ำ l ผู้ว่าฯ ราชบุรี ลุยตรวจสวนมะพร้าวน้ำหอม ย้ำ! น้ำไม่ท่วมถึงทะลาย รสชาติยังปกติ - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rSlNjNklPSzJCMUhfSEUxSjRRVzdwOWNLZEdGNURGZ0JCa1Q1eXEzRlFWTmZSVDI0ZTZwY3djS2RkZ3FQamhTd0RNQUExQzZWZkZZQlBR?oc=5",
+      "pub_date": "Fri, 30 Oct 2026 12:02:16 GMT",
+      "source": "YouTube",
+      "description_original": "ข่าวภาคค่ำ l ผู้ว่าฯ ราชบุรี ลุยตรวจสวนมะพร้าวน้ำหอม ย้ำ! น้ำไม่ท่วมถึงทะลาย รสชาติยังปกติ&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "332ac3c3eabc",
+      "title_en": "ข่าวภาคค่ำ l ผู้ว่าฯ ราชบุรี ลุยตรวจสวนมะพร้าวน้ำหอม ย้ำ! น้ำไม่ท่วมถึงทะลาย รสชาติยังปกติ - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-10-30T16:52:55.138628+00:00"
+    },
+    {
       "title_original": "กสม. เสนอแนวทางป้องกันการสวมสิทธิมะพร้าวไทย - ประชาไท Prachatai.com",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93MHZxSXlPUjllUThSMl9UblNxZS1lYml6MHFTdzlyLTBkZnl1ZnF3ZDhJQXQxY29JY3FCb2JoZmtxYkJELXJJN1VWcFI4NzNETV9iT1dKSQ?oc=5",
       "pub_date": "Fri, 30 Oct 2026 05:11:22 GMT",
@@ -7083,28 +7097,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-18T06:51:52.635676+00:00"
-    },
-    {
-      "title_original": "สมุทรสงครามเดินหน้ายกระดับ “น้ำตาลมะพร้าวแม่กลอง” สินค้า GI - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90LTlRdGJuTmprTXNHU0plU1ZxSzJCRmZwdWdjeHlNWXBkay1kSTR4SDhubXkyNlFxckk2Ry1fSXFGeFhCOVNzdlZYTjg4TWNiOVFZU3Nn?oc=5",
-      "pub_date": "Sat, 18 Jul 2026 04:14:42 GMT",
-      "source": "YouTube",
-      "description_original": "สมุทรสงครามเดินหน้ายกระดับ “น้ำตาลมะพร้าวแม่กลอง” สินค้า GI&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "c183f647319e",
-      "title_en": "สมุทรสงครามเดินหน้ายกระดับ “น้ำตาลมะพร้าวแม่กลอง” สินค้า GI - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-18T06:51:52.635676+00:00"
     }
   ],
-  "last_updated": "2026-10-30T11:04:31.883491+00:00",
+  "last_updated": "2026-10-30T16:52:55.138628+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-10-10T16:01:49.470087+00:00",
-      "new_articles": 1
-    },
     {
       "timestamp": "2026-10-11T01:40:29.545901+00:00",
       "new_articles": 2
@@ -7340,6 +7336,10 @@
     {
       "timestamp": "2026-10-30T11:04:31.883491+00:00",
       "new_articles": 5
+    },
+    {
+      "timestamp": "2026-10-30T16:52:55.138628+00:00",
+      "new_articles": 1
     }
   ]
 }
