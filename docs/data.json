@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "ชาวสวนมะพร้าวประจวบฯ จี้รัฐแก้ปัญหาราคาตกต่ำกว่าต้นทุน - bangkokbiznews",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jV1pIWG05NWl1N29LZjBrWTBDQzNUYWhxSzdKYV84eWxob09walZaQldwMlFqTHA3Nm1HUVZBOE5mN0Z6cGk4bFpwUHJSUGxKcFBNLXZaejZfN3Ey?oc=5",
+      "pub_date": "Thu, 29 Oct 2026 20:01:40 GMT",
+      "source": "bangkokbiznews",
+      "description_original": "ชาวสวนมะพร้าวประจวบฯ จี้รัฐแก้ปัญหาราคาตกต่ำกว่าต้นทุน&nbsp;&nbsp;bangkokbiznews",
+      "is_priority_outlet": false,
+      "id": "30d047a5101d",
+      "title_en": "ชาวสวนมะพร้าวประจวบฯ จี้รัฐแก้ปัญหาราคาตกต่ำกว่าต้นทุน - bangkokbiznews",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-10-31T10:38:59.907234+00:00"
+    },
+    {
       "title_original": "MadameCoCo ความอร่อยจากมะพร้าวน้ำหอมแท้พร้อมดื่ม และเส้นมะพร้าว ไอเดียต่อยอดสู่ผลิตภัณฑ์รูปแบบใหม่ - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXeWxhYUF2QkdsRFVZbUhSQjhqeExOdkduOWNTQXI5c0pYZ1lHODMxUkYzeVZ0YzVnMlNtMVJKbktGbTJUalByNlYtOUgzTzdHQnlnVw?oc=5",
       "pub_date": "Fri, 30 Oct 2026 11:13:05 GMT",
@@ -7083,28 +7097,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-18T06:51:52.635676+00:00"
-    },
-    {
-      "title_original": "น้ำมะพร้าวน้ำหอม #travel #คลายเครียด #คลายร้อน #มะพร้าวอ่อน #มะพร้าว #coconut - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDdHBzVWRhN0lFLW14Y3pXTEdPTlp4U1I4SmVDNy1yR3NZZzlZc082N3NkMEQyck1vbFk1WndXLTByQ3JkSWpJNmJ6bmkycGczdUlLVQ?oc=5",
-      "pub_date": "Sat, 18 Jul 2026 03:01:49 GMT",
-      "source": "YouTube",
-      "description_original": "น้ำมะพร้าวน้ำหอม #travel #คลายเครียด #คลายร้อน #มะพร้าวอ่อน #มะพร้าว #coconut&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "98568ff596bf",
-      "title_en": "น้ำมะพร้าวน้ำหอม #travel #คลายเครียด #คลายร้อน #มะพร้าวอ่อน #มะพร้าว #coconut - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-18T06:51:52.635676+00:00"
     }
   ],
-  "last_updated": "2026-10-31T02:06:43.417950+00:00",
+  "last_updated": "2026-10-31T10:38:59.907234+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-10-11T11:04:26.007149+00:00",
-      "new_articles": 1
-    },
     {
       "timestamp": "2026-10-11T16:27:38.496151+00:00",
       "new_articles": 2
@@ -7339,6 +7335,10 @@
     },
     {
       "timestamp": "2026-10-31T02:06:43.417950+00:00",
+      "new_articles": 1
+    },
+    {
+      "timestamp": "2026-10-31T10:38:59.907234+00:00",
       "new_articles": 1
     }
   ]
