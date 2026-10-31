@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "MadameCoCo ความอร่อยจากมะพร้าวน้ำหอมแท้พร้อมดื่ม และเส้นมะพร้าว ไอเดียต่อยอดสู่ผลิตภัณฑ์รูปแบบใหม่ - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXeWxhYUF2QkdsRFVZbUhSQjhqeExOdkduOWNTQXI5c0pYZ1lHODMxUkYzeVZ0YzVnMlNtMVJKbktGbTJUalByNlYtOUgzTzdHQnlnVw?oc=5",
+      "pub_date": "Fri, 30 Oct 2026 11:13:05 GMT",
+      "source": "YouTube",
+      "description_original": "MadameCoCo ความอร่อยจากมะพร้าวน้ำหอมแท้พร้อมดื่ม และเส้นมะพร้าว ไอเดียต่อยอดสู่ผลิตภัณฑ์รูปแบบใหม่&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "1d7b766c3837",
+      "title_en": "MadameCoCo ความอร่อยจากมะพร้าวน้ำหอมแท้พร้อมดื่ม และเส้นมะพร้าว ไอเดียต่อยอดสู่ผลิตภัณฑ์รูปแบบใหม่ - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-10-31T02:06:43.417950+00:00"
+    },
+    {
       "title_original": "ข่าวภาคค่ำ l ผู้ว่าฯ ราชบุรี ลุยตรวจสวนมะพร้าวน้ำหอม ย้ำ! น้ำไม่ท่วมถึงทะลาย รสชาติยังปกติ - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rSlNjNklPSzJCMUhfSEUxSjRRVzdwOWNLZEdGNURGZ0JCa1Q1eXEzRlFWTmZSVDI0ZTZwY3djS2RkZ3FQamhTd0RNQUExQzZWZkZZQlBR?oc=5",
       "pub_date": "Fri, 30 Oct 2026 12:02:16 GMT",
@@ -7083,28 +7097,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-18T06:51:52.635676+00:00"
-    },
-    {
-      "title_original": "สวนนงนุชพัทยา \"ปลูกมะพร้าวทะเล\" อนุรักษ์พันธุ์พืชระดับโลก - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EazZ5bm5WSXgtWkVhZEZleW5NYUJGUHZtM3gtVG5CNEx3UkVBZWdwdHJER2ZacHBIQ3hONzIzTkdmdlBJZFQxLXVPQTRTRHlya3gtZ2h3?oc=5",
-      "pub_date": "Wed, 15 Jul 2026 10:00:23 GMT",
-      "source": "YouTube",
-      "description_original": "สวนนงนุชพัทยา \"ปลูกมะพร้าวทะเล\" อนุรักษ์พันธุ์พืชระดับโลก&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "b266588aea8e",
-      "title_en": "สวนนงนุชพัทยา \"ปลูกมะพร้าวทะเล\" อนุรักษ์พันธุ์พืชระดับโลก - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-18T06:51:52.635676+00:00"
     }
   ],
-  "last_updated": "2026-10-30T16:52:55.138628+00:00",
+  "last_updated": "2026-10-31T02:06:43.417950+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-10-11T01:40:29.545901+00:00",
-      "new_articles": 2
-    },
     {
       "timestamp": "2026-10-11T11:04:26.007149+00:00",
       "new_articles": 1
@@ -7339,6 +7335,10 @@
     },
     {
       "timestamp": "2026-10-30T16:52:55.138628+00:00",
+      "new_articles": 1
+    },
+    {
+      "timestamp": "2026-10-31T02:06:43.417950+00:00",
       "new_articles": 1
     }
   ]
