@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "มะพร้าวน้ำหอม #ผลไม้ #fruit - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lZERuNWYzTEVqOGw0b195bG5HTTJBcmZPRE5RQ2tQR1Vka1FnYXBtd0poNFl2TmtlMGVvUjBRNnJCSEYtMXYwTmd6andPcGdxc08ycA?oc=5",
+      "pub_date": "Sun, 01 Nov 2026 09:12:53 GMT",
+      "source": "YouTube",
+      "description_original": "มะพร้าวน้ำหอม #ผลไม้ #fruit&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "cb816e059fae",
+      "title_en": "มะพร้าวน้ำหอม #ผลไม้ #fruit - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-11-02T20:34:42.907405+00:00"
+    },
+    {
       "title_original": "สกช.ผนึกทีเส็บเปิดงานมหกรรมสินค้าเกษตรที่มุ่งสร้างโอกาสทางธุรกิจ - Thaipost.net",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GUVZ0Q1lyX19Xb1FCcU9YazJpa1AzMC1jS0pPX2NGaElwQlBEdFdscEN5MVdTV0doMlp0V3NOa0xRUkZjTjFDWUhxRGRVVkRuQnpHd1NnVDF1Zw?oc=5",
       "pub_date": "Tue, 27 Oct 2026 12:26:35 GMT",
@@ -7083,28 +7097,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-19T11:48:38.233511+00:00"
-    },
-    {
-      "title_original": "วุ้นวันแม่ #วุ้นชลบุรี #เค้กวุ้นชลบุรี #วุ้นแฟนซี #วุ้นวันแม่ #วุ้นกะทิมะพร้าวน้ำหอม #เค้กวุ้นแฟนซี - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wbjZjQU5ZMTJzYWY5NU1CQmJjYnJVeWVBX0pxdnVoS3E1Y3VGWVRYSjNnNzMzbUFKQUQ0T2JEZHdKYzhEa0pBci1NZm1MV1B3ZGVTWA?oc=5",
-      "pub_date": "Sun, 19 Jul 2026 02:10:41 GMT",
-      "source": "YouTube",
-      "description_original": "วุ้นวันแม่ #วุ้นชลบุรี #เค้กวุ้นชลบุรี #วุ้นแฟนซี #วุ้นวันแม่ #วุ้นกะทิมะพร้าวน้ำหอม #เค้กวุ้นแฟนซี&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "4009453a594f",
-      "title_en": "วุ้นวันแม่ #วุ้นชลบุรี #เค้กวุ้นชลบุรี #วุ้นแฟนซี #วุ้นวันแม่ #วุ้นกะทิมะพร้าวน้ำหอม #เค้กวุ้นแฟนซี - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-19T07:21:14.508056+00:00"
     }
   ],
-  "last_updated": "2026-11-02T12:56:30.028056+00:00",
+  "last_updated": "2026-11-02T20:34:42.907405+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-10-13T17:51:38.692447+00:00",
-      "new_articles": 0
-    },
     {
       "timestamp": "2026-10-14T01:41:15.644187+00:00",
       "new_articles": 2
@@ -7340,6 +7336,10 @@
     {
       "timestamp": "2026-11-02T12:56:30.028056+00:00",
       "new_articles": 3
+    },
+    {
+      "timestamp": "2026-11-02T20:34:42.907405+00:00",
+      "new_articles": 1
     }
   ]
 }
