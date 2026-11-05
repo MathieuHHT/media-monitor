@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "สวนมะพร้าวน้ำหอมไพศาล บ้านแพ้ว สมุทรสาคร #พ่อจ๋าแม่จ๋าพาเที่ยว #travel - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KUVB0bVFYNkpuN2VHWVE2UWpCR2pKX0VKMDFKQ0NKdWNhbGVDbjlsejMzRVhFallzOWQwYjdnNXZNemdmMVZRaGJIVlFSOWMzc2I1Xw?oc=5",
+      "pub_date": "Thu, 05 Nov 2026 15:09:57 GMT",
+      "source": "YouTube",
+      "description_original": "สวนมะพร้าวน้ำหอมไพศาล บ้านแพ้ว สมุทรสาคร #พ่อจ๋าแม่จ๋าพาเที่ยว #travel&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "0bd94435f3f2",
+      "title_en": "สวนมะพร้าวน้ำหอมไพศาล บ้านแพ้ว สมุทรสาคร #พ่อจ๋าแม่จ๋าพาเที่ยว #travel - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-11-05T18:23:06.700766+00:00"
+    },
+    {
       "title_original": "Agri Next Thailand 2026 มหกรรมเกษตรครบวงจร ปลดล็อกศักยภาพเกษตรกรไทย - Matichon Online",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aVm5SMDlHVk1aS1c3NDdfZjVWbUtpVHNPYUtNQ1g4VUJjOWVCX1hOd3o3MnJHTlVjZWxhZjZUUVVUbHpLT2ZXU2FyRV8tS0h1Y05KZEtyTU5GX2s?oc=5",
       "pub_date": "Thu, 29 Oct 2026 09:46:44 GMT",
@@ -7083,40 +7097,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-21T23:57:15.032142+00:00"
-    },
-    {
-      "title_original": "แบ่งปันสูตรขนมถ้วยโบราณ(ขนมไทย)/Steamed coconut milk custard/Sek Food & DIY - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVMWs2cVQza0xnR1hEbnZIUU9aVVVSMmZKYWVmdGY4STVXYzBDRGExc3JNbTdPV3dRSm9DQ1pxaUVUSFRSNnpmUlZldkp6Y295YUxnUmVR?oc=5",
-      "pub_date": "Mon, 20 Jul 2026 13:00:28 GMT",
-      "source": "YouTube",
-      "description_original": "แบ่งปันสูตรขนมถ้วยโบราณ(ขนมไทย)/Steamed coconut milk custard/Sek Food & DIY&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "2055b7977637",
-      "title_en": "แบ่งปันสูตรขนมถ้วยโบราณ(ขนมไทย)/Steamed coconut milk custard/Sek Food & DIY - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-20T23:58:51.917760+00:00"
     }
   ],
-  "last_updated": "2026-11-05T12:49:39.992249+00:00",
+  "last_updated": "2026-11-05T18:23:06.700766+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-10-15T15:24:25.208830+00:00",
-      "new_articles": 1
-    },
-    {
-      "timestamp": "2026-10-16T01:03:30.792259+00:00",
-      "new_articles": 1
-    },
-    {
-      "timestamp": "2026-10-16T09:22:58.262833+00:00",
-      "new_articles": 0
-    },
-    {
-      "timestamp": "2026-10-16T15:04:10.170581+00:00",
-      "new_articles": 2
-    },
     {
       "timestamp": "2026-10-17T01:10:05.251750+00:00",
       "new_articles": 0
@@ -7352,6 +7336,10 @@
     {
       "timestamp": "2026-11-05T12:49:39.992264+00:00",
       "new_articles": 0
+    },
+    {
+      "timestamp": "2026-11-05T18:23:06.700766+00:00",
+      "new_articles": 1
     }
   ]
 }
