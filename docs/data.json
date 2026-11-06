@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "จากผัดไทยคิวยาว สู่เค้กสังขยาตัวตึง! 🟢✨ #อร่อยบอกต่อ #ผัดไทยพรหมพิราม #เค้กสังขยามะพร้าวอ่อน #ซีคอน - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05eW5jaVVrVHlpWGF0eXhkMEd6eURkblZFSWg0WGNoYk5tUTQ2eTZsb1d2ZVRscVFLbEpUS2dDVHh5SS1VS3hxc2d3WWFWS2dmazBXdQ?oc=5",
+      "pub_date": "Fri, 06 Nov 2026 11:12:26 GMT",
+      "source": "YouTube",
+      "description_original": "จากผัดไทยคิวยาว สู่เค้กสังขยาตัวตึง! 🟢✨ #อร่อยบอกต่อ #ผัดไทยพรหมพิราม #เค้กสังขยามะพร้าวอ่อน #ซีคอน&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "c70fc5857073",
+      "title_en": "จากผัดไทยคิวยาว สู่เค้กสังขยาตัวตึง! 🟢✨ #อร่อยบอกต่อ #ผัดไทยพรหมพิราม #เค้กสังขยามะพร้าวอ่อน #ซีคอน - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-11-06T17:44:39.872496+00:00"
+    },
+    {
       "title_original": "มะพร้าวน้ำหอมพันธุ์เตี้ยลูกดกมาก - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02TFBQblRDQV81SWNVQlhELTRPcjlNckFpWm84NVYyazczWm9aR01TcXplTHVMR1ZvbFdTZlNFS1c5eXJadWFBRmowVlEwQl85TlNvcQ?oc=5",
       "pub_date": "Thu, 05 Nov 2026 00:27:59 GMT",
@@ -7083,32 +7097,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-22T07:28:32.576234+00:00"
-    },
-    {
-      "title_original": "ตอนที่5 สวพ8 พัฒนาเส้นทางท่องเที่ยวสงขลามหานครมะพร้าวน้ำหอม ตอนปักหมุด คาเฟ GAP โดยธัชธาวินท์ สะรุโณ - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhbHdxNnhfdXJ1bzdnZjQzNldyMkZiZTd3WWZFLUNScDVrVTBtVVV4bl9xYm9sdXphTzZLTlpPV0ZiQWNqYnd1ZUVONHE0VzVuUWRMQnhB?oc=5",
-      "pub_date": "Wed, 22 Jul 2026 04:12:40 GMT",
-      "source": "YouTube",
-      "description_original": "ตอนที่5 สวพ8 พัฒนาเส้นทางท่องเที่ยวสงขลามหานครมะพร้าวน้ำหอม ตอนปักหมุด คาเฟ GAP โดยธัชธาวินท์ สะรุโณ&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "311247709e55",
-      "title_en": "ตอนที่5 สวพ8 พัฒนาเส้นทางท่องเที่ยวสงขลามหานครมะพร้าวน้ำหอม ตอนปักหมุด คาเฟ GAP โดยธัชธาวินท์ สะรุโณ - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-22T07:28:32.576234+00:00"
     }
   ],
-  "last_updated": "2026-11-06T12:34:16.425276+00:00",
+  "last_updated": "2026-11-06T17:44:39.872496+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-10-17T08:54:22.102091+00:00",
-      "new_articles": 0
-    },
-    {
-      "timestamp": "2026-10-17T13:59:38.116670+00:00",
-      "new_articles": 1
-    },
     {
       "timestamp": "2026-10-18T00:43:11.010250+00:00",
       "new_articles": 0
@@ -7344,6 +7336,10 @@
     {
       "timestamp": "2026-11-06T12:34:16.425287+00:00",
       "new_articles": 0
+    },
+    {
+      "timestamp": "2026-11-06T17:44:39.872496+00:00",
+      "new_articles": 1
     }
   ]
 }
