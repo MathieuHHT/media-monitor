@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "มะพร้าวน้ำหอมพันธุ์เตี้ยลูกดกมาก - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02TFBQblRDQV81SWNVQlhELTRPcjlNckFpWm84NVYyazczWm9aR01TcXplTHVMR1ZvbFdTZlNFS1c5eXJadWFBRmowVlEwQl85TlNvcQ?oc=5",
+      "pub_date": "Thu, 05 Nov 2026 00:27:59 GMT",
+      "source": "YouTube",
+      "description_original": "มะพร้าวน้ำหอมพันธุ์เตี้ยลูกดกมาก&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "bb4b723e6905",
+      "title_en": "มะพร้าวน้ำหอมพันธุ์เตี้ยลูกดกมาก - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-11-06T03:17:13.769253+00:00"
+    },
+    {
       "title_original": "สวนมะพร้าวน้ำหอมไพศาล บ้านแพ้ว สมุทรสาคร #พ่อจ๋าแม่จ๋าพาเที่ยว #travel - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KUVB0bVFYNkpuN2VHWVE2UWpCR2pKX0VKMDFKQ0NKdWNhbGVDbjlsejMzRVhFallzOWQwYjdnNXZNemdmMVZRaGJIVlFSOWMzc2I1Xw?oc=5",
       "pub_date": "Thu, 05 Nov 2026 15:09:57 GMT",
@@ -7083,28 +7097,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-22T07:28:32.576234+00:00"
-    },
-    {
-      "title_original": "กลุ่มเซ็นทรัล เปิดงาน ‘จริงใจ มาหา…นคร’ ครั้งที่ 13 ชวนช้อปของดีจากชุมชนทั่วไทย คัดสรรของกิน-ของใช้ ครบจบที่เซ็นทรัลเวิลด์ - เทคโนโลยีชาวบ้าน - ข่าวสด",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ydE03QVdzMGN1WkdqUV9ycnRMZDBoSnMtTEJpSzdaMG9VemQtVlYxZ0ZGeE5ac0NSdTlsVFgxZHI1WHRTUjMzYmJwM3ZobHVpdDktNlZWcHhRanVmRU9xc3M3UklqNUo5UlBkaWY0ZGJKcDBvOTlyN2VR?oc=5",
-      "pub_date": "Wed, 15 Jul 2026 14:09:34 GMT",
-      "source": "ข่าวสด",
-      "description_original": "กลุ่มเซ็นทรัล เปิดงาน ‘จริงใจ มาหา…นคร’ ครั้งที่ 13 ชวนช้อปของดีจากชุมชนทั่วไทย คัดสรรของกิน-ของใช้ ครบจบที่เซ็นทรัลเวิลด์ - เทคโนโลยีชาวบ้าน&nbsp;&nbsp;ข่าวสด",
-      "is_priority_outlet": false,
-      "id": "ffb058bd8b4b",
-      "title_en": "กลุ่มเซ็นทรัล เปิดงาน ‘จริงใจ มาหา…นคร’ ครั้งที่ 13 ชวนช้อปของดีจากชุมชนทั่วไทย คัดสรรของกิน-ของใช้ ครบจบที่เซ็นทรัลเวิลด์ - เทคโนโลยีชาวบ้าน - ข่าวสด",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-21T23:57:15.032142+00:00"
     }
   ],
-  "last_updated": "2026-11-05T18:23:06.700766+00:00",
+  "last_updated": "2026-11-06T03:17:13.769253+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-10-17T01:10:05.251750+00:00",
-      "new_articles": 0
-    },
     {
       "timestamp": "2026-10-17T08:54:22.102091+00:00",
       "new_articles": 0
@@ -7339,6 +7335,10 @@
     },
     {
       "timestamp": "2026-11-05T18:23:06.700766+00:00",
+      "new_articles": 1
+    },
+    {
+      "timestamp": "2026-11-06T03:17:13.769253+00:00",
       "new_articles": 1
     }
   ]
