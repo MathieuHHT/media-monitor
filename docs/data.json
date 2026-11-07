@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "โคตรเซียนปอกมะพร้าว‼️ ฝึกมากับพี่ชายมาปีกว่า จนชำนาญ ตอนนี้ขั้นเซียนแล้วบอกเลย‼️ #อุ๊มะพร้าวน้ำหอม - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vbzBDQm9qMElUYnR3UEVhZ0dKZHRtNTA5UFFySTRaUWtIR3pucGV1S2pKcXNNVDZSRHB1OXQzSjBBTUg3Ymp3MmVCajB6eUlUT3ZmT0VR?oc=5",
+      "pub_date": "Fri, 06 Nov 2026 06:56:42 GMT",
+      "source": "YouTube",
+      "description_original": "โคตรเซียนปอกมะพร้าว‼️ ฝึกมากับพี่ชายมาปีกว่า จนชำนาญ ตอนนี้ขั้นเซียนแล้วบอกเลย‼️ #อุ๊มะพร้าวน้ำหอม&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "8858fd8d3ecd",
+      "title_en": "โคตรเซียนปอกมะพร้าว‼️ ฝึกมากับพี่ชายมาปีกว่า จนชำนาญ ตอนนี้ขั้นเซียนแล้วบอกเลย‼️ #อุ๊มะพร้าวน้ำหอม - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-11-07T11:23:21.790865+00:00"
+    },
+    {
       "title_original": "จากผัดไทยคิวยาว สู่เค้กสังขยาตัวตึง! 🟢✨ #อร่อยบอกต่อ #ผัดไทยพรหมพิราม #เค้กสังขยามะพร้าวอ่อน #ซีคอน - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05eW5jaVVrVHlpWGF0eXhkMEd6eURkblZFSWg0WGNoYk5tUTQ2eTZsb1d2ZVRscVFLbEpUS2dDVHh5SS1VS3hxc2d3WWFWS2dmazBXdQ?oc=5",
       "pub_date": "Fri, 06 Nov 2026 11:12:26 GMT",
@@ -7083,32 +7097,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-22T07:28:32.576234+00:00"
-    },
-    {
-      "title_original": "ทัวร์ทางไทย เชื่อม สกร.-คาเฟ่มะพร้าวน้ำหอม -อบต.ทุ่งหวัง พัฒนาท่องเที่ยวชุมชนที่สงขลา - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83M0JZRHlkdWMwTnJsQ2poQzBlb3ZQYjFqZ3U0Z1daUXQyYS1pREtaYlVpTWNuT1RrUXJybkR1X01kYkgybGFuUHBlRzNyTm1IZ21ZSEpR?oc=5",
-      "pub_date": "Wed, 22 Jul 2026 03:43:37 GMT",
-      "source": "YouTube",
-      "description_original": "ทัวร์ทางไทย เชื่อม สกร.-คาเฟ่มะพร้าวน้ำหอม -อบต.ทุ่งหวัง พัฒนาท่องเที่ยวชุมชนที่สงขลา&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "e5bdc754223a",
-      "title_en": "ทัวร์ทางไทย เชื่อม สกร.-คาเฟ่มะพร้าวน้ำหอม -อบต.ทุ่งหวัง พัฒนาท่องเที่ยวชุมชนที่สงขลา - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-22T07:28:32.576234+00:00"
     }
   ],
-  "last_updated": "2026-11-07T02:37:11.678842+00:00",
+  "last_updated": "2026-11-07T11:23:21.790865+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-10-18T00:43:11.010250+00:00",
-      "new_articles": 0
-    },
-    {
-      "timestamp": "2026-10-18T09:12:26.287311+00:00",
-      "new_articles": 2
-    },
     {
       "timestamp": "2026-10-18T14:12:12.201729+00:00",
       "new_articles": 0
@@ -7344,6 +7336,10 @@
     {
       "timestamp": "2026-11-07T02:37:11.678860+00:00",
       "new_articles": 0
+    },
+    {
+      "timestamp": "2026-11-07T11:23:21.790865+00:00",
+      "new_articles": 1
     }
   ]
 }
