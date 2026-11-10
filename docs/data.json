@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "ศูนย์ข่าวกระทรวงพาณิชย์ - กระทรวงพาณิชย์",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5naHJwaWFMYlVFWWdVV3plN2p6M0ZLVTdQUG9EWFphSUVRem9TNk1EZUpybjJ5eWNHTFE0WGc3RUI5SzFGSTQwbzdwbDRka09qd29DTjdVSU5zbkFOcmZWYXU5LUxFYWlpbTVaZ2NxckdQNDA?oc=5",
+      "pub_date": "Tue, 10 Nov 2026 09:39:42 GMT",
+      "source": "กระทรวงพาณิชย์",
+      "description_original": "ศูนย์ข่าวกระทรวงพาณิชย์&nbsp;&nbsp;กระทรวงพาณิชย์",
+      "is_priority_outlet": false,
+      "id": "1a622faa10a4",
+      "title_en": "ศูนย์ข่าวกระทรวงพาณิชย์ - กระทรวงพาณิชย์",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-11-10T18:22:28.266932+00:00"
+    },
+    {
       "title_original": "“พาณิชย์” หารือแบรนด์ไอศกรีม–คาเฟ่ดังในเซี่ยงไฮ้ ดันผลไม้ไทยเป็นวัตถุดิบเพื่อผลิตแปรรูป Gelato–เครื่องดื่ม น้ำผลไม้ ขยายตลาดส่งออก - กระทรวงพาณิชย์",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45UlFCNEpFV2ZfLXVYVmxBV1JKMWRvYnRTNUpCN3RIQkw4SVhqRTBhWWtDbERMSVVYQkZfdEpveXkwbTV1ZFRwelB5N2owc1dIYzdOZG9KLVlKdXg5NWdfVUU5aUllQnlVcnhWVw?oc=5",
       "pub_date": "Tue, 10 Nov 2026 07:13:28 GMT",
@@ -7083,28 +7097,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-24T07:24:42.638268+00:00"
-    },
-    {
-      "title_original": "โลกธุรกิจ - กรมทรัพย์สินทางปัญญา พา “7 ผลไม้ GI ไทย” บุกศูนย์การค้า ICS ในเครือ ICONSIAM - แนวหน้า",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54R0FET0NxQ2NQTjNNRTdGaW44RTRvQm9aUEhkdGdGOFFzNGRNbldtLUtabTkwT1hhZjJSck45S2JGdktieVNHMDRMUnZKRWs?oc=5",
-      "pub_date": "Fri, 17 Jul 2026 06:58:00 GMT",
-      "source": "แนวหน้า",
-      "description_original": "โลกธุรกิจ - กรมทรัพย์สินทางปัญญา พา “7 ผลไม้ GI ไทย” บุกศูนย์การค้า ICS ในเครือ ICONSIAM&nbsp;&nbsp;แนวหน้า",
-      "is_priority_outlet": false,
-      "id": "e37aa8f0743e",
-      "title_en": "โลกธุรกิจ - กรมทรัพย์สินทางปัญญา พา “7 ผลไม้ GI ไทย” บุกศูนย์การค้า ICS ในเครือ ICONSIAM - แนวหน้า",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-24T00:03:45.759936+00:00"
     }
   ],
-  "last_updated": "2026-11-10T13:06:37.291388+00:00",
+  "last_updated": "2026-11-10T18:22:28.266932+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-10-21T15:44:59.609564+00:00",
-      "new_articles": 4
-    },
     {
       "timestamp": "2026-10-22T01:21:11.492797+00:00",
       "new_articles": 1
@@ -7340,6 +7336,10 @@
     {
       "timestamp": "2026-11-10T13:06:37.291388+00:00",
       "new_articles": 3
+    },
+    {
+      "timestamp": "2026-11-10T18:22:28.266932+00:00",
+      "new_articles": 1
     }
   ]
 }
