@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "เปิดแผนงานปี 70 พุ่งเป้า 3 ภารกิจ ปราบนอมินี-ยกระดับบริการดิจิทัล-สร้างโอกาส SMEs | Thairath Money - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UWTNpRXBrRldRTE1wdU5JNkN5YUd0UEhZcDAxOFNVN1VPNko5V01FWkdRM201RC0xVTNMTnFhekg3RWVJY3ZZMzJOa2V6ZThxRkhqaTNB?oc=5",
+      "pub_date": "Thu, 12 Nov 2026 04:27:57 GMT",
+      "source": "LINE TODAY",
+      "description_original": "เปิดแผนงานปี 70 พุ่งเป้า 3 ภารกิจ ปราบนอมินี-ยกระดับบริการดิจิทัล-สร้างโอกาส SMEs | Thairath Money&nbsp;&nbsp;LINE TODAY",
+      "is_priority_outlet": false,
+      "id": "753be9fb6f1f",
+      "title_en": "เปิดแผนงานปี 70 พุ่งเป้า 3 ภารกิจ ปราบนอมินี-ยกระดับบริการดิจิทัล-สร้างโอกาส SMEs | Thairath Money - LINE TODAY",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-11-12T18:38:52.945807+00:00"
+    },
+    {
       "title_original": "ไทยร่วมงานมหกรรมเกษตรมณฑลเสฉวน ครั้งที่ 12 ในฐานะประเทศเกียรติยศ ตอกย้ำโอกาสสินค้าเกษตรไทยในตลาดจีนตะวันตก - กรมส่งเสริมการค้าระหว่างประเทศ (DITP)",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5fdlVma1dLZVZLOEJVNHJvQXRpU3VuNUNCSkZrM0hYZldDZUNTUG9jbzFtQ1B4UzJxckVRY25WdkFiOTIzMFJleUJfNWZ3dTFnRlFnZjFkbHhaYW1ZeWxqZ2l3?oc=5",
       "pub_date": "Thu, 12 Nov 2026 08:29:00 GMT",
@@ -7083,28 +7097,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-26T07:29:23.836374+00:00"
-    },
-    {
-      "title_original": "ใช้เครื่องผ่ามะพร้าว ทุนแรงงานคน ได้ผลผลิตจำนวนมาก รสชาติหวานชื่นใจ #สดชื่นมะพร้าวน้ำหอม - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42OFZON0ZXWXR6MWxwSFkxeGRQQUdOaXlfaHNOZU85YlItb3JWdkZIVU9hU3B2Wi0yTUNjVzZiUXZNRl9IQ0R6X0xUTGJ2MElvRDNpdQ?oc=5",
-      "pub_date": "Fri, 24 Jul 2026 15:06:22 GMT",
-      "source": "YouTube",
-      "description_original": "ใช้เครื่องผ่ามะพร้าว ทุนแรงงานคน ได้ผลผลิตจำนวนมาก รสชาติหวานชื่นใจ #สดชื่นมะพร้าวน้ำหอม&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "114b1449d418",
-      "title_en": "ใช้เครื่องผ่ามะพร้าว ทุนแรงงานคน ได้ผลผลิตจำนวนมาก รสชาติหวานชื่นใจ #สดชื่นมะพร้าวน้ำหอม - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-26T00:01:54.473386+00:00"
     }
   ],
-  "last_updated": "2026-11-12T13:25:19.277043+00:00",
+  "last_updated": "2026-11-12T18:38:52.945807+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-10-23T15:32:21.989820+00:00",
-      "new_articles": 1
-    },
     {
       "timestamp": "2026-10-24T01:24:50.740662+00:00",
       "new_articles": 1
@@ -7340,6 +7336,10 @@
     {
       "timestamp": "2026-11-12T13:25:19.277043+00:00",
       "new_articles": 2
+    },
+    {
+      "timestamp": "2026-11-12T18:38:52.945807+00:00",
+      "new_articles": 1
     }
   ]
 }
