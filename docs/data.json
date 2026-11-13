@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "ใส่ปุ๋ยละลายช้าในสวนมะพร้าวน้ำหอมภูเขาไฟ ไทยกรีนอะโกร - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hb2lRM3pVODdwXzJHWllPMVhlMkEwV1NMLWRtWVV4SWlkV1JWLXNWSHhKbmFYejljY09weTYwbXkwYWs4NGZtRl9FOHFjWkN1dTYySjVB?oc=5",
+      "pub_date": "Fri, 13 Nov 2026 08:03:36 GMT",
+      "source": "YouTube",
+      "description_original": "ใส่ปุ๋ยละลายช้าในสวนมะพร้าวน้ำหอมภูเขาไฟ ไทยกรีนอะโกร&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "44381fbbd992",
+      "title_en": "ใส่ปุ๋ยละลายช้าในสวนมะพร้าวน้ำหอมภูเขาไฟ ไทยกรีนอะโกร - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-11-13T12:42:05.788118+00:00"
+    },
+    {
       "title_original": "เปิดแผนงานปี 70 พุ่งเป้า 3 ภารกิจ ปราบนอมินี-ยกระดับบริการดิจิทัล-สร้างโอกาส SMEs | Thairath Money - LINE TODAY",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UWTNpRXBrRldRTE1wdU5JNkN5YUd0UEhZcDAxOFNVN1VPNko5V01FWkdRM201RC0xVTNMTnFhekg3RWVJY3ZZMzJOa2V6ZThxRkhqaTNB?oc=5",
       "pub_date": "Thu, 12 Nov 2026 04:27:57 GMT",
@@ -7083,32 +7097,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-26T07:29:23.836374+00:00"
-    },
-    {
-      "title_original": "มะพร้าวน้ำหอม หอมหวาน ชื่นใจ - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Qa0pIajZDN01kYnlHSWR6aUZPT2Z1YmJaQWZ5ajljUXhhNUFXblNlVmFHMlE2NEFTRnlQaG1vZXBzM3N1Rll2YUtDZWhJd2liTlQ2NA?oc=5",
-      "pub_date": "Sat, 25 Jul 2026 00:09:49 GMT",
-      "source": "YouTube",
-      "description_original": "มะพร้าวน้ำหอม หอมหวาน ชื่นใจ&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "7835ba711491",
-      "title_en": "มะพร้าวน้ำหอม หอมหวาน ชื่นใจ - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-26T07:29:23.836374+00:00"
     }
   ],
-  "last_updated": "2026-11-13T03:16:40.350901+00:00",
+  "last_updated": "2026-11-13T12:42:05.788118+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-10-24T01:24:50.740662+00:00",
-      "new_articles": 1
-    },
-    {
-      "timestamp": "2026-10-24T09:13:08.641152+00:00",
-      "new_articles": 0
-    },
     {
       "timestamp": "2026-10-24T14:10:05.952727+00:00",
       "new_articles": 4
@@ -7344,6 +7336,10 @@
     {
       "timestamp": "2026-11-13T03:16:40.350917+00:00",
       "new_articles": 0
+    },
+    {
+      "timestamp": "2026-11-13T12:42:05.788118+00:00",
+      "new_articles": 1
     }
   ]
 }
