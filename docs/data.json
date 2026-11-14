@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "\"มะพร้าวทะเล\" ลูกละ 1 แสน สวนนงนุชผ่าโชว์เนื้อในสุดหายาก | เรื่องดีดีทั่วไทย | 12–11-69 - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KZW5scktvY0luZmk1Q2Ezb2FWbEdkTHBTSDdUc1VvQ3g0UmJnRnNhWWpyaUZuZ2E1TWxCMkdCWHhrZnhwY2I2T1p4b0xUS1ZIQzlWQUJ3?oc=5",
+      "pub_date": "Thu, 12 Nov 2026 02:13:59 GMT",
+      "source": "YouTube",
+      "description_original": "\"มะพร้าวทะเล\" ลูกละ 1 แสน สวนนงนุชผ่าโชว์เนื้อในสุดหายาก | เรื่องดีดีทั่วไทย | 12–11-69&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "d4c1d46c37c9",
+      "title_en": "\"มะพร้าวทะเล\" ลูกละ 1 แสน สวนนงนุชผ่าโชว์เนื้อในสุดหายาก | เรื่องดีดีทั่วไทย | 12–11-69 - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-11-14T16:47:16.355429+00:00"
+    },
+    {
       "title_original": "ตำนานขนมถังทอง มะพร้าวน้ำหอม รัตนพร หอมมันหวานอร่อย ขายเย็นอังคาร พฤหัส เสาร์ ตลาดนัดมุกมณี - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qc3JFNFdSaW00dFBvZVBRMFNlX1paQkhna2NmMkw2S1dCeHpEWW5GSUR5SU85d2draXY4QWc2TmF1VTQtdk5BQlM3WXdYNTN3b1V0OA?oc=5",
       "pub_date": "Sat, 14 Nov 2026 01:46:03 GMT",
@@ -7083,28 +7097,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-28T00:04:15.788900+00:00"
-    },
-    {
-      "title_original": "พายมะพร้าวอ่อนครีมสด - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQc1I0MGs1TVp1WWk5d0s0ejk1VUt0Ync3MElCM040V0xkbmt3LUlSd0R5VFNxRFVKV1JGTU9kS3RxUC1BRmpoVklKM0ZGUmsyT1ZCSA?oc=5",
-      "pub_date": "Sun, 26 Jul 2026 08:59:22 GMT",
-      "source": "YouTube",
-      "description_original": "พายมะพร้าวอ่อนครีมสด&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "605a109af8c3",
-      "title_en": "พายมะพร้าวอ่อนครีมสด - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-28T00:04:15.788900+00:00"
     }
   ],
-  "last_updated": "2026-11-14T11:50:45.778233+00:00",
+  "last_updated": "2026-11-14T16:47:16.355429+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-10-25T14:41:37.519366+00:00",
-      "new_articles": 0
-    },
     {
       "timestamp": "2026-10-26T01:02:37.545417+00:00",
       "new_articles": 2
@@ -7340,6 +7336,10 @@
     {
       "timestamp": "2026-11-14T11:50:45.778233+00:00",
       "new_articles": 2
+    },
+    {
+      "timestamp": "2026-11-14T16:47:16.355429+00:00",
+      "new_articles": 1
     }
   ]
 }
