@@ -2,6 +2,20 @@
   "articles": [
     {
       "title_original": "ใส่ปุ๋ยละลายช้าในสวนมะพร้าวน้ำหอมภูเขาไฟ ไทยกรีนอะโกร - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUNzBjU2RPa3gtRUxaRlhfWmFSY2ZiQ05TNFdQYml2QU5lN0ZUVEt1bHZYYnRueGhld1pORkdOcEdzTjdVenI4Q09KT2RfMXlENks2a0xha05JaGx4S0hSb3h0QjNpZlVmdXRZODNn?oc=5",
+      "pub_date": "Fri, 13 Nov 2026 08:03:36 GMT",
+      "source": "YouTube",
+      "description_original": "ใส่ปุ๋ยละลายช้าในสวนมะพร้าวน้ำหอมภูเขาไฟ ไทยกรีนอะโกร&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "90bab0ab960e",
+      "title_en": "ใส่ปุ๋ยละลายช้าในสวนมะพร้าวน้ำหอมภูเขาไฟ ไทยกรีนอะโกร - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-11-14T02:56:54.764198+00:00"
+    },
+    {
+      "title_original": "ใส่ปุ๋ยละลายช้าในสวนมะพร้าวน้ำหอมภูเขาไฟ ไทยกรีนอะโกร - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hb2lRM3pVODdwXzJHWllPMVhlMkEwV1NMLWRtWVV4SWlkV1JWLXNWSHhKbmFYejljY09weTYwbXkwYWs4NGZtRl9FOHFjWkN1dTYySjVB?oc=5",
       "pub_date": "Fri, 13 Nov 2026 08:03:36 GMT",
       "source": "YouTube",
@@ -7083,32 +7097,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-26T07:29:23.836374+00:00"
-    },
-    {
-      "title_original": "บุกค้นกระบี่! สงสัย \"นอมินี\" ถือที่ดิน 120 ไร่ มูลค่ากว่า 2,000 ล้านบาท - pptvhd36",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRWY5V281MWVnVmY2MmsxZ0VuNFlZREVkT0o3MXBPSG9neUMzaXNUUXN6ZjBxSUxKSktUUlRJMG9vWTRYZmNJaWtwVjJwRVJYaHRpbVJNcFNnRkJXb0QwY3E3TmJQOXM1eTFuVEZjeWg5THR2VXFXUnRwaXFsaVJ2aVpFYTNkQUZYNWc?oc=5",
-      "pub_date": "Sun, 26 Jul 2026 06:05:00 GMT",
-      "source": "pptvhd36",
-      "description_original": "บุกค้นกระบี่! สงสัย \"นอมินี\" ถือที่ดิน 120 ไร่ มูลค่ากว่า 2,000 ล้านบาท&nbsp;&nbsp;pptvhd36",
-      "is_priority_outlet": true,
-      "id": "2ad7f21e2376",
-      "title_en": "บุกค้นกระบี่! สงสัย \"นอมินี\" ถือที่ดิน 120 ไร่ มูลค่ากว่า 2,000 ล้านบาท - pptvhd36",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-26T07:29:23.836374+00:00"
     }
   ],
-  "last_updated": "2026-11-13T18:17:31.839188+00:00",
+  "last_updated": "2026-11-14T02:56:54.764198+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-10-24T14:10:05.952727+00:00",
-      "new_articles": 4
-    },
-    {
-      "timestamp": "2026-10-25T00:54:29.894739+00:00",
-      "new_articles": 1
-    },
     {
       "timestamp": "2026-10-25T09:28:43.254745+00:00",
       "new_articles": 0
@@ -7344,6 +7336,10 @@
     {
       "timestamp": "2026-11-13T18:17:31.839206+00:00",
       "new_articles": 0
+    },
+    {
+      "timestamp": "2026-11-14T02:56:54.764198+00:00",
+      "new_articles": 1
     }
   ]
 }
