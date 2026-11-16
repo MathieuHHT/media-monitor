@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "สถานีประชาชน - Thai PBS",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9oSzR6dXdXR1JoVkVHQmFscjRuUHlrRDNlc29aNEtUWFdwU2M0OWF4WjBRNlFHNGoyZEh2cDlMVGlIeDNxVWFnS2FtaWZ6WGVXMWcxWTBldWZuSmhwdlFlVmZWOA?oc=5",
+      "pub_date": "Wed, 11 Nov 2026 07:05:00 GMT",
+      "source": "Thai PBS",
+      "description_original": "สถานีประชาชน&nbsp;&nbsp;Thai PBS",
+      "is_priority_outlet": true,
+      "id": "1c2d7bfc97ee",
+      "title_en": "สถานีประชาชน - Thai PBS",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-11-16T02:37:24.151341+00:00"
+    },
+    {
       "title_original": "สดกว่านี้ไม่มีอีกแล้ว‼️มะพร้าวน้ำหอมแท้ล้าน% ยกเครื่องมาปอกถึงหน้าร้าน‼️ใส่แก้วพร้อมเนื้อ 25บ. - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WQllYY3gxWUREM3BmVUxpc1BBVnNweFcybUxMNmNxaGVFVkhTZ1l1RXp3QTlKa0dNTTdXRmgtbXdieVVEZTR1ZC1tTlRLbHlNWl9aag?oc=5",
       "pub_date": "Sun, 15 Nov 2026 03:04:46 GMT",
@@ -7083,32 +7097,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-07-29T00:00:07.156907+00:00"
-    },
-    {
-      "title_original": "เพลง ท่องเที่ยวชุมชนสงขลามหานครมะพร้าวน้ำหอม (สวพ8) - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5teVZXWmZUNXBRTUpYb29qckdqdl9nY2JwclhQNjlkcW5Ud1N3WnJvQzItblBvVWhVZHFjTUJDVjlwZWFvTTNpdUJXYjBJYy1fYmpKZ3VB?oc=5",
-      "pub_date": "Tue, 28 Jul 2026 09:26:35 GMT",
-      "source": "YouTube",
-      "description_original": "เพลง ท่องเที่ยวชุมชนสงขลามหานครมะพร้าวน้ำหอม (สวพ8)&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "5598132e6c54",
-      "title_en": "เพลง ท่องเที่ยวชุมชนสงขลามหานครมะพร้าวน้ำหอม (สวพ8) - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-28T12:48:12.081384+00:00"
     }
   ],
-  "last_updated": "2026-11-15T17:29:55.438446+00:00",
+  "last_updated": "2026-11-16T02:37:24.151341+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-10-26T17:03:45.688951+00:00",
-      "new_articles": 1
-    },
-    {
-      "timestamp": "2026-10-27T01:52:49.140958+00:00",
-      "new_articles": 1
-    },
     {
       "timestamp": "2026-10-27T10:06:23.923042+00:00",
       "new_articles": 0
@@ -7344,6 +7336,10 @@
     {
       "timestamp": "2026-11-15T17:29:55.438462+00:00",
       "new_articles": 0
+    },
+    {
+      "timestamp": "2026-11-16T02:37:24.151341+00:00",
+      "new_articles": 1
     }
   ]
 }
