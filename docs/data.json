@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "คัมภีร์สู้แล้ง! แนะนำ 5 พืชน้ำน้อย ตลาดต้องการสูง คืนทุนไว - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zMFRwU094TnZRZS1UWldRQnJWbDdMUFhWQ2xLZ3RSZFlybzFVTnU0ZXdVLV9CWE5FSWtwTHVoVXNPRzNDSW84RUZhSEdpWWZKNWxPaDBn?oc=5",
+      "pub_date": "Wed, 11 Nov 2026 11:00:21 GMT",
+      "source": "YouTube",
+      "description_original": "คัมภีร์สู้แล้ง! แนะนำ 5 พืชน้ำน้อย ตลาดต้องการสูง คืนทุนไว&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "efc7b447ed25",
+      "title_en": "คัมภีร์สู้แล้ง! แนะนำ 5 พืชน้ำน้อย ตลาดต้องการสูง คืนทุนไว - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-11-18T04:03:26.914214+00:00"
+    },
+    {
       "title_original": "อุบลราชธานี ลาออกจากงานมาอยู่บ้าน ปลูกมะพร้าวน้ำหอมบนคันนา พาไปดูเทคนิคทำให้ออกลูกดก!!#เกษตรพอเพียง - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1idk82RWktbXZUQUstUnloWlRiTFhLVUtZdDgwWXhLU2FUQ2VFbUxpTGxtbEZDVk5HZElOVE1NWTdESHNQRFR5bERYTGpYamgwWjkzT0xR?oc=5",
       "pub_date": "Tue, 17 Nov 2026 13:07:51 GMT",
@@ -7083,28 +7097,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-08-01T00:03:33.086978+00:00"
-    },
-    {
-      "title_original": "พาณิชย์ ออกมาตรการใหม่ปิดช่องโหว่นอมินี คุมเข้มตั้งแต่จดทะเบียนถึงเปลี่ยนผู้ถือหุ้น มีผล 1 ส.ค.นี้ - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01TDc1Nk9pWmpkejd4R3oyel9ma203X1ByQnA0SHUyYnE3QkFfWDBrTm9yRUNuUVNMemxzS1EzSW4wNW85SUJPYVl3Z1pFLXJ6amhFQS1n?oc=5",
-      "pub_date": "Fri, 31 Jul 2026 06:01:33 GMT",
-      "source": "LINE TODAY",
-      "description_original": "พาณิชย์ ออกมาตรการใหม่ปิดช่องโหว่นอมินี คุมเข้มตั้งแต่จดทะเบียนถึงเปลี่ยนผู้ถือหุ้น มีผล 1 ส.ค.นี้&nbsp;&nbsp;LINE TODAY",
-      "is_priority_outlet": false,
-      "id": "b108a55e0335",
-      "title_en": "พาณิชย์ ออกมาตรการใหม่ปิดช่องโหว่นอมินี คุมเข้มตั้งแต่จดทะเบียนถึงเปลี่ยนผู้ถือหุ้น มีผล 1 ส.ค.นี้ - LINE TODAY",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-07-31T12:50:22.712181+00:00"
     }
   ],
-  "last_updated": "2026-11-17T19:29:18.515616+00:00",
+  "last_updated": "2026-11-18T04:03:26.914214+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-10-29T02:13:30.335370+00:00",
-      "new_articles": 2
-    },
     {
       "timestamp": "2026-10-29T11:09:55.864709+00:00",
       "new_articles": 6
@@ -7340,6 +7336,10 @@
     {
       "timestamp": "2026-11-17T19:29:18.515616+00:00",
       "new_articles": 2
+    },
+    {
+      "timestamp": "2026-11-18T04:03:26.914214+00:00",
+      "new_articles": 1
     }
   ]
 }
