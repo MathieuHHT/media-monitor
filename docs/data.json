@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "ปอกสดให้ดูกันจะๆ หน้าร้าน‼️เจอแบบนี้ต้องแวะ! มะพร้าวน้ำหอม เนื้อเน้นๆเต็มแก้ว25บ. ถูกและดีมีอยู่จริง - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NYzFha0d5c190VTRSWE9wWmFSZnlhU3U0TjFhcXgwX0JMSDBmeGVrdU0ySTh0RDFYLTZLbFZkUURZWXBDY29Ndl8wUWhPM1UxLVFwM1BB?oc=5",
+      "pub_date": "Sun, 15 Nov 2026 17:58:25 GMT",
+      "source": "YouTube",
+      "description_original": "ปอกสดให้ดูกันจะๆ หน้าร้าน‼️เจอแบบนี้ต้องแวะ! มะพร้าวน้ำหอม เนื้อเน้นๆเต็มแก้ว25บ. ถูกและดีมีอยู่จริง&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "44f9910e9213",
+      "title_en": "ปอกสดให้ดูกันจะๆ หน้าร้าน‼️เจอแบบนี้ต้องแวะ! มะพร้าวน้ำหอม เนื้อเน้นๆเต็มแก้ว25บ. ถูกและดีมีอยู่จริง - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-11-18T19:11:18.932841+00:00"
+    },
+    {
       "title_original": "My life in Chiangmai EP 119 : แนะนำโฮมคาเฟ่ แม่ริม และป้ายยา น้ำมะพร้าวน้ำหอม จากสวน ชงมัทฉะอร่อย - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TTUN2UHQyRktJYmFFaUtKNmxvS0g1dFBuVk85dDBSNGFmV3luX0Y1dUQ2a0lRT1A1aS1UYmE1NFB2V01hZDh5eVVpR28tOWdMS3NkVV93?oc=5",
       "pub_date": "Wed, 18 Nov 2026 02:00:31 GMT",
@@ -7083,28 +7097,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-08-01T07:22:22.398082+00:00"
-    },
-    {
-      "title_original": "#มะพร้าวน้ำหอม ตัดลูกมะพร้าว - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9SdkZzbV96SVFxb3N1Ykw3TDJJREhHbGpTdUoxV2ZCWGZqOVJXMU10ZEhrWk5hNzdrMmlSeXpHUU5odW02Z3VUTml4Q2VVWkF1dXQ1WQ?oc=5",
-      "pub_date": "Thu, 30 Jul 2026 00:05:36 GMT",
-      "source": "YouTube",
-      "description_original": "#มะพร้าวน้ำหอม ตัดลูกมะพร้าว&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "21a465e24701",
-      "title_en": "#มะพร้าวน้ำหอม ตัดลูกมะพร้าว - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-08-01T07:22:22.398082+00:00"
     }
   ],
-  "last_updated": "2026-11-18T13:32:35.009432+00:00",
+  "last_updated": "2026-11-18T19:11:18.932841+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-10-29T17:12:01.863913+00:00",
-      "new_articles": 1
-    },
     {
       "timestamp": "2026-10-30T02:27:13.507834+00:00",
       "new_articles": 1
@@ -7340,6 +7336,10 @@
     {
       "timestamp": "2026-11-18T13:32:35.009432+00:00",
       "new_articles": 3
+    },
+    {
+      "timestamp": "2026-11-18T19:11:18.932841+00:00",
+      "new_articles": 1
     }
   ]
 }
