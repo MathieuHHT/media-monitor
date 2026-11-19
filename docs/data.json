@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "สุริยะ” รมว.เกษตรฯ ลงพื้นที่ราชบุรี ติดตามอุทกภัย เร่งช่วยเหลือเกษตรกร พร้อมยกระดับมะพร้าวน้ำหอม - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RZ1FKelkzeFRlaHBIa3hKTmdxa0tlR0FrZGRHTTlWNXBDQ1I0UVJMR1l3MlpRRHhJRFJuYjhTVVFPSTcyV2J6eEk3UXdjanFLTlJ1eUt3?oc=5",
+      "pub_date": "Thu, 19 Nov 2026 12:24:47 GMT",
+      "source": "YouTube",
+      "description_original": "สุริยะ” รมว.เกษตรฯ ลงพื้นที่ราชบุรี ติดตามอุทกภัย เร่งช่วยเหลือเกษตรกร พร้อมยกระดับมะพร้าวน้ำหอม&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "735e27e4fc82",
+      "title_en": "สุริยะ” รมว.เกษตรฯ ลงพื้นที่ราชบุรี ติดตามอุทกภัย เร่งช่วยเหลือเกษตรกร พร้อมยกระดับมะพร้าวน้ำหอม - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-11-19T19:15:49.508732+00:00"
+    },
+    {
       "title_original": "ค้าปลีกใหญ่จีนรุกขยายธุรกิจในหนานหนิง เปิดช่องทางใหม่สำหรับสินค้าไทยสู่ตลาดจีน - กรมส่งเสริมการค้าระหว่างประเทศ (DITP)",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tdmhGeU9KdWxHVUY2QjNRYVNNM0ZHUTlsblVSSXdIWHc5dE1CdXA5S0hMWGJlSGVYYzlxbU4zZXRTUko1S1laSmRjRjVHbHJzdHl0em8xcTVvVFZDZmRGOFNn?oc=5",
       "pub_date": "Thu, 19 Nov 2026 02:51:00 GMT",
@@ -7083,28 +7097,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-08-01T23:59:16.294385+00:00"
-    },
-    {
-      "title_original": "เริ่มวันนี้! รัฐบาลไทยยกระดับป้องกัน“นอมินี” | ข่าวเวิร์คพอยท์ 23 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55aExWazhpOHNGaU1JMXkwZllob2VvRzlaNzd4T2pVZ2VROW5OeE1KVEZkUVFaX0haclZrNlBpakp6cklHQU1vQWlrNUtrWUhDb2hhQlFn?oc=5",
-      "pub_date": "Sat, 01 Aug 2026 02:51:34 GMT",
-      "source": "LINE TODAY",
-      "description_original": "เริ่มวันนี้! รัฐบาลไทยยกระดับป้องกัน“นอมินี” | ข่าวเวิร์คพอยท์ 23&nbsp;&nbsp;LINE TODAY",
-      "is_priority_outlet": false,
-      "id": "a9dd92f80cb6",
-      "title_en": "เริ่มวันนี้! รัฐบาลไทยยกระดับป้องกัน“นอมินี” | ข่าวเวิร์คพอยท์ 23 - LINE TODAY",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-08-01T23:59:16.294385+00:00"
     }
   ],
-  "last_updated": "2026-11-19T13:59:36.549050+00:00",
+  "last_updated": "2026-11-19T19:15:49.508732+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-10-30T16:52:55.138628+00:00",
-      "new_articles": 1
-    },
     {
       "timestamp": "2026-10-31T02:06:43.417950+00:00",
       "new_articles": 1
@@ -7340,6 +7336,10 @@
     {
       "timestamp": "2026-11-19T13:59:36.549050+00:00",
       "new_articles": 2
+    },
+    {
+      "timestamp": "2026-11-19T19:15:49.508732+00:00",
+      "new_articles": 1
     }
   ]
 }
