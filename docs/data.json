@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "เปิด 6 มติ “กมธ.การที่ดินฯ” ลุยสางปมน้ำท่วมแม่กลอง! ถอดบทเรียน 13 หน่วยงาน จี้ รัฐเร่งกู้สวนมะพร้าวน้ำหอม - กฟผ. แจงค่าชดเชยเขื่อนศรีนครินทร์ -แก้ระบบระบายน้ำ จ.ราชบุรี - banmuang.co.th",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RVF9jV2otRllDV0FQbklPNmkxaXVhbWpHV1hvcWlhMUhxcDk2QTlvbEQwZFROTkVIclVkaUZfNHZrYXAybHVRMHNsMUZDXzV3TTNyZnk4WGhIUQ?oc=5",
+      "pub_date": "Fri, 20 Nov 2026 11:24:00 GMT",
+      "source": "banmuang.co.th",
+      "description_original": "เปิด 6 มติ “กมธ.การที่ดินฯ” ลุยสางปมน้ำท่วมแม่กลอง! ถอดบทเรียน 13 หน่วยงาน จี้ รัฐเร่งกู้สวนมะพร้าวน้ำหอม - กฟผ. แจงค่าชดเชยเขื่อนศรีนครินทร์ -แก้ระบบระบายน้ำ จ.ราชบุรี&nbsp;&nbsp;banmuang.co.th",
+      "is_priority_outlet": true,
+      "id": "84430b3a433f",
+      "title_en": "เปิด 6 มติ “กมธ.การที่ดินฯ” ลุยสางปมน้ำท่วมแม่กลอง! ถอดบทเรียน 13 หน่วยงาน จี้ รัฐเร่งกู้สวนมะพร้าวน้ำหอม - กฟผ. แจงค่าชดเชยเขื่อนศรีนครินทร์ -แก้ระบบระบายน้ำ จ.ราชบุรี - banmuang.co.th",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-11-20T13:41:46.095963+00:00"
+    },
+    {
       "title_original": "ขณะนี้เมืองโฮจิมินห์มีผลิตภัณฑ์ OCOP ระดับ 5 ดาวแห่งแรกแล้ว - Vietnam.vn",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1nUnVPZWFTYXF3NVdGTGYyN0t2RlpFazkyVlVxNEZXU1pZZUhmRHV0eUFVTVVHVEM0dm1LQzJnNmpJcGZJc0wtaUx6U0ZOa29BNUkwOGthUzA1Q2ktbjZWTURJeDRuSFFvcXpMQ1pSc09vU0VkWjY0?oc=5",
       "pub_date": "Fri, 20 Nov 2026 01:47:22 GMT",
@@ -7083,28 +7097,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-08-01T23:59:16.294385+00:00"
-    },
-    {
-      "title_original": "รัฐคุมเข้มสกัด \"นอมินี\" ขยายตรวจสอบผู้ถือหุ้น-กรรมการ อุดช่องโหว่บริษัท เริ่มใช้ 1 ส.ค. 69 | The Better - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRWHNqSFhlLW9iN1hjVExPT0JDSVU5UVNQcEdJWE9IXzFEQTlPTWtaV3QwZlhNd3lBNFBENWE2UU5kcDFjRl93UndqQzI3SW5fQnpYVldR?oc=5",
-      "pub_date": "Sat, 01 Aug 2026 06:56:32 GMT",
-      "source": "LINE TODAY",
-      "description_original": "รัฐคุมเข้มสกัด \"นอมินี\" ขยายตรวจสอบผู้ถือหุ้น-กรรมการ อุดช่องโหว่บริษัท เริ่มใช้ 1 ส.ค. 69 | The Better&nbsp;&nbsp;LINE TODAY",
-      "is_priority_outlet": false,
-      "id": "4c2c3b37a536",
-      "title_en": "รัฐคุมเข้มสกัด \"นอมินี\" ขยายตรวจสอบผู้ถือหุ้น-กรรมการ อุดช่องโหว่บริษัท เริ่มใช้ 1 ส.ค. 69 | The Better - LINE TODAY",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-08-01T23:59:16.294385+00:00"
     }
   ],
-  "last_updated": "2026-11-20T03:53:53.153900+00:00",
+  "last_updated": "2026-11-20T13:41:46.095963+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-10-31T10:38:59.907234+00:00",
-      "new_articles": 1
-    },
     {
       "timestamp": "2026-10-31T15:54:49.623802+00:00",
       "new_articles": 0
@@ -7339,6 +7335,10 @@
     },
     {
       "timestamp": "2026-11-20T03:53:53.153900+00:00",
+      "new_articles": 1
+    },
+    {
+      "timestamp": "2026-11-20T13:41:46.095963+00:00",
       "new_articles": 1
     }
   ]
