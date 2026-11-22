@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "[Teaser EP.114] คู่หูดารา ล่าด้วงมะพร้าว “หยิ่น” และ “วอร์” | เฮ็ดอย่างเซียนหรั่ง | One Playground - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yUlh2YmFkOGZLaXNrUWFsanVPc1pFSlpMay1wRzZOSlZjM3B6c0NkT3JET1h0WUpuZE5ocVRvNHo1eHpHRFNwQzM4OGNobGUzRDM3MFd3?oc=5",
+      "pub_date": "Sat, 21 Nov 2026 12:00:25 GMT",
+      "source": "YouTube",
+      "description_original": "[Teaser EP.114] คู่หูดารา ล่าด้วงมะพร้าว “หยิ่น” และ “วอร์” | เฮ็ดอย่างเซียนหรั่ง | One Playground&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "a0174a1c5858",
+      "title_en": "[Teaser EP.114] คู่หูดารา ล่าด้วงมะพร้าว “หยิ่น” และ “วอร์” | เฮ็ดอย่างเซียนหรั่ง | One Playground - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-11-22T02:53:55.324925+00:00"
+    },
+    {
       "title_original": "มะพร้าวปั่นชาไทยชาเขียว#ไซรัปมะพร้าว#ไซรัปมะพร้าวน้ำหอมซินญอริต้า#ไซรัปมะพร้าวน้ำหอม#ไซรัปซินญอริต้า - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12ZmZIYWJYM3MzUjlROUppRm5WNkJNVDRSTEQyR2c2dmp3T3FlcTJ4LWJDaTk5RkkyUDljSHU0QTMzUTVuYlA4X05wZEJXMEx5REdWbw?oc=5",
       "pub_date": "Sat, 21 Nov 2026 11:00:21 GMT",
@@ -7083,28 +7097,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-08-03T08:18:50.751596+00:00"
-    },
-    {
-      "title_original": "โลกธุรกิจ - DITP ประชุมทูตพาณิชย์ทั่วโลก เดินหน้าขยายตลาดผลไม้แปรรูปไทยสู่เวทีโลก - แนวหน้า",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZUjNMZkN2ZmZoek1CakxyTDRfUEt0aElDLVVYZ2VvNFd5R2pYaVlodXp6cXU0bE1SV3JMRmdEd0xsMFFOclBQd016LUlCc0U?oc=5",
-      "pub_date": "Mon, 03 Aug 2026 06:47:00 GMT",
-      "source": "แนวหน้า",
-      "description_original": "โลกธุรกิจ - DITP ประชุมทูตพาณิชย์ทั่วโลก เดินหน้าขยายตลาดผลไม้แปรรูปไทยสู่เวทีโลก&nbsp;&nbsp;แนวหน้า",
-      "is_priority_outlet": false,
-      "id": "dc9ce258b55c",
-      "title_en": "โลกธุรกิจ - DITP ประชุมทูตพาณิชย์ทั่วโลก เดินหน้าขยายตลาดผลไม้แปรรูปไทยสู่เวทีโลก - แนวหน้า",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-08-03T08:18:50.751596+00:00"
     }
   ],
-  "last_updated": "2026-11-21T17:49:43.560438+00:00",
+  "last_updated": "2026-11-22T02:53:55.324925+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-11-02T02:10:19.225592+00:00",
-      "new_articles": 0
-    },
     {
       "timestamp": "2026-11-02T12:56:30.028056+00:00",
       "new_articles": 3
@@ -7340,6 +7336,10 @@
     {
       "timestamp": "2026-11-21T17:49:43.560438+00:00",
       "new_articles": 2
+    },
+    {
+      "timestamp": "2026-11-22T02:53:55.324925+00:00",
+      "new_articles": 1
     }
   ]
 }
