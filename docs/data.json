@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "COCOCO ส่งซิก Q4 แจ่ม! ชูกลยุทธ์ 5 ด้าน เปิดตัวอาหารสัตว์ใหม่-เร่งโรงงานฟิลิปปินส์ | ข่าวหุ้นธุรกิจ - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZdV9FOFBNS0p4RGk2aUJDenlWYW5qajVoOXlmb1NuellrYklOcWFibFR5d1FSTUlJOVJBWndkMGc2TWdUZDYzUS1lYjY4U3RDRlhETWJR?oc=5",
+      "pub_date": "Fri, 20 Nov 2026 08:12:52 GMT",
+      "source": "LINE TODAY",
+      "description_original": "COCOCO ส่งซิก Q4 แจ่ม! ชูกลยุทธ์ 5 ด้าน เปิดตัวอาหารสัตว์ใหม่-เร่งโรงงานฟิลิปปินส์ | ข่าวหุ้นธุรกิจ&nbsp;&nbsp;LINE TODAY",
+      "is_priority_outlet": false,
+      "id": "aa75976e80a5",
+      "title_en": "COCOCO ส่งซิก Q4 แจ่ม! ชูกลยุทธ์ 5 ด้าน เปิดตัวอาหารสัตว์ใหม่-เร่งโรงงานฟิลิปปินส์ | ข่าวหุ้นธุรกิจ - LINE TODAY",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-11-23T22:18:33.022511+00:00"
+    },
+    {
       "title_original": "วว. ร่วมประชุม DSI วางแนวทางใช้เทคโนโลยี ตรวจคัดกรอง“การปลอมปนในน้ำมะพร้าว - banmuang.co.th",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wVHpheHQ5a01BMVpBaUhITXBob2JxdUpiMnZIM2RLLVdVNmJJWVJOdnh3RndrY1c3bDEwbXJfbVZJR09FMGx0MXF1OU95S2ZiZF9FdU1SU3RwNXJU?oc=5",
       "pub_date": "Mon, 23 Nov 2026 08:50:00 GMT",
@@ -7076,35 +7090,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-08-05T00:06:45.827328+00:00"
-    },
-    {
-      "title_original": "ชง ครม. พรุ่งนี้ คาดตั้ง “พูนพงษ์” นั่งปลัดกระทรวงพาณิชย์ คนใหม่ แทน “วุฒิไกร” - Thairath.co.th",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xVHNxSTBuWm1CWVd5MzhmMTJha0lTeTJSNjlpWjZnWVhCYThBYXpmMmdDTUFJNS1ETmJ2WnFuSXRFTVpIWEJ3M0pBUmFOeDZKeGFIWkd6SDNaNDg?oc=5",
-      "pub_date": "Tue, 04 Aug 2026 12:28:38 GMT",
-      "source": "Thairath.co.th",
-      "description_original": "ชง ครม. พรุ่งนี้ คาดตั้ง “พูนพงษ์” นั่งปลัดกระทรวงพาณิชย์ คนใหม่ แทน “วุฒิไกร”&nbsp;&nbsp;Thairath.co.th",
-      "is_priority_outlet": false,
-      "id": "dd236dedde03",
-      "title_en": "ชง ครม. พรุ่งนี้ คาดตั้ง “พูนพงษ์” นั่งปลัดกระทรวงพาณิชย์ คนใหม่ แทน “วุฒิไกร” - Thairath.co.th",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [
-        {
-          "key": "poonpong",
-          "name_en": "Poonpong Naiyanapakorn",
-          "role": "Director General, Department of Business Development",
-          "priority": "high"
-        }
-      ],
-      "first_seen": "2026-08-04T12:53:07.053445+00:00"
     }
   ],
-  "last_updated": "2026-11-23T15:29:42.545744+00:00",
+  "last_updated": "2026-11-23T22:18:33.022511+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-11-03T18:09:58.609586+00:00",
-      "new_articles": 1
-    },
     {
       "timestamp": "2026-11-04T02:56:41.449029+00:00",
       "new_articles": 0
@@ -7339,6 +7328,10 @@
     },
     {
       "timestamp": "2026-11-23T15:29:42.545744+00:00",
+      "new_articles": 1
+    },
+    {
+      "timestamp": "2026-11-23T22:18:33.022511+00:00",
       "new_articles": 1
     }
   ]
