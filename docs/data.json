@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "วว. ร่วมประชุม DSI วางแนวทางใช้เทคโนโลยี ตรวจคัดกรอง“การปลอมปนในน้ำมะพร้าว - banmuang.co.th",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wVHpheHQ5a01BMVpBaUhITXBob2JxdUpiMnZIM2RLLVdVNmJJWVJOdnh3RndrY1c3bDEwbXJfbVZJR09FMGx0MXF1OU95S2ZiZF9FdU1SU3RwNXJU?oc=5",
+      "pub_date": "Mon, 23 Nov 2026 08:50:00 GMT",
+      "source": "banmuang.co.th",
+      "description_original": "วว. ร่วมประชุม DSI วางแนวทางใช้เทคโนโลยี ตรวจคัดกรอง“การปลอมปนในน้ำมะพร้าว&nbsp;&nbsp;banmuang.co.th",
+      "is_priority_outlet": true,
+      "id": "166cb0f0acea",
+      "title_en": "วว. ร่วมประชุม DSI วางแนวทางใช้เทคโนโลยี ตรวจคัดกรอง“การปลอมปนในน้ำมะพร้าว - banmuang.co.th",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-11-23T15:29:42.545744+00:00"
+    },
+    {
       "title_original": "🇱🇦 มะพร้าวน้ำหอม ลูกละ 70 บาท พ่อค้าสายฮาควงมีดโชว์ คนมุงถ่ายคลิปแน่นตลาดลาว - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PeEotRGxmT2lQbUhZNGp6WG1hVk42YTUwYURKWFBsUmRFTTRKV1pvRUNZUEtCV0Q5Z2dmSjAyVm02cndGUzUwbWgzelB1QWFZRjh2LTFn?oc=5",
       "pub_date": "Mon, 23 Nov 2026 02:05:05 GMT",
@@ -7083,28 +7097,10 @@
         }
       ],
       "first_seen": "2026-08-04T12:53:07.053445+00:00"
-    },
-    {
-      "title_original": "มะพร้าวพวงร้อย ต้นเตี้ยลูกดก #พี่ต้อมเกษตรปลอดสารพิษ #มะพร้าว #มะพร้าวพวงร้อย #มะพร้าวต้นเตี้ย - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRNVBac0czUUJfanNZb3RHMjlzLXZPR2RGM3JyalhOZk5lZjJQNzRDbm8zYUJndFFwWHkxS1dWb2dkMHg2TnRRMnl6RDdHSHBsWXlLUFZR?oc=5",
-      "pub_date": "Tue, 04 Aug 2026 06:32:31 GMT",
-      "source": "YouTube",
-      "description_original": "มะพร้าวพวงร้อย ต้นเตี้ยลูกดก #พี่ต้อมเกษตรปลอดสารพิษ #มะพร้าว #มะพร้าวพวงร้อย #มะพร้าวต้นเตี้ย&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "48b5b2932681",
-      "title_en": "มะพร้าวพวงร้อย ต้นเตี้ยลูกดก #พี่ต้อมเกษตรปลอดสารพิษ #มะพร้าว #มะพร้าวพวงร้อย #มะพร้าวต้นเตี้ย - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-08-04T12:53:07.053445+00:00"
     }
   ],
-  "last_updated": "2026-11-23T03:35:12.938439+00:00",
+  "last_updated": "2026-11-23T15:29:42.545744+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-11-03T12:28:00.825278+00:00",
-      "new_articles": 0
-    },
     {
       "timestamp": "2026-11-03T18:09:58.609586+00:00",
       "new_articles": 1
@@ -7339,6 +7335,10 @@
     },
     {
       "timestamp": "2026-11-23T03:35:12.938439+00:00",
+      "new_articles": 1
+    },
+    {
+      "timestamp": "2026-11-23T15:29:42.545744+00:00",
       "new_articles": 1
     }
   ]
