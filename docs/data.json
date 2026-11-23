@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "🇱🇦 มะพร้าวน้ำหอม ลูกละ 70 บาท พ่อค้าสายฮาควงมีดโชว์ คนมุงถ่ายคลิปแน่นตลาดลาว - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PeEotRGxmT2lQbUhZNGp6WG1hVk42YTUwYURKWFBsUmRFTTRKV1pvRUNZUEtCV0Q5Z2dmSjAyVm02cndGUzUwbWgzelB1QWFZRjh2LTFn?oc=5",
+      "pub_date": "Mon, 23 Nov 2026 02:05:05 GMT",
+      "source": "YouTube",
+      "description_original": "🇱🇦 มะพร้าวน้ำหอม ลูกละ 70 บาท พ่อค้าสายฮาควงมีดโชว์ คนมุงถ่ายคลิปแน่นตลาดลาว&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "bbfebb1dd913",
+      "title_en": "🇱🇦 มะพร้าวน้ำหอม ลูกละ 70 บาท พ่อค้าสายฮาควงมีดโชว์ คนมุงถ่ายคลิปแน่นตลาดลาว - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-11-23T03:35:12.938439+00:00"
+    },
+    {
       "title_original": "นวัตกรรมสู่ชุมชน เครื่องปอกมะพร้าว | สนามข่าวเสาร์-อาทิตย์ - YouTube",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZWjYxX2dnX2NfWUJGY3VvSmhscjdRcTFpYndsdnNqRm4xYnFrd3pHb2thZnhlUjJiS0R5RFk5SGNhanFMcGlBZzM5RHA3eTltNXloNzh3?oc=5",
       "pub_date": "Sat, 21 Nov 2026 02:04:52 GMT",
@@ -7083,28 +7097,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-08-04T12:53:07.053445+00:00"
-    },
-    {
-      "title_original": "มะพร้าวนมสดปั่น 🥥 ที่ร้านใช้น้ำมะพร้าวน้ำหอมแท้ #น้ำมะพร้าวนมสดปั่น #เมนูปั่นขายดี - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4xUno1TnhRa2J3RkN2V293OElTWWZPY2FfdGRaN1gzUF9oZU9UN2p6Rk10UGpSV3I1U3hsZnVuVFZRZkN6c1d4TWdUTk1CcjVPVjBlRg?oc=5",
-      "pub_date": "Sun, 02 Aug 2026 18:10:19 GMT",
-      "source": "YouTube",
-      "description_original": "มะพร้าวนมสดปั่น 🥥 ที่ร้านใช้น้ำมะพร้าวน้ำหอมแท้ #น้ำมะพร้าวนมสดปั่น #เมนูปั่นขายดี&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "2f1f8a48afc6",
-      "title_en": "มะพร้าวนมสดปั่น 🥥 ที่ร้านใช้น้ำมะพร้าวน้ำหอมแท้ #น้ำมะพร้าวนมสดปั่น #เมนูปั่นขายดี - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-08-04T07:29:36.786799+00:00"
     }
   ],
-  "last_updated": "2026-11-22T18:08:36.593205+00:00",
+  "last_updated": "2026-11-23T03:35:12.938439+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-11-03T03:51:52.127369+00:00",
-      "new_articles": 2
-    },
     {
       "timestamp": "2026-11-03T12:28:00.825278+00:00",
       "new_articles": 0
@@ -7339,6 +7335,10 @@
     },
     {
       "timestamp": "2026-11-22T18:08:36.593205+00:00",
+      "new_articles": 1
+    },
+    {
+      "timestamp": "2026-11-23T03:35:12.938439+00:00",
       "new_articles": 1
     }
   ]
