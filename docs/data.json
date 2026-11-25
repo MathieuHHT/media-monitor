@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "นายนิพนธ์ เอกวานิช รายงาน แนวทางการแก้ไขปัญหาราคามะพร้าวน้ำหอมตกต่ำแบบบูรณาการ - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QRnl2LU00WjBFaTVpQkJZQVlMWnhvejFUM3FCVHZZYms3Y2lQWDN2M2U4U1g5N3A3MDhOaHhqSkxPS3RqRk82VG92MDMtVTJfSkRmUl9n?oc=5",
+      "pub_date": "Tue, 24 Nov 2026 04:49:59 GMT",
+      "source": "YouTube",
+      "description_original": "นายนิพนธ์ เอกวานิช รายงาน แนวทางการแก้ไขปัญหาราคามะพร้าวน้ำหอมตกต่ำแบบบูรณาการ&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "05ba896b6a2e",
+      "title_en": "นายนิพนธ์ เอกวานิช รายงาน แนวทางการแก้ไขปัญหาราคามะพร้าวน้ำหอมตกต่ำแบบบูรณาการ - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-11-25T05:17:16.893793+00:00"
+    },
+    {
       "title_original": "“พาณิชย์”เผย“GI 3+3 ไทย-จีน” ประกาศโฆษณาแล้ว คาดขึ้นทะเบียน ก.พ.70 - commercenewsagency",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1iSGdXUGk0ZHRBTDY5ZTJIZ1EyTjU1TWJzVW9rNVZLM01RWUkxaGk4ZzU0VXJhbVktSHR1LVpLN3RGM0EtenVkbGRoQmxnM000dkZFbzRYdWo?oc=5",
       "pub_date": "Tue, 24 Nov 2026 08:05:18 GMT",
@@ -7055,28 +7069,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-08-08T05:34:17.292050+00:00"
-    },
-    {
-      "title_original": "กว่าจะเป็น \"บ้านคุณแม่\" เบเกอรี่ เจ้าดัง! ชิฟฟ่อนไส้แตกมะพร้าวลาวาอีเว้นต์รุมทั้งปีไม่พัก - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43a0I5VGVXVVFyZVlBX1hFSVp0UmtPSmxfOC1KVnJfZUdpWXNvRjkycjBtd0lNU1o2LXBhNmhXbUVCNjRvTGpTY1JrX3JQZHRISl85QUNn?oc=5",
-      "pub_date": "Tue, 04 Aug 2026 21:45:08 GMT",
-      "source": "YouTube",
-      "description_original": "กว่าจะเป็น \"บ้านคุณแม่\" เบเกอรี่ เจ้าดัง! ชิฟฟ่อนไส้แตกมะพร้าวลาวาอีเว้นต์รุมทั้งปีไม่พัก&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "6322f223774b",
-      "title_en": "กว่าจะเป็น \"บ้านคุณแม่\" เบเกอรี่ เจ้าดัง! ชิฟฟ่อนไส้แตกมะพร้าวลาวาอีเว้นต์รุมทั้งปีไม่พัก - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-08-08T05:34:17.292050+00:00"
     }
   ],
-  "last_updated": "2026-11-24T20:56:45.443529+00:00",
+  "last_updated": "2026-11-25T05:17:16.893793+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-11-05T03:18:21.741286+00:00",
-      "new_articles": 0
-    },
     {
       "timestamp": "2026-11-05T12:49:39.992264+00:00",
       "new_articles": 0
@@ -7312,6 +7308,10 @@
     {
       "timestamp": "2026-11-24T20:56:45.443529+00:00",
       "new_articles": 2
+    },
+    {
+      "timestamp": "2026-11-25T05:17:16.893793+00:00",
+      "new_articles": 1
     }
   ]
 }
