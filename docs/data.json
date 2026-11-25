@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "มะพร้าวน้ำหอม เครื่องพาแบบใหม่ #shorst #streetfood #thaifood #สร้างอาชีพ - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9penNrWE04b00zZWRwNXBpNTZQa3VkQjhKU0FNUzZRemZ4YWIxb2x5VC02c3hsRWxCLXQ5UHNRRkNjbC1oVlljV1hEVFdRMVB4R2ljYg?oc=5",
+      "pub_date": "Wed, 25 Nov 2026 13:29:30 GMT",
+      "source": "YouTube",
+      "description_original": "มะพร้าวน้ำหอม เครื่องพาแบบใหม่ #shorst #streetfood #thaifood #สร้างอาชีพ&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "820ae54ea165",
+      "title_en": "มะพร้าวน้ำหอม เครื่องพาแบบใหม่ #shorst #streetfood #thaifood #สร้างอาชีพ - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-11-25T20:18:03.363167+00:00"
+    },
+    {
       "title_original": "‘พาณิชย์’คาดก.พ.70 ขึ้นทะเบียนGI 3+3 ไทย-จีน - แนวหน้า",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WbGNINzVqVDJ6T3JpNVFEbVdRdFZQcXItdTRWX3FjaWx2Z0ZWTXlLWEVNTERHa0FFQXd1NVRYRzFwakdFbDdBdGQ1WXRycmh6akltbnQ4b0plbHc?oc=5",
       "pub_date": "Tue, 24 Nov 2026 23:55:23 GMT",
@@ -7055,28 +7069,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-08-08T23:31:59.022998+00:00"
-    },
-    {
-      "title_original": "#มะพร้าวน้ำหอมเผา - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zbnF3RDJIT3Y3Nkl5OHVvRXNfcDJ4SzM1NHNMelJfUHJDS3BibHc3LXItb0p2VlZPZmNCUDBsYldjN2pmbDVMdEZzeVB5c2Q2OHVlaA?oc=5",
-      "pub_date": "Mon, 03 Aug 2026 16:11:53 GMT",
-      "source": "YouTube",
-      "description_original": "#มะพร้าวน้ำหอมเผา&nbsp;&nbsp;YouTube",
-      "is_priority_outlet": false,
-      "id": "96db6b695e03",
-      "title_en": "#มะพร้าวน้ำหอมเผา - YouTube",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-08-08T23:31:59.022998+00:00"
     }
   ],
-  "last_updated": "2026-11-25T15:05:49.337978+00:00",
+  "last_updated": "2026-11-25T20:18:03.363167+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-11-05T18:23:06.700766+00:00",
-      "new_articles": 1
-    },
     {
       "timestamp": "2026-11-06T03:17:13.769253+00:00",
       "new_articles": 1
@@ -7312,6 +7308,10 @@
     {
       "timestamp": "2026-11-25T15:05:49.337978+00:00",
       "new_articles": 3
+    },
+    {
+      "timestamp": "2026-11-25T20:18:03.363167+00:00",
+      "new_articles": 1
     }
   ]
 }
