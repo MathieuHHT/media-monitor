@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title_original": "โครงงาน เรื่อง แผ่นดูดความชื้นจากเส้นใยของกาบมะพร้าวน้ำหอม โรงเรียนวัดคูยาง จ.กำแพงเพชร - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxWVplbHFELXU0TWd1Tl9CSU8zaUVEZENuc1FweTc3aHdkajFSNVFuczkzcno2ZURJZHRRSjRIQllyYXRVR2pqZXpOSkVweHVsSjdQdUlR?oc=5",
+      "pub_date": "Thu, 26 Nov 2026 04:21:29 GMT",
+      "source": "YouTube",
+      "description_original": "โครงงาน เรื่อง แผ่นดูดความชื้นจากเส้นใยของกาบมะพร้าวน้ำหอม โรงเรียนวัดคูยาง จ.กำแพงเพชร&nbsp;&nbsp;YouTube",
+      "is_priority_outlet": false,
+      "id": "d8ccd58c8aa5",
+      "title_en": "โครงงาน เรื่อง แผ่นดูดความชื้นจากเส้นใยของกาบมะพร้าวน้ำหอม โรงเรียนวัดคูยาง จ.กำแพงเพชร - YouTube",
+      "summary_en": "Translation unavailable",
+      "sentiment": "neutral",
+      "people_mentioned": [],
+      "first_seen": "2026-11-28T13:45:03.633631+00:00"
+    },
+    {
       "title_original": "“ไทย–จีน” สานต่อความร่วมมือด้านทรัพย์สินทางปัญญา ลุยต่อยอด “GI 3+3” เตรียมใช้ Work Sharing ลดขั้นตอนตรวจคำขอสิทธิบัตร และปกป้องแบรนด์ไทยในจีน - ThaiPR.NET",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBDejRuOFJOZjNsanBJemVONnBCSWRCYzJNSFpHbTFBRVhtY1FsVFNNYUQ3Vmp6SUhHYWhyQWV2MWRxdmhDeGlQOVJlekVUelk?oc=5",
       "pub_date": "Fri, 27 Nov 2026 05:32:00 GMT",
@@ -7062,36 +7076,10 @@
       "sentiment": "neutral",
       "people_mentioned": [],
       "first_seen": "2026-08-10T11:41:08.105443+00:00"
-    },
-    {
-      "title_original": "​“พาณิชย์”ขึ้นทะเบียน GI 2 รายการใหม่ มะนาวแป้นดำเนินสะดวก มะม่วงน้ำดอกไม้ราชบุรี - commercenewsagency.com",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tdmJKZnZXalV1NE5YeGFqMWhLanV0anFjRG5oZHBoaXA5S1F6Tm9lVXBZZVd1VTJsOVUxQXptNmYyVWw2Y0d4Q2dJZEJEakF1cnJmeG5EZw?oc=5",
-      "pub_date": "Mon, 10 Aug 2026 05:51:05 GMT",
-      "source": "commercenewsagency.com",
-      "description_original": "​“พาณิชย์”ขึ้นทะเบียน GI 2 รายการใหม่ มะนาวแป้นดำเนินสะดวก มะม่วงน้ำดอกไม้ราชบุรี&nbsp;&nbsp;commercenewsagency.com",
-      "is_priority_outlet": false,
-      "id": "3481ea559d2e",
-      "title_en": "​“พาณิชย์”ขึ้นทะเบียน GI 2 รายการใหม่ มะนาวแป้นดำเนินสะดวก มะม่วงน้ำดอกไม้ราชบุรี - commercenewsagency.com",
-      "summary_en": "Translation unavailable",
-      "sentiment": "neutral",
-      "people_mentioned": [],
-      "first_seen": "2026-08-10T06:05:33.131183+00:00"
     }
   ],
-  "last_updated": "2026-11-28T04:36:32.543297+00:00",
+  "last_updated": "2026-11-28T13:45:03.633631+00:00",
   "scan_history": [
-    {
-      "timestamp": "2026-11-07T16:41:09.230261+00:00",
-      "new_articles": 2
-    },
-    {
-      "timestamp": "2026-11-08T02:07:27.851374+00:00",
-      "new_articles": 2
-    },
-    {
-      "timestamp": "2026-11-08T11:35:45.524485+00:00",
-      "new_articles": 0
-    },
     {
       "timestamp": "2026-11-08T16:51:54.701439+00:00",
       "new_articles": 0
@@ -7327,6 +7315,10 @@
     {
       "timestamp": "2026-11-28T04:36:32.543313+00:00",
       "new_articles": 0
+    },
+    {
+      "timestamp": "2026-11-28T13:45:03.633631+00:00",
+      "new_articles": 1
     }
   ]
 }
